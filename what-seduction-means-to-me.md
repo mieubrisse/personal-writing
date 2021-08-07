@@ -40,3 +40,7 @@ What seduction is
 I'd first thought that seduction was as the media portrays: trickery and dishonesty and manipulation, deceiving women into having sex. But my crazy journey has taught me that this is not seduction - it is deception. Seduction, rather, is portraying yourself honestly and fearlessly - lowering the defenses that we all carry to make room for an emotional and physical relationship with someone that you resonate with. It is about creation: inviting her to build something that enriches you both, rather than taking something from her. Most importantly, it is about growth: learning who you are, what you want, how to drop your guards to show yourself as you truly are, and how to handle the inevitable rejections when your truth doesn't resonate with everyone. 
 
 I started my seduction journey thinking that it would help me resolve what I thought was my problem: getting girls. Only when I had them did I realize that seduction's real purpose is to teach us to love ourselves, that we might be capable of the deepest human connections possible.
+
+---
+
+[Back to index](./README.md)
