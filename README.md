@@ -4,4 +4,4 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
-* [Adaptability & Planning](./adaptability-and-planning.md)
+* [Adaptability & Planning](./adaptability-and-planning.md): On the two strategies employed for dealing with chaos, and thoughts on how to unify them
