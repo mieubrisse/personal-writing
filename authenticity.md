@@ -28,7 +28,7 @@ Back to key examples of what happened when I eliminated the third option from my
 * I've recently had my first experiences with psilocybin mushrooms, and they were highly positive. I'm very interested in exploring more, but didn't know where to get them. I told a girl about my experience on a date, and she told me that she knew where to get them. My honesty led to new experiences.
 * As I was writing this essay, I saw a pair of attractive girls walk past. I hesitated for a minute, then followed my desire to run after them and talk to them. They told me they were lesbians dating, but were flattered and turned out to be friendly with good vibes. We chatted about startups, and they invited me to a startup networking event that Thursday. This was just what I needed: my cofounder and I have been feeling fairly alone on our startup journey for the past few months.
 
-What I can't go back
+Why I can't go back
 --------------------
 The common theme in all of these examples is: I had the choice to hide beyond comfortable lies, but chose to project my truth despite the discomfort and was rewarded for it - often with deeper connections or feelings of freedom. There is _so_ much we don't know about other people, so the assumptions I'd been projecting about how they'd react were often wrong. In many cases, it made others feel more comfortable telling me their own less-than-perfect truths.
 
@@ -46,35 +46,11 @@ I won't lie: this stung. I felt dirty, like I was some creepy guy who had sexual
 This growth opportunity only came from my authenticity in going for the kiss: if I'd stayed behind my comfortable, protective shell, I wouldn't have had the opportunity to experience those negative emotions and work through them. Moreover, it would have taken me longer to discover that we are, in fact, very much not compatible.
 
 ### Filtering
-The second benefit is related to what I experienced with this girl: some people won't resonate with your truth, and that's okay. By boldly projecting who you are, the people who don't resonate will drop out of your life immediately. Rather than wasting time with people that you don't like or who don't like you, you will be selecting for the people where the potential for a deep connection is possible. In the words of [Mark Manson in "Models"](https://www.amazon.com/Models-Attract-Women-Through-Honesty/dp/1463750358), those who don't like you really won't like you. But those who like you will REALLY like you.
+The second benefit is related to what I experienced with this girl: some people won't resonate with your truth, and that's okay. By boldly projecting who you are, the people who don't resonate will drop out of your life immediately. Rather than wasting time with people that you don't like or who don't like you, you will be selecting for the people where the potential for a deep connection is possible. In the words of [Mark Manson in "Models"](https://www.amazon.com/Models-Attract-Women-Through-Honesty/dp/1463750358), those who don't like you, really won't like you. But those who like you will _really_ like you.
 
 ### Like Attracts Like
-The third benefit gained by authentically projecting 
+The third benefit is that your genuineness will attract other genuine people. I believe the world is a mirror, reflecting the energy you put out. When you put out people-pleasing energy, covering your truth to please those around you, you attract other people-pleasers because you are comfortable around each other. When you start putting out authentic energy even when it's difficult, other authentic people will recognize it and be drawn in. 
 
-
-
-Second, filtering
-* I don't care what you think; do your worst
-    * Takes BACK power!
-
-
-
-First, the results:
-* Willing to be videotaped on Eurotour, and as a result getting all the video footage to review
-
-
-* Chris Hemsworth, Charisma on Command, most people have three options
-* Authenticity aligns all your efforts in one direciton
-    * Like head & hips being pointed in the same direction in jiu jitsu
-* Makes you realize that you GIVE other people the power to hurt you
-    * Authentically owning a thing takes away their power
-    * DOES require a bit of Adaptability - confidence that you can handle whatever judgment they throw at you, and that you're fine even if they do judge you
-        * Self-fulfilling cycle
-* Takes away the ability of people to hurt you
-    * E.g. Eurotour, and the positive effects it had on talking with Leo Alfieri
-* 
-
-
-* Authenticity projects your truth
-    * Filters out people that won't resonate with you
-    * Implicitly projects honesty, which attracts other honest people 
+Final Thoughts
+--------------
+I won't lie: taking the path of eliminating the third option is difficult. Every time I'm at a crossroads where expressing my truth could lead to social disapproval, I feel pressure to agree with the herd. Each time, I have to overcome the desire to avoid short-term pain by putting my faith in the long-term optimization. Sometimes I stumble. But, like a muscle, I'm getting stronger every time I choose to exercise authenticity. And just like exercising a muscle, the pain often isn't as bad as the fear beforehand would have you believe. If you've not tried this same experiment, give it a go for a month and see what happens for you. 
