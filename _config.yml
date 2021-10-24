@@ -1,4 +1,6 @@
 theme: minima
 
 # Minima config
-header_pages: []
+header_pages:
+  # We use a nonexistent page here so that we don't have any header pages
+  - Nonexistent
