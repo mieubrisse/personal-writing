@@ -1,6 +1,26 @@
 ---
 title: "The Great Mexican Cafe Adventure Of 2021"
 ---
+<head>
+    <style>
+    .mexican-cafe-row {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 0 4px;
+    }
+
+    /* Create two equal columns that sits next to each other */
+    .mexican-cafe-column {
+      flex: 50%;
+      padding: 0 4px;
+    }
+
+    .mexican-cafe-column img {
+      margin-top: 8px;
+      vertical-align: middle;
+    }
+    </style>
+</head>
 
 _First written on 2021-10-24, and updated periodically afterwards_
 
@@ -8,24 +28,6 @@ One of my favorite ways to pass a Saturday or Sunday is in a Third Wave coffeesh
 
 That said, I'm always up for [some exploring during my exploiting](https://medium.com/data-science-for-everyone/the-explore-exploit-dilemma-436cb1edff0d) and yesterday I hit the jackpot: Cafe Curado was displaying an exhibit of Dia de los Muertos skulls, each designed by a specialty coffee shop in Mexico City and tagged with the cafe's name. 
 
-<style>
-.mexican-cafe-row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create two equal columns that sits next to each other */
-.mexican-cafe-column {
-  flex: 50%;
-  padding: 0 4px;
-}
-
-.mexican-cafe-column img {
-  margin-top: 8px;
-  vertical-align: middle;
-}
-</style>
 <div class="mexican-cafe-row" style="text-align:center">
     <div class="mexican-cafe-column">
         <img src="images/all-skulls.jpg">
