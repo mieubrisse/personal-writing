@@ -43,4 +43,4 @@ I started my seduction journey thinking that it would help me resolve what I tho
 
 ---
 
-[Back to index](./README.md)
+[Back to index](../index.md)

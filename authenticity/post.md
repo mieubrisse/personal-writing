@@ -12,7 +12,7 @@ The video asserts that Chris Hemsworth has eliminated the third option - he only
 
 What happened
 -------------
-Some quick background before I go to the examples: I went on [a 10-day seduction workshop in Kiev](https://theeurotour.com/) this May with one of my seduction heroes, James Marshall. If "seduction" inspires a negative reaction in you, see [this essay](./what-seduction-means-to-me.md) for my thoughts on what seduction means to me and why I value it so highly.
+Some quick background before I go to the examples: I went on [a 10-day seduction workshop in Kiev](https://theeurotour.com/) this May with one of my seduction heroes, James Marshall. If "seduction" inspires a negative reaction in you, see [this essay](../what-seduction-means-to-me/post.md) for my thoughts on what seduction means to me and why I value it so highly.
 
 Back to key examples of what happened when I eliminated the third option from my life:
 
@@ -58,3 +58,7 @@ The third benefit is that your genuineness will attract other genuine people. I 
 Final Thoughts
 --------------
 I won't lie: taking the path of eliminating the third option is difficult. Every time I'm at a crossroads where expressing my truth could lead to social disapproval, I feel pressure to agree with the herd. Each time, I have to overcome the desire to avoid short-term pain by putting my faith in the long-term optimization. Sometimes I stumble. But, like a muscle, I'm getting stronger every time I choose to exercise authenticity. And just like exercising a muscle, the pain often isn't as bad as the fear beforehand would have me believe. If you've not tried this same experiment, I recommend giving it a go for a month and seeing what shows up for you.
+
+---
+
+[Back to index](../index.md)
