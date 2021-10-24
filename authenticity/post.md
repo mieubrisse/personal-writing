@@ -1,5 +1,7 @@
-Authenticity
-============
+---
+title: "Authenticity"
+---
+
 _Written on 2021-08-07_
 
 I was focused on learning about body language in March of this year, and I ended up on [a video from the excellent Charisma On Command Youtube channel](https://www.youtube.com/watch?v=T5_KFy6qy-A) that breaks down why the actor Chris Hemsworth is so popular with his coworkers. The video provides several high-quality insights, but the one that stuck with me was the following: most people, when faced with the choice of whether or not to do a thing, consider three options:

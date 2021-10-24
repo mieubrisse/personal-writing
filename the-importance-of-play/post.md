@@ -1,5 +1,7 @@
-The Importance of Play
-======================
+---
+title: "The Importance of Play"
+---
+
 _Written on 2021-09-26_
 
 I've been noticing a curious trend during the past 6-8 weeks: every Sunday I've been experiencing a mild-to-moderate depression that has manifested as a turmoil of isolation, loneliness, frustration, and unfulfillment. I'm an engineer and spend a lot of time in my head, so I have a tendency to lose touch with my body and how I'm feeling (best explained to me by Gabor Maté [in this Tim Ferris podcast](https://www.youtube.com/watch?v=H9B5mYfBPlY)). To combat this, I learned a technique years ago of asking myself, "How am I feeling right now?" For the first month of this cyclical depression, the responses that came up were reiterating what I already knew: "I feel cut off from social & feminine connection," "I feel pissed off," "I feel frustrated," etc. However, a new one showed up three weeks ago: "I feel trapped." 

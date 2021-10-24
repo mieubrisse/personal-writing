@@ -1,5 +1,7 @@
-What Seduction Means To Me
-==========================
+---
+title: "What Seduction Means To Me"
+---
+
 _Written on 2021-08-07_
 
 The art of seduction has had a profound impact on my life. This essay explores how, and why.

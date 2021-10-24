@@ -1,5 +1,7 @@
-Planning & Adapting
-===================
+---
+title: "Planning & Adapting"
+---
+
 _Written 2021-08-07_
 
 Nassim Taleb's Black Swan Theory teaches us that contact with reality leads to unknown unknowns, the "black swans" that surprise us. In my observations, people tend to take one of two approaches to this fact: they either become very good at Planning or Adapting. Planners spend energy now to anticipate future positive & negative black swans so they're positioned to avoid or leverage them, while Adapters become very good at turning the realities of an unexpected situation right now to their advantage. We'll visit each in turn, and see how the best navigators of chaos use both.
