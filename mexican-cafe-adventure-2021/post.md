@@ -9,29 +9,29 @@ One of my favorite ways to pass a Saturday or Sunday is in a Third Wave coffeesh
 That said, I'm always up for [some exploring during my exploiting](https://medium.com/data-science-for-everyone/the-explore-exploit-dilemma-436cb1edff0d) and yesterday I hit the jackpot: Cafe Curado was displaying an exhibit of Dia de los Muertos skulls, each designed by a specialty coffee shop in Mexico City and tagged with the cafe's name. 
 
 <style>
-.row {
+.mexican-cafe-row {
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
 }
 
 /* Create two equal columns that sits next to each other */
-.column {
+.mexican-cafe-column {
   flex: 50%;
   padding: 0 4px;
 }
 
-.column img {
+.mexican-cafe-column img {
   margin-top: 8px;
   vertical-align: middle;
 }
 </style>
-<div class="row" style="text-align:center">
-    <div class="column">
+<div class="mexican-cafe-row" style="text-align:center">
+    <div class="mexican-cafe-column">
         <img src="images/all-skulls.jpg">
         <img src="images/skulls2.jpg">
     </div>
-    <div class="column">
+    <div class="mexican-cafe-column">
         <img src="images/skulls1.jpg">
         <img src="images/skulls3.jpg">
     </div>
