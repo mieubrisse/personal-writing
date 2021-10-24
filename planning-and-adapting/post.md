@@ -52,4 +52,4 @@ Notice any discomfort as you do these exercises. Where does it come from? Can yo
 
 ---
 
-[Back to index](./README.md)
+[Back to index](../index.md)
