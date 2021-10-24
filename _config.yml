@@ -1,6 +1,13 @@
+title: Personal Writing
+author:
+  name: Kevin Today
 theme: minima
 
 # Minima config
 header_pages:
   # We use a nonexistent page here so that we don't have any header pages
   - Nonexistent
+
+minima:
+  instagram: kevinjtoday
+  github: mieubrisse
