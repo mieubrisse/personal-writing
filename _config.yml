@@ -1,6 +1,9 @@
 title: Personal Writing
 author:
   name: Kevin Today
+  email: ""
+description: |
+  A collection of my personal writing
 theme: minima
 
 # Minima config
@@ -9,5 +12,6 @@ header_pages:
   - Nonexistent
 
 minima:
-  instagram: kevinjtoday
-  github: mieubrisse
+  social_links:
+    instagram: kevinjtoday
+    github: mieubrisse
