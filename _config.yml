@@ -1,5 +1,4 @@
 theme: minima
 
 # Minima config
-header_pages:
-  - index.md
+header_pages: []
