@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+
+# Minima config
+header_pages:
+  - index.md
