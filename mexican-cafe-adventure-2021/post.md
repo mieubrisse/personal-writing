@@ -30,7 +30,7 @@ Thus began The Great Mexican Cafe Adventure Of 2021. Over the course of the next
 * **Utilities:** How's the bathroom? Are there power chargers? Are the tables & chairs functional for working, or are they tiny?
 * **Service:** I'm not as fussed about bad service, but am including it to give myself a metric for rewarding exceptionally good service.
 
-2021-1024: El Ilusionista
+2021-10-24: El Ilusionista
 -------------------------
 My first cafe, and the one this article was started in.
 
