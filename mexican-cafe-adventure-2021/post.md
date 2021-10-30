@@ -30,6 +30,33 @@ Thus began The Great Mexican Cafe Adventure Of 2021. Over the course of the next
 * **Utilities:** How's the bathroom? Are there power chargers? Are the tables & chairs functional for working, or are they tiny?
 * **Service:** I'm not as fussed about bad service, but am including it to give myself a metric for rewarding exceptionally good service.
 
+2021-10-30: Alegre Cafe
+-----------------------
+* **Ambience:** 7/10
+    * Feels quite nice - wood tables & chairs, interesting brick walls, and a subtle black-white-and-yellow color theme
+    * Nice salsa music playing
+    * Small pieces of neat art on the walls
+    * No door and on a busy street, so lots of traffic noise from outside
+    * Tile floor feels a bit too industrial; wood would be a huge improvement
+* **Coffee:** 7/10
+    * Quite good!
+    * Multiple types of beans to pick from
+    * Prepared with care
+    * On the lighter side - I suspect they could have extracted a biiiit more flavor
+* **Food:** 7/10
+    * Mostly varying types of bagels, sweets, and salads
+    * Not the most paleo-friendly or freshest ingredients, but still prepared on-demand and presented well
+* **Utilities:**
+    * Power outlets at nearly every table
+    * Tables are comfortable, though small
+    * Chairs & tables are of middling quality
+    * TODO bathroom
+* **Service:** 8/10
+    * Friendly, welcoming, and helpful
+    * Gave me a little cup of water without needing to ask
+
+**Verdict:** I like it! It's better for a short-term visit than a long-term one due to the traffic noise and limited food options, but for an hour or two it's very nice.
+
 2021-10-24: El Ilusionista
 -------------------------
 My first cafe, and the one this article was started in.
