@@ -50,12 +50,12 @@ Thus began The Great Mexican Cafe Adventure Of 2021. Over the course of the next
     * Power outlets at nearly every table
     * Tables are comfortable, though small
     * Chairs & tables are of middling quality
-    * TODO bathroom
+    * Bathroom is somewhat janky - feels old & cramped, with cleaning supplies stored there
 * **Service:** 8/10
     * Friendly, welcoming, and helpful
     * Gave me a little cup of water without needing to ask
 
-**Verdict:** I like it! It's better for a short-term visit than a long-term one due to the traffic noise and limited food options, but for an hour or two it's very nice.
+**Verdict:** Overall, I like it! It's better for a short-term visit than a long-term one due to the traffic noise and limited food options, but for an hour or two it's very nice.
 
 2021-10-24: El Ilusionista
 -------------------------
