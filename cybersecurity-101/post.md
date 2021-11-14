@@ -1,3 +1,7 @@
+---
+title: "Cybersecurity 101"
+---
+
 _Written on 2021-11-14_
 
 To my friends and family who feel like staying secure in the Internet Age is an impossible task, this post will walk you through the most valuable things you can do to be tougher than the majority of the population.
