@@ -6,6 +6,7 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
+* [Cybersecurity 101](./cybersecurity-101/post.md): A tech guy's practical guide to increasing your online security to adequate levels
 * [The Great Mexican Cafe Adventure Of 2021](./mexican-cafe-adventure-2021/post.md): My journeys through the specialty coffee scene in Mexico City
 * [The Importance Of Play](./the-importance-of-play/post.md): How I identified that a lack of play in my life was causing periodic bouts of depression
 * [What Seduction Means To Me](./what-seduction-means-to-me/post.md): How the art of seduction has changed my life
