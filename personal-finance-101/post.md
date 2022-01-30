@@ -180,8 +180,13 @@ Let's say we keep playing until 20 flips have been made. There are 2^20 = 1,048,
 When faced with an extraordinary claim, let time sort out if it's true.
 
 ### The structure of the randomness is important
-The second thing we can do to turn the randomness of the world to our advantage is to incorporate the _type_ of randomness into our decisions. Randomness is at the heart of poker, but professional poker players can consistently make a profit - even in online poker where there's little element of human interaction. They do this by consistently structuring their bets in ways that are advantageous: a 60% chance to win a hand means the poker pro will lose 4 out of every 10 hands, but with enough time the pro will have a very high likelihood to end up with more money than he started with.
+The second thing we can do to turn the randomness of the world to our advantage is to incorporate the _type_ of randomness into our decisions. Randomness is at the heart of poker, but professional poker players can consistently make a profit - even in online poker where there's little element of human interaction. They do this by consistently structuring their bets in ways that are advantageous: a 60% chance to win a hand means the poker pro will lose 4 out of every 10 hands, but with enough time the pro has a very high likelihood to end up with more money than he started with.
 
+With a 60% chance to win a hand, the pro would be foolish to go all-in on any one hand. He'd still have a 4 in 10 chance of losing, and losing means he's guaranteed to be negative for the night. Far better to keep playing with small amounts, surviving long enough for the law of averages to overcome any short-term losses.
+
+Unfortunately, unlike in poker, the real world rarely comes with known win and loss probabilities. We know we want to consistently bet on 
+
+TODOOOOTDOOO
 
 ### Resources
 
