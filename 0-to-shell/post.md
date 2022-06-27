@@ -1,0 +1,2 @@
+- Shell environments inherit the exported values from other environments
+- Dread `'` vs `"`
