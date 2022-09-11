@@ -4,6 +4,19 @@ title: "Thinking For Others"
 
 _Written on 2022-07-31_
 
+Bearing the weight of others' emotions
+
+
+
+
+
+
+
+
+
+
+
+
 One Saturday a few months ago in São Paulo, I was walking to a WeWork to do some journalling. I was stopped by a lady on a street corner who asked me something in plaintive Portuguese that I didn't catch. I apologized, said I didn't understand, and asked her to repeat it. She looked at me for a second, and then repeated anew: her son was sick, and could she please have some money?
 
 I've always felt a guilt when interacting with the homeless. I grew up in a solidly middle-class family in an affluent suburb of Chicago, got a degree in Computer Science, worked for a Silicon Valley tech company starting in 2013, and left after the company IPO'd in 2020. Though my childhood house was small and old, and though I'd sometimes get my cousin's hand-me-downs, my parents never struggled to put food on the table and my physical comfort has only increased since I became a working adult.
