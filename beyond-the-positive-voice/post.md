@@ -12,6 +12,11 @@ Positive voice is extremely important
     - Now, I try to regard choices as equally good but different
         - E.g. the Subway story, about the asshole guy
         - BOTH choices will have joy and heartache because that's life
+    - I'd been thinking about marriage/family/kids this way too
+        - If I get married to the Right Girl and have 3-4 kids then my life will be good and only joy and no heartache
+            - There is no "Right Girl", but even if I found her and had my 3-4 kids then I'd have heartache too!!!!!
+        - If I am single for the rest of my life then it will be only heartache and no joy
+            - Being single the rest of my life would have joys in it too!!! It wouldn't just be heartache
 
 - I've been using therapy as a magic bullet - once I'm Fixed then I'll get The Perfect Girl and then I'll have The Perfect Family
     - Enough-ness _requires_ finding happiness along the way
