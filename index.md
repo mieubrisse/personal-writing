@@ -6,7 +6,7 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
-* [The Veil Of Meaning](): A musing on meaning, existentialism, and stoicism
+* [The Veil Of Meaning](./the-veil-of-meaning/post.md): A musing on meaning, existentialism, and stoicism
 * [A Mídia Social](./a-midia-social/post.md): Alguns pensamentos sobre a mídia social, escrito por uma aula de português
 * [The Positive Voice](./the-positive-voice/post.md): A reflection on enough-ness
 * [Cybersecurity 101](./cybersecurity-101/post.md): A tech guy's practical guide to increasing your online security to adequate levels
