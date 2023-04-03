@@ -1,6 +1,7 @@
 ---
 title: "To Own It All"
 ---
+
 _Written on 2023-04-03_
 
 ### Death
