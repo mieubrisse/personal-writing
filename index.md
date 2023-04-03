@@ -6,6 +6,7 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
+- [To Own It All](./to-own-it-all/post.md): On ownership
 - [The Problem With Parallelism](./the-problem-with-parallelism/post.md): Why distributed systems are hard, Kubernetes, and what might be done about it
 - [The Veil Of Meaning](./the-veil-of-meaning/post.md): A musing on meaning, existentialism, and stoicism
 - [A Mídia Social](./a-midia-social/post.md): Alguns pensamentos sobre a mídia social, escrito por uma aula de português
