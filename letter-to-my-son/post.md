@@ -35,4 +35,5 @@ After all, if you are never responsible for your losses then how can you take cr
 This, my son, is the secret to life that I want to impart to you. It was all because of you, all along, and it will always be because of you. Set down "That happened to me", take up "I choose this", break free from slavery to "luck" or "fate", and become the master of your own destiny.
 
 With all the love in my heart,
+
 Your father
