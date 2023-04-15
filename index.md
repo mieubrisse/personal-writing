@@ -6,6 +6,7 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
+- [Letter To My Son](./letter-to-my-son/post.md): A letter to my future son about choice
 - [Rituals of Scarification](./rituals-of-scarification/post.md): On sacrifice
 - [To Own It All](./to-own-it-all/post.md): On ownership
 - [The Problem With Parallelism](./the-problem-with-parallelism/post.md): Why distributed systems are hard, Kubernetes, and what might be done about it
