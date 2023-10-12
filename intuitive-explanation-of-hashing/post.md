@@ -1,5 +1,5 @@
 ---
-title: "Hashing, Intuitively"
+title: "An Intuitive Explanation Of Hashing"
 ---
 
 _Written on 2023-10-11_
@@ -21,6 +21,6 @@ This led me to investigate what hashing randomness is exactly. It appears that i
 1. if changing one bit in the input resulted in changing all the bits in the output, you'd have collisions like crazy because changing one bit in the input would create the inverse, and changing one bit in _that_ input would create the same output as the original hash
 1. if changing one bit in the input resulted in changing all but one of the bits in the output, it would also be much easier to guess inputs as you could hash any input, gets its output, and explore any hashes who differ by all but one bit with the knowledge that their input must differ from your hash by at most one bit
 
-The "change one bit" and "change all but one bit" cases are functionally the same, suffering from very high collision and reverse-engineering, because changing any one bit in their inputs can only yield at most N new unique output hashes (where N is the number of bits in the output).
+Cases 2 and 4 are functionally the same, suffering from very high collision and reverse-engineering, because changing any one bit in their inputs can only yield at most N new unique output hashes (where N is the number of bits in the output).
 
 This is why the "change half the bits in the output" is important: it maximizes the number of unique new output hashes that changing any one bit in the input yields. Equivalently, it means that changing any bit in the input makes every single bit in the output have a 50% chance of being 0 and a 50% chance of being 1. In other words, changing one bit in the input creates a totally new random number.
