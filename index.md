@@ -6,6 +6,7 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
+- [An Intuitive Explanation Of Hashing](./intuitive-explanation-of-hashing/post.md): An intuitive explanation of how hashing functions work
 - [Letter To My Son](./letter-to-my-son/post.md): A letter to my future son about choice
 - [Rituals of Scarification](./rituals-of-scarification/post.md): On sacrifice
 - [To Own It All](./to-own-it-all/post.md): On ownership
