@@ -6,6 +6,7 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
+- [A Love Letter To Brazil](./brazil-love-letter/post.md): An outpouring of affection for my favorite country
 - [Suffering](./suffering/post.md): Reflections on a difficult year, and the nature of suffering
 - [An Intuitive Explanation Of Hashing](./intuitive-explanation-of-hashing/post.md): An intuitive explanation of how hashing functions work
 - [Letter To My Son](./letter-to-my-son/post.md): A letter to my future son about choice
