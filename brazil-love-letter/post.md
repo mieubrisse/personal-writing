@@ -74,4 +74,4 @@ But to truly communicate my passion for Brazil, I need to tell you how I love...
 
 ...the desire to make a better life for oneself
 
-Saudades, da vida
+Saudades, do que já vivi, e do que ainda não.
