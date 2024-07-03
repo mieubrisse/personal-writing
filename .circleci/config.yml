@@ -4,7 +4,7 @@ jobs:
   validate:
     docker:
       # Needed for `npm install` down below
-      - image: cimg/node:15.3.0
+      - image: cimg/node:22.3.0
     resource_class: small
     steps:
       - checkout
