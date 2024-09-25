@@ -22,10 +22,40 @@ I've yet to meet a man struggling with unconfidence who didn't have a past where
 
 The man spent 18+ years in this environment, vulnerable to the whims of his caretakers. Within this context, unconfidence is a sensible survival strategy to avoid drawing attention so the man can preserve precious emotional energy & well-being.
 
-The man is no longer vulnerable, but the survival strategy he developed persists. Now, it's damaging his life. He feels trapped, unable to take risks to pursue opportunities like he wants.
+The man is no longer vulnerable, but the survival strategy he developed persists. Now, it's damaging his life. He feels trapped, unable to take risks to pursue the opportunities he wants.
 
 ### Positivity Journalling
-Fortunately, with practice, the unconfident man can become confident. If this is you, this involves reshaping your view of yourself He does this by reshaping his view of himself, and his relation to the outside world.
+Fortunately, that survival strategy which is no longer useful can be replaced with one that serves the man better. Like anything, this is simply a matter of practice.
+
+But what should the man practice? 
+
+He should practice focusing on the positive in any circumstance.
+
+It's important to understand that the environment of the unconfident man's formative years instilled a watchfulness in him. Because he didn't feel psychologically safe, he learned that he had to be on the lookout for danger else bad things would happen. He now focuses mostly on identifying and avoiding negatives. 
+
+This negative focus sets him up for constant stress. If the negative things he's worried about don't happen, he simply feels neutral (not "good", because there are always more negatives to watch out for). If they do happen, he feels like his fears have come to pass _and_ that his worrying was justified.
+
+When the only two outcomes are feeling neutral-but-watchful and feeling bad, the man understandably feels pessimistic about the future. He feels a sense of scarcity, lack, and loss. Within this frame of reference, worrying and anxiety make sense.
+
+To break the cycle, the man needs to start directing his focus to the positive aspects of a situation that he's not currently giving attention to. Repeated practice will train his mind to recognize that he's also making forward progress, not just staying neutral or going backwards. With time, his mind will start to learn that it can let go of control because any situation can be turned to his advantage with the right mindset.
+
+
+his brain will start to learn that the stress & anxiety that he's poisoning himself with is not justified
+
+I call this Positivity Journalling: 
+
+
+
+
+confidence is a skill. With practice, the unconfident man can become confident by reshaping his view of himself and his relation to the world. 
+
+To do so, you must first understand that the lack of psychological safety in the environment of your younger years primed you to be alert for danger. You're 
+
+
+
+it's important to recognize that the environment which created your unconfident mindset was one of _lack of safety_. Children who feel 
+
+If this is you, doing so involves reshaping your view of yourself He does this by reshaping his view of himself, and his relation to the outside world.
 
 Central to doing so is recognizing that his instincts are tuned for a world of danger. Even if his past wasn't physically dangerous, he developed a survival strategy that tuned him to 
 
