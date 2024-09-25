@@ -1,29 +1,42 @@
 ---
-title: "A Theory Of Male Unconfidence"
+title: "A Theory Of Masculine Unconfidence"
 ---
-_Written on 2024-09-16_
+_Written on 2024-09-16 & 2024-09-24_
 
-I've recently been speaking to men who struggle with lack of confidence. I empathize with them, as I've wrestled with confidence issues for much of my life. I won't claim to have "solved" confidence, as I think it's a spectrum that one gets better at. But I do feel I've worked on the issue for long enough, and made enough personal headway, that I have something meaningful to contribute.
+I've recently been speaking to men who struggle with lack of confidence. I empathize with them, as I've wrestled with confidence issues for much of my life. I won't claim to have "solved" confidence, as I think it's a spectrum that one gets better at. But I do feel I've worked on the issue for long enough, and made enough personal headway, that I have something to contribute: a theory for what causes unconfidence, and how to fix it.
+
+From here on, I'm going to address you, the reader, under the assumption that you're a man wrestling with unconfidence. Please remember that this is just my theorizing, offered in the hopes that it might be useful to you; I am not a therapist and this isn't a substitute for therapy (which I highly recommend).
 
 ### What is confidence?
 First, what exactly _is_ confidence? 
 
-For an unconfident guy, confidence can seem like a magical gift bestowed on others but not them. Confident men seem to have superhuman powers: apparent fearlessness, decisiveness, a decidedness of purpose, and the ability to make a decision without worrying over it. "Why," the unconfident man might wonder, "Was I denied the gift?"
+For a guy wrestling with unconfidence, I know that confidence can seem like a magical gift bestowed on others...  but not you. Confident men seem to have superhuman powers: apparent fearlessness, decisiveness, a decidedness of purpose, and the ability to make a decision without worrying over it. "Why," you might wonder, "Was I denied the gift?"
 
-My layman's assertion: confidence is one's belief that whatever happens will be okay.
+My assertion: confidence is one's belief that whatever happens will be okay.
 
 A confident man can't see the future any more than an unconfident man. Rather, the confident man moves decisively because he has experience thriving through life's turbulence. The unconfident man, by contrast, feels that volatility and the unknown are scary. He feels compelled to be careful.
 
-To the confident man, the unconfident man seems crazy as he moves so cautiously. Yet, **the unconfident man is not crazy: he feels this way for a reason**. 
+To the confident man, the unconfident man's caution seems completely unreasonable. Yet, **the unconfident man is not crazy: he feels this way for a reason**. 
 
-I've yet to meet a man struggling with unconfidence who didn't have a past where he was punished for being bold. Perhaps he felt frequently criticized, or discouraged from trying, or his family is perpetually negative, or he didn't feel he had a nourishing place to return to when life beat him up. 
+I've yet to meet a man struggling with unconfidence who didn't have a past where he was punished for being bold. Perhaps he felt frequently criticized, or discouraged from trying, or his family was perpetually negative, or he didn't feel he had a safe and restoring place to return to when life beat him up. 
 
-The man had to spend 18+ years in this environment, vulnerable to the whims of his caretakers. Within this context, unconfidence is a sensible survival strategy to avoid drawing attention, to preserve emotional energy & well-being.
+The man spent 18+ years in this environment, vulnerable to the whims of his caretakers. Within this context, unconfidence is a sensible survival strategy to avoid drawing attention so the man can preserve precious emotional energy & well-being.
 
-The man is no longer vulnerable, but the survival strategy he developed persists and now it's damaging his life. He feels trapped, unable to take risks to pursue opportunities like he wants.
+The man is no longer vulnerable, but the survival strategy he developed persists. Now, it's damaging his life. He feels trapped, unable to take risks to pursue opportunities like he wants.
 
 ### Positivity Journalling
-Fortunately, with practice, unconfidence can be replaced by confidence. Doing so involves recognizing that **unconfidence and confidence are the results of a persistent focus on the negative and positive, respectively**.
+Fortunately, with practice, the unconfident man can become confident. If this is you, this involves reshaping your view of yourself He does this by reshaping his view of himself, and his relation to the outside world.
+
+Central to doing so is recognizing that his instincts are tuned for a world of danger. Even if his past wasn't physically dangerous, he developed a survival strategy that tuned him to 
+
+In his past, the man learned not to be confident because danger seemed to be everywhere. 
+
+
+. Doing so involves reshaping the man's relationship to himself, and to the future.
+
+TODO TODO 
+
+recognizing that **unconfidence is the result of continually focusing on the and confidence are the results of a persistent focus on the negative and positive, respectively**.
 
 This is why unconfidence is so hard to change. The unconfident man's default, well-practiced instinct is to focus on the negative. Even when he does push himself to take a risk, his mind obsesses over any failures and his subconscious internalizes the experiences as net negative. In the future, he'll believe that it's better not to try. This is a _rational behaviour_, given his past environment!
 
