@@ -37,50 +37,33 @@ This negative focus sets him up for constant stress. If the negative things he's
 
 When the only two outcomes are feeling neutral-but-watchful and feeling bad, the man understandably feels pessimistic about the future. He feels a sense of scarcity, lack, and loss. Within this frame of reference, worrying and anxiety make sense.
 
-To break the cycle, the man needs to start directing his focus to the positive aspects of a situation that he's not currently giving attention to. Repeated practice will train his mind to recognize that he's also making forward progress, not just staying neutral or going backwards. With time, his mind will start to learn that it can let go of control because any situation can be turned to his advantage with the right mindset.
+To break the cycle, the man needs to start directing his focus to the positive aspects of a situation that he's not currently giving attention to. Repeated practice will train his mind to recognize that he's _always_ making forward progress, not just staying neutral or going backwards. 
 
+You might be wondering how I can guarantee that a man is always making forward progress. Simply: the man is always learning. Even if every single thing goes to hell, the man still learned what things to avoid in the future. He won't make the same mistake again, and is therefore upgraded.
 
-his brain will start to learn that the stress & anxiety that he's poisoning himself with is not justified
+With this positive mindset and some practice, the man's mind mind will learn that it can let go of some anxiety as _any_ situation can be turned to the man's advantage.
 
-I call this Positivity Journalling: 
+It's worth noting that at first, _focusing on the positive will feel bad to the man!_
 
+For reasons that aren't yet clear to me, unconfident men often seem to derive a bitter comfort from focusing on the negative. They know that they're not getting what they long-term want. Yet, focusing on the negative might justify their anxiety in the short term (which, again, was a sensible strategy when they were young, when emotional energy was in short supply).
 
+A tactic I've found useful in helping friends is repeatedly and relentlessly forcing them to exercise their positivity muscle at the expense of their negativity muscle. I do this through Positivity Journalling, where I ask them to list out in complete sentences _only_ the things that are going well for them. This could be in the scope of his life, if he's feeling generally down, or it could be about an explicit event.
 
+At first, the man does it to humor me. But I ask him to pay attention to how he feels before doing it, versus after. Often, the man realizes that the situation wasn't as grim as he thought. He feels better.
 
-confidence is a skill. With practice, the unconfident man can become confident by reshaping his view of himself and his relation to the world. 
+I believe this inherent skepticism to be natural. We don't really believe in a tool until we see its tangible utility in our own lives. 
 
-To do so, you must first understand that the lack of psychological safety in the environment of your younger years primed you to be alert for danger. You're 
+If you're struggling with anxiety, perhaps Positivity Journalling will be useful for you too. The next time you're feeling afraid, anxious, or wound-up get a pen & paper and write down a bullet-point list of things that are going well in your life. 
 
+Some tips:
+- A computer works too, but isn't as good as pen & paper because the slowness of writing by hand forces you to feel what you're writing. 
+- Anything positive goes; even showing up for Positivity Journalling is a win.
+- If you get stuck, think, "What have I learned recently?"
+- Only positive things are allowed! You might be tempted to discount your wins (e.g. "I had a date last night... but I didn't really like her"); only the good things are allowed.
 
+When you come to a natural stopping point, ask yourself, "How do I feel compared to before I started?" If you feel better, great - you now have a tool that can help you turn down anxiety.
 
-it's important to recognize that the environment which created your unconfident mindset was one of _lack of safety_. Children who feel 
-
-If this is you, doing so involves reshaping your view of yourself He does this by reshaping his view of himself, and his relation to the outside world.
-
-Central to doing so is recognizing that his instincts are tuned for a world of danger. Even if his past wasn't physically dangerous, he developed a survival strategy that tuned him to 
-
-In his past, the man learned not to be confident because danger seemed to be everywhere. 
-
-
-. Doing so involves reshaping the man's relationship to himself, and to the future.
-
-TODO TODO 
-
-recognizing that **unconfidence is the result of continually focusing on the and confidence are the results of a persistent focus on the negative and positive, respectively**.
-
-This is why unconfidence is so hard to change. The unconfident man's default, well-practiced instinct is to focus on the negative. Even when he does push himself to take a risk, his mind obsesses over any failures and his subconscious internalizes the experiences as net negative. In the future, he'll believe that it's better not to try. This is a _rational behaviour_, given his past environment!
-
-But, this man's default is not serving him. To upgrade his mindset to a more confident one freeing him to take the risks he wants, he needs to stop focusing on the negative and focus on the positive instead.
-
-_This will feel bad to the man!_
-
-For reasons that aren't yet clear to me, unconfident men often seem to derive a bitter comfort from focusing on the negative. They know that they're not getting what they long-term want. Yet, focusing on the negative might justify their inaction in the short term (which, again, makes sense when emotional energy was in short supply).
-
-A tactic I've found useful in helping friends is repeatedly and relentlessly forcing them to exercise their positivity muscle at the expense of their negativity muscle. I do this through Positivity Journalling, where I ask them to list out _only_ the things that are going well for them. This could be in the scope of his life, if he's feeling generally down, or it could be about an explicit event.
-
-The cool bit is there's _always_ something he can list. Even if everything went terribly, he still learned something and he's still showing up for Positivity Journalling. Often, the man realizes there's much more positive than he realized.
-
-In my experience, consistently doing this exercise steadily increases a man's belief in himself. As he emphasizes the positive and deemphasizes the negative, he starts to mute the avalanche of negative thinking when he doesn't succeed. His tolerance for risk-taking increases.
+In my experience, consistently doing this exercise increases a man's belief in himself. He starts to turn down the volume on the negative thinking, leaving him freer to fail and be okay with it. His tolerance for risk-taking increases.
 
 ### On neediness & reactivity
 I'd also like to comment on neediness and reactivity, as I believe they come hand-in-hand with unconfidence.
