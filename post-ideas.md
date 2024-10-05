@@ -1,0 +1,6 @@
+- Narcissism
+- 20-minute rule
+- What happened with Kurtosis
+- Comparison as thief of joy (and what to do about it)
+- The deep truths have always been in front of our faces
+- Giving freely, and it will come back around (plus, how it makes you feel valuable)
