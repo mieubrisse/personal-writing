@@ -2,6 +2,10 @@
 - 20-minute rule
 - What happened with Kurtosis
 - Comparison as thief of joy (and what to do about it)
-- The deep truths have always been in front of our faces
-- Giving freely, and it will come back around (plus, how it makes you feel valuable)
+- The deep truths have always been in front of our faces; we just weren't in a spot to receive them
+- Positivity/giving freely, and it will come back around (plus, how it makes you feel valuable & worthy)
 - Karma
+- Parable of the Orange, people communicating in "how" and not "why", switching to team-oriented problem-solving mindset
+    - Maybe, plus making conflicts not feel like conflicts? Staying completely within your own reality
+- Please Ignore All My Advice: everything I say given in the spirit of offer, try it on, if it doesn't work for you then discard it
+- Examining your needs, to know what you're letting yourself be controlled by
