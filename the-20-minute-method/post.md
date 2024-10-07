@@ -59,7 +59,13 @@ I believe this is because the other 30% of the time (where I feel "thank God 20 
 
 As a result of the 20 Minute Method, I end up putting _at least_ ~120 hours of work per year into a thing. The equivalent of 3 40-hour workweeks. And because I give myself the freedom to keep going when the mood strikes, I'd guess it looks more like 170+ hours (estimating 60% of the time I just do 20 minutes, and 40% of the time I do 40+ minutes).
 
-The results: [this is ~8 months of learning guitar using the 20 Minute Method](TODO), and the [last]
+The results: 
+- [This is ~9 months of learning guitar using the 20 Minute Method](TODO)
+- I decided to apply the 20 Minute Method to my writing 15 days ago. At the time, my blog had 15 posts, made over the 3 years of its existence. It now has 20 posts, including this one. 25% of my blog's content has been produced within the past 15 days (and I even missed two days!).
+- [This is me climbing a V5 route, after ~22 months of climbing using a modified version of the 20 Minute Method](TODO) (more on this below)
+- I started applying the 20 Minute Method to exercise in February (with no restrictions on what exercise I did), and I've been the most consistent with weightlifting I've ever been (
+
+
 
 
 
