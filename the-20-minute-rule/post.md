@@ -1,52 +1,79 @@
 ---
-title: "The 20 Minute Rule"
+title: "The 20 Minute Method"
 ---
+
 _Written on 2024-10-05_
 
-After years of experimenting on myself, I've developed a framework for getting good at things that I call the "20 Minute Rule". It goes like this:
+After years of experimenting on myself, I've developed a framework for getting good at things that I call the "20 Minute Method". It goes like this:
 
 1. I must spend **at least** 20 minutes per day doing the thing I want to get good at.
 2. If I do my 20 minutes, I get to feel good about myself. What I did doesn't matter, the quality of the practice doesn't matter. Only that I did my 20 minutes.
-3. If I miss a day, I don't try to make it up. I just accept that I didn't put in my practice.
+3. If I miss a day, I don't try to make it up. I just accept that I didn't put in my practice and my progress will be a bit slower.
 
-That's it: simple. But there's some very intentional psychology behind it.
+That's it. But there's some very intentional psychology behind it.
 
-Last month I saw [a Farnam Street post](TODO) saying, 
+Mark Manson has a story about [a prolific novelist who writes "200 crappy words per day"](TODO), and last month I saw [a Farnam Street post](TODO) saying, 
 
 > You don't need more intensity; you need more consistency. Intensity impresses, consistency transforms.
 
-This felt like a beautiful synthesis of what I'd long suspected: **time is the most important factor in skill development**.
+These seem to confirm what I've come to suspect: **time is the most important factor in skill development**.
 
-Our culture today is all about flash & instant gratification. We get bombarded with news of cryptocurrency speculators who made millions in a month, Lamborghinis, beautiful houses, a cavalcade of insanely talented performances on Youtube or the Olympics, Wall Street, plastic surgery, world-class meals made in a half hour.
+Our culture today is all about flash & instant gratification. We get bombarded with news of cryptocurrency speculators who made millions in a month, Lamborghinis, beautiful houses, a cavalcade of insanely talented performances on Youtube or the Olympics, Wall Street, plastic surgery, world-class meals made in half an hour.
 
 We want the results Right Now. 
 
 But as any investor knows, time is your ally.
 
-Let's say you want to double your money. The American stock market market averages ~6% annually. If you're willing to be patient, you can double your money in 12 years (because `1.06 ^ 12 = 2.01`) with little effort or risk. Just buy the S&P500 and wait.
+Let's say you want to double your money. The American stock market market averages ~6% annually. If you're willing to be patient, you can double your money with little effort or risk in 12 years (because `1.06 ^ 12 = 2.01`). Just buy the S&P500 and wait.
 
-But if you need to do so quickly, things get way complicated. The best financial firms in the world are doing 30-40% annual returns, and there are big questions about if that's sustainable indefinitely (during market crashes, on a 10+ year timespan, etc.). 
+But if you need to do so quickly, things get way complicated. The best financial firms in the world are doing 30-40% annual returns, and there are big questions about whether those returns are sustainable indefinitely (during market crashes, on a 10+ year timespan, etc.). 
 
-Meaning, if you want to double your money without going the insanely risky speculation route, the very fastest you could do so is a little over 2 years (because `1.4 ^ 2` is almost equal to 2). That also presupposes you get access to these elite funds; they don't give access to average Joe's like you and me.
+Meaning, if you want to double your money reliably, the very fastest you could do so is ~2 years (because `1.4 ^ 2` is almost equal to 2). This also presupposes you get access to these elite funds; they don't give access to average Joe's like you and me.
 
 So even if you're using the very best in the world (who, again, may not be long-term sustainable), **you still have to wait 2 years**.
 
 The same goes for skill development. 
 
-When I used to put all this pressure on myself to get very good at something very quickly, I was trying to dedicate several hours per week to it. For physical skills like running or martial arts, I'd get injured and my progress would get set back for months. For every skill, I'd eventually get fed up, start to dread practice, and quit.
+When I used to put all this pressure on myself to get very good at something very quickly, I was trying to dedicate several hours per week to it. For physical skills like running or martial arts I'd make quick progress, then I'd get injured and my progress would get set back months. For every skill, I'd eventually get burnt out, start to dread practice, and quit.
 
-But that pressure is ineffective and unnecessary. If I merely get 1% better per day and keep showing up every day, in a year's time I'll be at 365% of where I started (for the math nerds, I used linear rather than exponential scaling because I don't think skill development works like compound interest).
+I now believe such intensity is unnecessary and counterproductive. If I merely get 1% better per day and keep showing up every day, in a year's time I'll be at 365% of where I started (for the math nerds, I used linear rather than exponential scaling because I don't think skill development works like compound interest).
 
-Getting 1% better in a practice session is very easy: my natural desires to experiment and challenge myself, plus the learning function of my mind, will handle that.
+Getting 1% better in a practice session is very easy: my natural desires to experiment and challenge myself, plus the learning function of my mind, will handle that. 
 
-The most important factor is therefore that I keep showing up to practice. 
+The most important factor, therefore, is that I keep showing up to practice. 
 
-All of the 20 Minute Rule's stipulations are designed to take the pressure _off_, so that it's as easy to show up to practice as possible:
+All of the 20 Minute Method's stipulations are designed to take the pressure _off_, so that it's as easy as possible to show up to practice:
 
-- Practice is only 20 minutes, because once it's 30 minutes then it feels like a Whole Thing to schedule but 20-minute blocks can be found in a lot of places.
-- What I do in practice doesn't matter, because once I feel like I have to grind through a specific routine practice starts to feel more like work and I dread showing up.
-- If I miss a day, I don't obligate myself to make it up so that the next practice doesn't feel heavy.
-- I'm not obligated to do any more than 20 minutes, which is pressure relief on those days (which always come) where I don't feel like practicing. I tell myself, "It's only 20 minutes."
+- Practice is only 20 minutes, because it's easy to find 20-minute blocks in a day but once it's 30 minutes then it feels like a Whole Thing to schedule.
+- What I do in practice isn't important, because when I feel I have to grind through a specific thing then practice starts to feel more like work and I dread showing up.
+- If I miss a day, I don't force myself to make it up to ensure the next practice doesn't feel heavy.
+- I'm not obligated to do any more than 20 minutes, which is pressure relief on those days (which inevitably come) where I don't feel like practicing. I tell myself, "It's only 20 minutes."
+
+If you'd told me of this method 5 years ago, I would have assumed that all this pressure easing would result in me doing the bare minimum. Yet, that's not what happens.
+
+Because practice feels light and easy, I consistently show up. On the days when I'm feeling excited to practice, I often go over the 20 minutes time permitting. On the days when I really don't feel like practicing, I say to myself, "It's only 20 minutes; it'll be over in no time."
+
+And... _even on those days_ I frequently practice for more than the 20 minutes. The first 10-15 minutes feel rough, but ~70% of the time I get into the groove and end up continuing beyond the timer.
+
+I believe this is because the other 30% of the time (where I feel "thank God 20 minutes is up"), I stop right on the timer and I let myself feel good about it. Because I give myself the freedom to stop at 20 minutes, I don't build resentment to overpower the enjoyment of practicing that eventually arrives.
+
+As a result of the 20 Minute Method, I end up putting _at least_ ~120 hours of work per year into a thing. The equivalent of 3 40-hour workweeks. And because I give myself the freedom to keep going when the mood strikes, I'd guess it looks more like 170+ hours (estimating 60% of the time I just do 20 minutes, and 40% of the time I do 40+ minutes).
+
+The results: [this is ~8 months of learning guitar using the 20 Minute Method](TODO), and the [last]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Interesting bit of psychology #1:** I've found resistance to practice to be front-loaded. On the days when I don't feel excited to practice, I'll start with the intent of just grinding out my 20 minutes. Once I get 10-15 minutes in though, I start to find my groove. When the 20 minutes hits, there's a ~70% chance I won't want to stop.
 
