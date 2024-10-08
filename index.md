@@ -8,6 +8,7 @@ You can learn more about me [on my personal website](https://kevintoday.com).
 
 Index
 -----
+- [The 20 Minute Method](./the-20-minute-method/post.md): Explaining my framework for getting good at things
 - [What I Want: October 2024](./what-i-want-october-2024/post.md): Outlining what's important to me for my future as of October, 2024
 - [A Theory Of Male Unconfidence](./a-theory-of-male-unconfidence/post.md): A theory for why certain men struggle with lack of confidence, plus a potential solution
 - [Eurotrip 2024 Retrospective](./eurotrip-2024-retrospective/post.md): A retrospective, mostly for myself, on the 3.5 months I spent travelling in the summer of 2024
