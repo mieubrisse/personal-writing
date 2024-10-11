@@ -1,9 +1,15 @@
 ---
-title: "A Theory Of Male Unconfidence"
+title: "A Theory Of Male Boldness"
 ---
+
+[ ] TODO clarify & sort out the unconfidence/anxiety/wariness
+[ ] Perhaps the "introspection" tool?
+
+
+
 _Written throughout September and October, 2024_
 
-I've recently become friends with several men who struggle with confidence. I've wrestled with confidence issues for a lot of my life, so I empathize. I won't claim to have "solved" confidence, as I think it's a spectrum that one gets better at. But I do believe I've worked on the issue for long enough, and made enough personal headway, that I have something to contribute: a theory for what causes unconfidence, and a potential solution.
+I've recently become friends with several men who struggle to feel bold. I've wrestled with issues for a lot of my life, so I empathize. I won't claim to have "solved" confidence, as I think it's a spectrum that one gets better at. But I do believe I've worked on the issue for long enough, and made enough personal headway, that I have something to contribute: a theory for what causes unconfidence, and a potential solution.
 
 From here on, I'm going to address you under the assumption that you're a heterosexual male wrestling with unconfidence. I do this because I am this, and so I'm writing to who I know. 
 
@@ -15,7 +21,7 @@ First, what exactly _is_ confidence?
 
 For someone who doesn't feel confident, I know confidence might seem like a magical gift bestowed on others...  but not you. Confident men seem to have superhuman powers: seeming fearlessness, decisiveness, a decidedness of purpose, and a noted lack of fretting over past decisions. 
 
-"Why," you might wonder, "was I denied the gift?"
+If you're like me, you might have felt that these men are the "winners" in the competition that is masculinity in today's world. "Why," you might wonder, "was I denied the gift?"
 
 But a confident man can't know the future any more than you can. Rather, **the confident man believes that whatever happens will be okay**. 
 
@@ -47,7 +53,7 @@ You'd like to become confident.
 
 The great news is, my experience tells me you absolutely can. To understand how, let's go back to the "makes sense" aspect of behaviour. 
 
-If unconfidence as a strategy was only a result of your past childhood & adolescence environment, you would have discarded unconfident now that you're an adult who's out of that environment. Yet, unconfidence persists. There must be something continuing to reward you for it.
+If unconfidence as a strategy was only a result of your past childhood & adolescence environment, you would have discarded unconfidence now that you're an adult who's out of that environment. Yet, unconfidence persists. There must be something continuing to reward you for it.
 
 To explore this, put yourself in the following scenarios and check in with what your inner voice is saying:
 
@@ -76,7 +82,7 @@ I designed the outcomes of the proposed scenarios to tap into your likely fears,
 1. You talk to the woman in the café, and she's warm and kind. She seems to like you, and you exchange contact information to set up a date.
 1. You take charge of the problematic project, and the project's issues resolve under your guidance. Your boss is impressed with your skill, and would like to give you a bonus for your handling of the situation.
 1. When you arrive, my friends welcome you into the group and conversation flows easily. You enjoy chatting to them, and exchange contact information to hang out in the future. The seeds for some new friendships are planted.
-1. You go in on the deal with me, and we flip the house in a few months for a 30% return on investment.
+1. You go in on the house deal with me, and we flip the house in a few months for a 30% return on investment.
 
 Did you contemplate these positive outcomes when you considered the original scenarios? If you did, did they seem too pie-in-the-sky or naive relative to the risks?
 
@@ -147,6 +153,20 @@ Some tips:
 - It's tempting to sneak negativity into the journalling in subtle ways (after all, listening to the Critical Voice is weirdly addictive). This can take the form of caveats that steal the joy, e.g.: "I got a raise... but it's been a long time coming" or "I made a breakthrough in therapy... about fucking time". This negativity must not be allowed either. Only positivity.
 
 Like with the Positive Voice, an effective tool must deliver results. Try this out, and compare: how did you feel before the journalling vs after? Do you feel better?
+
+Tactics In Practice
+-------------------
+The Positive Voice and Positivity Journalling are all well and good, but what might they look like in practice? Here's an example from my own life:
+
+The past week I've been feeling a bit bummed out:
+- While my weightlifting numbers are going up, my weight has been going down. I'm stronger by the numbers, but I'm feeling & looking skinnier than I did a month ago.
+- There are several successful, good-looking, confident men that I follow on Instagram. I (who's currently on sabbatical from work) find myself feeling sort of bummed out after being on Instagram whenever one of their posts shows up (though the cause doesn't rise to my consciousness unless I find 
+- 
+
+
+
+
+The above tactics are tools to help you rebuild your self-esteem. Like anything in life, they come with ups and down.s
 
 Conclusion
 ----------
