@@ -6,6 +6,7 @@ This repository contains the collection of my personal writings. You can learn m
 
 Index
 -----
+- [A Theory Of Male Unconfidence](./a-theory-of-male-unconfidence/post.md): A theory for why certain men struggle with lack of confidence, plus a potential solution
 - [Eurotrip 2024 Retrospective](./eurotrip-2024-retrospective/post.md): A retrospective, mostly for myself, on the 3.5 months I spent travelling in the summer of 2024
 - [An Argument For Honor](./an-argument-for-honor/post.md): A small thesis for why honor is not an abstract concept, but something tactically useful to you right now
 - [A Love Letter To Brazil](./brazil-love-letter/post.md): An outpouring of affection for my favorite country
