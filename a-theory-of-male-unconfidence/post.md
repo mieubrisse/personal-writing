@@ -1,5 +1,5 @@
 ---
-title: "A Theory Of Male Boldness"
+title: "A Theory Of Male Cautiousness"
 ---
 
 [ ] TODO clarify & sort out the unconfidence/anxiety/wariness
@@ -9,23 +9,29 @@ title: "A Theory Of Male Boldness"
 
 _Written throughout September and October, 2024_
 
-I've recently become friends with several men who struggle to feel bold. I've wrestled with issues for a lot of my life, so I empathize. I won't claim to have "solved" confidence, as I think it's a spectrum that one gets better at. But I do believe I've worked on the issue for long enough, and made enough personal headway, that I have something to contribute: a theory for what causes unconfidence, and a potential solution.
+I've recently been chatting with several friends who've told me about problems with overthinking. They feel confident and bold in their best moments, but report feeling unsure and tentative more than they'd like. Worrying is a common complaint.
 
-From here on, I'm going to address you under the assumption that you're a heterosexual male wrestling with unconfidence. I do this because I am this, and so I'm writing to who I know. 
+My life has been a long journey of battling against self-doubt, worrying, and lack of confidence. I won't claim to have "solved" the issue - I believe it's a skill that one is constantly practicing and refining. But I do believe I've worked on the issue for long enough, and made enough personal headway, to have something to contribute.
+
+Namely, a theory for why men get into this state, and tactics for how to get them out of it.
+
+From here on, I'm going to address you under the assumption that you're a heterosexual male wrestling with overthinking and cautiousness. I do this because this is my experience, so I'm writing to whom I know. 
 
 Please remember that this is just my theorizing, offered in the hopes that it's useful to you. I am not a therapist and this isn't a substitute for therapy (which I highly recommend).
 
-Confidence & You
+Overthinking & You
 ----------------
-First, what exactly _is_ confidence? 
+First, what exactly _is_ overthinking?
 
-For someone who doesn't feel confident, I know confidence might seem like a magical gift bestowed on others...  but not you. Confident men seem to have superhuman powers: seeming fearlessness, decisiveness, a decidedness of purpose, and a noted lack of fretting over past decisions. 
+For someone who doesn't feel free to be bold, I know boldness might seem like a magical gift bestowed on others...  but not you. Bold men seem to have superhuman powers: seeming fearlessness, decisiveness, a decidedness of purpose, and a noted lack of fretting over past decisions. 
 
 If you're like me, you might have felt that these men are the "winners" in the competition that is masculinity in today's world. "Why," you might wonder, "was I denied the gift?"
 
-But a confident man can't know the future any more than you can. Rather, **the confident man believes that whatever happens will be okay**. 
+The bold man can't know the future any more than you can. Instead, the secret to his boldness is **he believes that whatever happens will be okay**. 
 
-He believes this because he has experiences telling him it will be so, and therefore it only makes sense to him to be bold.
+In short, his relationship to the volatility of the future is, "This is fine."
+
+The bold man does not arrive at this belief through arbitrary decision, however. He believes it because his past experiences with volatility have been fine - perhaps even positive. It only makes sense to him to embrace volatility.
 
 This "makes sense" aspect is important. 
 
@@ -39,25 +45,51 @@ Think of your childhood and adolescence (ages 0-18), and answer these questions:
 
 If you resonate with one or more of these, consider this: the first ~18 years of your life are your most vulnerable. You don't have any financial resources of your own, you're not legally allowed to sign contracts, you don't understand how the world works, you don't have any value to offer, the planning & execution functions of your brain are still underdeveloped, you haven't yet learned social skills, and you're physically small & weak so you can't win fights.
 
-When you're that vulnerable and your parental/social environments demand that you conform to their reality rather than supporting you in defining your own, _it only makes sense_ that you developed the caution & watchfulness that now presents as unconfidence. You were rewarded for discovering and obeying the rules of someone else's game. Perhaps, even punished for defining your own game.
+When you're that vulnerable and your parental/social environments demand that you conform to their reality rather than supporting you in defining your own, _it only makes sense_ that you developed caution and wariness. You were rewarded for discovering and obeying the rules of someone else's game. Perhaps, even punished for defining your own game.
 
-Just as the confident man's past experiences lead him to the conclusion that boldness makes sense, your experiences lead you to the conclusion that wariness makes sense. 
+You were incentivized to think ahead.
 
-Our behaviours might seem crazy from the outside, and they might not be what's long-term optimal for us, but they always _make sense_ to us in the moment.
+Just as the bold man's past experiences lead him to the conclusion that boldness makes sense, your experiences lead you to the conclusion that thinking more makes sense.
+
+Our behaviours are _not_ illogical. They might seem crazy to a third-party observer, and they might not be what's long-term optimal for us, but there are good reasons for why we do what we do.
 
 Blazing New Trails
 ------------------
-You are no longer vulnerable like you were in the first 18 years of your life. You have resources of your own, and you no longer need to conform to parents or the school system. You likely realize that the cautiousness which was so essential when you were younger is now blocking you from taking certain risks that would be beneficial to you - talking to the women you want, pursuing job opportunities you want, standing up for yourself like you want, attempting new skills, etc. 
+You are no longer vulnerable like you were in the first 18 years of your life. You have resources of your own, and you no longer need to conform to parents or the school system. You likely realize that the cautiousness which was so essential when you were younger is now blocking you from taking certain risks that would be beneficial to you: talking to the women you want, pursuing job opportunities you want, standing up for yourself like you want, attempting new skills, etc. 
 
-You'd like to become confident.
+You'd like to become bold.
 
 The great news is, my experience tells me you absolutely can. To understand how, let's go back to the "makes sense" aspect of behaviour. 
 
-If unconfidence as a strategy was only a result of your past childhood & adolescence environment, you would have discarded unconfidence now that you're an adult who's out of that environment. Yet, unconfidence persists. There must be something continuing to reward you for it.
+You no longer adhere to the bedtime that your parents imposed. You're out of that environment and don't need to adhere to your parents' rules anymore, so you've dropped it because it doesn't make sense for you. 
 
-To explore this, put yourself in the following scenarios and check in with what your inner voice is saying:
+Just like the bedtime, we'd expect you to drop overthinking if it no longer makes sense for you. Yet, your overthinking persists. There must be something continuing to reward you for it.
 
-1. You're in a cafe, and a beautiful woman walks in. I urge you to go and talk to her.
+To investigate this, let's imagine some scenarios. After you read each one, close your eyes for a moment and really experience what it's like to be inside the scenario. Pay particular attention to how your feelings & emotions progress over the scenario.
+
+### The Cafe
+You and I are reclining at a window table of a small, busy cafe. The lights cast a warm yellow shine across the white-painted wooden walls, and the whirr of the espresso machine periodically slices through the buzz of the cafe's patrons conversing. The aroma of brewing coffee mixes with the smell of bacon from the kitchen. 
+
+You hear the door swish open behind you, and my eyes leaver yours to start tracking something. You glance around, and see a beautiful woman walking up to the counter. She's gorgeous: long, glossy brunette hair, blue-green eyes, black heels, an elegant but well-fitted navy blue dress hugging her slim curves. We both watch as she orders her coffee and stands looking at her phone as she waits. 
+
+I turn to face you: "Get up, and go talk to her."
+
+### The Project
+It's a Tuesday afternoon and you're in the middle of work. You get a message from your boss on your company's messenger service: "Got a moment to chat?" Such a vague message is odd. "Sure - what's up?" "Zoom?" You find a quiet place and hop on the link he sends. He speaks first: "Hey, how's it going? So sorry for such short notice; I just got out of back-to-back meetings. Do you know Project X?" 
+
+Of course, you tell him. Everyone does. It's a project happening in your sister department for nearly a year now, and it's a mess. The team is famous for working until 9, 10, or even 11 o'clock most nights of the week. They were supposed to have finished four months ago, there are rumors of difficult personalities on the team, and two people have already quit. 
+
+"So I'm sorry, this is really going to suck but... the project manager there just resigned. I need you to stop what you're doing ASAP, and get Project X over the line."
+
+You sit in silence for a moment. "Does this come with a compensation increase?" You know company finances are tight right now, but this is Project X.
+
+Your boss has a pained look on his face. "I really, really wish I could say yes... but I have no budget at all for it right now. It's something we need to Just Do It." His emphasis makes clear the Nike reference is intentional.
+
+He pauses, and continues, "I know it's a lot to ask. If you really don't want it, I'll start looking for someone else. I just thought of you first."
+
+
+
+
 1. Your boss tells you that they're going to take you out of your current role, and put you in charge of a project that's not doing well.
 1. You're coming to meet me for coffee. While you're en route, I let you know that I'm actually with a group of my friends here that I'll introduce you to.
 1. I, as your friend, tell you about a business deal I discovered: I've learned that a house is being sold privately at a significantly discounted price relative to the market. I offer for us to consider buying the house together, and flipping it for a profit.
@@ -67,6 +99,12 @@ What are you feeling in these scenarios? Any anxiety or trepidation? Caution? Re
 If so, this makes sense given what you learned growing up. The environment of your younger years trained you to be very good at detecting and avoiding possible negatives (punishment, criticism), so you continue to do so today. "No" is the default, because it minimizes risk.
 
 Now let's add some information on top of each scenario:
+
+### The Cafe
+Right after I speak, a man from a table to the woman's side stands up. He takes a step in front of her, smiles, and says something you can't hear. She glances up from her phone, frowns, and responds with a furrowed brow. The man's body language closes slightly, he speaks once more, and walks back to sit down at his table.
+
+### The Project
+
 
 1. You saw another man talk to the woman in the café, and she seemed to be in a bad mood - brushing him off in dismissive way.
 1. Your boss put another person in charge of the project, and it turned into a bunch of headache for that person.
@@ -78,6 +116,9 @@ Now how do you feel about each scenario? Relieved? Justified in your caution? Va
 If so, _this_ is what's keeping you chained to your strategy of unconfidence. You continue to reward yourself for identifying and avoiding the negative.
 
 I designed the outcomes of the proposed scenarios to tap into your likely fears, but notice the alternate outcomes I omitted:
+
+### The Cafe
+After I speak, you hesitate for a second and then stand. You walk to her, a flutter in your chest. Reaching her, you say, "Hi. I know this is random, but you're dressed so well that I had to risk embarrassing myself to say hello." She looks up from her phone with those luminous eyes, and smiles. "Thank you! Today's been so stressful.. you just made my day." You reply, "Too much work?" "Yess.. I'm a paralegal, and we're working a big case. This is the only moment I've had to get a breath of fresh air." The chat continues for a few more moments, before she says, "I have to get back to work, but it was nice meeting you." She smiles, but hesitates for a second. You recognize the cue: "Do you have an Instagram? Maybe we can get a coffee together when you're not slammed with work." She smiles again and says, "I'd be okay with that." You take her Instagram, and walk back to our table.
 
 1. You talk to the woman in the café, and she's warm and kind. She seems to like you, and you exchange contact information to set up a date.
 1. You take charge of the problematic project, and the project's issues resolve under your guidance. Your boss is impressed with your skill, and would like to give you a bonus for your handling of the situation.
