@@ -65,6 +65,7 @@ And if she brings the same?
 Ah, _that_ feels like the type of relationship I want to be in: one where the whole is greater than the sum of the parts. One with the potential to last a lifetime.
 
 ### Final Words
+
 I am an ambitious builder. I want a happy life and I am willing to work to get it. For many years I thought this meant toiling to shape the outside world into what I wanted it to be. "If only the world looks like what I want, _then_ I will be good. Then I can rest."
 
 I am recently coming to understand that when you push against the outside world, the world pushes back. Reality is uncontrollable, and will never match what I think happiness looks like.
@@ -72,3 +73,5 @@ I am recently coming to understand that when you push against the outside world,
 I suspect it is far easier, and far more gratifying, to instead shape myself into someone I think is extraordinary. Become someone I admire, allow that light & positivity to shine out into the world, and then gather around myself those other souls who resonate with what I'm putting out.
 
 If that's not a task worthy of being called my magnum opus, I don't know what is.
+
+_"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." - Rumi_
