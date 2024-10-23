@@ -11,9 +11,9 @@ _Written throughout September and October, 2024_
 
 I've recently been chatting with several friends who've told me about problems with overthinking. They feel confident and bold in their best moments, but report feeling unsure and tentative more than they'd like. Worrying is a common complaint.
 
-My life has been a long journey of battling against self-doubt, worrying, and lack of confidence. I won't claim to have "solved" the issue - I believe it's a skill that one is constantly practicing and refining. But I do believe I've worked on the issue for long enough, and made enough personal headway, to have something to contribute.
+My life has been a long journey battling against self-doubt, worrying, and lack of confidence. I won't claim to have "solved" the issue - I believe it's a skill that one is constantly practicing and refining. But I do believe I've worked on the issue for long enough, and made enough personal headway, to have something to contribute.
 
-Namely, a theory for why men get into this state, and tactics for how to get them out of it.
+Namely, a theory for why men get into this state and tactics for how to get them out of it.
 
 From here on, I'm going to address you under the assumption that you're a heterosexual male wrestling with overthinking and cautiousness. I do this because this is my experience, so I'm writing to whom I know. 
 
@@ -23,11 +23,11 @@ Overthinking & You
 ----------------
 First, what exactly _is_ overthinking?
 
-For someone who doesn't feel free to be bold, I know boldness might seem like a magical gift bestowed on others...  but not you. Bold men seem to have superhuman powers: seeming fearlessness, decisiveness, a decidedness of purpose, and a noted lack of fretting over past decisions. 
+For someone who feels compelled to overthinking or worry, I know boldness might seem like a magical gift bestowed on others...  but not you. Bold men seem to have superhuman powers: seeming fearlessness, decisiveness, a decidedness of purpose. A noted lack of fretting over past decisions. 
 
 If you're like me, you might have felt that these men are the "winners" in the competition that is masculinity in today's world. "Why," you might wonder, "was I denied the gift?"
 
-The bold man can't know the future any more than you can. Instead, the secret to his boldness is **he believes that whatever happens will be okay**. 
+The bold man can't know the future any more than you can. Instead, the secret to his boldness is **he believes whatever happens will be okay**. 
 
 In short, his relationship to the volatility of the future is, "This is fine."
 
@@ -77,22 +77,23 @@ I turn to face you: "Get up, and go talk to her."
 ### The Project
 It's a Tuesday afternoon and you're in the middle of work. You get a message from your boss on your company's messenger service: "Got a moment to chat?" Such a vague message is odd. "Sure - what's up?" "Zoom?" You find a quiet place and hop on the link he sends. He speaks first: "Hey, how's it going? So sorry for such short notice; I just got out of back-to-back meetings. Do you know Project X?" 
 
-Of course, you tell him. Everyone does. It's a project happening in your sister department for nearly a year now, and it's a mess. The team is famous for working until 9, 10, or even 11 o'clock most nights of the week. They were supposed to have finished four months ago, there are rumors of difficult personalities on the team, and two people have already quit. 
+Of course, you tell him. Everyone does. It's a project happening in your sister department for over a year now, and it's a mess. The team is famous for working until 9, 10, or even 11 PM most nights of the week. They were supposed to have finished four months ago, there are rumors of difficult personalities on the team, and two people have already quit. 
 
-"So I'm sorry, this is really going to suck but... the project manager there just resigned. I need you to stop what you're doing ASAP, and get Project X over the line."
+"I'm sorry, this is really going to suck but... the project manager there just resigned. I need you to stop what you're doing ASAP, and get Project X over the line. Leadership is thinking about cancelling the project entirely."
 
 You sit in silence for a moment. "Does this come with a compensation increase?" You know company finances are tight right now, but this is Project X.
 
-Your boss has a pained look on his face. "I really, really wish I could say yes... but I have no budget at all for it right now. It's something we need to Just Do It." His emphasis makes clear the Nike reference is intentional.
+Your boss has a pained look on his face. "I really, really wish I could say yes... but I have no budget at all for it right now. It's something we gotta Just Do It." His emphasis makes it clear the Nike reference is intentional.
 
 He pauses, and continues, "I know it's a lot to ask. If you really don't want it, I'll start looking for someone else. I just thought of you first."
 
+### The Invite
+It's a bright, sunny morning with just a hint of chill. I've invited you for a breakfast bagel at a restaurant downtown, and you've just gotten into your Uber for the 10-minute ride. Your phone vibrates. It's message from me: "Hey just a heads-up that I'm here with a group of friends. I'll introduce you."
 
-
-
-1. Your boss tells you that they're going to take you out of your current role, and put you in charge of a project that's not doing well.
-1. You're coming to meet me for coffee. While you're en route, I let you know that I'm actually with a group of my friends here that I'll introduce you to.
+### The Business Deal
 1. I, as your friend, tell you about a business deal I discovered: I've learned that a house is being sold privately at a significantly discounted price relative to the market. I offer for us to consider buying the house together, and flipping it for a profit.
+
+---
 
 What are you feeling in these scenarios? Any anxiety or trepidation? Caution? Resistance? The desire to decline?
 
@@ -104,12 +105,15 @@ Now let's add some information on top of each scenario:
 Right after I speak, a man from a table to the woman's side stands up. He takes a step in front of her, smiles, and says something you can't hear. She glances up from her phone, frowns, and responds with a furrowed brow. The man's body language closes slightly, he speaks once more, and walks back to sit down at his table.
 
 ### The Project
+After thinking about it, you turn down the offer and your boss selects another member of your team. They do their best, but after 4 months of more late nights Project X is declared a loss. Leadership cancels the project.
 
+### The Invite
+You walk through the door of the bagel place, and see me in the midst of a group of six people. I smile and gesture you over, introducing you to the group and telling you the names of each person. There aren't any seats next to me, so you sit down at the open end of the table. My friends are polite, but they spend a lot of time talking amongst themselves. You learn that they've known each other for years; there are many in-jokes and past experiences that you don't get. You don't feel very included, and the breakfast passes with you on periphery.
 
-1. You saw another man talk to the woman in the café, and she seemed to be in a bad mood - brushing him off in dismissive way.
-1. Your boss put another person in charge of the project, and it turned into a bunch of headache for that person.
-1. When you arrive, you learn that my friends have known each other for years and they spend a lot of time talking amongst themselves. You feel awkward, and not included.
+### The Business Deal
 1. I do the deal on my own, and I struggle to sell the house for a while. When I eventually do sell it, it's barely for profit.
+
+---
 
 Now how do you feel about each scenario? Relieved? Justified in your caution? Validated?
 
@@ -120,10 +124,15 @@ I designed the outcomes of the proposed scenarios to tap into your likely fears,
 ### The Cafe
 After I speak, you hesitate for a second and then stand. You walk to her, a flutter in your chest. Reaching her, you say, "Hi. I know this is random, but you're dressed so well that I had to risk embarrassing myself to say hello." She looks up from her phone with those luminous eyes, and smiles. "Thank you! Today's been so stressful.. you just made my day." You reply, "Too much work?" "Yess.. I'm a paralegal, and we're working a big case. This is the only moment I've had to get a breath of fresh air." The chat continues for a few more moments, before she says, "I have to get back to work, but it was nice meeting you." She smiles, but hesitates for a second. You recognize the cue: "Do you have an Instagram? Maybe we can get a coffee together when you're not slammed with work." She smiles again and says, "I'd be okay with that." You take her Instagram, and walk back to our table.
 
-1. You talk to the woman in the café, and she's warm and kind. She seems to like you, and you exchange contact information to set up a date.
-1. You take charge of the problematic project, and the project's issues resolve under your guidance. Your boss is impressed with your skill, and would like to give you a bonus for your handling of the situation.
+### The Project
+Despite your reservations, you accept charge of Project X. It takes work, but under your leadership you are able to work through the personality differences, stop the late nights, and get team morale back up. Coworkers who used to speak with trepidation about the Project X team are marvelling at the turnaround. Project X finishes successfully three months later, and your boss gives you triple your normal yearly bonus in appreciation.
+
+### The Invite
 1. When you arrive, my friends welcome you into the group and conversation flows easily. You enjoy chatting to them, and exchange contact information to hang out in the future. The seeds for some new friendships are planted.
+
+### The Business Deal
 1. You go in on the house deal with me, and we flip the house in a few months for a 30% return on investment.
+
 
 Did you contemplate these positive outcomes when you considered the original scenarios? If you did, did they seem too pie-in-the-sky or naive relative to the risks?
 
