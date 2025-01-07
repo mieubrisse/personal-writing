@@ -4,6 +4,8 @@ title: "The 20 Minute Method"
 
 _Written on 2024-10-05_
 
+The 20 Minute Method
+--------------------
 After years of experimenting on myself, I've developed a framework for getting good at things that I call the "20 Minute Method". It goes like this:
 
 1. I must spend **at least** 20 minutes per day doing the thing I want to get good at.
@@ -12,12 +14,16 @@ After years of experimenting on myself, I've developed a framework for getting g
 
 That's it. But there's very intentional psychology behind it.
 
-Mark Manson has a story about [a prolific novelist whose secret is "200 crappy words per day"](TODO), and last month I saw [a Farnam Street post](TODO) saying, 
+Mark Manson has a story in [The Subtle Art Of Not Giving A Fuck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713) about meeting a prolific novelist. Manson asks him his secret and he replies, "Two hundred crappy words per day, that’s it."
+
+I.e., just showing up + time = results.
+
+I saw [a Farnam Street post](https://fs.blog/brain-food/august-18-2024/) that summarized this nicely:
 
 > You don't need more intensity; you need more consistency. Intensity impresses, consistency transforms.
 
-These align with what I've come to suspect: **time is the most important factor in skill development**.
-
+Why
+----
 Our culture today is all about flash & instant gratification. We get bombarded with news of cryptocurrency speculators who made millions in a month, Lamborghinis, beautiful houses, a barrage of insanely skilled performances on Youtube and the TV, Wall Street, plastic surgery, world-class meals made in half an hour.
 
 We've become accustomed to results Right Now. 
@@ -34,14 +40,16 @@ So even if you're using the very best in the world (who, again, may not be long-
 
 The same goes for skill development. 
 
-When I used to put all this pressure on myself to get very good at something very quickly, I was dedicating multiple hours per week to it. For physical skills like running or martial arts I'd make quick progress... then I'd get injured and my progress would get set back months. For every skill, I'd eventually get burnt out, start to dread practice, and quit.
+When I put all this pressure on myself to get good at something very quickly, I'd be dedicating 5-10 hours per week to it. For physical skills like running or martial arts I'd make quick progress... then I'd get injured and my progress would get set back months. For every skill, I'd eventually get burnt out and start to dread practice. Then I'd quit.
 
-I now believe such intensity is unnecessary and counterproductive. If I merely get 1% better each practice and keep showing up every day, in a year's time I'll be at 365% of where I started (for the math nerds, I used linear rather than exponential scaling because I don't think skill development works like compound interest).
+I now believe such intensity is unnecessary and counterproductive. If I merely get 1% better each practice and keep showing up every day, in a year's time I'll be at 365% of where I started (for the math nerds, I used linear rather than exponential scaling due to how I believe skill development works).
 
 Getting 1% better in a practice session is very easy: my natural desire to experiment and challenge myself, plus the learning function of my mind, ensures that.
 
 The most important factor, therefore, is that I keep showing up to practice. 
 
+How It Works
+------------
 All of the 20 Minute Method's stipulations are designed to take the pressure _off_, so that it's as easy as possible to show up to practice:
 
 - Practice is only 20 minutes, because it's easy to find 20-minute blocks in a day but 30-minute blocks feel like a Whole Thing to schedule.
@@ -61,11 +69,18 @@ As a result of the 20 Minute Method, I end up putting _at least_ ~120 hours of w
 
 This has proven very effective for me, and hopefully it helps you too!
 
-My results: 
+My Results
+----------
 
 - [This is ~9 months of progress learning guitar using the 20 Minute Method](TODO)
 - [This is me climbing a V5 bouldering route, after ~22 months of climbing using a modified version of the 20 Minute Method](TODO) (see footnote)
-- I decided to apply the 20 Minute Method to my writing 15 days ago. At the time, my blog had 15 posts, made over the 3 years of its existence. It now has 20 posts, including this one. I.e., 25% of my blog's content has been produced within the past 15 days (and I even missed two days!).
+- I decided to apply the 20 Minute Method to my writing a month ago. At the time, my blog had 15 posts, made over the 3 years of its existence. It now has 21 posts, including this one. I.e., 25% of my blog's content has been produced within the past month (and I even missed a few days!).
 - I started applying the 20 Minute Method to exercise in February (with no restrictions on what exercise I did), and my bench press has gone from roughly 80kg to 95kg last week (obligatory disclaimer: while the 20 Minute Method definitely made me consistent, I also stopped working in March so I had more time to stay in the gym).
 
 _Footnote: for skills whose practice can't be done daily for logistical or recovery reasons (e.g. rock climbing, kitesurfing, skydiving), I instead switch to "I must show up at least once a week. It doesn't matter for how long, it doesn't matter what practice I do; I just have to show up." What's happened historically: I end up rock-climbing 1-2 times per week, for 2-3 hours per session based on how I feel. I sometimes find myself impatient and wanting to go 2-3 times per week, but then I remind myself, "You need consistency, not intensity."_
+
+Tips
+----
+1. Sometimes even 20 minutes feels unbearable. If that's the case, do 10 minutes. Do 5. Just do _something_. You'll be shocked by how often you'll want to continue once the timer beeps.
+1. If you miss one or more practices, it's very important that you don't beat yourself up! Just accept that those days are past so there's no point thinking about them, and show up for practice today.
+1. Record yourself! It can sometimes feel like you're not making progress even when practicing consistently. If you ever feel this way, watch a video of yourself from two months ago.
