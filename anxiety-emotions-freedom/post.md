@@ -41,9 +41,9 @@ My research into fixing this revealed the possibility of the "Unconditionally Ok
 ### An Example
 As coincidence would have it, a friend reached out to me during my journalling to let me know he'd ended things with the girl he'd been seeing. 
 
-They'd been having friction, and an event had occurred yesterday where she'd had expectations around his behaviour that he couldn't meet due to previous commitments, and she'd lashed out angrily.
+They'd been having friction, and the straw that broke the camel's back was an event yesterday where she'd had expectations around his behaviour that he couldn't meet due to previous commitments. She'd felt angry, and lashed out.
 
-Her behaviour felt like Conditionally Okay to me. She'd had expectations around his behaviour that didn't get met, and she didn't feel okay as a result. 
+Her behaviour felt like the Conditionally Okay mindset to me. She'd had expectations around his behaviour that didn't get met, and she didn't feel okay as a result. 
 
 Like myself, it seemed she didn't realize that it _wasn't_ my friend's behaviour that was causing her to feel bad. Rather, it was her expectations and her need for them to be met so that she could feel okay. In not recognizing the true source of her pain, she was unknowingly making herself a victim to the outside world (in this case, my friend's actions). 
 
