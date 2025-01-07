@@ -23,12 +23,12 @@ Naturally, I felt the temptation to try and find resolutions for these things Ri
 
 However, I have learned that searching for solutions when anxious leads to reactivity: wild action that often creates more problems than it solves. Better to do nothing and wait until I feel calm to determine, "Is this still a problem? Does it need any action at all?"
 
-Instead I did some [positivity journalling](TODO), to redirect my focus away from the negative and re-center it on the positive.
+Instead I did some Positivity Journalling, to redirect my focus away from the negative and re-center it on the positive.
 
 ### Being Okay
 These different choices represent significant progress for me. 
 
-When [my cofounder fired me from my own company](TODO), one of the criticisms he levied at me was that I make others responsible for my emotions.
+When [my cofounder fired me from my own company](../a-lifes-work/post.md), one of the criticisms he levied at me was that I make others responsible for my emotions.
 
 Though I disagree with him on many things, I felt there was some truth to this particular criticism. Despite feeling attacked, I am proud that I did not defend myself and instead asked, "Could this be right?" I made the decision to learn and grow from it.
 
@@ -36,7 +36,7 @@ The ensuing months taught me that I had a "Conditionally Okay" mindset. Meaning,
 
 When external reality didn't cooperate, I felt bad: anxious, irritated, etc. I sought to exert control over the outside world so that I might return to feeling okay.
 
-My research into fixing this revealed the possibility of the "Unconditionally Okay" mindset: feeling safe and okay no matter what outside reality is doing. Michael Singer's [The Untethered Soul](TODO) was particularly instrumental in opening my mind to the possibility of being Unconditionally Okay.
+My research into fixing this revealed the possibility of the "Unconditionally Okay" mindset: feeling safe and okay no matter what outside reality is doing. Michael Singer's [The Untethered Soul](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself/dp/1572245379) was particularly instrumental in opening my mind to the possibility of being Unconditionally Okay.
 
 ### An Example
 As coincidence would have it, a friend reached out to me during my journalling to let me know he'd ended things with the girl he'd been seeing. 
