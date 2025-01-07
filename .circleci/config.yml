@@ -18,7 +18,9 @@ jobs:
 
       - run:
           name: Check links in Markdown docs
-          command: markdown-link-check --retry -qv .
+          command: |
+            sudo npm install -g markdown-link-check
+            markdown-link-check --retry -qv .
 
 workflows:
   build:
