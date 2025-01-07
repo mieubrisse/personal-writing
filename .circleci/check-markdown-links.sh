@@ -10,6 +10,6 @@ cat << EOF > "${config_filepath}"
 }
 EOF
 
-markdown-link-check --retry -qv "${root_dirpath}"
+markdown-link-check --verbose --config "${config_filepath}" "${root_dirpath}"
 
 exit "${exit_code}"
