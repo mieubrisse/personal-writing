@@ -2,6 +2,7 @@
 title: "Leveraged Judgement"
 ---
 
+### Leverage
 I am listening to the excellent [Almanack Of Naval Ravikant](https://www.navalmanack.com/). Naval believes that modern society and technology permit insane leverage. I.e., small choices can get amplified manyfold to result in outsize consequences. It's not a hard argument to buy - nearly every viral video was a small chunk of work that triggered widespread consequences.
 
 But just because a small amount of work _can_ trigger widespread results doesn't guarantee it will. The startup world is strewn with the bones of failed companies. The music industry is full of never-famous nobodies.
@@ -10,11 +11,10 @@ In such a leveraged world, Naval says, good judgment is key. If you are demonstr
 
 This is why Rick Rubin is such a big deal in the music industry: his judgment seems to consistently produce hits. Indeed, Rubin himself considers his taste to be what makes him special.
 
+### Judgment
 If Naval's assertion is true, then making good decisions is a huge component of being successful. Therefore, anyone who wants to be successful should study good decisionmaking.
 
-Fortunately, we're spoiled for educational resources on decisionmaking. Some of my personal favorites:
-
-TODO I Will Teach You To Be Rich
+Fortunately, we're spoiled for educational resources on this. Some of my personal favorites:
 
 1. Shane Parrish's [Farnam Street newsletter](https://fs.blog/) is dedicated to figuring out how to make better decisions. Unsurprisingly, it's been a hit with Wall Street traders. My "consistency over intensity" mantra came from here.
 1. Nassim Taleb's books like "Fooled By Randomness", "The Black Swan", and "Antifragile" teach us how to deal with randomness, and the limits of what we can predict. Much of my worldview (and financial success) has been formed by Taleb's theory.
@@ -34,15 +34,18 @@ To see this in practice, some examples:
 - Good investment deals commonly need to be acted on in a very short timeframe, and understanding the nature of risk-taking (when should you move fast vs slow?) allows you to capture value from good deals safely
 - Internalizing the lessons of this post (the importance of leverage & decisionmaking, conveyed from Naval Ravikant) will itself upgrade your decisionmaking by triggering you to seek out still-better decisionmaking and leveraged opportunities
 - If you understand leverage and hire someone to do your laundry, even if you only do 1 hour of laundry per week, you save 3,120 hours (130 days, or 4.3 months) over 60 years of adult life
-- Understanding the importance of automation (basically computers, including ChatGPT) is the difference between hundreds of hours doing tasks manually vs automating it
+- Understanding the importance of automation (basically computers, including ChatGPT) is the difference between hundreds of hours of manual labor vs automating it
 
-If these are ideas are cogent to you, some considerations you might apply to your own life:
+### Final Thoughts
+If these are ideas are interesting to you, some ways to implement them in your own life:
 
-- Are you looking for the way to work smart, not hard? I.e., are you looking for the small action that will make all the difference?
-- Where are areas in your life that are currently TODO TODO
-- Are you investing in upgrading your decisionmaking (e.g., using the resources above)?
-
-TODO CTA about my blog, and how I talk about the mental side of things
-TODO recs on where to start with Taleb
+1. Ask yourself, "Am I working smart instead of hard?" I.e., are you operating on autopilot, or are you actively seeking ways to leverage your judgment?
+2. Consider what things in your life you can outsource or automate to get back more time and energy (for extra leverage, tell ChatGPT what you do on a weekly basis and ask it to help)
+3. Invest in upgrading your decisionmaking:
+    - Subscribe to the Farnam Street newsletter
+    - Read "I Will Teach You To Be Rich" by Ramit Sethi for an excellent introduction to leveraging your time for financial success
+    - Read Nassim Taleb's "Fooled By Randomness" and "The Black Swan"
+    - Understand the Rationalist map/territory distinction
+4. Consider subscribing to my Substack, as I put out articles on living a better life every week (link below)
 
 _"Give me a lever long enough and a fulcrum on which to place it, and I will move the world." - Archimedes_
