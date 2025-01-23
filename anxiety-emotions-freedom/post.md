@@ -1,5 +1,6 @@
 ---
 title: "Anxiety, Emotions, & Freedom"
+subtitle: "A meditation on being happy regardless of what the rest of the world is doing" 
 ---
 
 _Written on 2025-01-07_
