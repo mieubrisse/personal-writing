@@ -3,7 +3,18 @@ title: "The Sleep Guide"
 subtitle: "A distillation of all the sleep knowledge I've picked up over 10+ years of dealing with insomnia"
 ---
 
-I'd wrestled with insomnia for most of my life. It's now mostly solved. This article is a practical guide on how you can fix yours, and why it's important to do so.
+I'd wrestled with insomnia for most of my life. It's now mostly solved. This article condenses my experience so you can fix yours, and why it's important to do so.
+
+This will be useful if you:
+
+- Vaguely know you "should" fix your sleep, but it doesn't feel a priority to do so
+- Aren't tired when it's time for bed
+- Lie in bed unable to fall asleep because your mind is racing
+- Wake up in the middle of the night and can't get back to sleep
+- Can't seem to keep a consistent bedtime
+
+The way I'll teach this:
+- I'll explain why it's very, very, very important for you to get adequate sleep
 
 <!--
 You're going to be interested in this guide if you:
@@ -18,7 +29,7 @@ You're going to be interested in this guide if you:
 
 Why Bother?
 ===========
-We know we "should" fix our sleep. Yet we're blasted with information encouraging us not to sleep:
+We know we "should" fix our sleep. Yet we're blasted with information discouraging us from sleeping:
 
 - Entrepreneurs on Instagram talking about their "grindset", and how little they sleep
 - "I'll sleep when I'm dead" 
@@ -57,9 +68,9 @@ If you're not the science type, consider the effects you've undoubtedly already 
 
 Notice this last one. Sleep deprivation poisons with vicious cycles: if you get a little sleep deprived, it tends to lead to more sleep deprivation.
 
-So here's your alarm: if you're sleep deprived (which I can almost guarantee you are), you _are_ destroying yourself.
+So here's me sounding the emergency: **if you're sleep deprived (which I can almost guarantee you are), you are destroying yourself**.
 
-Now the good news. 
+Now the good news:
 
 Suppose I tell you I have [the miracle drug from "Limitless"](https://en.wikipedia.org/wiki/Limitless_(film)), and it also increases your athletic performance, and _also_ reduces your risk for cardiovascular disease, diabetes, obesity, Alzheimer's, anxiety, and depression.
 
@@ -69,13 +80,18 @@ You can basically become superhuman by getting sufficient rest.
 
 Fundamentals: Understanding Your Body
 =====================================
-To fix your sleep problems, you'll first need to understand some things about your body.
+To fix your sleep problems, I need to teach you some important things about how your body works.
 
 ### Two Nervous Systems
 You have two opposing nervous systems:
 
-1. **Sympathetic Nervous System:** This is your "fight or flight" nervous system, responsible for wakefulness, focus, and the stress response. It releases adrenaline during dangerous or high-energy activities such as fighting or sports, and also cortisol during longer periods of stress.
-2. **Parasympathetic Nervous System:** This is your "rest and digest" nervous system, responsible for relaxation, metabolism, and energy conservation. When engaged, it turns off the stress response and brings us back to a calm place so digestion can occur.
+1. **Sympathetic Nervous System (SNS):** This is your "fight or flight" nervous system. It's responsible for alertness, attention focus, and the stress response. It releases adrenaline during dangerous or high-energy activities such as fighting or sports, and also cortisol during longer periods of stress.
+2. **Parasympathetic Nervous System (PNS):** This is your "rest and digest" nervous system. It's responsible for relaxation, metabolism, and energy conservation. When engaged, it turns off the stress response and brings us back to a calm place so digestion can occur. 
+
+To remember the difference, think:
+
+- Sympathetic nervous system is "sympathetic" to your danger
+- "parar" in Spanish/Portuguese means "to stop"; the parasympathetic nervous system is all about stopping and relaxing
 
 ### The Sympathetic Is Stronger
 The sympathetic nervous system is faster and stronger than parasympathetic nervous system. You can shoot to 100% stress level in seconds, but it will take hours to come back down.
@@ -97,16 +113,136 @@ Your sympathetic nervous system doesn't distinguish between physical vs psycholo
 - Feeling inadequate comparing oneself to others on social media
 - Feeling socially rejected
 
-### The Circadian Rhythm
-Your body has a "circadian clock" that's responsible for telling your body when to sleep (when awake) and when to awaken (when sleeping). This clock is adjusted by exposing your eyes to light.
+### The Sympathetic Grabs Focus, But Too Much Is Bad
+The sympathetic nervous system grabs our attention. You've felt this any time you've:
 
-Specifically, 
+- Been in a dangerous situation
+- Been involved in a tricky merge while driving, and you don't hear what your passenger is saying
+- Been locked in to meet a very tight deadline
+
+In these situations, the SNS grabbing focus is a good thing.
+
+However, the SNS's attention-grabbing power can be disruptive when it's too active for too long:
+
+- You're trying to read but your attention is constantly yanked back to the argument you had with your partner
+- You're anxious, constantly scanning for danger
+- Social media notifications constantly interrupt your focus, making you unproductive at work
+
+### The Circadian Clock
+Your body has an internal clock that tells your body when to start feeling sleepy and when to wake up. 
+
+It works via cortisol and melatonin.
+
+It works by hormone release, and body temperature.
+
+High body temperature
+
+
+- High temperature = energy, reaction time, physical performance
+- Low temperature = sleepiness
+- Darkness = "it's nighttime" = produce melatonin
+- Body temperature rises in morning, peaks in afternoon, drops at night
+- Warm showers cool by increasing blood flow to skin, which accelerates heat loss when you get out
+- Sudden cold = wakefulness (via SNS activation, increases body temperature via brown fat activation)
+- Gradual cold (cold room) = helps sleepiness by gradual heat loss
+- Bright light (especially blue light) = "it's daytime" = suppress melatonin production, shift your circadian rhythm
+- Sleepiness starts 12-16 hours after waking up
+- Temporary dip 7-9 hours after waking
+- Cortisol (circadian alerting signal) peaks in the morning
+
+- Exercise in morning/afternoon raise body temperature, promote wakefulness
+- Exercise at night raises body temperature, makes it harder to fall asleep
+
+To start feeling sleepy, your body temperature 
+
+When it's time to fall asleep, your body starts releasing melatonin
+
+The clock is adjustable 
+
+This clock is adjusted by exposing your eyes to light. Bright morning/sunrise light = "stay awake". Dim,
+
+Specifically,  TODOOOOOOOOOOOOO
+
+### Light
+- Light + seratonin = wakefulness
+- Darkness + seratonin = melatonin
+
+### Eating & Sleep
+- Liver & gut have peripheral clocks
+- Morning meals signal "daytime" = alertness
+- Fasting & high-protein meals promote wakefulness
+- Eating too close to bed raises body temperature (delaying sleep) and messing with liver & gut clocks
+
+### Adenosine & Sleep Pressure
+- Adenosine the result of brain using energy
+- Accumulates while you're awake
+- Sufficient sleep clears adenosine and resets wakefulness
+- If you don't sleep enough, adenosine is high the next day (tiredness)
+
+### Social Interaction
+Social engagement and cognitive tasks increase dopamine, norepinephrine, and orexin, keeping you alert.
+
+How it Affects Wakefulness:
+- Isolation or lack of stimulation can increase drowsiness.
+- Engaging in conversation, learning, or problem-solving keeps the brain awake.
+
+TODO Dopamine increases wakefulness!
+
 
 Why You Can't Sleep
 ===================
 You can't sleep because your sympathetic nervous system is activated, keeping you locked in a 
 
 
+
+
+Tactics
+=======
+- Military sleep method
+- Laying on sofa, in the dark, listening to podcast or audiobook
+- Don't exercise 2-3h before bed
+- No food 2-3h before bed
+- No social interaction (esp social media!!!) before bed
+- Fitbit sleep tracker, so you can see how you sleep
+- Bed is ONLY for sleep & sex
+    - NOT thinking, not watching TV, not messing with your phone, not Netflix
+    - When mind is racing, get up and go lay on the couch
+
+NOTE: 
+
+What Perfect Looks Like
+=======================
+NOTE: obviously, perfect isn't sustainable. You're going to break some of these rules; it's fine. You just need to be Good Enough, to get good sleep.
+
+
+Self-Help
+=========
+### I'm not tired when it's time for bed
+- Could be that you're messing up your circadian cycle:
+    - Bright lights at night
+    - Screens at night
+    - Not getting sufficient bright light right after you wake up
+- Could be that your body temperature is artificially high
+    - You're exercising close to sleep
+    - You're eating close to bed
+
+### I go to bed, but I can't switch my brain off
+
+### I wake up in the middle of the night and can't go back to sleep
+
+### I wake up tired
+
+### I can't seem to keep a consistent bedtime
+- Probably you're messing up your circadian cycle:
+    - Bright lights at night
+    - Screens at night
+    - Not getting sufficient bright light right after you wake up
+
+### I flew east on an airplane and now I'm jetlagged
+
+### I flew west on an airplane and now I'm "jetlagged"
+
+### I'm sleep deprived; now what?
 
 
 
@@ -155,6 +291,9 @@ TODO why aren't you tired?
 
 
 
+Sources
+=======
+- Andrew Huberman podcast
 
 
 
