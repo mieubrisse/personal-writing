@@ -3,7 +3,7 @@ title: "The Sleep Guide"
 subtitle: "A distillation of all the sleep knowledge I've picked up over 10+ years of dealing with insomnia"
 ---
 
-I'd wrestled with insomnia for most of my life. It's now mostly solved. This article condenses my experience so you can fix yours, and why it's important to do so.
+I'd wrestled with insomnia for most of my life. It's now mostly solved. This article condenses my experience so you can fix yours, and explains why it's important to do so.
 
 This will be useful if you:
 
@@ -12,9 +12,6 @@ This will be useful if you:
 - Lie in bed unable to fall asleep because your mind is racing
 - Wake up in the middle of the night and can't get back to sleep
 - Can't seem to keep a consistent bedtime
-
-The way I'll teach this:
-- I'll explain why it's very, very, very important for you to get adequate sleep
 
 <!--
 You're going to be interested in this guide if you:
@@ -77,6 +74,82 @@ Suppose I tell you I have [the miracle drug from "Limitless"](https://en.wikiped
 Wouldn't you do a _lot_ to get that drug? Turns out that it exists, it's free, and it can be found in your bedroom. 
 
 You can basically become superhuman by getting sufficient rest.
+
+Understanding How Sleep Works
+=============================
+So how do we fix your sleep problems? I first need to explain some things about your body so that you understand _why_ we're going to make the changes that we will. 
+
+If you're feeling impatient right now - "Just tell me what to do!" - please trust me. Understanding this information is what will make the difference in actually fixing your sleep. 
+
+If you don't understand how your body works, you can't accurately diagnose and fix the sleep problems you're experiencing.
+
+### Two Nervous Systems
+Your body has two nervous systems:
+
+1. **Fight or flight:** This activates during stressful situations, and is responsible for the release of adrenaline and cortisol. Think running away from a tiger: rapid breathing, pounding heart, wired muscles, intense focus.
+2. **Rest and digest:** This turns off the fight-or-flight nervous system. Think calm, peace, relaxed muscles, sex, and **sleep**.
+
+Importantly, _your body does not distinguish between types of stress_. 
+
+A tiger attack, a cold shower, an argument with your romantic partner, and social anxiety from Instagram are all handled the same: your fight-or-flight nervous system gets activated. What changes is only the degree of activation.
+
+Regardless of the cause, if your fight-or-flight system is activated then you're going to have a hard time falling asleep because your body is prepped to respond to stress.
+
+### Adenosine
+As your brain is awake and working, a chemical called "adenosine" is produced. Adenosine is a tiredness chemical: the more of it in your brain, the more tired you feel. 
+
+Think of it like brakes for your brain: the harder your brain works, the more adenosine, the more your brain needs to slow down to do maintenance so it doesn't damage itself.
+
+If you're living a clean life, adenosine builds up in your brain over the course of the day causing "sleep pressure". You get tired near the end of the day, you sleep, your brain does maintenance, and the adenosine is cleaned out during sleep leaving you refreshed in the morning.
+
+However, if you're not sleeping enough then you don't clear all the adenosine from your brain so you feel tired and slow even when you wake up.
+
+Things get complicated with caffeine. 
+
+Caffeine blocks our brain from noticing adenosine, thereby masking (but not removing) sleep pressure. You can't fall asleep when you've taken caffeine too close to bed because your body doesn't think it needs to sleep.
+
+If you've ever had a caffeine crash, it's because adenosine has been steadily building but your brain didn't notice it due to caffeine's effects. When the caffeine wears off, your brain suddenly notices all the adenosine and you feel a crash.
+
+### Circadian Clock
+You've probably heard of your circadian rhythm, but what exactly is it?
+
+Your brain has a little clock above the roof of your mouth that tracks when it thinks day and night are.
+
+If you're living a healthy life, the clock's idea of day and night matches real day and night. As it gets close to sunrise, your clock starts triggering the release of cortisol. 
+
+
+
+
+
+
+
+
+
+
+
+On top of this, your body has an internal day-night timekeeper called your "circadian clock".
+
+If your circadian clock is working properly, you'll get a boost of cortisol to wake you up from sleep 
+
+
+
+Sleep is complex, so there are several things we need to look at based on what you're struggling with. Don't be intimidated though - there's not an infinite
+
+Rest assured though, it's I'm going to need to teach you a few things about the way your body works
+
+
+
+At a high level, it's one or more of the following:
+
+1. Your nervous system is locked in a high-activation state, and you're not taking the necessary steps to deactivate it
+
+
+
+
+
+
+
+
 
 Fundamentals: Understanding Your Body
 =====================================
@@ -189,12 +262,6 @@ How it Affects Wakefulness:
 TODO Dopamine increases wakefulness!
 
 
-Why You Can't Sleep
-===================
-You can't sleep because your sympathetic nervous system is activated, keeping you locked in a 
-
-
-
 
 Tactics
 =======
@@ -227,6 +294,7 @@ Self-Help
     - You're eating close to bed
 
 ### I go to bed, but I can't switch my brain off
+TODO why is your mind racing?
 
 ### I wake up in the middle of the night and can't go back to sleep
 
@@ -243,7 +311,10 @@ Self-Help
 ### I flew west on an airplane and now I'm "jetlagged"
 
 ### I'm sleep deprived; now what?
+TODO no judgments on your life until the bags/circles under your eyes are gone
 
+
+TODO stimulants: caffeine, methamphetamines, modafinil, cocaine
 
 
 Fun Sleep Facts
@@ -253,39 +324,6 @@ Your brain contract when you sleep, opening up channels between the brain cells 
 
 ### Circadian Rhythms In Pure Darkness
 TODO cite study where dude stayed down in cave, and the circadian rhythm extended longer to 26h
-
-
-
-
-
-
-
-
-And here's the real kicker: 
-
-
-
-TODO stimulants: caffeine, methamphetamines, modafinil, cocaine
-
-TODO no judgments on your life until the bags/circles under your eyes are gone
-
-
-Understanding Sleep
-===================
-To fix your sleep, you need to understand a bit about how your body works.
-
-First:
-
-
-TODO people who are sleep-deprived _don't know_ - they think they're functioning at 100%
-
-
-TODO recovering from sleep debt
-
-
-TODO why is your mind racing?
-
-TODO why aren't you tired?
 
 
 
