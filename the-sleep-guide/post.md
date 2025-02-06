@@ -13,6 +13,8 @@ This will be useful if you:
 - Wake up in the middle of the night and can't get back to sleep
 - Can't seem to keep a consistent bedtime
 
+NOTE: I wrote this guide for the everyman. I'm intentionally hiding scientific stuff behind links so that you have the option (but not the obligation) to engage at a more technical level.
+
 <!--
 You're going to be interested in this guide if you:
 
@@ -85,17 +87,17 @@ If you don't understand how you work, you're not going to be able to self-diagno
 
 We'll cover five things:
 
-1. Your two nervous systems
+1. Your two nervous systems for stress
 2. The chemical that makes you tired, adenosine
 3. Your circadian clock
 4. How to adjust your circadian clock
 5. Melatonin
 
-### Two Nervous Systems
-Your body has two nervous systems:
+### Two Nervous Systems For Stress
+Your body has two separate nervous systems for stress: 
 
-1. **Fight-or-flight:** This activates during stressful situations, and is responsible for the release of adrenaline and cortisol. Think running away from a tiger: rapid breathing, pounding heart, wired muscles, intense focus.
-2. **Rest and digest:** This turns off the fight-or-flight nervous system. Think calm, peace, relaxed muscles, sex, and **sleep**.
+1. **[Fight-or-flight](https://en.wikipedia.org/wiki/Sympathetic_nervous_system):** This activates during stressful situations, and is responsible for the release of adrenaline and cortisol. Think running away from a tiger: rapid breathing, pounding heart, wired muscles, intense focus.
+2. **[Rest and digest](https://en.wikipedia.org/wiki/Parasympathetic_nervous_system):** This turns off the fight-or-flight nervous system. Think calm, peace, relaxed muscles, sex, and **sleep**.
 
 Importantly, _your body does not distinguish between types of stress_. 
 
@@ -106,11 +108,11 @@ Regardless of the cause, if your fight-or-flight system is activated then you're
 ### Adenosine
 While you are awake and using energy, a chemical byproduct called "adenosine" is produced. Adenosine is a tiredness chemical: the more it builds up in your brain, the more "sleep pressure" you experience and the more tired you feel. 
 
-Think of it like brakes for your brain: the harder your brain works, the more adenosine, the more your brain needs to slow down to do maintenance so it doesn't damage itself.
+Think of it like brakes for your brain: the harder your brain works, the more adenosine produced, the more your brain needs to slow down to do maintenance so it doesn't damage itself.
 
 If you're living a clean life, you get tired near the end of the day, you sleep, your brain does maintenance, and the adenosine is cleaned out during sleep leaving you refreshed in the morning.
 
-However, if you're not sleeping enough then you don't clear all the adenosine from your brain during sleep. You wake up tired and slow due to leftover adenosine. You have "sleep debt".
+However, if you're not sleeping enough then you don't clear all the adenosine from your brain. You wake up tired and slow due to leftover adenosine. You have "sleep debt".
 
 Things get worse with caffeine.
 
@@ -163,14 +165,16 @@ Fortunately, our circadian clock's idea of day & night can be adjusted.
 
 Adjustment happens through two main methods: light and food.
 
-First, light: you have cells in the back of your eye that measure the intensity of light you're seeing. These cells will constrict your pupil, and they also train your circadian clock. Bright light exposure - and particularly blue light - hint to your circadian clock, "It is daytime; adjust yourself accordingly."
+First, light: you have cells in the back of your eye that measure the intensity of light you're seeing. These cells train your circadian clock. Bright light exposure - and particularly light that comes from above you - hint to your circadian clock, "It is daytime; adjust yourself accordingly."
 
-For the purposes of jet lag, 
+Coming from above? Yes; light from above makes a stronger adjustment to our circadian clock than light coming from below us (because the light-detecting cells are concentrated at the bottom of our eye). This makes sense from an evolutionary perspective: we want our circadian clock adjusted by the sky above us but not the fire at our feet.
 
-1. Getting bright light exposure early in the day after waking up, to reinforce "I should be awake staring when the sun comes up".
-2. Avoiding bright light exposure in the evening so you don't confuse your clock.
+Artificial lights at night, particularly white or blue light, are clearly problematic. If we're getting exposed at night to the lights in our house, TVs, phones, or computers, we're telling our circadian clock, "It's daytime - shift yourself so that I'm awake during this hour. The absolute worst thing would be bright white fluorescent lights overhead.
 
-Artificial lights at night are clearly problematic: if we're getting exposed at night to the lights in our house, TVs, phones, or computers, we're telling our circadian clock, "It's daytime - shift yourself so that I'm awake during this hour.
+So for the purposes of jet lag, you want to:
+
+1. Get bright overhead light exposure early in the day after waking up, to reinforce "I should be awake staring when the sun comes up".
+2. Avoid bright light exposure in the evening so you don't confuse your clock.
 
 The second way your circadian clock adjusts is through food.
 
@@ -189,9 +193,9 @@ Adenosine and sleep pressure make you feel tired, but melatonin is what lets tha
 
 Your body produces melatonin in the darkness, and light exposure blocks melatonin production.
 
-Therefore, artificial lights at night are doubly bad: you're incorrectly telling your circadian clock "You should be adjusting to think now is daytime," and you're preventing your ability to go to sleep.
+Therefore, artificial lights at night are doubly bad: you're incorrectly telling your circadian clock "You should be adjusting to think now is daytime," and you're suppressing melatonin production thereby preventing your ability to go to sleep.
 
-You might have experienced this in your own life, after a late-night videogaming, TV, or phone session. Even though you're very tired (adenosine, sleep pressure), you can't fall asleep because your melatonin production has been impaired.
+You might have experienced this in your own life after a late-night videogaming, TV, or phone-scrolling session. Even though you're very tired (adenosine, sleep pressure), you can't fall asleep because your melatonin production has been impaired.
 
 ### Review
 And that's what you need to know! 
@@ -202,61 +206,67 @@ To review:
 - There's only one type of stress, your fight-or-flight nervous system produces cortisol as a result, and that cortisol keeps you awake
 - Adenosine builds up as your awake, resulting in you feeling tired
 - You have a biological clock that regulates your wakefulness and sleepiness with body temperature and cortisol
-- Your biological clock gets set by light exposure and eating
+- Your biological clock gets set by eating and light exposure (particularly blue light from overhead)
 - Melatonin lets sleep pressure turn into sleep
 
-We'll next use all this information in the next session to fix your sleep.
+We'll next put all this information together to help you fix your sleep.
 
-What Perfect Looks Like
+What Perfect Sleep Looks Like
 =======================
-Putting all the information above together, this is my understanding of what a "perfect" sleep routine might look like:
+To give you a target to aim for, the below is my understanding of what a "perfect" sleep routine might look like. Note that this is **not** realistic for most people, _and that's okay_. More on perfection vs reality afterwards:
 
-- You sleep in a cool, dark, quiet room that can let morning light in when you rise
+- You sleep in a cool, dark, quiet room that can let morning light in at sunrise
 - You wake around dawn, naturally, without an alarm clock, which is the same time you get up every day
 - You might take a cold shower
-- Rather than looking at phones or screens, you get up and take a ~10 minutes to anchor your circadian clock with sunlight exposure as well, and wake up with some exercise
+- Rather than looking at phones or screens, the first thing you do is go for a ~10 minute walk to anchor your circadian clock with sunlight exposure (and wake you up with some exercise)
+- You might go to the gym or do some other exercise to raise your body temperature and further help yourself wake up
 - When you get back you eat breakfast, further signalling to your circadian clock that now is a good time to be awake
-- You do not take any caffeine
-- Throughout the day, you do not use your bed for anything except sleep and sex; all your work is done elsewhere
-    - You do not play with your phone, work, watch TV, or do anything else in your bed
+- You do not drink any caffeine or alcohol
+- Throughout the day, you do not use your bed for anything except sleep and sex
+    - You do not work in your bed
+    - You do not read in bed
+    - You do not play with your phone, work, or watch TV
 - As the post-lunch slump happens, you might take a short nap
-- After sunset, 1-2 hours before bed, you...
+- After sunset, 2-3 hours before bed, you...
     - Stop strenuous physical exercise
     - Stop food intake
-    - Disconnect from screens and the internet: phone, TV, computer
-    - Dim artificial lights
+    - Disconnect from screens (phone, TV, computer, etc.) and the internet
+    - Turn off overhead lights
+    - Use dim, warm lights placed low in the room
     - Do a low-activation activity like reading, listening to a podcast, or listening to calming music
     - Might take a warm bath or shower
+    - Might do some journalling
 - When you get in bed you...
     - Wear a sleep tracker so you can get an idea of your actual sleep quality and duration
-    - Slow your breathing down, triggering your rest & digest nervous system
+    - Consciously take deep, slow breaths, triggering your rest & digest nervous system
     - Keep your thoughts centered on a calm, soothing place, redirecting yourself back when you find yourself thinking, planning, or anticipating (as your bed is only for sleep & sex, not for thinking)
 - If you find yourself unable to sleep, you...
-    - Might try the [military sleep method](https://sleepdoctor.com/how-sleep-works/military-sleep-method) to relax to the point of falling asleep
+    - Might try the [military sleep method](https://sleepdoctor.com/how-sleep-works/military-sleep-method) to help yourself relax
     - Might get up and do a calming activity in the dark elsewhere in your house so that you're not using your bed for thinking or planning
+- If you wake up in the middle of the night and can't go back to sleep, you...
+    - Do not turn on lights
+    - Do not eat food
+    - Might listen to some calming music, or a low-activation podcast or audiobook
+- When you wake up you check your sleep tracker to see how you did
 
-All that said, you're **not** going to hit this and _that's okay_. You don't need to; this isn't an exact science. You just need to be good enough so that you consistently feel good.
+What Realistic Sleep Looks Like
+===============================
+Most people, myself included, won't hit this Perfect ideal because the sacrifices necessary are too restrictive. What, I'll _never_ have a coffee? I'll _never_ stay up late with my friends? That's just too harsh.
 
-Tactics
-=======
-- Military sleep method
-- Laying on sofa, in the dark, listening to podcast or audiobook
-- Don't exercise 2-3h before bed
-- No food 2-3h before bed
-- No social interaction (esp social media!!!) before bed
-- Fitbit sleep tracker, so you can see how you sleep
-- Bed is ONLY for sleep & sex
-    - NOT thinking, not watching TV, not messing with your phone, not Netflix
-    - When mind is racing, get up and go lay on the couch
+And _that's okay_ because we don't need to be Perfect. We just need to be Good Enough.
 
-NOTE: 
+Meaning, you regularly have all the following without drugs like stimulants (e.g. caffeine) or sleeping pills:
 
-What Perfect Looks Like
-=======================
-NOTE: obviously, perfect isn't sustainable. You're going to break some of these rules; it's fine. You just need to be Good Enough, to get good sleep.
+1. You wake up easily feeling refreshed
+2. Your mind feels clear & energized throughout the day
+3. You fall asleep easily at the end of the day
+
+I gave the Perfect ideal as a direction we can use to orient ourselves, and 
+
+There are diminishing returns 
 
 
-Self-Help
+Self-Diagnosis
 =========
 ### I'm not tired when it's time for bed
 - Could be that you're messing up your circadian cycle:
