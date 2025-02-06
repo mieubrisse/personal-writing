@@ -13,7 +13,7 @@ This will be useful if you:
 - Wake up in the middle of the night and can't get back to sleep
 - Can't seem to keep a consistent bedtime
 
-NOTE: I wrote this guide for the everyman. I'm intentionally hiding scientific stuff behind links so that you have the option (but not the obligation) to engage at a more technical level.
+NOTE: I wrote this guide for the average person, keeping in mind "Could my mom read this?". I'm intentionally hiding scientific stuff behind links so that you have the option (but not the obligation) to engage at a more technical level.
 
 <!--
 You're going to be interested in this guide if you:
@@ -212,13 +212,17 @@ To review:
 We'll next put all this information together to help you fix your sleep.
 
 What Perfect Sleep Looks Like
-=======================
-To give you a target to aim for, the below is my understanding of what a "perfect" sleep routine might look like. Note that this is **not** realistic for most people, _and that's okay_. More on perfection vs reality afterwards:
+=============================
+To give you a target to aim for, the below is my understanding of what a "perfect" sleep routine might look like based on the way our bodies work.
+
+This is **not** realistic for most people, and it's **not** a list of what you have to do. Most people - myself included - will never hit this because the sacrifices involved are just too restrictive. 
+
+I'm giving this only as a direction we can use to orient ourselves towards. Afterwards, I'll break it down into something you can use in your day-to-day.
 
 - You sleep in a cool, dark, quiet room that can let morning light in at sunrise
 - You wake around dawn, naturally, without an alarm clock, which is the same time you get up every day
 - You might take a cold shower
-- Rather than looking at phones or screens, the first thing you do is go for a ~10 minute walk to anchor your circadian clock with sunlight exposure (and wake you up with some exercise)
+- Rather than looking at phones or screens, the first thing you do is go for a ~10 minute walk under the sky to anchor your circadian clock with sunlight exposure (and wake you up with some exercise)
 - You might go to the gym or do some other exercise to raise your body temperature and further help yourself wake up
 - When you get back you eat breakfast, further signalling to your circadian clock that now is a good time to be awake
 - You do not drink any caffeine or alcohol
@@ -227,6 +231,7 @@ To give you a target to aim for, the below is my understanding of what a "perfec
     - You do not read in bed
     - You do not play with your phone, work, or watch TV
 - As the post-lunch slump happens, you might take a short nap
+- You eat a relatively early dinner, around sunset
 - After sunset, 2-3 hours before bed, you...
     - Stop strenuous physical exercise
     - Stop food intake
@@ -251,22 +256,83 @@ To give you a target to aim for, the below is my understanding of what a "perfec
 
 What Realistic Sleep Looks Like
 ===============================
-Most people, myself included, won't hit this Perfect ideal because the sacrifices necessary are too restrictive. What, I'll _never_ have a coffee? I'll _never_ stay up late with my friends? That's just too harsh.
+Again, we don't need to be Perfect. What, I'll _never_ have a coffee? _Never_ stay up late with my friends? It's not reasonable.
 
-And _that's okay_ because we don't need to be Perfect. We just need to be Good Enough.
+But that's okay; we just need to be Good Enough.
 
-Meaning, you regularly have all the following without drugs like stimulants (e.g. caffeine) or sleeping pills:
+By my definition, Good Enough means you regularly experience all of the following without chemical assistance like stimulants (e.g. caffeine) or sleeping pills:
 
-1. You wake up easily feeling refreshed
-2. Your mind feels clear & energized throughout the day
+1. You wake up easily feeling refreshed and energized
+2. Your mind feels clear and quick throughout the day
 3. You fall asleep easily at the end of the day
 
-I gave the Perfect ideal as a direction we can use to orient ourselves, and 
+### Getting To Good Enough
+To get there, I think about "gracefully degrading" the Perfect ideal into something that we can actually maintain. 
 
-There are diminishing returns 
+Further, not everything on the Perfect list has the same impact. E.g., it's probably more important that you stop drinking coffee than you take a cold shower every morning.
+
+With that said, I've given my suggestion for how you can get to Good Enough in your own life. I've broken it down into suggested phases. Afterwards I'll give what I currently do.
+
+If you choose to follow my phases, it's important that you _take things slow_.
+
+I'm a firm believer in "consistency over intensity". 
+
+If you try to change everything all at once you'll feel excited at first. Then the changes will start to feel like a lot of work, and you'll begin to feel stressed. Eventually you'll procrastinate a bit on what you know you're supposed to do. Eventually you'll quit, and be back exactly where you started with no progress. So take it slow.
+
+Put another way, you got your bad sleep habits through years of poor choices. You're not going to fix it in a week _and that's okay_.
+
+To keep you motivated, I strongly recommend a sleep-tracking wearable. I personally use the Fitbit Inspire 3 with the Fitbit app and have been very happy with it. As you progress, you'll see your sleep quality and sleep duration go up in the app.
+
+When you slip up (which will inevitably happen; it's okay!), you'll see the negative impact it has on your sleep.
+
+### Phase 1: Stop Immediate Damage (probably 3-4 weeks)
+As I mentioned earlier, being sleep-deprived can trigger poor choices that lead to further sleep deprivation. This phase is about stopping that damage. 
+
+The theme, again, is **consistency over intensity**. Each day of this phase should feel easy to achieve. As you stack up days though, you'll find yourself going where you need to go.
+
+**Bedtime Screen Ban + TODOOOOOOO**
+As we talked about earlier, light (and particularly blue light from above) tells your body "you need to be awake now". More light at night = you stay up later = you get less sleep = you are more tired = you are more likely to reach for stimulants like caffeine to get you through the day.
+
+Beyond this, the stuff on your screens - social media, videogames, shows, the internet - tend to activate you. The show you're watching has you on the edge of your seat, or you're comparing yourself to that other person on Instagram, or you're engaged in complex problem-solving in a videogame.
+
+To fix this, we're going to work up to no screens 1 hour before you physically get in bed. Once you are in bed, 
+
+We'll do this in 10-minute increments. The first day you won't use any screens 10 minutes before you get in bed, then the second day 20 minutes before bed, and so on until you arrive at no screens 60 minutes before bed. If you fail a day, 
+
+If you currently have a habit of using screens before bed, it's particularly important that you substitute somethin
+
+To do so, we're going to substitute 
+
+**Caffeine Elimination**
+As you now know, caffeine blocks your body's ability to measure how tired it is. It also spikes your fight-or-flight nervous system. Throughout this phase, we're going to walk your caffeine consumption down to zero so your body can start to understand how tired it actually is.
+
+If you don't take any caffeine right now, amazing - your job is easy this phase.
+
+If you're a heavy caffeine user, remember **consistency over intensity**. Trying to stop all caffeine intake in a day is a bad idea because it'll give you headaches and mood swings that will drag you back to caffeine.
+
+To get to zero, first calculate your daily caffeine intake in milligrams (mg). I've listed some common caffeinated items below to give you a rough idea; you can use [Caffeine Informer](https://www.caffeineinformer.com/the-caffeine-database) to find more.
+
+- Green tea: 15mg
+- Black tea: 30mg
+- Single shot of espresso: 75mg
+- 250ml (~8oz) can of Red Bull energy drink: 80mg
+- 8oz cup of regular coffee: 80-100mg
+- Cup of coffee at a chain: usually 90-180mg (e.g. [here's Starbucks](https://www.caffeineinformer.com/the-complete-guide-to-starbucks-caffeine))
+- ~450ml (16oz) can of Monster energy drink: 160mg
+- Exercise preworkout: 175-300mg
 
 
-Self-Diagnosis
+
+**Phase End**
+This phase is complete when you have completed 14 consecutive days without caffeine or screens 1 hour before bed. If you find the challenges hard to 
+
+### Phase 2: Building A Bedtime Routine (2-3 weeks)
+TODO
+
+### Phase 3: 
+
+
+FAQ
 =========
 ### I'm not tired when it's time for bed
 - Could be that you're messing up your circadian cycle:
@@ -279,6 +345,9 @@ Self-Diagnosis
 
 ### I go to bed, but I can't switch my brain off
 TODO why is your mind racing?
+
+### I woke up in the middle of the night; should I be worried?
+TODO biphasic sleep
 
 ### I wake up in the middle of the night and can't go back to sleep
 
@@ -300,6 +369,9 @@ TODO no judgments on your life until the bags/circles under your eyes are gone
 
 TODO stimulants: caffeine, methamphetamines, modafinil, cocaine
 
+### What about supplements like magnesium?
+TODO
+
 
 Fun Sleep Facts
 ===============
@@ -309,6 +381,8 @@ Your brain contract when you sleep, opening up channels between the brain cells 
 ### Circadian Rhythm Isn't Exactly 24h
 TODO your circadian rhythm is not naturally 24h! It's actually a little bit wrong, so light is necessary to keep it on track (also important for seasons)
 TODO cite study where dude stayed down in cave, and the circadian rhythm extended longer to 26h
+
+### Biphasic Sleep
 
 
 
