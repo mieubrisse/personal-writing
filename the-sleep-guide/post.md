@@ -215,14 +215,14 @@ What Perfect Sleep Looks Like
 =============================
 To give you a target to aim for, the below is my understanding of what a "perfect" sleep routine might look like based on the way our bodies work.
 
-This is **not** realistic for most people, and it's **not** a list of what you have to do. Most people - myself included - will never hit this because the sacrifices involved are just too restrictive. 
+This is **not** realistic for most people, and you **don't** have to do all of this. Most people - myself included - won't hit this because the sacrifices involved are just too restrictive. 
 
-I'm giving this only as a direction we can use to orient ourselves towards. Afterwards, I'll break it down into something you can use in your day-to-day.
+I'm giving this simply as a direction we can use to orient ourselves towards. Afterwards, I'll break it down into something more realistic.
 
 - You sleep in a cool, dark, quiet room that can let morning light in at sunrise
 - You wake around dawn, naturally, without an alarm clock, which is the same time you get up every day
-- You might take a cold shower
 - Rather than looking at phones or screens, the first thing you do is go for a ~10 minute walk under the sky to anchor your circadian clock with sunlight exposure (and wake you up with some exercise)
+- You might take a cold shower
 - You might go to the gym or do some other exercise to raise your body temperature and further help yourself wake up
 - When you get back you eat breakfast, further signalling to your circadian clock that now is a good time to be awake
 - You do not drink any caffeine or alcohol
@@ -249,7 +249,7 @@ I'm giving this only as a direction we can use to orient ourselves towards. Afte
     - Might try the [military sleep method](https://sleepdoctor.com/how-sleep-works/military-sleep-method) to help yourself relax
     - Might get up and do a calming activity in the dark elsewhere in your house so that you're not using your bed for thinking or planning
 - If you wake up in the middle of the night and can't go back to sleep, you...
-    - Do not turn on lights
+    - Do not turn on lights (e.g. no lights when using the bathroom)
     - Do not eat food
     - Might listen to some calming music, or a low-activation podcast or audiobook
 - When you wake up you check your sleep tracker to see how you did
@@ -266,25 +266,76 @@ By my definition, Good Enough means you regularly experience all of the followin
 2. Your mind feels clear and quick throughout the day
 3. You fall asleep easily at the end of the day
 
+### Good Enough
+To get there, I think about "gracefully degrading" the Perfect ideal into something that we can actually maintain. Here's what I'm currently doing in my own life:
+
+- I sleep in a bedroom with a blackout curtain that I lower nearly all the way down, but not entirely so that a bit of morning light can come in
+- I sleep with earplugs ([I recommend this brand](TODO)), as I live in a noisy city and [sound can decrease sleep quality without waking you up](TODO) (I definitely notice that my sleep quality is worse without earplugs)
+- I turn on the air conditioner whenever I'm in doubt about temperature, as I tend to run hot and don't like waking up in the middle of the night sweating
+- I wake between 05:00 and 06:00 with [an alarm clock app](TODO) that plays wave sounds - softly at first, and then getting louder and more insistent over 5 minutes to pull me out of sleep more gradually
+- I get out of bed immediately, and pull the blackout shades all the way up to let in full sunlight
+- Depending on the day of the week, I then try to anchor my circadian clock with daylight and exercise:
+    - Eat a banana, bike to the park, and do an hour of yoga or functional training
+    - Go for a 10-minute walk around my neighborhood while listening to an audiobook or podcast
+- When I get back I evaluate how much more alert I need to be and choose between a cold shower and a warm (but not hot) one
+- I do mindfulness meditation for at least 10 minutes afterwards
+- I then eat breakfast
+- I might have a single cup of caffeinated coffee, so long as it's before ~10:30am and I'm taking the coffee crash and lack of sleep later
+    - I do this because I love coffee, even though I know it's best to have no coffee
+    - The "before 10:30" rule is because my body processes caffeine slower than normal due to my genetics, so caffeine stays in my system longer than most people
+    - I do this only 1-2 days per week max
+    - When I do drink coffee, I have a noticeable crash in the late afternoon: a spike in anxiety, tiredness, and feeling bad about myself and life that requires discipline to remember is from the coffee (and I don't need to freak out and change anything)
+- When feeling tired throughout the day I occasionally lay on my bed, though I'm trying to cut this habit so that my bed is strictly for sleep and sex
+    - I never work in my bed
+- If I feel tired in the afternoon I might take a 1-2 hour nap (though I think this is too long and I'm experimenting with reducing it)
+    - Somebody once told me, "I sleep when I'm tired" and this resonated with me
+- My last workout of the day is in the early afternoon, ending by 4-5pm
+- I try to finish eating by ~7pm, though sometimes this gets stretched to 8pm
+    - When I eat late, I notice a harder time falling asleep
+- At 7:30pm I've configured [this Chrome browser extension](TODO) to block Youtube, Reddit, Instagram, and a news site I read, as a safeguard in case I got caught in a scrolling spiral
+    - I don't have my phone block Instagram because sometimes I want to post Stories of what I do after 7:30pm
+    - This is less dangerous for me because I use (and highly recommend) [this modded version of Instagram](TODO) that disables the Feed and all the crap on the Search page
+- I also have apps on my phone and laptop that tint my screen orange at night to block blue light:
+    - On my phone, I use [Twilight](TODO)
+    - On my laptop, I use [f.lux](TODO)
+- Around 8:30pm I:
+    - Turn off all lights in my apartment except for dim, low ones
+    - Stop all screens
+    - Take a warm shower
+    - Might do some journalling in my pen-and-paper journal about the day, focusing on the things that went right rather than the things that went wrong (to decrease my stress rather than increase it)
+    - Might lay on my couch and look out the window while listening to a non-activating audiobook
+        - I've found that books with useful information (e.g. business books) tend to be activating, since I'm trying to pay attention and remember everything
+        - I'm still experimenting with a good way to find non-activating books; my best guess is a book that makes you go "Huh, interesting" but doesn't feel like you need to apply the lessons in your life right now
+- Between 21:00 and 21:30 I'll crawl into bed
+    - I'm always wearing my [Fitbit Inspire 3](TODO) to bed, which will log my sleep duration & quality overnight
+    - As I lie in bed, I try to slow my breathing by 50% and think about a calming place
+- At 22:30pm I have my phone and laptop configured to block certain apps, as an extra safeguard in case I got caught in a bad scrolling spiral
+    - On my phone, I use [AppBlock](TODO) to block Instagram and Discord
+    - On my laptop I use [the Mac Downtime feature](TODO) to block everything except Notion, the app that I write in, Spotify, and ChatGPT
+- I commonly catch myself in bed thinking about the past, planning for the future, or trying to resolve a problem; when I catch this, I remind myself that my bed is not for thinking and try to redirect my thoughts back to a calm, neutral place
+    - For me, this is a rock I used to sit on on the shore of a lake at a summer camp I used to go to as a child
+- If I have to go to the bathroom, I do so in the dark
+- If I'm still awake after 20-30 minutes, I'll try the [military sleep method](https://sleepdoctor.com/how-sleep-works/military-sleep-method) to see if I can relax enough to sleep
+- If I still can't sleep (usually because of food, exercise, or coffee early), or I wake up and can't get back to sleep, I'll get up and try to do something calming: writing, listening to a non-activating audiobook in the dark on my couch
+- If I 
+- When I wake up I check my sleep duration and quality in the Fitbit app (it's almost always less than I thought)
+
 ### Getting To Good Enough
-To get there, I think about "gracefully degrading" the Perfect ideal into something that we can actually maintain. 
+As you make changes in your own life, it's important that you _take things slow_.
 
-Further, not everything on the Perfect list has the same impact. E.g., it's probably more important that you stop drinking coffee than you take a cold shower every morning.
+I'm a firm believer in "consistency over intensity". If you try to change everything all at once you'll feel excited at first. Then the changes will start to feel like a lot of work, and you'll begin to feel stressed. Eventually you'll procrastinate a bit on what you know you're supposed to do. Eventually you'll quit, and be back exactly where you started with no progress. 
 
-With that said, I've given my suggestion for how you can get to Good Enough in your own life. I've broken it down into suggested phases. Afterwards I'll give what I currently do.
-
-If you choose to follow my phases, it's important that you _take things slow_.
-
-I'm a firm believer in "consistency over intensity". 
-
-If you try to change everything all at once you'll feel excited at first. Then the changes will start to feel like a lot of work, and you'll begin to feel stressed. Eventually you'll procrastinate a bit on what you know you're supposed to do. Eventually you'll quit, and be back exactly where you started with no progress. So take it slow.
+So take it slow. Experiment with changing one thing at a time.
 
 Put another way, you got your bad sleep habits through years of poor choices. You're not going to fix it in a week _and that's okay_.
 
-To keep you motivated, I strongly recommend a sleep-tracking wearable. I personally use the Fitbit Inspire 3 with the Fitbit app and have been very happy with it. As you progress, you'll see your sleep quality and sleep duration go up in the app.
+To keep you motivated, I strongly recommend a sleep-tracking wearable. Just like in the gym, you can use it to help you see progress.
 
 When you slip up (which will inevitably happen; it's okay!), you'll see the negative impact it has on your sleep.
 
+
+
+<!--
 ### Phase 1: Stop Immediate Damage (probably 3-4 weeks)
 As I mentioned earlier, being sleep-deprived can trigger poor choices that lead to further sleep deprivation. This phase is about stopping that damage. 
 
@@ -330,28 +381,60 @@ This phase is complete when you have completed 14 consecutive days without caffe
 TODO
 
 ### Phase 3: 
+-->
 
 
 FAQ
-=========
+====
 ### I'm not tired when it's time for bed
-- Could be that you're messing up your circadian cycle:
-    - Bright lights at night
-    - Screens at night
-    - Not getting sufficient bright light right after you wake up
-- Could be that your body temperature is artificially high
-    - You're exercising close to sleep
-    - You're eating close to bed
+There are quite a few things that could be causing this:
+
+- You're drinking too much coffee too close to bed which is activating your fight-or-flight nervous system and blocking you from feeling sleep pressure
+    - SOLUTION: no coffee after 11:00am
+- You exercised within 2-3h of when you wanted to sleep and your body is still activated
+    - SOLUTION: exercise in the morning or afternoon
+- You've been blasting your eyes with light at night so you don't have enough melatonin built up to sleep
+    - SOLUTION: stop screens and overhead light 1-1.5h before the time you want to be in bed
+- Your circadian clock isn't anchored on actual sunrise (perhaps due to jetlag, perhaps because you've been confusing it with light or eating at night)
+    - SOLUTION: get 10+ minutes of daylight immediately upon waking and eat food after, and 2 hours before bedtime stop eating, overhead lights, and screens
+- Your fight-or-flight nervous system is still activated, preventing you from noticing sleep pressure
+    - SOLUTION: do something calming: a guided meditation while laying quietly, calming music, journalling, a peaceful audiobook, etc.
+- You took too long of a nap too close to bedtime, so you don't have sufficient sleep pressure built up
+    - SOLUTION: limit naps to TODO hours, and more than TODO hours before bed
 
 ### I go to bed, but I can't switch my brain off
-TODO why is your mind racing?
+This is very likely your fight-or-flight nervous system keeping you alert because it thinks there's a threat you need to react to. 
 
-### I woke up in the middle of the night; should I be worried?
-TODO biphasic sleep
+Your body treats all stress the same, so your troubles at work or in your relationship are activating the same stress response as physical danger. Try to figure out what your mind is holding on to, and see if you can tell it, "There's nothing I can do about this right now. There's nothing to be done. We'll address this tomorrow." 
+
+Sometimes, our mind is hanging on to something because it's afraid we'll forget it. It sometimes helps me to write the thing I'm worrying about in a place where I'll see it the next morning, so my mind trusts that I'll handle it later (credit to ["Getting Things Done"](TODO) for this trick). Often I have to do this a couple times, until my mind lets go of everything it was hanging on to.
+
+Sometimes though, you just mess up. You ate, or exercised, or were on screens, or took coffee too close to bed. It's okay, it happens. 
+
+It's important that you don't beat yourself up, or get freaked out about how tired you're going to be tomorrow, because then you're just activating your fight-or-flight nervous system and making it even harder to fall asleep. Just like a pilot coming in for a bad landing, just pull up and come around again. Get out of bed so that you're not using bed for thinking/stressing/worrying, and do something calming: writing, listening to podcast or audiobook, etc. Try again in 20-30 minutes, or when you feel tired again.
 
 ### I wake up in the middle of the night and can't go back to sleep
+People assume this is bad and get stressed out about it, making it harder to sleep again. But it's not necessarily bad!
+
+There's decent evidence that before artificial lights, [humans slept in two phases with a brief awake period between them](TODO). Supposedly this middle-of-the-night awake time felt very calm and peaceful. Rarely, when I'm very well-rested, I've experienced something sort of like this. 
+
+So don't worry; just do something calming to get back to sleep. And **definitely** don't turn on any lights!
 
 ### I wake up tired
+This could be for several reasons:
+
+- You didn't sleep long enough, meaning you didn't fully clear the adenosine/sleep pressure from the previous day
+    - SOLUTON: make the conscious choice to prioritize sufficient sleep, remembering that days of heavy brain or body exertion require more rest
+- You're waking up before your usual wakeup time and your body is still cold with low cortisol (e.g. you had to wake up early to catch a flight)
+    - SOLUTION: get moving to warm your body up, though be conscious that light and food will pull your circadian clock's wake-up time earlier
+- You have sleep apnea, which is causing micro-wakeups that are preventing you from getting restful sleep
+    - SOLUTION: get a sleep tracker that monitors noise and oxygen levels, and see a doctor if you're hearing gasping or seeing your oxygen levels drop in the night
+- Your room is too hot, causing micro-wakeups
+    - SOLUTION: cool your room, preferably to ~20 Celsius/68 Fahrenheit
+- Your partner is disturbing you as you sleep, causing micro-wakeups 
+    - SOLUTION: consider a bigger bed, separate blankets, or a mattress with a foam that isolates movement
+- Sounds are causing micro-wakeups
+    - SOLUTION: get better sound isolating in your room, and consider earplugs
 
 ### I can't seem to keep a consistent bedtime
 - Probably you're messing up your circadian cycle:
@@ -366,11 +449,15 @@ TODO biphasic sleep
 ### I'm sleep deprived; now what?
 TODO no judgments on your life until the bags/circles under your eyes are gone
 
-
 TODO stimulants: caffeine, methamphetamines, modafinil, cocaine
 
 ### What about supplements like magnesium?
 TODO
+
+### What about naps?
+
+### What about white noise?
+TODO brown noise
 
 
 Fun Sleep Facts
