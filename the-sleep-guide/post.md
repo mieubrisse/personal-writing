@@ -71,7 +71,7 @@ So here's me sounding the emergency: **if you're sleep deprived (which I can alm
 
 Now the good news:
 
-Suppose I tell you I have [the miracle drug from "Limitless"](https://en.wikipedia.org/wiki/Limitless_(film)), and it also increases your athletic performance, and _also_ reduces your risk for cardiovascular disease, diabetes, obesity, Alzheimer's, anxiety, and depression.
+Suppose I tell you I have [the miracle drug from the movie "Limitless"](https://en.wikipedia.org/wiki/Limitless_(film)), and it also increases your athletic performance, and _also_ reduces your risk for cardiovascular disease, diabetes, obesity, Alzheimer's, anxiety, and depression.
 
 Wouldn't you do a _lot_ to get that drug? Turns out that it exists, it's free, and it can be found in your bedroom. 
 
@@ -256,9 +256,9 @@ I'm giving this simply as a direction we can use to orient ourselves towards. Af
 
 What Realistic Sleep Looks Like
 ===============================
-Again, we don't need to be Perfect. What, I'll _never_ have a coffee? _Never_ stay up late with my friends? It's not reasonable.
+Again, we don't need to be Perfect. I'll _never_ have a coffee? _Never_ stay up late with my friends? It's not reasonable.
 
-But that's okay; we just need to be Good Enough.
+But that's okay. We don't nedd to be Perfect; just need to be Good Enough.
 
 By my definition, Good Enough means you regularly experience all of the following without chemical assistance like stimulants (e.g. caffeine) or sleeping pills:
 
@@ -515,7 +515,7 @@ TODO your circadian rhythm is not naturally 24h! It's actually a little bit wron
 TODO cite study where dude stayed down in cave, and the circadian rhythm extended longer to 26h
 
 ### Biphasic Sleep
-
+TODO
 
 
 
