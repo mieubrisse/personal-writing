@@ -161,7 +161,7 @@ If you've ever taken a long flight going east, you've likely been hit by jet lag
 
 Jet lag is when your circadian clock's idea of day and night don't match actual day and night. Those body temperature and cortisol peaks we just talked about are happening at the wrong times (e.g. in the middle of the actual night, instead of right after waking).
 
-Fortunately, our circadian clock's idea of day & night can be adjusted.
+Fortunately, our circadian clock's idea of day & night can be adjusted by about 1 hour per day.
 
 Adjustment happens through two main methods: light and food.
 
@@ -267,7 +267,7 @@ By my definition, Good Enough means you regularly experience all of the followin
 3. You fall asleep easily at the end of the day
 
 ### Good Enough
-To get there, I think about "gracefully degrading" the Perfect ideal into something that we can actually maintain. Here's what I'm currently doing in my own life:
+To get there, I think about "gracefully degrading" the Perfect ideal into something that I can actually maintain. Here's what I'm currently doing in my own life:
 
 - I sleep in a bedroom with a blackout curtain that I lower nearly all the way down, but not entirely so that a bit of morning light can come in
 - I sleep with earplugs ([I recommend this brand](TODO)), as I live in a noisy city and [sound can decrease sleep quality without waking you up](TODO) (I definitely notice that my sleep quality is worse without earplugs)
@@ -320,6 +320,23 @@ To get there, I think about "gracefully degrading" the Perfect ideal into someth
 - If I 
 - When I wake up I check my sleep duration and quality in the Fitbit app (it's almost always less than I thought)
 
+### Measuring Caffeine
+As you now know, caffeine blocks your body's ability to measure how tired it is. It also spikes your fight-or-flight nervous system.
+
+I find it helpful to know how many milligrams of caffeine stuff has, so I know how wired something will get me. Here are some standard values:
+
+- Green tea: 15mg
+- Black tea: 30mg
+- Normal soda: 30mg
+- Single shot of espresso: 75mg
+- 250ml (~8oz) can of Red Bull energy drink: 80mg
+- 8oz cup of regular coffee: 80-100mg
+- Cup of coffee at a chain: usually 90-180mg (e.g. [here's Starbucks](https://www.caffeineinformer.com/the-complete-guide-to-starbucks-caffeine))
+- ~450ml (16oz) can of Monster energy drink: 160mg
+- Exercise preworkout: 175-300mg
+
+You can find values for basically anything you can think of on [Caffeine Informer](https://www.caffeineinformer.com/).
+
 ### Getting To Good Enough
 As you make changes in your own life, it's important that you _take things slow_.
 
@@ -332,8 +349,6 @@ Put another way, you got your bad sleep habits through years of poor choices. Yo
 To keep you motivated, I strongly recommend a sleep-tracking wearable. Just like in the gym, you can use it to help you see progress.
 
 When you slip up (which will inevitably happen; it's okay!), you'll see the negative impact it has on your sleep.
-
-
 
 <!--
 ### Phase 1: Stop Immediate Damage (probably 3-4 weeks)
@@ -397,6 +412,8 @@ There are quite a few things that could be causing this:
     - SOLUTION: stop screens and overhead light 1-1.5h before the time you want to be in bed
 - Your circadian clock isn't anchored on actual sunrise (perhaps due to jetlag, perhaps because you've been confusing it with light or eating at night)
     - SOLUTION: get 10+ minutes of daylight immediately upon waking and eat food after, and 2 hours before bedtime stop eating, overhead lights, and screens
+- You're sleeping at different times each night, so your circadian clock doesn't have a consistent sleep time that it can prepare you for
+    - SOLUTION: get daylight right when you wake up to anchor your circadian clock, and go to bed at roughly the same time each night
 - Your fight-or-flight nervous system is still activated, preventing you from noticing sleep pressure
     - SOLUTION: do something calming: a guided meditation while laying quietly, calming music, journalling, a peaceful audiobook, etc.
 - You took too long of a nap too close to bedtime, so you don't have sufficient sleep pressure built up
@@ -416,7 +433,7 @@ It's important that you don't beat yourself up, or get freaked out about how tir
 ### I wake up in the middle of the night and can't go back to sleep
 People assume this is bad and get stressed out about it, making it harder to sleep again. But it's not necessarily bad!
 
-There's decent evidence that before artificial lights, [humans slept in two phases with a brief awake period between them](TODO). Supposedly this middle-of-the-night awake time felt very calm and peaceful. Rarely, when I'm very well-rested, I've experienced something sort of like this. 
+There's decent evidence that before the invention of artificial lights, [humans slept in two phases with a brief awake period between them](TODO). Supposedly this middle-of-the-night awake time felt very calm and peaceful. Rarely, when I'm very well-rested, I've experienced something sort of like this. 
 
 So don't worry; just do something calming to get back to sleep. And **definitely** don't turn on any lights!
 
@@ -427,6 +444,8 @@ This could be for several reasons:
     - SOLUTON: make the conscious choice to prioritize sufficient sleep, remembering that days of heavy brain or body exertion require more rest
 - You're waking up before your usual wakeup time and your body is still cold with low cortisol (e.g. you had to wake up early to catch a flight)
     - SOLUTION: get moving to warm your body up, though be conscious that light and food will pull your circadian clock's wake-up time earlier
+- You're not sleeping on a regular schedule, and are instead getting 8 hours randomly.
+    - SOLUTION:
 - You have sleep apnea, which is causing micro-wakeups that are preventing you from getting restful sleep
     - SOLUTION: get a sleep tracker that monitors noise and oxygen levels, and see a doctor if you're hearing gasping or seeing your oxygen levels drop in the night
 - Your room is too hot, causing micro-wakeups
@@ -437,33 +456,59 @@ This could be for several reasons:
     - SOLUTION: get better sound isolating in your room, and consider earplugs
 
 ### I can't seem to keep a consistent bedtime
-- Probably you're messing up your circadian cycle:
-    - Bright lights at night
-    - Screens at night
-    - Not getting sufficient bright light right after you wake up
+Several things to consider:
 
-### I flew east on an airplane and now I'm jetlagged
+- Are you getting a strong blast of daylight as soon as you get up? This will help with falling asleep 14-16 hours later.
+- Are you irradiating your eyes with light at night (screens, lights), suppressing melatonin production and making it difficult for you to sleep?
+- Are you doing activating things (food, exercise, social media, videogames, etc.) before bed, making it harder to fall asleep?
 
-### I flew west on an airplane and now I'm "jetlagged"
+### I'm flying east on an airplane and will be jetlagged
+Because you flew east, this is true jetlag: your body thinks it should still be sleeping at sunrise, and it thinks it should still be awake at night.
+
+Before you go, you can start shifting your circadian clock to your destination. To do so:
+- Start waking up at sunrise at your destination
+- Turn on bright indoor lights as soon as you get up, to start adjusting your circadian clock earlier
+- Eat yoru breakfast at the breakfast time of your destination
+- Stop eating, exercise, screens etc. around sunset at your destination
+
+You could also consider melatonin supplementation to help you fall asleep earlier, though I personally choose not to take it. I avoid drugs when possible.
+
+When you arrive, you can do the same stuff from Good Enough sleep: get up around sunrise, go for walk, eat when you get back, etc.
+
+Remember that your circadian clock can adjust by about 1 hour per day, so it's going to take some time to fully align with the local timezone.
+
+### I'm flying west on an airplane and will be jetlagged
+This type of jetlag is easier and faster to fix. Basically, you just need to stay up via caffeine, exercise, etc. You're going to build a tremendous amount of sleep pressure from staying up so long, so it should be easy to fall asleep as long as you're not suppressing melatonin production by receiving light near bedtime.
 
 ### I'm sleep deprived; now what?
-TODO no judgments on your life until the bags/circles under your eyes are gone
+The first thing to remember is that you're not thinking straight. You're more anxious, more depressed, more negative, and more fearful. This can lead to reactive decisions about your life, job, or relationships that wouldn't be a big deal if you were well-rested.
 
-TODO stimulants: caffeine, methamphetamines, modafinil, cocaine
+I like to remind myself, "No judgments about my life until the dark circles are gone from under my eyes."
+
+Second, you're going to want to reach for your stimulant of choice (probably caffeine) to help you get through the tiredness. It's very important you resist this urge! If you take the stimulant, you'll mess up your sleep that night, which means you won't get better.
+
+If it helps, you can think about it as: you took out a sleep loan from the back in the past. Now you have to pay it back. Be more careful taking out that sleep loan in the future.
+
+Third, remember that your tiredness will make you want to reach for "easy" dopamine: social media, Youtube, Netflix, etc. It's especially important you avoid this entertainment because your defenses are down so you're more likely to get into a bad spiral, and the screens will mess up your sleep. If you mess up your sleep, you'll never get better.
+
+Instead, contemplate doing some journalling, meditation, or listening to an audiobook.
 
 ### What about supplements like magnesium?
 TODO
 
 ### What about naps?
+TODO
 
 ### What about white noise?
-TODO brown noise
+I personally use noise to help block out any sounds my earplugs don't catch. Noises come in various "colors", and I find white noise to be pretty harsh. I like brown noise better, so I [have an app that I use](TODO).
 
+### Should I take melatonin supplementation?
+I've used melatonin in the past to help with getting to sleep on airplanes and when flying west -> east. On the Andrew Huberman podcast about sleep he mentioned that melatonin (which is a hormone) can affect various systems, so I avoid it to be safe. I personally recommend a life of minimal substances, but the choice is yours.
 
 Fun Sleep Facts
 ===============
 ### Glymphatic System
-Your brain contract when you sleep, opening up channels between the brain cells which are used for flushing away cellular waste. This is called your **glymphatic system**. When you don't get enough sleep, it's like your brain cells keep producing garbage but the garbage truck never comes. The trash just keeps accumulating.
+Your brain cells contract when you sleep. This opens up channels between the brain cells which are used for flushing away cellular waste, like sewers. This is called your **glymphatic system**. When you don't get enough sleep, it's like your brain cells keep producing garbage but the garbage truck never comes. The trash just keeps accumulating.
 
 ### Circadian Rhythm Isn't Exactly 24h
 TODO your circadian rhythm is not naturally 24h! It's actually a little bit wrong, so light is necessary to keep it on track (also important for seasons)
@@ -478,27 +523,7 @@ TODO cite study where dude stayed down in cave, and the circadian rhythm extende
 Sources
 =======
 - Andrew Huberman podcast
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC8911243/ (GREAT overview of how the clocks work)
-
-
-
-
-
-
-
-
-
-
-
-What to do about this
----------------------
-- TODO do exercise early, but not late in the day
-- TODO do warm-ups before exercising to help raise your body temperature!
-
-
-TODO normal mg of caffeine of coffee, red bull, monster, etc.
-
-TODO "don't judge your life until the bags under your life are gone"
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8911243/ (GREAT overview of how the various biological clocks work)
 
 
 
