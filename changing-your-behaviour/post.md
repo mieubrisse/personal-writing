@@ -3,6 +3,56 @@ title: "Changing Your Behaviour"
 subtitle: "A practical guide to changing your own behaviour"
 ---
 
+I was not happy with myself as a kid. I felt shy, awkward, lonely, unskilled, and ineffective.
+
+But I am competitive. I want to win.
+
+So I devoted time to shaping myself into the person I wanted to be.
+
+This post shares my lessons I learned crafting myself: how to get rid of bad habits, how to start good ones, and how to keep them.
+
+After reading, you will be better at crafting yourself into the person you want to be.
+
+Why should you listen to me?
+----------------------------
+I'll try to outline my results.
+
+I started life anxious, skinny, and awkward - both socially and physically. I was not attractive. I was not funny. I didn't seem to have much natural talent.
+
+But I'm a quick learner, I'm introspective, and I want to win. I am also stubborn.
+
+
+
+I have an addictive personality. I acquired several bad habits in life which needed work to kill: a videogame addiction, a Youtube addiction, argumentativeness, defensiveness.
+
+I also get bored easily. I've started many new things, but didn't follow through: clarinet, saxophone, piano, German, Russian, Arabic, diving, snowboarding.. and for many years, weightlifting.
+
+As such, I've spent a lifetime thinking about how to shape my behaviour into what I want.
+
+I'm at a spot now where I think I have something valuable to share:
+
+- I speak fluent Portuguese
+- I've been weightlifting for 3 years, and recently hit a 100kg bench press
+- I've been rock climbing since 
+- My finances are automated, and growing without 
+
+This post shares my lessons. Hopefully it helps you too. 
+
+
+
+
+<!--
+NOTES
+- Take the pressure OFF
+- When you're starting, buy the entry-level equipment
+- Avoid spending your time on things where you don't learn
+- The power of the default: if you have a big nice TV in your living room, you'll be compelled to use it
+-->
+
+
+
+As a result, I've acquire d
+
 I've learned quite a bit about how to upgrade your life: learn new things, acquire new habits, let go of bad ones. This post transmits my toolbox to you.
 
 Who am I? I'm [this guy](https://www.instagram.com/kevinjtoday/). 
