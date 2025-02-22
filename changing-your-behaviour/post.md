@@ -47,6 +47,9 @@ NOTES
 - When you're starting, buy the entry-level equipment
 - Avoid spending your time on things where you don't learn
 - The power of the default: if you have a big nice TV in your living room, you'll be compelled to use it
+- If you miss a day, temporarily lowering the next day's commitment
+- System needs to be designed to function when you're at your worst, NOT at your best
+   - Don't try to make missed days up. In fact, if you miss then consider temporarily lowering your commitment
 -->
 
 
