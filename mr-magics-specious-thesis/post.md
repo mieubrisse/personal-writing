@@ -53,7 +53,7 @@ No! What! Who even thinks like this?
 
 The reassuring answer: basically all us funny monkey-looking things.
 
-It's a tempting trap. "My problems are the world's fault. My only issue that I haven't given _enough middle finger_."
+It's a tempting trap. "My problems are the world's fault. My only issue is that I haven't given _enough middle finger_."
 
 Yet, I've recently awakened to karma being real. 
 
@@ -61,7 +61,7 @@ Not because of Moral Accountant Buddha in the sky, tallying on one side every ti
 
 But rather, as a physical property of the universe (though maybe Moral Accountant Buddha exists too).
 
-Imagine if every time you come home you bring in flowers, or a beautiful piece of art. In a few weeks.. wow, such hygge. You'll feel good by virtue of surrounding yourself with nice things.
+Imagine if every time you come home you bring in flowers, or a beautiful piece of art. In a few weeks.. wow, so hygge. You'll feel good by virtue of surrounding yourself with nice things.
 
 But now suppose you District 9'd your toilet, and every rumbling in your tummy had you projectile defecating straight on the floor. Yep, just right there... all over the carpet, and ottoman, and... was that your cat? "How weird," says you, "I'm slipping and covered in shit all the time."
 
@@ -71,7 +71,7 @@ Our actions in life have consequences. The energy we put out into the world gets
 
 So if you want a more positive result, make a more positive choice. If you'd like not to go back to lock-up, you might want to reconsider telling the judge to kiss your ass.
 
-Or at least say "please".
+Or at least say, "please".
 
 <!--
 Tedi notes:
