@@ -49,6 +49,8 @@ And given these stated desires, his chosen course of action is to:
 
 Sage choices, my friend.
 
+![Not a great gardener](midtext1.png)
+
 No! What! Who even thinks like this?
 
 The reassuring answer: basically all us funny monkey-looking things.
@@ -60,6 +62,8 @@ Yet, I've recently awakened to karma being real.
 Not because of Moral Accountant Buddha in the sky, tallying on one side every time I give money to a homeless person, and on the other side each time I treat my neighbors to a free performance of "My Heart Will Go On" in the shower.
 
 But rather, as a physical property of the universe (though maybe Moral Accountant Buddha exists too).
+
+![He's having a little too much fun](midtext2.png)
 
 Imagine if every time you come home you bring in flowers, or a beautiful piece of art. In a few weeks.. wow, so hygge. You'll feel good by virtue of surrounding yourself with nice things.
 
