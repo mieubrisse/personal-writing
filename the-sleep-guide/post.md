@@ -18,6 +18,7 @@ The sections that we'll cover:
 
 1. Why bother fixing your sleep?
 2. How sleep works
+3. Caffeine & alcohol
 3. What perfect sleep looks like
 4. What "good enough" sleep looks like
 5. Specific advice for various scenarios (e.g. mind is racing, jet lag, etc.)
@@ -106,13 +107,14 @@ Sleep can feel random: sometimes we can fall asleep easily, other times we can't
 
 But sleep is governed by biological rules. If you know those rules, you'll understand why you can and can't fall asleep on certain days. You won't be dependent on me or anyone else tell you what to do, because you'll know how you work.
 
-We'll cover five things:
+We'll cover six things:
 
 1. Your two nervous systems for stress
 2. Why you feel tired
 3. The internal clock your body uses to track day and night
 4. How to adjust your internal clock
 5. Why you fall asleep
+6. The stages & cycles during sleep
 
 ### Two Nervous Systems For Stress
 Your body has two separate nervous systems for stress: 
@@ -131,7 +133,7 @@ All of the following are "danger" from your body's perspective: a tiger attack, 
 Therefore, any type of stress = difficulty falling asleep.
 
 ### Why You Feel Tired
-While you are awake, a chemical called **adenosine** is produced. Adenosine is a tiredness chemical: the more it builds up in your brain, the more desire to sleep you feel. This is called **sleep pressure**.
+While you are awake, a chemical called **[adenosine](https://en.wikipedia.org/wiki/Adenosine)** is produced. Adenosine is a tiredness chemical: the more it builds up in your brain, the more desire to sleep you feel. This is called **sleep pressure**.
 
 Think of it like brakes for your brain: the harder your brain works, the more adenosine gets created, and the more your brain needs to slow down so it doesn't damage itself.
 
@@ -139,14 +141,8 @@ In the natural flow of things, the built-up sleep pressure means you get tired n
 
 However, if you're not sleeping enough then you don't clean the adenosine from your brain. You wake up tired and slow due to leftover adenosine. You have **sleep debt**.
 
-Things get worse with caffeine.
-
-Caffeine prevents our brain from noticing adenosine, so we don't notice that we're tired. The adenosine is still building; our brain just can't see it.
-
-If you've ever had a caffeine crash, it's because the caffeine wore off and your brain suddenly noticed all the built-up adenosine.
-
 ### Your Internal Clock
-Your brain has a little clock called the **circadian clock** that keeps track of day and night. It tries to wake you up at sunrise, keep you alert throughout the day, and put you to sleep 14-16 hours after you wake up.
+Your brain has a little clock called the **[circadian clock](https://en.wikipedia.org/wiki/Circadian_clock)** that keeps track of day and night. It tries to wake you up at sunrise, keep you alert throughout the day, and put you to sleep 14-16 hours after you wake up.
 
 It controls your body through two methods.
 
@@ -169,19 +165,13 @@ You'll see this is true if you think of your own life:
 - Exercising right before bed makes it hard to sleep because exercise elevates your body temperature and activates your fight-or-flight nervous system. It takes a couple hours for your temperature and stress level to come down.
 - Taking a hot shower before bed helps you sleep because your body lowers its temperature under the hot water to avoid overheating. When you get out of the shower, your body temperature is lower and you're more ready to sleep.
 
-The second way your circadian clock controls your body is a chemical called **cortisol**.
+The second way your circadian clock controls your body is a chemical called **[cortisol](https://en.wikipedia.org/wiki/Cortisol)**.
 
 Cortisol is a stress chemical. It enhances alertness, blocking the sleep pressure from adenosine. It's the same chemical produced by your fight-or-flight nervous system to keep you alert when your body is responding to stress. 
 
 Cortisol itself is not a bad thing! It's a useful part of your body's operation. It's only bad when your cortisol levels are high for long periods of time.
 
 Your circadian clock peaks your cortisol levels ~30-45 minutes after awakening, and then lets them decline over the rest of the day (allowing you to feel more sleep pressure 14-16h after waking). They hit their lowest levels during the first half of sleep, and then increase in the second half of sleep until you wake up.
-
-Caffeine is harmful here too.
-
-In addition to blocking your brain from noticing sleep pressure (adenosine), caffeine tells your fight-or-flight nervous system to produce cortisol. This artificially raises your cortisol and increases wakefulness.
-
-This is why you feel wired on caffeine. Your fight-or-flight nervous system is activated.
 
 ### Adjusting Your Internal Clock
 Our circadian clock does its best to keep track of day and night, but it can be wrong.
@@ -221,7 +211,7 @@ I couldn't find a clear reason why, but this makes sense from an evolutionary pe
 The result is that if you eat food close to bed, you're telling your circadian clock, "Shift yourself to be awake during this time".
 
 ### Why You Fall Asleep
-Sleep pressure - built-up adenosine - makes you feel tired, but it's not what actually puts you to sleep. Your body produces a chemical called **melatonin** that lets your tiredness turn into sleep. 
+Sleep pressure - built-up adenosine - makes you feel tired, but it's not what actually puts you to sleep. Your body produces a chemical called **[melatonin](https://en.wikipedia.org/wiki/Melatonin)** that lets your tiredness turn into sleep. 
 
 Melatonin does _not_ directly force you unconscious like sleep medication. Instead it lets sleep pressure turn into sleep by lowering your body temperature and reducing cortisol that's keeping you awake.
 
@@ -230,6 +220,30 @@ Remember those light intensity sensors in your eyes? When they detect darkness t
 Therefore, artificial lights at night are doubly bad. They incorrectly tell your circadian clock, "It's daytime; adjust yourself", and they block melatonin production so you can't sleep even if you're tired.
 
 You might have experienced this in your own life after a late-night TV, videogaming, or phone-scrolling session. Even though you're tired (sleep pressure from built-up adenosine), you can't fall asleep because you don't have enough melatonin.
+
+### Sleep Stages & Cycles
+During sleep, our body moves through [four different sleep stages](https://www.sleepfoundation.org/stages-of-sleep). Each has its own purpose:
+
+1. **Transition Sleep:** The lightest stage, lasting 1-10 minutes. It's in between wakefulness and real sleep, and if you're woken up here you may not even know you were asleep. If you've ever been sleeping next to a partner and they twitched, that happened in this stage.
+2. **Light Sleep:** A slightly deeper stage where breathing slows, muscles relax, and heart rate drops. If you're awakened here, you probably knew you were asleep.
+3. **Deep Sleep:** The deepest sleep, and hardest to wake someone up from. This stage is mostly about body repair: your immune system works and your muscles repair. If you're woken up during this stage, you'll feel groggy and slow. This is the stage where sleepwalking occurs.
+4. **Rapid Eye Movement (REM) Sleep:** This is a weird stage. Your eyes are sliding back and forth behind your eyelids (hence the name "rapid eye movement"), and your brain is active almost as if you're awake because you're having vivid dreams. However, your body has paralyzed itself on purpose to keep you from acting out your dreams. This stage's benefit is mostly mental: memory formation and emotional processing.
+
+But our body doesn't just go Transition Sleep -> Light Sleep -> Deep Sleep -> REM Sleep -> wake up. 
+
+Instead, our body moves through cycles of the four stages. It roughly looks like Transition Sleep -> Light Sleep -> Deep Sleep -> REM Sleep -> start the next cycle, but there can be some skipping around. 
+
+Each cycle is [1.5-2 hours](https://www.ncbi.nlm.nih.gov/books/NBK526132/), and a normal night of sleep is composed of 4-5 cycles.
+
+This means that there are better and worse times to wake up. Waking up during Light Sleep feels better than waking up during Deep Sleep.
+
+You might have experienced this in your own life when you wake up to an alarm. 
+
+Sometimes, you feel better waking up after roughly 4 hours than you do after 5. This is likely because you woke up near the end of the cycle after 4 hours, whereas with 5 hours you'd have been better off waiting a little longer.
+
+But each individual's sleep cycle length is different, and the cycles change as the night goes on. Early cycles are shorter and more focused on Deep Sleep, and later cycles are longer and more focused on REM Sleep.
+
+Meaning, it's very hard to wake yourself up at the perfect time using an alarm. It's much easier to let yourself wake up naturally.
 
 ### Review
 And that's what you need to know for now!
@@ -242,8 +256,45 @@ To review:
 - You have a biological clock that regulates your wakefulness and sleepiness with body temperature and cortisol
 - Your biological clock gets set by eating and light exposure (particularly blue light from above you)
 - Melatonin lets sleep pressure turn into sleep
+- You sleep in cycles that last 1.5-2 hours
+- Each cycle is composed of four sleep stages: Transition, Light, Deep, and REM
 
-Now we'll use this information to help you fix your sleep.
+With this foundation, we'll now look at what's messing with your sleep.
+
+Caffeine & Alcohol
+==================
+### Caffeine
+Caffeine messes with our sleep in three ways.
+
+First, it blocks our brains from noticing sleep pressure (adenosine), so we don't notice we're tired. The adenosine is still building; our brain just can't see it.
+
+Second, caffeine tells our fight-or-flight nervous system to produce cortisol. This activates us, reducing how tired we feel. This is why you feel wired on caffeine.
+
+If you've ever had a caffeine crash, it's because:
+
+1. The caffeine wore off and your brain suddenly noticed all the built-up adenosine
+2. The cortisol boost from caffeine passed, and your body is tired from being so activated (being stressed requires more energy)
+
+Third, caffeine suppresses hunger. This makes it more difficult to use food to adjust your circadian clock.
+
+### Alcohol
+Alcohol is [straight bad for sleep](https://www.verywellhealth.com/why-does-alcohol-make-me-sleepy-8656023).
+
+It makes you "sleepy", but it's corrupted sleep:
+
+- It keeps your body warm, preventing your body from cooling like your circadian clock wants to
+- You spend more time in Light Sleep in the second half of the night, meaning you're easier to wake up
+- You spend less time in REM Sleep, thereby reducing your mental and emotional recharging
+- You have to wake up to pee frequently, meaning you have to spend more time getting back to sleep
+
+What's more, the environment around alcohol is often destructive to sleep:
+
+- The loud music, dancing, and social interaction of a club activate your fight-or-flight nervous system
+- The lights in the bar, club, or street after a late night of drinking tell your circadian clock, "It's daytime; adjust yourself so I'm awake now"
+- Eating late at night further confuses your circadian clock into thinking it's daytime
+
+All of these add up to heavy sleep disruptions.
+
 
 What Perfect Sleep Looks Like
 =============================
@@ -270,6 +321,11 @@ A "perfect" sleep routine:
     - You do not read in bed
     - You do not play with your phone, work, or watch TV
 - As the post-lunch slump happens, you might take a nap of either 20 minutes or 1.5-2 hours (but not 20-90 minutes)
+    - Naps of 20-90 minutes should be avoided so that you don't get woken up in Deep Sleep and feel groggy
+    - A nap of less than 20 minutes will refresh you without entering Deep Sleep
+    - A 1.5-2 hour nap will allow you to complete a full sleep cycle
+- You don't take long naps in the late afternoon or night
+    - This is so that you don't clear _too much_ sleep pressure (making it hard to fall asleep at bedtime)
 
 **Night**
 - You eat a relatively early dinner, around sunset
@@ -295,57 +351,6 @@ A "perfect" sleep routine:
     - Might listen to some calming music, or a low-activation podcast or audiobook
 - When you wake up you check your sleep tracker to see how your sleep was
 
-### Naps & Sleep Stages
-I mentioned above that you might take a nap of less than 20 minutes or 90-120 minutes, but not 20-90 minutes. 
-
-To understand why, I'll explain what happens when we sleep:
-
-During sleep, our body moves through [four different sleep stages](https://www.sleepfoundation.org/stages-of-sleep). Each has its own purpose:
-
-1. **Transition Sleep:** The lightest stage, lasting 1-10 minutes. It's in between wakefulness and real sleep, and if you're woken up here you may not even know you were asleep. If you've ever been sleeping next to a partner and they twitched, that happened in this stage.
-2. **Light Sleep:** A slightly deeper stage where breathing slows, muscles relax, and heart rate drops. If you're awakened here, you probably knew you were asleep.
-3. **Deep Sleep:** The deepest sleep, and hardest to wake someone up from. This stage is mostly about body repair: your immune system works and your muscles repair. If you're woken up during this stage, you'll feel groggy and slow. This is the stage where sleepwalking occurs.
-4. **Rapid Eye Movement (REM) Sleep:** This is a weird stage. Your eyes are sliding back and forth behind your eyelids (hence the name "rapid eye movement"), and your brain is active almost as if you're awake because you're having vivid dreams. However, your body has paralyzed itself on purpose to keep you from acting out your dreams. This stage's benefit is mostly mental: memory formation and emotional processing.
-
-But our body doesn't just go Transition Sleep -> Light Sleep -> Deep Sleep -> REM Sleep -> wake up. 
-
-Instead, our body moves through cycles of the four stages. It roughly looks like Transition Sleep -> Light Sleep -> Deep Sleep -> REM Sleep -> start the next cycle, but there can be some skipping around. 
-
-Each cycle is [1.5-2 hours](https://www.ncbi.nlm.nih.gov/books/NBK526132/), and a normal night of sleep is composed of 4-5 cycles.
-
-This means that there are better and worse times to wake up. Waking up during Light Sleep feels better than waking up during Deep Sleep.
-
-You might have experienced this in your own life when you wake up to an alarm. 
-
-Sometimes, you feel better waking up after roughly 4 hours than you do after 5. This is likely because you woke up near the end of the cycle after 4 hours, whereas with 5 hours you'd have been better off waiting a little longer.
-
-But each individual's sleep cycle length is different, and the cycles change as the night goes on. Early cycles are shorter and more focused on Deep Sleep, and later cycles are longer and more focused on REM Sleep.
-
-Meaning, it's very hard to wake yourself up at the perfect time using an alarm. It's much easier to let yourself wake up naturally.
-
-This is why naps should be less than 20 minutes or 1.5-2 hours. Anything in the 20-90 minute range risks waking you up in Deep Sleep, meaning you'll be tired when you wake up.
-
-A last note about naps: a nap's purpose is to refresh you, meaning reduce your sleep pressure (adenosine). If your nap is too long and too close to bedtime, you might clean _too much_ adenosine. It will then be hard to fall asleep at bedtime.
-
-### Alcohol
-I also mentioned that the ideal is no alcohol, but didn't explain why.
-
-Alcohol is [straight bad for sleep](https://www.verywellhealth.com/why-does-alcohol-make-me-sleepy-8656023).
-
-It makes you "sleepy", but it's corrupted sleep:
-
-- It keeps your body warm, preventing your body from cooling like your circadian clock wants to
-- You spend more time in Light Sleep in the second half of the night, meaning you're easier to wake up
-- You spend less time in REM Sleep, thereby reducing your mental and emotional recharging
-- You have to wake up to pee frequently, meaning you have to spend more time getting back to sleep
-
-What's more, the environment around alcohol is often destructive to sleep:
-
-- The loud music, dancing, and social interaction of a club activate your fight-or-flight nervous system
-- The lights in the bar, club, or street after a late night of drinking tell your circadian clock, "It's daytime; adjust yourself so I'm awake now"
-- Eating late at night further confuses your circadian clock into thinking it's daytime
-
-All of these add up to heavy sleep disruptions.
 
 What Realistic Sleep Looks Like
 ===============================
@@ -426,7 +431,7 @@ Here's what I currently do in my own life:
 - When I wake up I check my sleep duration and quality in the Fitbit app
     - Very commonly, my duration is less than I thought (8 hours in bed usually means between 6 and 7 hours of actual sleep)
 
-### Caffeine
+### More On Caffeine
 Caffeine is so widespread that I wanted to share more information here so you know how to handle it.
 
 As you now know, caffeine blocks your body's ability to notice sleep pressure (adenosine). It also activates your fight-or-flight nervous system.
@@ -628,36 +633,14 @@ I would also experiment with gradually reducing your dosage to see if you can ge
 
 For example, take 3/4 of your current dose for a week. Then take 1/2 your current dose for a week. Then take 1/4 your current dose for another week.
 
-<!--
 ### What about those people who only need 4 hours of sleep per night?
-TODO
--->
+These are called [short sleepers](https://en.wikipedia.org/wiki/Familial_natural_short_sleep). 
 
+Through a genetic mutation, they naturally sleep 4-6 hours per night and wake up feeling fine with no consequences.
 
-Fun Sleep Facts
-===============
-Coming soon
-<!--
-### Glymphatic System
-Your brain cells contract when you sleep. This opens up channels between the brain cells which are used for flushing away cellular waste, like sewers. This is called your **glymphatic system**. When you don't get enough sleep, it's like your brain cells keep producing garbage but the garbage truck never comes. The trash just keeps accumulating.
+Its rare: only 1-3% of people have this. And you either have it or you don't: you can't train yourself to need less sleep.
 
-### Circadian Rhythm Isn't Exactly 24h
-TODO your circadian rhythm is not naturally 24h! It's actually a little bit wrong, so light is necessary to keep it on track (also important for seasons)
-TODO cite study where dude stayed down in cave, and the circadian rhythm extended longer to 26h
-
-### Biphasic Sleep
-TODO
-
-### Why Does The Post-Lunch Tiredness Happen?
-TODO Why does it happen?
-
-### Dreaming
-- You may not think you dream but you do; you just don't remember it
-- You only remember dreams you awake in the middle of
-
-### Deep Sleep vs REM Sleep %
-TODO Interestingly, each cycle is a bit different. Your first cycle will spend a lot of time in Deep Sleep fixing your body, and not much time in REM Sleep fixing your mind. As the night progresses, your Deep Sleep stages get shorter and your REM Sleep stages get longer.
--->
+If you're a short sleeper, you likely already know by now. For the rest of us who need 8-9 hours, it's just harmful to try and sleep less.
 
 Tools
 =====
@@ -679,6 +662,37 @@ I've listed various tools scattered throughout this guide. Here they are again, 
 - [Mac feature that I use to block Macbook apps after a certain time][downtime]
 - [Caffeine Informer, which shows the caffeine content of most anything][caffeine-informer]
 - [Phone app to generate brown noise][noise-generator-app]
+
+
+Fun Sleep Facts
+===============
+### Brain Sewers
+Your brain cells contract when you sleep. This opens up [channels between the brain cells which are used for flushing away cellular waste](https://en.wikipedia.org/wiki/Glymphatic_system), like sewers. When you don't get enough sleep, it's like your brain cells keep producing garbage but the garbage truck never comes. The trash just keeps accumulating.
+
+There are some theories that this accumulated trash is what causes brain diseases like Alzheimer's and Parkinson's.
+
+### Circadian Rhythm Isn't Exactly 24h
+Our circadian rhythms aren't exactly 24 hours. A [French scientist named Michael Siffre spent two months in a cave without external light](https://howandwhys.com/michel-siffre-time-experiment-body-sleep-cycle/), and his "day/night cycles" increased. Sometimes they were 26 hours, and sometimes as high as 48 hours. 
+
+It seems that without light we tend to slow down. Light helps us keep anchored to the sun's day/night cycle.
+
+### Biphasic Sleep
+TODO
+Before artificial light, 
+
+### Why Does The Post-Lunch Tiredness Happen?
+TODO Why does it happen?
+
+### Dreaming
+- You may not think you dream but you do; you just don't remember it
+- You only remember dreams you awake in the middle of
+
+### Deep Sleep vs REM Sleep %
+TODO Interestingly, each cycle is a bit different. Your first cycle will spend a lot of time in Deep Sleep fixing your body, and not much time in REM Sleep fixing your mind. As the night progresses, your Deep Sleep stages get shorter and your REM Sleep stages get longer.
+
+### Where does the circadian clock come from?
+TODO at Morgan's suggestion.. evolutionary reasons
+-->
 
 
 Sources
