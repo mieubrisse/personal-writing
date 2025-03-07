@@ -97,6 +97,8 @@ Turns out that drug exists, it's free, and it can be found in your bedroom.
 
 You can basically become superhuman by getting sufficient rest.
 
+[!Not just in comic books.](why-bother2.png)
+
 Understanding How Sleep Works
 =============================
 So how do we fix your sleep problems? First it's _very_ important that you understand how sleep works.
