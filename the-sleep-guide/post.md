@@ -1,6 +1,5 @@
----
-title: "The Sleep Guide"
-subtitle: "A distillation of all the sleep knowledge I've picked up over 10+ years of dealing with insomnia"
+---title: "The Sleep Guide"
+subtitle: "A distillation of 10 years spent solving insomnia"
 ---
 
 I'd wrestled with insomnia for most of my life. It's now mostly solved. This article concentrates my experience in hopes you can fix yours, and explains why it's important to do so.
@@ -14,32 +13,31 @@ This will be useful if you:
 - Wake up in the middle of the night and can't get back to sleep
 - Can't seem to keep a consistent bedtime
 
-The sections that we'll cover:
-
-1. Why bother fixing your sleep?
-2. How sleep works
-3. Caffeine & alcohol
-3. What perfect sleep looks like
-4. What "good enough" sleep looks like
-5. Specific advice for various scenarios (e.g. mind is racing, jet lag, etc.)
-
 I wrote this guide for the average person. My test was, "Could my mom read this?". I hid scientific stuff inside links so that you can read it if you want to, but aren't forced to.
 
-WARNING: I am not a doctor. I'm just an engineer who had a lot of trouble sleeping in his life, read a lot about sleep, and experimented on himself until he found something that worked. You're responsible for your own health.
+**WARNING:** I am not a doctor. I'm just an engineer who had a lot of trouble sleeping in his life, learned a lot about sleep, and experimented on himself until he found something that worked. You're responsible for your own health.
 
-<!--
-You're going to be interested in this guide if you:
+Table Of Contents
+=================
 
-- You know sleep is important, but you can't seem to prioritize it
-- Need to optimize your performance (as an entrepreneur, athlete, etc.)
-- Can't fall asleep because your mind is racing
-- Know you're supposed to go to bed, but you're not tired
-- Wake up in the middle of the night and can't fall back asleep
-- Can't keep a consistent bedtime & wake-up time
--->
+_Substack generates a table of contents on the left, but you can also use this one here._
+
+1. [Why bother fixing your sleep?](https://substack.com/home/post/p-158617177#%C2%A7why-bother)
+1. [How sleep works](https://substack.com/home/post/p-158617177#%C2%A7understanding-how-sleep-works)
+1. [Caffeine & alcohol](https://substack.com/home/post/p-158617177#%C2%A7caffeine-and-alcohol)
+1. [What perfect sleep looks like](https://substack.com/home/post/p-158617177#%C2%A7what-perfect-sleep-looks-like)
+1. [What "good enough" sleep looks like](https://substack.com/home/post/p-158617177#%C2%A7what-realistic-sleep-looks-like)
+1. [Specific advice for various scenarios (e.g. mind is racing, jet lag, etc.)](https://substack.com/home/post/p-158617177#%C2%A7specific-advice)
+1. [Tools mentioned in this post, collected in one spot](https://substack.com/home/post/p-158617177#%C2%A7tools)
+1. [Fun sleep facts](https://substack.com/home/post/p-158617177#%C2%A7fun-sleep-facts)
+1. [Sources](https://substack.com/home/post/p-158617177#%C2%A7sources)
+
 
 Why Bother?
 ===========
+
+![Not just in comic books.](why-bother2.png)
+
 We know we "should" fix our sleep. Yet we're blasted with information telling us not to sleep:
 
 - Entrepreneurs on Instagram talking about their "grindset", and how little they sleep
@@ -97,10 +95,11 @@ Turns out that drug exists, it's free, and it can be found in your bedroom.
 
 You can basically become superhuman by getting sufficient rest.
 
-[!Not just in comic books.](why-bother2.png)
-
 Understanding How Sleep Works
 =============================
+
+![Transparency is key](understanding-sleep.png)
+
 So how do we fix your sleep problems? First it's _very_ important that you understand how sleep works.
 
 If you're thinking "Just tell me what to do!", know that understanding _how_ sleep works is essential to actually fixing your sleep. 
@@ -265,6 +264,8 @@ With this foundation, we'll now look at what's messing with your sleep.
 
 Caffeine & Alcohol
 ==================
+![Chemical warfare... on your well-being](caffeine-and-alcohol.jpg)
+
 ### Caffeine
 Caffeine messes with our sleep in three ways.
 
@@ -300,6 +301,9 @@ All of these add up to big sleep disturbances.
 
 What Perfect Sleep Looks Like
 =============================
+
+![Always just out of reach...](perfect-sleep.jpg)
+
 Below I've listed my understanding of what a "perfect" sleep routine might look like based on how our bodies work.
 
 This is **not** realistic for most people. You **don't** have to do all of this. Most people - myself included - won't hit this perfect ideal because the sacrifices involved are just too extreme.
@@ -353,9 +357,11 @@ A "perfect" sleep routine:
     - Might listen to some calming music, or a low-activation podcast or audiobook
 - When you wake up you check your sleep tracker to see how your sleep was
 
-
 What Realistic Sleep Looks Like
 ===============================
+
+![Sometimes it's a mess, and that's okay.](good-enough-sleep.png)
+
 I'll emphasize again: perfect sleep is unrealistic. I'm _never_ going to have a coffee? I'm _never_ going to stay up late with friends? It's not reasonable.
 
 But that's okay because we don't need to be perfect. We just need to be good enough.
@@ -477,6 +483,9 @@ When you make a bad decision (which _will_ happen; it's okay!), you'll see the n
 
 Specific Advice
 ===============
+
+![Think "Dear Abby", if Abby was an engineer who nerds out about sleep.](specific-advice.png)
+
 ### I'm not tired when it's time for bed
 There are many things that could be causing this:
 
@@ -669,6 +678,9 @@ I've listed various tools scattered throughout this guide. Here they are again, 
 
 Fun Sleep Facts
 ===============
+
+![How many sheep in the photo? Nevermind... get back to me later.](fun-sleep-facts.jpg)
+
 ### Brain Sewers
 Your brain cells contract when you sleep. This opens up channels between the brain cells which are used for flushing away cellular waste(called the **[glymphatic system](https://en.wikipedia.org/wiki/Glymphatic_system)**), like sewers. When you don't get enough sleep, it's like your brain cells keep producing garbage but the garbage truck never comes. The trash just keeps accumulating.
 
