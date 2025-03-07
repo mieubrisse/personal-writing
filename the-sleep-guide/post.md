@@ -293,7 +293,7 @@ What's more, the environment around alcohol is often destructive to sleep:
 - The lights in the bar, club, or street after a late night of drinking tell your circadian clock, "It's daytime; adjust yourself so I'm awake now"
 - Eating late at night further confuses your circadian clock into thinking it's daytime
 
-All of these add up to heavy sleep disruptions.
+All of these add up to big sleep disturbances.
 
 
 What Perfect Sleep Looks Like
@@ -459,6 +459,7 @@ An example: if you take 300mg of exercise preworkout at 8am, you'll still have 7
 ### Getting To Good Enough
 As you make changes in your own life, it's important that you _take things slow_.
 
+<!-- TODO Link to the behavioural change guide here when it's ready!! -->
 I'm a firm believer in "consistency over intensity". 
 
 If you try to change everything all at once you'll feel excited at first. Then the changes will start to feel like a lot of work, and you'll begin to feel stressed. Eventually you'll procrastinate a little on what you're supposed to do. Eventually you'll quit, and you'll be back exactly where you started with no progress. 
@@ -610,7 +611,7 @@ In the past I used 5mg of melatonin to help sleep on airplanes, and fall asleep 
 
 I no longer do so because I try to minimize the substances I consume. I do this because I believe the body is really good at taking care of itself, and taking substances not found in nature often causes unintended side effects.
 
-The three Huberman Lab podcasts on sleep ([1](https://www.hubermanlab.com/episode/master-your-sleep-and-be-more-alert-when-awake), [2](https://www.hubermanlab.com/episode/using-science-to-optimize-sleep-learning-and-metabolism), [3](https://www.hubermanlab.com/episode/find-your-temperature-minimum-to-defeat-jetlag-shift-work-and-sleeplessness)) seem to suggest that we don't know artificial melatonin's full effects, and it may cause weird stuff like delayed puberty.
+The three Huberman Lab podcasts on sleep ([1][huberman-sleep-1], [2][huberman-sleep-2], [3][huberman-sleep-3]) seem to suggest that we don't know artificial melatonin's full effects, and it may cause weird stuff like delayed puberty.
 
 As such, I choose not to mess with it anymore. The choice is yours.
 
@@ -633,14 +634,14 @@ I would also experiment with gradually reducing your dosage to see if you can ge
 
 For example, take 3/4 of your current dose for a week. Then take 1/2 your current dose for a week. Then take 1/4 your current dose for another week.
 
-### What about those people who only need 4 hours of sleep per night?
+### What about those people who only sleep 4 hours per night?
 These are called [short sleepers](https://en.wikipedia.org/wiki/Familial_natural_short_sleep). 
 
-Through a genetic mutation, they naturally sleep 4-6 hours per night and wake up feeling fine with no consequences.
+Through a genetic mutation, they naturally sleep 4-6 hours per night and wake up feeling fine. There don't seem to be negative consequences for them.
 
-Its rare: only 1-3% of people have this. And you either have it or you don't: you can't train yourself to need less sleep.
+It's rare: only 1-3% of people have this. And you either have it or you don't. You can't train yourself to need less sleep.
 
-If you're a short sleeper, you likely already know by now. For the rest of us who need 8-9 hours, it's just harmful to try and sleep less.
+If you're a short sleeper, you likely already know by now. For the rest of us, sleeping less than 8-9 hours is damaging to our bodies.
 
 Tools
 =====
@@ -667,39 +668,50 @@ I've listed various tools scattered throughout this guide. Here they are again, 
 Fun Sleep Facts
 ===============
 ### Brain Sewers
-Your brain cells contract when you sleep. This opens up [channels between the brain cells which are used for flushing away cellular waste](https://en.wikipedia.org/wiki/Glymphatic_system), like sewers. When you don't get enough sleep, it's like your brain cells keep producing garbage but the garbage truck never comes. The trash just keeps accumulating.
+Your brain cells contract when you sleep. This opens up channels between the brain cells which are used for flushing away cellular waste(called the **[glymphatic system](https://en.wikipedia.org/wiki/Glymphatic_system)**), like sewers. When you don't get enough sleep, it's like your brain cells keep producing garbage but the garbage truck never comes. The trash just keeps accumulating.
 
 There are some theories that this accumulated trash is what causes brain diseases like Alzheimer's and Parkinson's.
 
 ### Circadian Rhythm Isn't Exactly 24h
-Our circadian rhythms aren't exactly 24 hours. A [French scientist named Michael Siffre spent two months in a cave without external light](https://howandwhys.com/michel-siffre-time-experiment-body-sleep-cycle/), and his "day/night cycles" increased. Sometimes they were 26 hours, and sometimes as high as 48 hours. 
+Our circadian rhythms aren't exactly 24 hours. A [French scientist named Michael Siffre spent two months in a cave without external light](https://howandwhys.com/michel-siffre-time-experiment-body-sleep-cycle/), and his "day/night cycles" got longer. Sometimes they were 26 hours, and sometimes as high as 48 hours. 
 
-It seems that without light we tend to slow down. Light helps us keep anchored to the sun's day/night cycle.
+It seems that our circadian clocks tend to slow down without light. Light helps us keep anchored to the sun's day/night cycle.
 
 ### Biphasic Sleep
-TODO
-Before artificial light, 
+Before artificial light, [we used to sleep in two chunks punctuated by 1-3 hours awake in the middle](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep). And, if we're well-rested and not using artificial light... we'll go back to it. One experiment reports:
 
-### Why Does The Post-Lunch Tiredness Happen?
-TODO Why does it happen?
+> After four weeks of the 10-hour days, [the subjects'] sleeping patterns had been transformed – they no longer slept in one stretch, but in two halves roughly the same length. These were punctuated by a one-to-three-hour period in which they were awake. Measurements of the sleep hormone melatonin showed that their circadian rhythms had adjusted too, so their sleep was altered at a biological level.
 
-### Dreaming
-- You may not think you dream but you do; you just don't remember it
-- You only remember dreams you awake in the middle of
+### Why Does Post-Lunch Tiredness Happen?
+As mentioned above, we get a natural decrease in awakeness from 1-3pm _even if_ we didn't eat lunch. Our circadian clocks are biologically programmed to do this, because it happens in other mammals as well. From my research, my best guess is this was a way to conserve energy when the sun was highest and the day was hottest.
 
-### Deep Sleep vs REM Sleep %
-TODO Interestingly, each cycle is a bit different. Your first cycle will spend a lot of time in Deep Sleep fixing your body, and not much time in REM Sleep fixing your mind. As the night progresses, your Deep Sleep stages get shorter and your REM Sleep stages get longer.
+Another note: eating a meal high in fast-digesting carbohydrates (pastas, sugars, etc.) will make the tiredness worse. This happens because lots of carbs cause your body to release a lot of the chemical to process carbs (**[insulin](https://en.wikipedia.org/wiki/Insulin)**), the high levels "over-process" blood sugar, and you get a blood sugar drop 1-2 hours later.
 
-### Where does the circadian clock come from?
-TODO at Morgan's suggestion.. evolutionary reasons
--->
+### Remembering Dreams
+We always dream, though we don't always remember it. Dreaming mostly happens in the REM Sleep stage, though it can happen in any stage. 
+
+The reason we don't always remember our dreams is because a chemical our brain uses to remember things, **[norepinephrine](https://en.wikipedia.org/wiki/Norepinephrine)**, is low during REM Sleep. This chemical is part of the fight-or-flight nervous system, which is (hopefully) not activated during sleep.
+
+### Deep Sleep vs REM Sleep
+Each sleep cycle is a bit different. In your first sleep cycles of the night, you'll spend a lot of time in Deep Sleep (running your immune system, fixing your body) and not much time in REM Sleep fixing your mind. As the night goes on, your Deep Sleep stages get shorter and your REM Sleep stages get longer.
+
+This means that if your sleep is too short, your mind and emotional health take a larger part of the hit!
+
+### Reason For Circadian Clock
+From an evolutionary point of view, the circadian clock seems to have evolved as a way to ensure a creature can get the food it needs and rest safely. 
+
+For example, plants need sunlight that's only available during the day so they have a circadian clock that puts them into "low-power mode" during the night. 
+
+Likewise, humans see best in the day so a circadian clock that tracks daytime makes hunting more efficient. Humans don't see well at night, but ancient predators like lions and jaguars do. So it makes sense that humans use nighttime for sleeping and repairing the body.
+
 
 
 Sources
 =======
-Coming soon
-<!--
-- Andrew Huberman podcast
+(in addition to what I've already linked in the body of the article) 
+
+- The Huberman Lab podcasts on sleep: [1][huberman-sleep-1], [2][huberman-sleep-2], [3][huberman-sleep-3] (linked again because they were so instrumental for me)
+    - You might also be interested in [Huberman's own sleep guide here](https://www.hubermanlab.com/newsletter/toolkit-for-sleep)
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC8911243/ (GREAT overview of how the various biological clocks work)
 - https://www.ncbi.nlm.nih.gov/books/NBK526132/
 - https://www.verywellhealth.com/why-does-alcohol-make-me-sleepy-8656023
@@ -707,7 +719,7 @@ Coming soon
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC10108639/ (meta-study understanding sleep debt & recovery)
 - https://pubmed.ncbi.nlm.nih.gov/12683469/ (seminal study on sleep restriction)
 - Various [Sleep Foundation](https://www.sleepfoundation.org/) articles, which I generally find to be well-written
--->
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4763365/ (on segmented sleep in pre-industrial societies)
 
 
 
@@ -725,183 +737,6 @@ Coming soon
 [caffeine-informer]: https://www.caffeineinformer.com/the-caffeine-database
 [noise-generator-app]: https://play.google.com/store/apps/details?id=com.hipxel.noise
 
-
-
-
-
-
-
-<!--
-Fundamentals: Understanding Your Body
-=====================================
-To fix your sleep problems, I need to teach you some important things about how your body works.
-
-### Two Nervous Systems
-You have two opposing nervous systems:
-
-1. **Sympathetic Nervous System (SNS):** This is your "fight or flight" nervous system. It's responsible for alertness, attention focus, and the stress response. It releases adrenaline during dangerous or high-energy activities such as fighting or sports, and also cortisol during longer periods of stress.
-2. **Parasympathetic Nervous System (PNS):** This is your "rest and digest" nervous system. It's responsible for relaxation, metabolism, and energy conservation. When engaged, it turns off the stress response and brings us back to a calm place so digestion can occur. 
-
-To remember the difference, think:
-
-- Sympathetic nervous system is "sympathetic" to your danger
-- "parar" in Spanish/Portuguese means "to stop"; the parasympathetic nervous system is all about stopping and relaxing
-
-### The Sympathetic Is Stronger
-The sympathetic nervous system is faster and stronger than parasympathetic nervous system. You can shoot to 100% stress level in seconds, but it will take hours to come back down.
-
-This makes sense from an evolutionary perspective: if you're getting chased by a tiger, running away is far more important than sleeping or digestion - even if you're very tired.
-
-This means that it's possible to get into chronic stress states where the sympathetic nervous system is dominating. It's like you're "hooked" in a high-stress state, seemingly unable to come down.
-
-### There's Only One Type Of Stress
-Your sympathetic nervous system doesn't distinguish between physical vs psychological stressors. All of these are handled the same:
-
-- A tiger chasing you
-- A work deadline
-- A stressful videogame
-- Financial debt
-- An aggressive person on the street at night
-- Failing an exam
-- Your partner arguing with you
-- Feeling inadequate comparing oneself to others on social media
-- Feeling socially rejected
-
-### The Sympathetic Grabs Focus, But Too Much Is Bad
-The sympathetic nervous system grabs our attention. You've felt this any time you've:
-
-- Been in a dangerous situation
-- Been involved in a tricky merge while driving, and you don't hear what your passenger is saying
-- Been locked in to meet a very tight deadline
-
-In these situations, the SNS grabbing focus is a good thing.
-
-However, the SNS's attention-grabbing power can be disruptive when it's too active for too long:
-
-- You're trying to read but your attention is constantly yanked back to the argument you had with your partner
-- You're anxious, constantly scanning for danger
-- Social media notifications constantly interrupt your focus, making you unproductive at work
-
-### The Circadian Clock
-Your body has an internal clock that tells your body when to start feeling sleepy and when to wake up. 
-
-It works via cortisol and melatonin.
-
-It works by hormone release, and body temperature.
-
-High body temperature
-
-
-- High temperature = energy, reaction time, physical performance
-- Low temperature = sleepiness
-- Darkness = "it's nighttime" = produce melatonin
-- Body temperature rises in morning, peaks in afternoon, drops at night
-- Warm showers cool by increasing blood flow to skin, which accelerates heat loss when you get out
-- Sudden cold = wakefulness (via SNS activation, increases body temperature via brown fat activation)
-- Gradual cold (cold room) = helps sleepiness by gradual heat loss
-- Bright light (especially blue light) = "it's daytime" = suppress melatonin production, shift your circadian rhythm
-- Sleepiness starts 12-16 hours after waking up
-- Temporary dip 7-9 hours after waking
-- Cortisol (circadian alerting signal) peaks in the morning
-
-- Exercise in morning/afternoon raise body temperature, promote wakefulness
-- Exercise at night raises body temperature, makes it harder to fall asleep
-
-To start feeling sleepy, your body temperature 
-
-When it's time to fall asleep, your body starts releasing melatonin
-
-The clock is adjustable 
-
-This clock is adjusted by exposing your eyes to light. Bright morning/sunrise light = "stay awake". Dim,
-
-Specifically,  TODOOOOOOOOOOOOO
-
-### Light
-- Light + seratonin = wakefulness
-- Darkness + seratonin = melatonin
-
-### Eating & Sleep
-- Liver & gut have peripheral clocks
-- Morning meals signal "daytime" = alertness
-- Fasting & high-protein meals promote wakefulness
-- Eating too close to bed raises body temperature (delaying sleep) and messing with liver & gut clocks
-
-### Adenosine & Sleep Pressure
-- Adenosine the result of brain using energy
-- Accumulates while you're awake
-- Sufficient sleep clears adenosine and resets wakefulness
-- If you don't sleep enough, adenosine is high the next day (tiredness)
-
-### Social Interaction
-Social engagement and cognitive tasks increase dopamine, norepinephrine, and orexin, keeping you alert.
-
-How it Affects Wakefulness:
-- Isolation or lack of stimulation can increase drowsiness.
-- Engaging in conversation, learning, or problem-solving keeps the brain awake.
-
-TODO Dopamine increases wakefulness!
-
--->
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-
-
-I used to be like these people. **I believe this is exceedingly dangerous.**
-
-### My Story
-It was the end of 2023, and I was 32. I'd been grinding hard on my startup, sleeping an average 6h40m per night for over a year. I was deeply stressed, and I began to experience inexplicable medical symptoms: 
-
-Sentences didn't make sense unless I read them 2-3 times. My speech wasn't completely under my control, with words getting substituted  (e.g. wanting to say "New Year" but "New York" came out instead). My hands were trembling slightly, and "w"s and "m"s were particularly difficult to write. My vision was trembling slightly, as if the world was having a very minor earthquake. My balance was affected, as if I were on a very slightly moving ship. It was difficult to remember things from a few days ago.
-
-I visited several doctors, including two neurologists. I got tested for multiple sclerosis. Everything came back negative. Nobody could explain what was wrong with me beyond "stress".
-
-I took a month off work as a last resort. Finally... the symptoms started to ease.
-
-It's 2025 as I write this, and I'm mostly back to normal. My hands, memory, and reading comprehension returned. However, I'm not completely fixed. My balance and vision are still slightly wobbly, and my speech still feels awkward at times.
-
-### Aftermath
-As I told my burnout story to others in the months that followed, people began to tell me theirs. Crazy stuff: one friend with partial facial paralysis, another with autoimmune-like attacks in her digestive system, another with anxiety attacks.
-
-In all stories, the person's sleep is shit.
-
-I'm not a sleep researcher, but it seems staggeringly clear that sleep is our body's maintenance. If we skip it, our bodies fall apart in basically every way possible:
-
-- [Lack of sleep is increasingly being linked to Alheimzer's and dementia](https://www.nih.gov/news-events/lack-sleep-may-be-linked-risk-factor-alzheimers-disease)
-- [Lack of sleep is strongly linked to depression](https://pubmed.ncbi.nlm.nih.gov/16259539/)
-- [Lack of sleep is linked to anxiety as well as depression](https://pubmed.ncbi.nlm.nih.gov/23814343/)
-- [Lack of sleep harms athletic performance, reducing performance, reducing muscle recovery, and increasing injury risk](https://pmc.ncbi.nlm.nih.gov/articles/PMC9960533/#S13)
-- [Lack of sleep is linked to diabetes & obesity](https://pubmed.ncbi.nlm.nih.gov/18929315/)
-- [Lack of sleep makes you feel worse, and reduces your ability to emotionally regulate](https://pmc.ncbi.nlm.nih.gov/articles/PMC8193556/)
-- [Lack of sleep is associated with increased risk of cardiovascular disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC10565718/)
-- [Lack of sleep damages your ability to form memories, including your immune system's "memory" of pathogens](https://pmc.ncbi.nlm.nih.gov/articles/PMC3768102/)
-- [Lack of sleep reduces testosterone in males](https://clinmedjournals.org/articles/ijsem/international-journal-of-sports-and-exercise-medicine-ijsem-6-169.php)
-
-As if that's not enough, consider the secondary effects of sleep deprivation you've experienced in your own life:
-
-- Unhealthy sugary, fatty food are more appealing than healthy foods
-- Working out is harder, and you're more likely to skip it
-- You're more likely to react angrily to irritations, leading to outbursts you have to mend later
-- You're not efficient in your work
-- You're more likely to keep drinking
-- **You're more likely to stay up late doing passive consumption activities like Netflix or social media, thereby making you more tired**
-
-It's not at all surprising that I, and the people I talked to, started to fall apart. **Sleep deprivation is poison!**
-
-Here's the craziest part though: 
-
-
-
-
--->
+[huberman-sleep-1]: https://www.hubermanlab.com/episode/master-your-sleep-and-be-more-alert-when-awake
+[huberman-sleep-2]: https://www.hubermanlab.com/episode/using-science-to-optimize-sleep-learning-and-metabolism
+[huberman-sleep-3]: https://www.hubermanlab.com/episode/find-your-temperature-minimum-to-defeat-jetlag-shift-work-and-sleeplessness
