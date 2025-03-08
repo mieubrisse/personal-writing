@@ -534,7 +534,7 @@ So don't worry; just do something calming and go back to sleep when you feel rea
 This could be for several reasons:
 
 - You didn't sleep long enough, meaning you didn't fully clear the adenosine/sleep pressure from the previous day
-    - SOLUTON: make the conscious choice to prioritize sufficient sleep, remembering that you need 8 hours of sleep (not just time in bed) and days of heavy brain or body work require extra rest (think 9-10 hours of actual sleep)
+    - SOLUTION: make the conscious choice to prioritize sufficient sleep, remembering that you need 8 hours of sleep (not just time in bed) and days of heavy brain or body work require extra rest (think 9-10 hours of actual sleep)
 - Your body could be fighting off an illness, and it needs more time to recover
     - SOLUTION: try allocating 10 hours of sleep for 2-3 nights and see how you feel
 - You're waking up before your usual wakeup time and your body is still cold with low cortisol (e.g. you had to wake up early to catch a flight)
