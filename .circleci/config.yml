@@ -20,7 +20,7 @@ jobs:
           name: Check links in Markdown docs
           command: |
             sudo npm install -g markdown-link-check
-            bash .circleci/check-markdown-links.sh
+            markdown-link-check --retry -qv .
 
 workflows:
   build:
