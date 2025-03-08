@@ -1,4 +1,6 @@
 - Why I minimize the substances I take
+- Forgiveness is better for you
+- Happiness is a choice
 - Narcissism
 - 20-minute rule
 - What happened with Kurtosis
