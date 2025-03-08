@@ -2,7 +2,7 @@
 subtitle: "A distillation of 10 years spent solving insomnia"
 ---
 
-I'd wrestled with insomnia for most of my life. It's now mostly solved. This article concentrates my experience in hopes you can fix yours, and explains why it's important to do so.
+I'd wrestled with insomnia for most of my life. It's now mostly solved. This article concentrates my experience so you can fix yours, and explains why it's important to do so.
 
 This will be useful if you:
 
