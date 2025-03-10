@@ -18,3 +18,8 @@ If you Do Nothing now, you will move faster in the future because you won't crea
 BUT, to trust me on this you need to see this in action (I certainly did).
 
 Try it out. Pay particular attention to the times when you REALLY WANTED to do something - send a message, end a relationship, take an action - and then a day later you're like "Oh god I'm so thankful I didn't do that". This will help you realize that your reactivity is introducing blockers into your own life.
+
+
+- Being activated (fight-or-flight) as a warning sign
+    - Link to sleep guide with its two nervous systems
+    - With time, you'll start to detect when you're really activated and recognize that it's important you Do Nothing
