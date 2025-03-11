@@ -3,13 +3,29 @@ title: "Analyzing Ben Franklin"
 subtitle: "Why was Ben Franklin so successful?"
 ---
 
-I just finished reading Ben Franklin's autobiography. It's unfinished; only his life until 1756 is detailed.
+I just finished reading Ben Franklin's autobiography. 
 
-But even with all the "winning a war and starting a country" bits left out, his life was already extremely successful.
+It's unfinished; none of his life of the Revolutionary War is included. But even with all the "winning a war and starting a country" bits left out, his life was already extremely successful.
 
-I've limited myself to 7 things to ensure I'm 
+Here's my read on the top things that made him successful, that we might apply them ourselves.
 
-1. He was a ravenous reader. 
+He was a ravenous reader
+------------------------
+Even as a boy, Franklin was always trying to get his hands on more books to read. In the autobiography he uses the word "intelligence" in places where I would have used "well-read", suggesting that he thinks being well-read is synonymous with intelligence. For example:
+
+> From a Child I was fond of Reading, and all the little Money that came into my Hands was ever laid out in Books... This Bookish Inclination at length determined my Father to make me a Printer, though he had already one Son (James) of that Profession. But, as my Intimacy with my Brother increased, I was frequently in the Printing-House, and became more intelligent.
+
+All this reading meant Franklin was downloading the wisdom of those who came before. 
+
+Hearing about Franklin's experience gave me a new appreciation for books. Books in the 1700s were pressed by hand (so therefore more expensive) and needed to 
+
+Books in the 1700s were pressed by hand so were more expensive , he might even have gotten higher wisdom density than we do today: authors in the 1700s would have to think very carefully about how many words they wanted.
+
+In Franklin's day, books cost several days' wages because someone had to hand-press the pages. Franklin recognized books as valuable, and 
+
+
+The knowledge inside Since he was young, Franklin would read everything he could get his hands on. This makes sense: in his day, books were rare and expensive because they had to be hand-pressed. Franklin seemed to feel reading and intelligence were sysnwould often use the word "intelligent" where I would have used "well-read". For example, 
+
     - Multiple times he uses "intelligent" where I would have used "well-read", suggesting Franklin thought they were synonymous.
     - He valued books highly as ways to upgrade his intelligence
     - Even from a young age, he was always trying to get more books
