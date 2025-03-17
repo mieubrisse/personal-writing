@@ -6,9 +6,9 @@ subtitle: "Breaking down why our balding Founder Father was such a badass"
 
 I just finished reading [Ben Franklin's autobiography](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm).
 
-It's unfinished. None of the Revolutionary War is included. But even without the "winning a war and starting a country" bits, the guy was a baller.
+It's unfinished - no Revolutionary War. But even without the "winning a war and starting a country" bits, the guy was a baller.
 
-Let's break down what made him such a G.
+Let's break down what made him such a colonial gangster.
 
 He was a ravenous reader
 ------------------------
@@ -16,160 +16,195 @@ Even as a boy, [Franklin was a book fiend](https://www.gutenberg.org/files/20203
 
 As an adult, [he organized book-trading schemes with his friends](https://en.wikipedia.org/wiki/Junto_(club)) and [founded the first public library](https://en.wikipedia.org/wiki/Library_Company_of_Philadelphia):
 
-> And now I set on foot my first project of a public nature, that for a subscription library. ... These libraries have improved the general conversation of the Americans, made the common tradesmen and farmers as intelligent as most gentlemen from other countries, and perhaps have contributed in some degree to the stand so generally made throughout the colonies in defense of their privileges.
+> And now I set on foot my first project of a public nature, that for a subscription library. ... These libraries have improved the general conversation of the Americans, made the common tradesmen and farmers as intelligent as most gentlemen from other countries ...
 
-Check out how he talks about intelligence as something that can be improved. To Ben, reading = more intelligence.
+Check how he talks about intelligence as something that can be improved. To Ben, reading = more intelligence.
 
-All this bookworming meant Franklin was filling his brain [mental models](https://fs.blog/mental-models/) that would later enable him to be the multidisciplinary thinker he was.
+All this bookworming packed his brain with [mental models](https://fs.blog/mental-models/) he'd use later. 
 
-Hearing about Franklin's experience gave me a new appreciation for books. Books in the 1700s had to be written by hand, pressed by hand, and distributed by hand. One book cost several days' wages. 
+It's like you wander into the grocery store and grab some chocolate syrup. Then vanilla ice cream. Then some peanuts, why not. Bam - suddenly, ice cream sundae. 
 
-Today, $20 puts the life philosophies of presidents, CEOs, and Nobel prize winners in our pocket.
+Only, the ingredients are books and the ice cream sundae is "multidisciplinary Renaissance man".
 
-Are you taking sufficient advantage of it?
+It's mindblowing when you imagine what the 1700s were like:
+
+Books had to be written by quill, printed by some guys at the printing press, and distributed by the unfortunate souls lugging the books around. All these middlemen meant one book cost a couple days' pay. Proper pain in the ass.
+
+But B. Franklin paid it gladly because ice cream sundaes are _delicious_.
+
+Today, $20 puts the wisdom of presidents, CEOs, and Nobel prize winners on our smartphone in seconds. You have the whole world's knowledge at our fingertips. Are you using it?
+
+(Is that a candle in your pocket, Mr. Franklin, or are you just happy to see Kindle?)
 
 He built a reputation of honor and good judgement
 ------------------------------------------------------
-Franklin's autobiography starts by saying his father was a man "known for his judgement", and [neighbors in need of advice would seek out Franklin's father](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=his%20great%20excellence,conduct%20of%20life).
+B. Franklin says his father was a man "known for his judgement", and [neighbors in need of advice would hit him up](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=his%20great%20excellence,conduct%20of%20life).
 
-Franklin continued this trend, famously developing his ["13 Virtues"](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=These%20names%20of,Jesus%20and%20Socrates.). In his middle years, the governor of Pennsylvania - his greatest political rival at the time - [even sought Franklin's counsel in private](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=Notwithstanding%20the%20continual,take%20my%20advice.).
+Franklin followed in daddy's footsteps, famously developing his ["13 Virtues"](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=These%20names%20of,Jesus%20and%20Socrates.) to achieve "moral perfection". 
 
-These people often brought business opportunities. They knew Franklin was well-connected and trustworthy, so they'd ask him to do stuff for them in exchange for a cut of the profits.
+Sounds cult-y, but it worked: he became known for wise advice. The governor of Pennsylvania - his biggest political rival at the time - [even liked to pick his brain from time to time](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=Notwithstanding%20the%20continual,take%20my%20advice.).
+
+These people brought business opportunities with them. They knew Franklin was a trustworthy dude with clout, so they'd ask him to do stuff in exchange for a cut of the profits.
 
 In this way, **Franklin's honor became an asset**.
 
-[I've written before that "honor" has a stuffy, antiquated flavor today](https://substack.com/home/post/p-155020167). 
+[I wrote before that "honor" gets a bad rap, all outdated knights and chivalry](https://substack.com/home/post/p-155020167). 
 
-Modern wisdom preaches you've got to look out for yourself, and do what you need to get ahead. Just look at the participants in Mr. Beast videos.
+Modern wisdom says you've got to look out for yourself, and do what you need to get ahead. Just watch the people in Mr. Beast videos.
 
-Yet, the internet amplifies our honor or dishonor by preserving it and spreading it to a vast audience.
+But the internet's got us all living in [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(American_TV_series)). Our dastardly and delightful deeds are captured forever, and spread to a huge audience.
 
-So honorable people today get a double boost: they're rarer and therefore more valuable, and their positive reputation spreads farther.
+So honorable folks today get a double boost: they're rarer and therefore more valuable, and their positive reputation spreads farther.
 
 Here's Naval Ravikant's take:
 
 > Compound interest also happens in your reputation. If you have a sterling reputation and you keep building it for decades upon decades, people will notice. Your reputation will literally end up being thousands or tens of thousands of times more valuable than somebody else who was very talented but is not keeping the compound interest in reputation going. 
 
-Are you building an honor asset, or [are you stacking up negative karma](https://substack.com/home/post/p-157909325)?
+Are you building an honor asset in your own life, or [shitting on the floor of your apartment](https://substack.com/home/post/p-157909325)?
 
-He could write well and owned a printing press
-----------------------------------------------
+He could write well and owned a press
+-------------------------------------
 
 ![Ben before balding... or after Rogaine](./printing-press.jpg)
 
-Newspapers were the cable news networks of the 1700s, on steroids. 
+Newspapers were the cable news networks of the 1700s, on steroids.
 
-They had wide reach, earned money through advertising, and carried political agendas by virtue of what they included. Because they were expensive (you needed a printing press), there wasn't much competition.
+They had wide reach, earned money through advertising, and carried political agendas by what they included. Because you needed an expensive chunk of metal called a printing press, there wasn't much competition.
 
-Ben Franklin owned a printing press and could write well. He used this to heavy advantage.
+Ben Franklin owned a printing press and he could write well. Sneaky Ben abused the hell out of this hack.
 
 He'd first publish his own writing anonymously. Then he'd let the article soak in, and monitor public reaction. 
 
-Some time later he'd propose the policy change he wanted. The policy frequently passed without complaint.
+After everyone was nodding along, he'd propose the policy change he wanted. They pass without problem. He drops these little "not the least objection being made" in his autobiographies, and you feel the smugness.
 
-In doing so, Franklin was utilizing one of Naval Ravikant's four types of leverage, "media" (the other three being "people", "money", and "technology").
+Franklin was utilizing one of Naval Ravikant's four types of leverage, "media" (the other three being "people", "money", and "technology").
 
-Often when we desire change we walk up to the person responsible and say, "We should do X". Often we get pushback.
+The average human employs a real dumb "make a change" strategy. It goes like this:
 
-Instead, learn from Ben Franklin. 
+1. Walk up to Person Responsible
+2. Declare, "We should do X!"
+3. Person Responsible says "No"
+4. Commence bickering
 
-With social media, everyone has a printing press and audience in their pocket. First, try subtly influencing the responsible people to lay the groundwork for the direction you want to go.
+Instead, learn from Sneaky Ben.
 
-Then, when the time is right, propose the actual change you want. It will seem like a natural evolution, rather than an abrupt direction shift.
+Thanks to Mark Zuckerberg's marvelous media machines, everyone has a printing press in their pocket.
+
+First, try floating your ideas without claiming them as yours. Watch your audience.
+
+Then, when the time is right, hit 'em with your proposal. Wow, suddenly your suggestion seems like a good idea.
 
 <!--- TODO when it's ready, link to "parable of the orange", "why" not "how" -->
 
 He was comfortable delegating to others
 ---------------------------------------
-Franklin was definitely not a micromanager. By middle age, [Franklin had left the operation of his printing business to a business partner and his wife](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#VIII:~:text=The%20care%20and%20trouble,successfully%20for%20us%20both.). 
+You know the boss in [Office Space](https://en.wikipedia.org/wiki/Office_Space), all micromanager-y? B. Franklin was the opposite of that.
 
-This pattern of delegating away the operation of things he started continued throughout his life. 
+By middle age, [he'd left all his printing press operations to a business partner and his wife](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#VIII:~:text=The%20care%20and%20trouble,successfully%20for%20us%20both.). 
 
-He started the University of Pennsylvania, but left the day-to-day operations to others. 
+He was like the Elon Musk of the New World, starting things and leaving others to run them:
 
-He created the first Philadelphia firefighting department, but wasn't involved in its operation. 
-
-He proposed a colonial militia during the French and Indian War, but declined a military position so that someone more qualified could do it.
+- He started the University of Pennsylvania, but left the day-to-day operations to others
+- He created the first Philadelphia firefighting department, but wasn't involved in its operation
+- He proposed a militia to defend the colonies during the French and Indian War, but turned down a military position so someone more qualified could do it
 
 Franklin recognized the value of "people", another of Naval's four types of leverage.
 
-He built the skill of identifying and trusting good people. This freed his time for long trips to Europe, writing, and science experiments.
+He built the skill of identifying and trusting good people. This freed his time for long trips to Europe, writing, science experiments, and [fooling around with older women](https://en.wikipedia.org/wiki/Advice_to_a_Friend_on_Choosing_a_Mistress).
 
-If you struggle with delegating, consider that it's not only about trust.
+If you struggle with delegation, remember that it's not just about trust.
 
 The skill of delegating has two components:
 
 1. **Trusting:** allowing others to do things differently than you
 2. **Identifying:** sourcing candidates and filtering out those who are a bad fit
 
-I used to think that I was a control freak. True, I needed to improve my comfort when others do things differently. But I also learned that I wasn't sourcing and filtering for the right people. 
+I used to think that I was a control freak. Which is a rational belief to have, when you're a control freak. I needed to improve my comfort with others doing things differently.
 
-I didn't feel comfortable letting go of control because the people I was hiring just weren't good enough.
+But I also learned that I wasn't sourcing and filtering for the right people. I didn't feel comfortable letting go of control because the people I was hiring just weren't good enough.
 
-When I improved my filtering, suddenly delegating became easy. I'd let the person run with it, and they'd do the job _better_ than me. And look at all the free time!
+I improved my filtering, and suddenly delegating became easy. I can let a person run with a task, they do a _better_ job, and I don't spend the time and energy? Don't mind if I do.
 
-When you get both halves of delegation working, delegation seems like the obvious choice. 
+When you get both halves of delegation working, it seems more obvious than TODOOO
 
-Are you crunched for time? Do you struggle to delegate? If so, do you need to improve one or both of the halves?
+Are you crunched for time? Do you struggle to delegate? If so, do you need to get better at trusting or identifying suitable candidates?
 
 <!-----------  SHARE BUTTON GOES HERE  ------------->
 
 He constantly worked to improve himself and the world
 -----------------------------------------------------
-Ben Franklin wasn't satisfied with stuff that sucked. 
+Ben Franklin detested stuff that sucked.
 
-Colonial fireplaces wasted hot air when wood was precious, so he invented [the Franklin stove](https://en.wikipedia.org/wiki/Franklin_stove).
+Colonial fireplaces weren't good at heating homes, so Clever Ben invented [the Franklin stove](https://en.wikipedia.org/wiki/Franklin_stove).
 
-![Note how the smoke doubles back, so it can transfer more heat to the room](./franklin-stove.jpg)
+![The weird whoopdie-doodle lets smoke transfer more heat to the room](./franklin-stove.jpg)
 
-The globular streetlamps from England had poor ventilation and would shatter, so [he invented a four-paned streetlamp](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=The%20honour%20of,very%20poorly%20illuminated.).
+The ball-shaped streetlamps from England got hazy quickly, so [he casually dropped a four-paned streetlamp](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=The%20honour%20of,very%20poorly%20illuminated.).
 
-![Franklin light in Philadelphia, from [Forgotten New York's post on the topic](https://forgotten-ny.com/2015/05/franklin-street-lamps-philadelphia/)](./franklin-light.jpg)
+![Check out [Forgotten New York's post on the topic](https://forgotten-ny.com/2015/05/franklin-street-lamps-philadelphia/) for more Franklin goodness](./franklin-light.jpg)
 
-Switching near-seeing and far-seeing glasses sucked, so he invented bifocals.
+Switching near-seeing and far-seeing glasses was annoying, so he sawed a pair of each in half and slapped them together to make bifocals.
 
-Lightning kept destroying the mostly-wooden colonial structures, so he invented the lightning rod.
+Zeus kept trashing the wooden colonial structures with lightning, so he invented the lightning rod.
 
-And Ben Franklin himself was full of human vice, so he invented [the 13 Virtues and a system to track his progress towards embodying all of them](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20made%20a,upon%20that%20day.).
+And ol' Ben himself was full of pesky human vice, so he invented [the 13 Virtues and a system to track his progress towards them](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20made%20a,upon%20that%20day.).
 
-You can channel Ben Franklin's energy by not settling for the status quo.
+You can channel Clever Ben's energy by not settling for the status quo.
 
-Is the furniture layout in your house bothersome? Reorganize it to something more efficient.
+Is the furniture layout in your house bothersome? Move it around.
 
 Don't like how your files are organized on your computer? Design a better way.
 
-Is your friend group not supporting the person you want to be? Find a new one.
+Is your mother-in-law driving you nuts? Find a new one.
 
-This doctrine of constant improvement feels good and gives you back time and energy.
+Constant incremental improvement feels good, and will probably earn you a Guinness World Record if you do it long enough. (Don't quote me on that)
 
 He cultivated likeability
 -------------------------
-Franklin often says throughout the autobiography, "and he was a great friend to me for the rest of his life".
+Ben has this thing he says throughout the autobiography, "and he was a great friend to me for the rest of his life".
 
-This stood out to me since [I'm currently seeking freedom from my own emotional volatility](https://substack.com/home/post/p-155537355). Someone who can maintain many relationships over a lifetime is someone [who fits well with many people](https://altered.substack.com/p/charisma).
+Might be a subtle flex that he's the grandpa outliving his other grandpa bros.
 
-Indeed, in the research I did for this post, Franklin's peers frequently describe him as likeable.
+But it stood out to me since [I'm currently seeking freedom from my own emotional volatility](https://substack.com/home/post/p-155537355). Someone who can maintain many relationships over a lifetime is someone [who fits well with many people](https://altered.substack.com/p/charisma).
 
-[From John Adams, who was a rival](https://founders.archives.gov/documents/Adams/99-02-02-5574#:~:text=Franklin%20had%20a%20great%20genius%E2%80%94original%2C,the%20French%20call%20na%C3%AFvet%C3%A9%2C%20which):
+No surprise that in the research I did for this post, everyone really likes the dude.
+
+Even John Adams, an occasional Franklin hater, [had this to say](https://founders.archives.gov/documents/Adams/99-02-02-5574#:~:text=Franklin%20had%20a%20great%20genius%E2%80%94original%2C,the%20French%20call%20na%C3%AFvet%C3%A9%2C%20which):
 
 > He had wit at will. He had humor that when he pleased was delicate and delightful. He had a satire that was good natured or caustic ... at his pleasure. He had talents for irony, allegory and fable, that he could adapt with great skill, to the promotion of moral and political truth. He was master of that infantine simplicity, which the French call naïveté, which never fails to charm, in Phadrus and La Fontaine, from the cradle to the grave.
 
-In modern terms, Franklin was high on [the "Agreeableness" dimension of the Big Five personality inventory](https://en.wikipedia.org/wiki/Agreeableness#Big_Five). 
+In fancy psychology language, Señor Franklin was high on [the "Agreeableness" dimension of the Big Five personality inventory](https://en.wikipedia.org/wiki/Agreeableness#Big_Five). 
 
-But wait, modern wisdom preaches that you've got to be tough and no-nonsense! What gives?
+Hang on, Gordon Ramsay is telling me to be tough and no-nonsense! What gives?
 
-According to ["The New Science of Narcissism" ](https://www.amazon.com/New-Science-Narcissism-Understanding-Psychological/dp/1683644026), the lack of Agreeableness is a defining characteristic of the "dark triad" trait of narcissism. People low in Agreeableness struggle to keep relationships, while [people high in Agreeableness get better outcomes in life](https://journals.sagepub.com/doi/10.1177/10888683211073007).
+["The New Science of Narcissism" ](https://www.amazon.com/New-Science-Narcissism-Understanding-Psychological/dp/1683644026) says a lack of Agreeableness is a defining characteristic of the "dark triad" trait of narcissism. People low in Agreeableness struggle to keep relationships, while [people high in Agreeableness get better outcomes in life](https://journals.sagepub.com/doi/10.1177/10888683211073007).
 
-We can learn from Franklin's example by increasing our own Agreeableness.
+If we want a bunch of ~pen~ quill pals like old Ben, we should take a page from his Agreeableness book.
 
-Fortunately, [Franklin was initially known for being proud and argumentative](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=There%20was%20another,bred%20at%20Edinborough.). He worked to increase his own Agreeableness, so we get to see how he did it.
+Fortunately, [Mr. Franklin was an argumentative prick when he was younger](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=There%20was%20another,bred%20at%20Edinborough.). He had to work to become Agreeable, so we get free front-row seats to the Franklin Dickhead Reduction Program.
 
 ### Humility
+There's this moment where young Ben goes, "Huh... turns out people don't like when I'm always impressing them with my superiority." (TDOO LINK???)
+
+He [stops speaking in absolutes and starts allowing room for doubt](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20continu%27d%20this,of%20your%20error.), and declares it TODO. 
+
+He later gets told TODOOOO
+He [later  humility to his list of Virtues to avoid his tendency for pride](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=My%20list%20of,in%20the%20right.)
+
+
+Now before you "No shit, Sherlock"
+
+Which sounds real obvious, yet 
+
+TODOOO
+
 Over the course of his life, Franklin discovered that a posture of humility was more effective for him.
 
 In his experiments with the Socratic Method, [he found it more effective to express himself with uncertainty rather than absolutism](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20continu%27d%20this,of%20your%20error.). He [later added humility to his list of Virtues to avoid his tendency for pride](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=My%20list%20of,in%20the%20right.).
 
 Later, [he found that people adopted his ideas more easily when he didn't attach his name to the project](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=The%20objections%20and,their%20right%20owner.).
+
+
 
 Are you cultivating humility? Not because you "should", but because it will be more effective to you?
 
