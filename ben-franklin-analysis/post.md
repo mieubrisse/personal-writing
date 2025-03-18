@@ -30,7 +30,7 @@ It's mindblowing when you think what books in the 1700s were like:
 
 They had to be written by quill, hand-pressed by guys at the printing shop, and then distributed by the unfortunate souls lugging the books around. All these middlemen meant one book cost a couple days' pay. 
 
-Proper pain in the ass. But Benny paid it gladly because he recognized the value of knowledge.
+Proper pain in the ass. But Ben paid it gladly because he recognized the value of knowledge.
 
 Today, $20 puts the wisdom of presidents, CEOs, and Nobel prize winners on our smartphone in seconds. You have the whole world's knowledge at our fingertips. Are you using it?
 
@@ -184,7 +184,7 @@ If we want a bunch of lifelong ~pen~ quill pals like old Ben, we should take a p
 Fortunately, Mr. Franklin was real prick when he was younger and had to work on his Agreeableness. We get front-row seats to the Franklin Dickhead Reduction Program.
 
 ### Humility
-[There's a moment where young Ben goes, "Huh... people don't like it when I'm always arguing with them."](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=There%20was%20another,bred%20at%20Edinborough.)
+There's a moment where young Ben goes, ["Huh... people don't like it when I'm always arguing with them"](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=There%20was%20another,bred%20at%20Edinborough.).
 
 After this realization, he [stops speaking in absolutes and starts allowing room for doubt](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20continu%27d%20this,of%20your%20error.).
 
@@ -229,7 +229,7 @@ Shh, go back into the ceiling David... there are no ultramarathons for you here.
 
 We have Ben Franklin's daily schedule, and we know how uncrowded it is:
 
-![Ben Franklin's daily schedule](./daily-schedule.png)
+![When Goodness is so Powerful you just gotta address it](./daily-schedule.png)
 
 Ben tried to work 8 hours per day, with 7 hours for sleep and 2 hours for lunch and reading.
 
