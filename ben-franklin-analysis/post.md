@@ -20,17 +20,17 @@ As an adult, [he organized book-trading schemes with his friends](https://en.wik
 
 Check how he talks about intelligence as something that can be improved. To Ben, reading = more intelligence.
 
-All this bookworming packed his brain with [mental models](https://fs.blog/mental-models/) he'd use later. 
+All this bookworming packed his brain with [mental models](https://fs.blog/mental-models/) he'd use throughout life. 
 
 It's like you wander into the grocery store and grab some chocolate syrup. Then vanilla ice cream. Then some peanuts, why not. Bam - suddenly, ice cream sundae. 
 
 Only, the ingredients are books and the ice cream sundae is "multidisciplinary Renaissance man".
 
-It's mindblowing when you imagine what the 1700s were like:
+It's mindblowing when you think what books in the 1700s were like:
 
-Books had to be written by quill, printed by some guys at the printing press, and distributed by the unfortunate souls lugging the books around. All these middlemen meant one book cost a couple days' pay. Proper pain in the ass.
+They had to be written by quill, hand-pressed by guys at the printing shop, and then distributed by the unfortunate souls lugging the books around. All these middlemen meant one book cost a couple days' pay. 
 
-But B. Franklin paid it gladly because ice cream sundaes are _delicious_.
+Proper pain in the ass. But Benny paid it gladly because he recognized the value of knowledge.
 
 Today, $20 puts the wisdom of presidents, CEOs, and Nobel prize winners on our smartphone in seconds. You have the whole world's knowledge at our fingertips. Are you using it?
 
@@ -42,7 +42,7 @@ B. Franklin says his father was a man "known for his judgement", and [neighbors 
 
 Franklin followed in daddy's footsteps, famously developing his ["13 Virtues"](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=These%20names%20of,Jesus%20and%20Socrates.) to achieve "moral perfection". 
 
-Sounds cult-y, but it worked: he became known for wise advice. The governor of Pennsylvania - his biggest political rival at the time - [even liked to pick his brain from time to time](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=Notwithstanding%20the%20continual,take%20my%20advice.).
+Sounds cult-y, but it worked: he became known for wise advice. The governor of Pennsylvania - his biggest political rival at the time - [even picked his brain from time to time](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=Notwithstanding%20the%20continual,take%20my%20advice.).
 
 These people brought business opportunities with them. They knew Franklin was a trustworthy dude with clout, so they'd ask him to do stuff in exchange for a cut of the profits.
 
@@ -52,11 +52,11 @@ In this way, **Franklin's honor became an asset**.
 
 Modern wisdom says you've got to look out for yourself, and do what you need to get ahead. Just watch the people in Mr. Beast videos.
 
-But the internet's got us all living in [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(American_TV_series)). Our dastardly and delightful deeds are captured forever, and spread to a huge audience.
+But the internet's got us all living in [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(American_TV_series)). Our dastardly and delightful deeds are captured forever, and broadcast to a huge audience.
 
 So honorable folks today get a double boost: they're rarer and therefore more valuable, and their positive reputation spreads farther.
 
-Here's Naval Ravikant's take:
+Here's Naval Ravikant:
 
 > Compound interest also happens in your reputation. If you have a sterling reputation and you keep building it for decades upon decades, people will notice. Your reputation will literally end up being thousands or tens of thousands of times more valuable than somebody else who was very talented but is not keeping the compound interest in reputation going. 
 
@@ -75,7 +75,7 @@ Ben Franklin owned a printing press and he could write well. Sneaky Ben abused t
 
 He'd first publish his own writing anonymously. Then he'd let the article soak in, and monitor public reaction. 
 
-After everyone was nodding along, he'd propose the policy change he wanted. They pass without problem. He drops these little "not the least objection being made" in his autobiographies, and you feel the smugness.
+After everyone was nodding along, he'd propose the policy change he wanted. They'd often pass without problem (which Ben was a little smug about).
 
 Franklin was utilizing one of Naval Ravikant's four types of leverage, "media" (the other three being "people", "money", and "technology").
 
@@ -92,7 +92,7 @@ Thanks to Mark Zuckerberg's marvelous media machines, everyone has a printing pr
 
 First, try floating your ideas without claiming them as yours. Watch your audience.
 
-Then, when the time is right, hit 'em with your proposal. Wow, suddenly your suggestion seems like a good idea.
+When the time is right, hit 'em with your proposal. Wow, suddenly your suggestion seems like a good idea.
 
 <!--- TODO when it's ready, link to "parable of the orange", "why" not "how" -->
 
@@ -100,11 +100,11 @@ He was comfortable delegating to others
 ---------------------------------------
 You know the boss in [Office Space](https://en.wikipedia.org/wiki/Office_Space), all micromanager-y? B. Franklin was the opposite of that.
 
-By middle age, [he'd left all his printing press operations to a business partner and his wife](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#VIII:~:text=The%20care%20and%20trouble,successfully%20for%20us%20both.). 
+By middle age, [he'd left his printing press operations to a business partner and his wife](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#VIII:~:text=The%20care%20and%20trouble,successfully%20for%20us%20both.). 
 
 He was like the Elon Musk of the New World, starting things and leaving others to run them:
 
-- He started the University of Pennsylvania, but left the day-to-day operations to others
+- He started the University of Pennsylvania, but left day-to-day operations to others
 - He created the first Philadelphia firefighting department, but wasn't involved in its operation
 - He proposed a militia to defend the colonies during the French and Indian War, but turned down a military position so someone more qualified could do it
 
@@ -112,20 +112,20 @@ Franklin recognized the value of "people", another of Naval's four types of leve
 
 He built the skill of identifying and trusting good people. This freed his time for long trips to Europe, writing, science experiments, and [fooling around with older women](https://en.wikipedia.org/wiki/Advice_to_a_Friend_on_Choosing_a_Mistress).
 
-If you struggle with delegation, remember that it's not just about trust.
+If you struggle with delegation, remember that it's not _just_ trust.
 
 The skill of delegating has two components:
 
 1. **Trusting:** allowing others to do things differently than you
 2. **Identifying:** sourcing candidates and filtering out those who are a bad fit
 
-I used to think that I was a control freak. Which is a rational belief to have, when you're a control freak. I needed to improve my comfort with others doing things differently.
+I used to think I was a control freak. Which is a rational belief to have, when you're a control freak. I needed to improve my comfort with others doing things differently.
 
 But I also learned that I wasn't sourcing and filtering for the right people. I didn't feel comfortable letting go of control because the people I was hiring just weren't good enough.
 
-I improved my filtering, and suddenly delegating became easy. I can let a person run with a task, they do a _better_ job, and I don't spend the time and energy? Don't mind if I do.
+I improved my filtering, and suddenly delegation became easy. I can let a person run with a task, I don't spend time or energy, and they do a _better_ job? Don't mind if I do.
 
-When you get both halves of delegation working, it seems more obvious than TODOOO
+When you get both halves of delegation working, it seems more obvious than weed at a Grateful Dead concert.
 
 Are you crunched for time? Do you struggle to delegate? If so, do you need to get better at trusting or identifying suitable candidates?
 
@@ -137,15 +137,15 @@ Ben Franklin detested stuff that sucked.
 
 Colonial fireplaces weren't good at heating homes, so Clever Ben invented [the Franklin stove](https://en.wikipedia.org/wiki/Franklin_stove).
 
-![The weird whoopdie-doodle lets smoke transfer more heat to the room](./franklin-stove.jpg)
+![The weird whoopdie-doodle transfers more heat to the room](./franklin-stove.jpg)
 
-The ball-shaped streetlamps from England got hazy quickly, so [he casually dropped a four-paned streetlamp](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=The%20honour%20of,very%20poorly%20illuminated.).
+The globe-shaped streetlamps from England broke easily, so [he dropped the four-paned streetlamp](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=The%20honour%20of,very%20poorly%20illuminated.) real casual-like.
 
 ![Check out [Forgotten New York's post on the topic](https://forgotten-ny.com/2015/05/franklin-street-lamps-philadelphia/) for more Franklin goodness](./franklin-light.jpg)
 
 Switching near-seeing and far-seeing glasses was annoying, so he sawed a pair of each in half and slapped them together to make bifocals.
 
-Zeus kept trashing the wooden colonial structures with lightning, so he invented the lightning rod.
+Lightning kept trashing the wooden colonial structures, so he invented the lightning rod.
 
 And ol' Ben himself was full of pesky human vice, so he invented [the 13 Virtues and a system to track his progress towards them](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20made%20a,upon%20that%20day.).
 
@@ -157,7 +157,7 @@ Don't like how your files are organized on your computer? Design a better way.
 
 Is your mother-in-law driving you nuts? Find a new one.
 
-Constant incremental improvement feels good, and will probably earn you a Guinness World Record if you do it long enough. (Don't quote me on that)
+Constant improvement feels good, and will probably earn you a Guinness World Record if you do it long enough. (Don't quote me on that)
 
 He cultivated likeability
 -------------------------
@@ -167,7 +167,7 @@ Might be a subtle flex that he's the grandpa outliving his other grandpa bros.
 
 But it stood out to me since [I'm currently seeking freedom from my own emotional volatility](https://substack.com/home/post/p-155537355). Someone who can maintain many relationships over a lifetime is someone [who fits well with many people](https://altered.substack.com/p/charisma).
 
-No surprise that in the research I did for this post, everyone really likes the dude.
+No surprise that in the research I did for this post, most everyone likes Ben.
 
 Even John Adams, an occasional Franklin hater, [had this to say](https://founders.archives.gov/documents/Adams/99-02-02-5574#:~:text=Franklin%20had%20a%20great%20genius%E2%80%94original%2C,the%20French%20call%20na%C3%AFvet%C3%A9%2C%20which):
 
@@ -175,97 +175,102 @@ Even John Adams, an occasional Franklin hater, [had this to say](https://founder
 
 In fancy psychology language, Señor Franklin was high on [the "Agreeableness" dimension of the Big Five personality inventory](https://en.wikipedia.org/wiki/Agreeableness#Big_Five). 
 
-Hang on, Gordon Ramsay is telling me to be tough and no-nonsense! What gives?
+But wait, Gordon Ramsay is telling me to be tough and shout-y! What gives?
 
 ["The New Science of Narcissism" ](https://www.amazon.com/New-Science-Narcissism-Understanding-Psychological/dp/1683644026) says a lack of Agreeableness is a defining characteristic of the "dark triad" trait of narcissism. People low in Agreeableness struggle to keep relationships, while [people high in Agreeableness get better outcomes in life](https://journals.sagepub.com/doi/10.1177/10888683211073007).
 
-If we want a bunch of ~pen~ quill pals like old Ben, we should take a page from his Agreeableness book.
+If we want a bunch of lifelong ~pen~ quill pals like old Ben, we should take a page from his Agreeableness book.
 
-Fortunately, [Mr. Franklin was an argumentative prick when he was younger](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=There%20was%20another,bred%20at%20Edinborough.). He had to work to become Agreeable, so we get free front-row seats to the Franklin Dickhead Reduction Program.
+Fortunately, Mr. Franklin was real prick when he was younger and had to work on his Agreeableness. We get front-row seats to the Franklin Dickhead Reduction Program.
 
 ### Humility
-There's this moment where young Ben goes, "Huh... turns out people don't like when I'm always impressing them with my superiority." (TDOO LINK???)
+[There's a moment where young Ben goes, "Huh... people don't like it when I'm always arguing with them."](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=There%20was%20another,bred%20at%20Edinborough.)
 
-He [stops speaking in absolutes and starts allowing room for doubt](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20continu%27d%20this,of%20your%20error.), and declares it TODO. 
+After this realization, he [stops speaking in absolutes and starts allowing room for doubt](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20continu%27d%20this,of%20your%20error.).
 
-He later gets told TODOOOO
-He [later  humility to his list of Virtues to avoid his tendency for pride](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=My%20list%20of,in%20the%20right.)
+Later, [a friend tells him that he's insufferably arrogant so he adds Humility to his 13 Virtues](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=My%20list%20of,in%20the%20right.).
 
+Later still, [he found that people adopted his ideas more easily when he didn't attach his name to the project](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=The%20objections%20and,their%20right%20owner.).
 
-Now before you "No shit, Sherlock"
-
-Which sounds real obvious, yet 
-
-TODOOO
-
-Over the course of his life, Franklin discovered that a posture of humility was more effective for him.
-
-In his experiments with the Socratic Method, [he found it more effective to express himself with uncertainty rather than absolutism](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20continu%27d%20this,of%20your%20error.). He [later added humility to his list of Virtues to avoid his tendency for pride](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=My%20list%20of,in%20the%20right.).
-
-Later, [he found that people adopted his ideas more easily when he didn't attach his name to the project](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=The%20objections%20and,their%20right%20owner.).
-
-
+It ain't easy to feed yourself humble pie, but Benny did it because he found it more effective.
 
 Are you cultivating humility? Not because you "should", but because it will be more effective to you?
 
 ### Non-Retaliation
-I noticed that Franklin often didn't retaliate against people who'd wronged him.
+While reading, I noticed Monsieur Ben didn't retaliate against those who'd wronged him.
 
-In one case, [a governor sent him to London on a promise and abandoned him](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=When%20we%20came,during%20his%20administration.). Franklin was clearly irritated, but decided to focus his energy on getting a job in London rather than vengeance.
+In one instance, [a governor sent him to London on a promise and abandoned him](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=When%20we%20came,during%20his%20administration.). Ben indulged in a bit of self-pity ("what shall we think of a governor's playing such pitiful tricks, and imposing so grossly on a poor ignorant boy!"), but focused his energy on getting a job in London rather than vengeance.
 
-In another, a British general had arrived to defend the colonies. He lacked resources, so [Franklin fronted a significant chunk of money to him](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20received%20of,which%20more%20hereafter.). The general was killed in battle, and the treasury in London later refused to reimburse Franklin. He was indignant, but never retaliated.
+In another instance, a British general had arrived from London to defend the colonies. He had no resources, so [Franklin loaned him a pile of cash](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20received%20of,which%20more%20hereafter.) to buy supplies. 
 
-He even [turned an enemy into a friend by asking to borrow a book from him](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20therefore%20did,continue%20inimical%20proceedings.). This tactic now has its own Wikipedia page: ["the Franklin effect"](https://en.wikipedia.org/wiki/Ben_Franklin_effect).
+The general was killed in battle, and the treasury in London later stiffed Ben out of his money. He was pissed. But sadly for Ben Franklin: The Netflix Tell-All, there was no flipping of tables or smashing of teacups. He took it on the chin and moved on.
 
-[I've written before about how anger is a prison that you make for yourself](https://substack.com/home/post/p-155024549). Ben Franklin knew this.
+He even [turned an enemy into a friend by asking to borrow a book from him](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#:~:text=I%20therefore%20did,continue%20inimical%20proceedings.). Can't say I've ever thought, "Hey Person I Dislike, you got Harry Potter?" but turns out I'm the dummy. The tactic now has its own Wikipedia page: ["the Franklin effect"](https://en.wikipedia.org/wiki/Ben_Franklin_effect).
 
-When someone wronged him, he didn't dwell on it. Instead, he focused on moving his life forward. The universe often brought his antagonizer to justice, and Franklin didn't waste precious time on resentment.
+[I've written before about how anger is a prison that you make for yourself](https://substack.com/home/post/p-155024549). Wise Ben understood this.
+
+When someone wronged him, he didn't try to get even. Instead, he focused on moving his life forward. The universe often brought his antagonizer to justice, and Franklin didn't waste precious time on resentment.
 
 As the Buddhist quote goes,
 
 > Holding on to anger is like drinking poison hoping the other person dies
 
+Are you letting go of your anger, not for the other person but for your own good?
+
 He worked hard, but he also rested
 ----------------------------------
-Throughout the autobiography I kept thinking, "How does he do so much?"
+Throughout the autobiography I kept wondering, "How does this dude _do_ so much?"
 
-The modern answer would be, "Because he works nonstop!" 
+(David Goggins swings out of the ceiling) 
 
-But the daily schedule he included is impressive for how uncrowded it is:
+**GRINDSET! SLEEP WHEN YOU'RE DEAD, MOTHERFUCKER!**
+
+Shh, go back into the ceiling David... there are no ultramarathons for you here.
+
+We have Ben Franklin's daily schedule, and we know how uncrowded it is:
 
 ![Ben Franklin's daily schedule](./daily-schedule.png)
 
-Franklin only worked 8 hours per day, with 7 hours for sleep and 2 hours for lunch and reading.
+Ben tried to work 8 hours per day, with 7 hours for sleep and 2 hours for lunch and reading.
 
-Our modern work mindset evolved from factory work in the Industrial Revolution. It's trained us to believe that more hours = more productivity.
+Our modern work mindset evolved from the widget-makers of the Industrial Revolution. More hours = more widgets = happy boss, productivity yay.
 
-This was true when making widgets. But modern knowledge work is not factory work. There comes a point where more hours = negative productivity. 
+But modern knowledge work is not factory work. We are no longer widget-makers. 
 
-Remember what happens when you're sleep-deprived:
+Today, working smart beats working hard. [Thanks to leverage, the right decision is more important than hours worked](https://substack.com/home/post/p-155486611).
 
-1. You make errors you have to clean up later
-1. You do work that seems good at the time, but needs to be thrown away in the morning
-1. Your emotional volatility results in outbursts that you have to mend later
+Meaning, there's a point where more hours worked = negative productivity.
+
+This is is a hard concept for us silly humans to understand. I sure struggled with it.
+
+But remember what happens when you're sleep-deprived:
+
+1. You make mistakes you have to clean up later
+1. You do work that seems good at the time, but needs to be trashed in the morning
+1. Your tiredness causes emotional outbursts you have to mend later
 1. You focus on urgent, obvious problems rather than taking a step back to solve the most important ones
 1. You focus on obvious solutions, missing the non-obvious ones that are better
 
-Worse, we can't tell when we're falling into these traps. Too much sleep deprivation maxes out our ability to feel tired, even as our mental performance continues to get worse.
+We know that Ben Franklin utilized leverage, and as an inventor he clearly understood "Work smart, not hard." 
 
 Are you resting enough to maximize your productivity?
 
 Conclusion
 ----------
-Franklin became wiser reading those who came before. And we become wiser by reading Franklin.
+Ben F. spent his life wandering through the supermarket of knowledge picking up tasty ingredients.
 
-If this article resonated with you, then you might like my other writing:
+By old age, he'd created a fabulous wisdom sundae. Thankfully for us 21st century humans, he wrote down what he did so we might build our own.
 
-- [Leveraging your judgment a la Naval Ravikant](https://mieubrisse.substack.com/p/leveraged-judgment)
-- [The comprehensive sleep guide][sleep-guide], for securing the rest necessary to maximize your productivity
+If you liked this article and want more goodies for your sundae, check out my other writing:
+
+- [Why your judgement is THE thing, per Naval Ravikant](https://mieubrisse.substack.com/p/leveraged-judgment)
+- [The comprehensive guide to sleep][sleep-guide], on how to maximize your productivity with rest
+- [What a silly rap song can teach us about karma](https://substack.com/home/post/p-157909325)
 - [Building yourself into your own magnum opus](https://substack.com/home/post/p-155024549)
 
 <!-- TODO link to the behavioural change guide when it's ready!! -->
 
-And if you found this post valuable, you can help me make more by subscribing!
+And if you found this post valuable, definitely don't subscribe because if you do then I might write more.
 
 <!-- SUBSCRIBE BUTTON -->
 
