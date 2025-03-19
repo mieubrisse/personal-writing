@@ -1,8 +1,8 @@
 ---
 title: "Building Ben Franklin"
-subtitle: "Breaking down why our balding Founder Father was such a badass"
+subtitle: "7 life lessons from the quirkiest Founding Father"
 ---
-<!---- TAGLINE FOR IG POSTS: Ben Franklin was a badass. But why? Click  ----->
+<!---- TAGLINE FOR IG POSTS: Ben Franklin was the Elon Musk of the 1700s. What made him so successful? Check it out now  ----->
 
 I just finished reading [Ben Franklin's autobiography](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm).
 
@@ -52,7 +52,7 @@ In this way, **Franklin's honor became an asset**.
 
 Modern wisdom says you've got to look out for yourself, and do what you need to get ahead. Just watch the people in Mr. Beast videos.
 
-But the internet's got us all living in [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(American_TV_series)). Our dastardly and delightful deeds are captured forever, and broadcast to a huge audience.
+But the internet's got us all living in [Big Brother](https://en.wikipedia.org/wiki/Big_Brother_(American_TV_series)). Our disgraceful and delightful deeds are captured forever, broadcast to a huge audience.
 
 So honorable folks today get a double boost: they're rarer and therefore more valuable, and their positive reputation spreads farther.
 
@@ -225,7 +225,7 @@ Throughout the autobiography I kept wondering, "How does this dude _do_ so much?
 
 **GRINDSET! SLEEP WHEN YOU'RE DEAD, MOTHERFUCKER!**
 
-Shh, go back into the ceiling David... there are no ultramarathons for you here.
+Shh, back into the ceiling David.
 
 We have Ben Franklin's daily schedule, and we know how uncrowded it is:
 
