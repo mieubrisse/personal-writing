@@ -70,6 +70,7 @@ My choice to go barefoot was anti-leverage. Making the small choice to wear shoe
 ### 
 
 
+TODO Shane Parrish's "consequential vs inconsequential"
 
 
 
