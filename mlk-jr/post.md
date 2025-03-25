@@ -10,3 +10,5 @@ Malcolm X's attitudes towards violence being okay meant that when he fell afoul 
 
 MLK Jr opposing Malcolm X
 - "Violence destroys itself"
+
+He appeals to moral grounds (driven much by Christianity)
