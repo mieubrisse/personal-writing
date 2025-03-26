@@ -1,62 +1,93 @@
 ---
-title: "Shattered Glass And Anti-Leverage"
+title: "Shattered Glass And Negative Leverage"
 subtitle: "TODO"
 ---
 <!---- TAGLINE FOR IG POSTS: TODOOO ----->
 
-Yesterday I was distracted and knocked a glass off my table. It exploded everywhere.
+I was distracted yesterday and knocked a glass off my table. It exploded everywhere.
 
-I was barefoot. I recollected my parents urging us to put on shoes before cleaning up broken glass. Sensible.
+I was barefoot. I remembered my parents urging us to put on shoes before cleaning up broken glass. Sensible.
 
-Yet I had a novel thought: what if I cleaned the glass up barefoot?
+But I had a novel thought: what if I cleaned up the glass barefoot?
 
-Crazy, I know. 
+That's insane.
 
-But the logic went like this: I'm not going to wear shoes forever in my apartment. If I wear shoes during the cleanup, I might be missing glass shards that I'll only find the next time I'm barefoot. I just watched the glass shatter, so I'm extra cautious right now. Days later I might not be, leading to a worse injury.
+But there was logic to it: I'm not going to wear shoes forever in my apartment. If I wear shoes during the cleanup, I could miss shards that I'll only find the next time I'm barefoot. 
 
-So I did it. I stepped carefully in clear areas, using any pricks as signal of a shard. Things seemed to proceed smoothly.
+I just watched the glass shatter, so I'm cautious right now. Days later I might not be, leading to a worse injury.
 
-My first hint that I'd miscalculated came when sweeping at the end, after all the big pieces were gone. 
+So I cleaned it up barefoot. I stepped carefully in clear areas, using any felt pricks as shard alerts. Things seemed to proceed smoothly.
 
-I'd assumed there would be a small-but-reasonable size that the glass shards wouldn't go under. The size of the tip of a pen, perhaps. Small, but still visible. 
+My first hint I'd miscalculated came when sweeping at the end, after all the big pieces were gone. 
 
-But what I swept up was glass dust. Miniscule fragments that would have been invisible if I hadn't swept them into a pile.
+I'd assumed all the glass shards would be visible. The size of a pen tip, at smallest.
 
-I'd been careful to step in areas that seemed free of glass. But when I inspected the bottom of my feet, they were full of tiny shimmering bits that I hadn't felt.
+But what I swept up was glass dust. Miniscule fragments which would have been invisible if I hadn't collected them into a pile.
 
-A little shaken, I washed my feet and did an extra thorough job with vacuuming.
+I'd been careful to step in areas that looked free of glass. But when I inspected the bottom of my feet, they glimmered full of tiny shimmering remnants I hadn't felt.
 
-During the night my sheet brushed my toe and I felt a sudden sharp pain. I intuited I'd gotten a glass splinter without noticing, but spent 30 minutes failing to locate it.
+A little shaken, I washed my feet and took extra care when vacuuming.
+
+My sheet brushed my toe while I lay in bed that night, and I felt a sharp pain. I knew I'd gotten a glass splinter without noticing, but spent 30 minutes failing to locate it.
 
 As I wait for my body to expel the splinter naturally, I'm reflecting on what I've learned (because you either win or you learn).
 
-### The Butterfly Effect
-If I'd been in less of a rush, I wouldn't have knocked the glass over. I would have saved myself the cup, a glass splinter and nearly an hour of cleanup. Not to mention the mental toll of having a splinter.
+### Negative Leverage
+If I'd been in less of a rush, I wouldn't have knocked the glass over. I would have saved myself all the cleanup.
 
-But even with the glass shattered, shoes would have saved me the splinter.
+But even with the glass shattered, shoes would have saved me time trying to remove the splinter. Not to mention the mental toll of the splinter.
 
-One small choice can have huge consequences. The butterfly effect is real.
+I define leverage as small inputs causing big outputs. 
 
-Think to your own life. Maybe you've been in scenarios like these:
+In these cases, I experienced "negative leverage". My small actions caused me hours of work.
+
+Think to your own life. Do any of these sound familiar?
 
 - "Just a bit of Instagram" turns into hours of doom-scrolling, sleep deprivation, and unhealthy food choices the next day.
-- A "quick glance at email" after work reveals a stressful email that makes you anxious all night, corrupting sleep and time with your loved ones.
-- One phrase said in the heat of anger turns into hours repairing a relationship.
+- "Just one Netflix episode" ends on a cliffhanger, leaving you dying to know what happens next, which pulls you into a multi-episode binge.
+- A "quick glance" at email after work reveals a stressful email that makes you anxious all night, corrupting your sleep and time with your loved ones.
+- One thing said in the heat of anger turns into hours repairing a relationship.
 - "Just one more drink" turns into a night of drinking, sleeping late, a hangover, and a wasted next day.
 
-If you'd only turned down the drink, not opened Instagram, took a breath before responding... everything changes.
+Everything changes if you'd opened a book instead of Instagram or Netflix, didn't check your email, took a breath before responding.
+
+Warren Buffet's business partner Charlie Munger has this to say:
+
+> It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent
+
+Nassim Taleb calls this "avoiding what not to do" approach _via negativa_.
+
+Are there you making any small choices in your life that are ballooning into bad outcomes?
+
+_Big thanks to [Tarik Guney](https://www.forgingforward.co/p/charlie-mungers-dont-make-big-mistakes) and [Chris Meyer](https://themindcollection.com/via-negativa/) for their articles which propelled my thinking on negative leverage_
+
+### The Danger Of Unchecked Assumptions
+My experiment rested on two assumptions:
+
+1. **I'd be able to see all glass shards.** This relied on an incorrect belief about the way glass shatters. Namely, about how small shards could be.
+2. **I'd immediately feel stepping on a shard.** This relied on an incorrect belief about what stepping on a shard would be like. It was supported by the belief about how small shards could be.
+
+This wasn't crazy; I can't remember ever having a glass splinter before. I just assumed.
+
+Now, I wasn't 
+
+Reflecting, this belief about how small shards could be was driven by experience. I don't remember seeing such tiny glass before as a kid.
+
+
+
+
+
+
+
+
+
+
+
 
 TODO no situation you can't make worse
 
 TODO link to Ben Franklin with negative productivity
 
-### The Danger Of Unchecked Assumptions
-My experiment rested on two assumptions:
-
-1. **I could rely on my eyesight to determine if I was stepping in a safe place.** This relied on an incorrect belief about the way glass shatters. Namely, about how small shards could be.
-2. **I'd immediately feel stepping on a shard.** This relied on an incorrect belief about the experience of stepping on a shard, and was supported by the belief about how small shards could be.
-
-Reflecting, this belief about how small shards could be was driven by experience. I don't remember seeing such tiny glass before as a kid.
 
 
 
