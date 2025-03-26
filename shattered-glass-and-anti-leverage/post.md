@@ -61,11 +61,39 @@ Are there you making any small choices in your life that are ballooning into bad
 
 _Big thanks to [Tarik Guney](https://www.forgingforward.co/p/charlie-mungers-dont-make-big-mistakes) and [Chris Meyer](https://themindcollection.com/via-negativa/) for their articles which propelled my thinking on negative leverage_
 
-### The Danger Of Unchecked Assumptions
-My experiment rested on two assumptions:
+### The Hellish Marriage Of System 1 And Negative Leverage
+My decision to clean up barefoot rested on two assumptions:
 
 1. **I'd be able to see all glass shards.** This relied on an incorrect belief about the way glass shatters. Namely, about how small shards could be.
 2. **I'd immediately feel stepping on a shard.** This relied on an incorrect belief about what stepping on a shard would be like. It was supported by the belief about how small shards could be.
+
+To my credit, these weren't completely insane. 
+
+I can't ever remember thinking, "That's such a _tiny_ glass shard!" and I'd never had a glass splinter or micro-shards in my foot.
+
+I made a rough judgment based off experience. 
+
+In the words of Daniel Kahneman's [Thinking Fast & Slow](TODO), my [System 1](TODO) was in control. 
+
+System 1 is the "fast" thinking. It's where cognitive biases live, and it's wrong a lot.
+
+[System 2](TODO) is precise thinking, but it's slow and  needs to be intentionally activated.
+
+If I'd paused to engage my System 2, I would have realized that I was sabotating 
+
+
+
+. I could have Googled or asked ChatGPT about minimum shard size. I would have realized that my logic was flawed.
+
+1. I could hae 
+
+
+
+
+
+
+
+TODO Daniel Kahneman's System 1
 
 This wasn't crazy; I can't remember ever having a glass splinter before. I just assumed.
 
