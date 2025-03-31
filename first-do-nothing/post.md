@@ -2,8 +2,8 @@
 title: "First, Do Nothing"
 subtitle: "The lost productivity art of doing nothing at all"
 ---
-<!---- 
-TAGLINE FOR IG POSTS: 
+<!----
+TAGLINE FOR IG POSTS:
 
 TODO (use ChatGPT to help)
 ----->
@@ -50,30 +50,93 @@ Instead, I suggested he...
 - Go for a walk
 - Go to the gym
 
-When we feel stressed - angry, afraid, alone, etc. - we feel we _must_ take action Right Now.
+### Stress & Negative Leverage
+My "first, do nothing" advice usually sounds bad the first time someone hears it. They feel I'm not respecting the situation.
 
-Unfortunately, stress straps reality-distortion goggles to our faces. We forget long-term goals in favor of short-term thinking.
+When we feel stressed - angry, afraid, alone, etc. - we feel we _must_ take action Right Now. We forget long-term goals and favor short-term thinking. We tunnel vision on what's in front of us.
 
-How many times have you said something in the heat of the moment, then regretted it as soon as you said it?
+This urgency was useful in the simple ancient world. 
 
-How often have you issued an ultimatum over something that _felt_ so crucially important, only to feel ashamed the next day when you realized it didn't matter?
+Back then, stressors like "getting chased by a tiger", "getting expelled from the tribe", and "getting rejected by a romantic prospect" carried real risk of failing to pass on your genes. Sudden drastic action favored survival (else we wouldn't have these instincts).
 
-[Astronaut Chris Hadfield tells us about a saying at NASA](https://www.youtube.com/watch?v=Zo62S0ulqhA&ab_channel=TED):
+But urgency in response to stress is frequently harmful in the complex modern world. 
+
+Today, most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. Most perceived threats are not dangerous at all.
+
+Further, [the modern world is full of leverage](https://mieubrisse.substack.com/p/leveraged-judgment). A hasty decision can miss non-obvious solutions that save dozens of hours of work.
+
+How many times have you...
+
+- Said something in the heat of the moment, then wished you could take it back?
+- Been confident you knew what was happening (e.g. confident about a person's motivations for doing something), only to find out later that you got it wrong?
+- Burned a bunch of time fighting for something that _felt_ crucially important, but felt sheepish the next day when you realized it didn't matter?
+
+These are examples of [negative leverage][negative-leverage]: small choices that waste lots of your time. If you'd only slowed down and made a different choice, you could have saved hundreds of hours.
+
+[Astronaut Chris Hadfield tells us NASA has a saying](https://www.youtube.com/watch?v=Zo62S0ulqhA&ab_channel=TED):
 
 > There's no problem so bad that you can't make it worse
 
-This is all about [avoiding negative leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage).
+The point of "first, do nothing" is to save yourself from making the situation worse.
 
-This is the same thing as the famous saying, "when you're in a hole, first 
+By slowing down, you skip creating negative leverage. You become faster in the long run.
+
+### Identifying When To Slow Down
+To apply "first, do nothing" in your life, you must recognize when it's needed.
+
+These are some of the warning signs that my fight-or-flight nervous system is going and I need to first do nothing:
+
+- I'm feeling irritated, frustrated, defensive, or resentful
+- I'm feeling abandoned or isolated
+- I'm feeling pressured
+- I'm feeling jealous
+
+Alcoholics Anonymous has an excellent acronym to help: ["HALT"](https://www.ascendantny.com/halt-acronym/), which stands for "hungry, angry, lonely, or tired". If I'm feeling any of these, I know my decisionmaking is jeopardized.
+
+However, my decisionmaking 
+
+As I said in [the previous post about negative leverage][negative-leverage], the first step is recognizing the decision point. 
+
+### When To Act
+
+### How To Practice This
+TODO noticing before vs after
+
+
+But you already know this.
+
+Think about which situation you'd prefer for an important negotiation:
+
+- **Tense:** A pressure-filled, urgent environment
+- **Calm:** A relaxed environment with plenty of time to think
+
+Obviously the calm one. Yet how many times have you willingly put yourself in the tense one by pressuring yourself to respond Right Now?
+
+The point of "first, do nothing" is to create the calm environment for yourself.
 
 
 
-So when you're stressed, first do nothing. 
+
+My [last post talked about negative leverage][negative-leverage]: little choices that create big problems for yourself in the future.
+
+This saying from NASA focuses specifically on negative leverage in stressful situations. [When you're in a hole, stop digging](https://en.wikipedia.org/wiki/Laws_of_holes).
 
 
-### 
 
-When we take action from a stressed, reactive place, 
+
+
+When something's going wrong, [don't do things that create negative leverage for yourself][negative-leverage]!
+
+This is the same thing as the famous saying, "when you're in a hole, first
+
+
+
+So when you're stressed, first do nothing.
+
+
+###
+
+When we take action from a stressed, reactive place,
 
 
 
@@ -85,21 +148,13 @@ TODO HALT
 
 
 
-This is because our stress response evolved in an ancient world where stressors required immediate action. A tiger chasing us, or being expelled from the tribe, meant certain death unless we reacted drastically.
-
-But we don't live in that world anymore. Most things things we fear are no longer dangers.
-
-Your friends aren't resonating with you anymore? Find more friends at the nearest park. 
-
-Hitting serious disagreements with your partner? The internet offers you thousands of compatible people from all over the world.
 
 
 
 
 
 
-
-How often have you said something from a reactive, stressed place and regretted it the minute you said it? How often has that 
+How often have you said something from a reactive, stressed place and regretted it the minute you said it? How often has that
 
 As I've wr
 
@@ -111,9 +166,9 @@ Maybe regretted the message you sent, or the decision you took
 
 If you were negotiating for your life, which environment would you prefer? A pressure-filled, urgent one? Or a calm one, with plenty of time to think?
 
-Obviously the latter. So why do we make 
+Obviously the latter. So why do we make
 
-TODO 
+TODO
 
 When we're stressed we feel like we _need_ to react.
 
@@ -131,6 +186,10 @@ TODO link to negative leverage
 
 TODO we have to _feel_ it to get this
 
+When do we take action?
+-----------------------
+TODO Ravi's "when you feel calm"
+
 Conclusion
 ----------
 TODO
@@ -140,3 +199,10 @@ TODO
 TODO link to previous writing
 
 TODO SUBSCRIBE BUTTON COPY (use ChatGPT) + SUBSCRIBE BUTTON
+
+
+
+<!------------------------- ONLY LINKS BELOW HERE ----------------------------------->
+[negative-leverage]: https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage
+
+
