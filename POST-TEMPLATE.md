@@ -20,7 +20,6 @@ AFTER POSTING
 ### Prep
 1. Download the shareable image that Substack generates for the post
 1. Post the shareable link that Substack generates to my self Whatsapp group (for using in Stories)
-<!-- 1. Send the shareable image that Substack generates to myself on Whatsapp (for posting to the feed post) -->
 1. Send raw cover image to myself on Whatsapp for stories
 
 ### Sharing
@@ -30,6 +29,7 @@ AFTER POSTING
 1. Share the raw cover from Whatsapp as a story WITH LINK to kevinjtoday
 1. Post the link to Twitter
 1. Send to all the friends that I've recorded as interested
+-->
 
 
 ![](./image.png)
@@ -45,3 +45,8 @@ TODO
 TODO link to previous writing
 
 TODO SUBSCRIBE BUTTON COPY (use ChatGPT) + SUBSCRIBE BUTTON
+
+
+
+<!------------------------- ONLY LINKS BELOW HERE ----------------------------------->
+[TODO]: some-link
