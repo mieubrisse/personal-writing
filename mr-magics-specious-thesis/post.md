@@ -3,6 +3,8 @@ title: "Mr. Magic's Specious Thesis"
 subtitle: "Karma as explained by the philosophers of Body Head Bangerz"
 ---
 
+![](./image.png)
+
 I was in the gym yesterday when [Body Head Bangerz' "Can't Be Touched"](https://youtu.be/VL_ab_ZGJPY?t=44) came on:
 
 > I'm pimping my hoes</br>
@@ -75,18 +77,8 @@ Our actions in life have consequences. The energy we put out into the world gets
 
 So if you want a more positive result, make a more positive choice. If you'd like not to go back to lock-up, you might want to reconsider telling the judge to kiss your ass.
 
-Or at least say, "please".
+Or at least, say "please".
 
-<!--
-Tedi notes:
-- Small smile
-- "Reads like a poem"
-Point of confusion: 'hood without the ending apostrophe was confusing, wasn't sure what hygge
-"My problems are the world's fault...."  -> Tedi thought that I was referencing the song
-Liked, "basically all us funny monkey-looking things"
-Liked the "Some shit, Sherlock" right after "I'm slipping and covered in shit all the time" (T: "this is poetic, funny")
-"I know the District 9 reference, but I wonder how many of your audience know the reference"
+_Curious how you're getting in your own way? Check out [negative leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage)._
 
-"My favorite part is that it's a different writing style from your previous writings... more stream of conscious, witty"
-Message is clear: not complicated
--->
+Remember filling your apartment with nice things? **How about filling your mind with nice mental upgrades, every week?** TODO SUBSCRIBE BUTTON
