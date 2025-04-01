@@ -1,6 +1,6 @@
 ---
 title: "First, Do Nothing"
-subtitle: "The lost productivity art of doing nothing at all"
+subtitle: "Avoiding negative leverage in stressful situations"
 ---
 <!----
 TAGLINE FOR IG POSTS:
@@ -34,9 +34,11 @@ AFTER POSTING
 
 ![](./image.png)
 
-Anybody who knows me knows one of my favorite mantras: first, do nothing.
+_This post is part of a series on negative leverage. To read the first part, [go here][negative-leverage]._
 
-The other day a friend was stressing about a girl he liked. She'd given a noncommittal response to his last text message, and many thoughts were going through his head. Did she like him still? Should he send a followup? Should he distance himself from her?
+I have a favorite mantra: first, do nothing.
+
+The other day a friend was stressing about a girl he liked. She'd given a noncommittal response to his last text message, and many thoughts were swirling around his head. Did she still like him? Should he send a followup? Should he distance himself from her?
 
 My advice: first, do nothing.
 
@@ -51,51 +53,93 @@ Instead, I suggested he...
 - Go to the gym
 
 ### Stress & Negative Leverage
-My "first, do nothing" advice usually sounds bad the first time someone hears it. They feel I'm not respecting the situation.
+My "first, do nothing" advice often sounds bad the first time someone hears it. 
+
+They feel I'm not respecting the gravity of the situation. They forget that stress straps reality-distortion goggles to our minds.
 
 When we feel stressed - angry, afraid, alone, etc. - we feel we _must_ take action Right Now. We forget long-term goals and favor short-term thinking. We tunnel vision on what's in front of us.
 
 This urgency was useful in the simple ancient world. 
 
-Back then, stressors like "getting chased by a tiger", "getting expelled from the tribe", and "getting rejected by a romantic prospect" carried real risk of failing to pass on your genes. Sudden drastic action favored survival (else we wouldn't have these instincts).
+Back then, stressors like "getting chased by a tiger", "getting expelled from the tribe", and "getting rejected by a romantic prospect" carried real risk of failing to pass on your genes. Sudden drastic action favored survival, else we wouldn't have these instincts.
 
-But urgency in response to stress is frequently harmful in the complex modern world. 
+But urgent response to stress is frequently harmful in the complex modern world. 
 
 Today, most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. Most perceived threats are not dangerous at all.
 
-Further, [the modern world is full of leverage](https://mieubrisse.substack.com/p/leveraged-judgment). A hasty decision can miss non-obvious solutions that save dozens of hours of work.
+Further, [the modern world is full of leverage](https://mieubrisse.substack.com/p/leveraged-judgment). A hasty decision frequently misses non-obvious solutions that save dozens of hours of work.
 
 How many times have you...
 
 - Said something in the heat of the moment, then wished you could take it back?
 - Been confident you knew what was happening (e.g. confident about a person's motivations for doing something), only to find out later that you got it wrong?
-- Burned a bunch of time fighting for something that _felt_ crucially important, but felt sheepish the next day when you realized it didn't matter?
+- Burned time and energy fighting for something that _felt_ crucially important, then felt sheepish the next day when you realized it didn't matter?
 
 These are examples of [negative leverage][negative-leverage]: small choices that waste lots of your time. If you'd only slowed down and made a different choice, you could have saved hundreds of hours.
 
-[Astronaut Chris Hadfield tells us NASA has a saying](https://www.youtube.com/watch?v=Zo62S0ulqhA&ab_channel=TED):
+[Astronaut Chris Hadfield tells us about a saying at NASA](https://www.youtube.com/watch?v=Zo62S0ulqhA&ab_channel=TED):
 
 > There's no problem so bad that you can't make it worse
 
-The point of "first, do nothing" is to save yourself from making the situation worse.
+Stress and urgency pressure us to react, but careful - we can _always_ worsen the situation.
 
-By slowing down, you skip creating negative leverage. You become faster in the long run.
+"First, do nothing" guards yourself from causing further damage.
+
+By slowing down, you skip negative leverage become faster in the long run.
+
+### Deeply Feeling The Truth
+You already know that stress causes bad decisionmaking.
+
+Think about which situation you'd prefer for an important negotiation:
+
+- **Tense:** A pressure-filled, urgent environment
+- **Calm:** A relaxed environment with plenty of time to think
+
+Obviously the calm one. You know it gets better outcomes.
+
+But _even knowing this_, I bet you still struggle to slow down when the pressure's on. Our evolved instincts are **strong**. 
+
+Simply knowing that we should slow down isn't enough. Instead you need to deeply feel that slowing down is the right choice.
+
+My business coach, [Ravi Raman](https://raviraman.com/), gave me this metaphor:
+
+> Let's say your daily drive to the office takes 10 minutes.
+> If I tell you about a new route that's 2 minutes faster, will you take it?
+> Probably not right away... your new route is ingrained in your head, and you only logically know the new one is faster.
+> But one day you take it, and feel the speed.
+> Now you're never going back to your old route: you've *felt* the difference.
+
+
+
+<!-- TODO link behavioural change guide -->
 
 ### Identifying When To Slow Down
 To apply "first, do nothing" in your life, you must recognize when it's needed.
 
-These are some of the warning signs that my fight-or-flight nervous system is going and I need to first do nothing:
+Here are some of the warning signs I use as warnings that my fight-or-flight nervous system is activated and I need to first do nothing:
 
 - I'm feeling irritated, frustrated, defensive, or resentful
 - I'm feeling abandoned or isolated
 - I'm feeling pressured
 - I'm feeling jealous
 
-Alcoholics Anonymous has an excellent acronym to help: ["HALT"](https://www.ascendantny.com/halt-acronym/), which stands for "hungry, angry, lonely, or tired". If I'm feeling any of these, I know my decisionmaking is jeopardized.
+Alcoholics Anonymous has the ["HALT"](https://www.ascendantny.com/halt-acronym/) acronym: hungry, angry, lonely, or tired. I know if I'm feeling any of these, my decisionmaking is impaired.
 
-However, my decisionmaking 
+However, my decisionmaking is _also_ compromised when I'm feeling exuberantly positive. 
 
-As I said in [the previous post about negative leverage][negative-leverage], the first step is recognizing the decision point. 
+Have you ever rushed along on a tide of enthusiasm (and maybe some caffeine)? Remember how the situation didn't seem so exciting when the endorphins wore off and you soberly looked at the facts? It's that.
+
+These are some positive states that are also warning signs I need to first do nothing:
+
+- Feeling giddy
+- Being so excited I can't sit still
+- Feeling an excited rush to do something _right now_
+
+
+
+
+### What To Do Instead
+Shane Parrish's [Clear Thinking](https://www.amazon.com.br/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112)
 
 ### When To Act
 
@@ -105,12 +149,6 @@ TODO noticing before vs after
 
 But you already know this.
 
-Think about which situation you'd prefer for an important negotiation:
-
-- **Tense:** A pressure-filled, urgent environment
-- **Calm:** A relaxed environment with plenty of time to think
-
-Obviously the calm one. Yet how many times have you willingly put yourself in the tense one by pressuring yourself to respond Right Now?
 
 The point of "first, do nothing" is to create the calm environment for yourself.
 
