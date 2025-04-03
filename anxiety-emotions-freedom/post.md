@@ -16,7 +16,7 @@ In years past, this would have resulted in avoidance or reactivity, e.g.:
 
 Fortunately, I am wiser now and listen to my therapist's advice to sit with the anxiety. I did none of those things.
 
-Instead, I recognized the fact that I was anxious without judgment and laid down to meditate for 15 minutes. Feeling less panicky, I blocked my Instgram and walked in the sunshine to a favorite cafe with a pen and my journal. I got some favorite food, and explored where the negative feelings might be coming from.
+Instead, I recognized the fact that I was anxious without judgment and laid down to meditate for 15 minutes. Feeling less panicky, I blocked my Instagram and walked in the sunshine to a favorite cafe with a pen and my journal. I got some favorite food, and explored where the negative feelings might be coming from.
 
 When I finished, the anxiety at least was no longer a mystery: there were seven distinct things that had been swimming below the surface. This alone was progress for I was no longer "out of control". I was simply having a sensible reaction to perceived pressures in my life. 
 

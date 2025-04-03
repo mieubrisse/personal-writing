@@ -52,10 +52,13 @@ Instead, I suggested he...
 - Go for a walk
 - Go to the gym
 
-### Stress & Negative Leverage
-My "first, do nothing" advice often sounds bad the first time someone hears it. 
+Stress & Negative Leverage
+--------------------------
+The "first, do nothing" advice often sounds bad the first time someone hears it. 
 
 They feel I'm not respecting the gravity of the situation. They forget that stress straps reality-distortion goggles to our minds.
+
+![](./brain-panicking-in-goggles.jpg)
 
 When we feel stressed - angry, afraid, alone, etc. - we feel we _must_ take action Right Now. We forget long-term goals and favor short-term thinking. We tunnel vision on what's in front of us.
 
@@ -65,7 +68,7 @@ Back then, stressors like "getting chased by a tiger", "getting expelled from th
 
 But urgent response to stress is frequently harmful in the complex modern world. 
 
-Today, most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. Most perceived threats are not dangerous at all.
+Today most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. Most perceived threats are not dangerous at all.
 
 Further, [the modern world is full of leverage](https://mieubrisse.substack.com/p/leveraged-judgment). A hasty decision frequently misses non-obvious solutions that save dozens of hours of work.
 
@@ -85,9 +88,10 @@ Stress and urgency pressure us to react, but careful - we can _always_ worsen th
 
 "First, do nothing" guards yourself from causing further damage.
 
-By slowing down, you skip negative leverage become faster in the long run.
+By slowing down, you skip negative leverage and become faster in the long run.
 
-### Deeply Feeling The Truth
+Deeply Feeling The Power
+------------------------
 You already know that stress causes bad decisionmaking.
 
 Think about which situation you'd prefer for an important negotiation:
@@ -95,152 +99,183 @@ Think about which situation you'd prefer for an important negotiation:
 - **Tense:** A pressure-filled, urgent environment
 - **Calm:** A relaxed environment with plenty of time to think
 
-Obviously the calm one. You know it gets better outcomes.
+Obviously the calm one. You know that it gets better outcomes.
 
-But _even knowing this_, I bet you still struggle to slow down when the pressure's on. Our evolved instincts are **strong**. 
+![](./tense-environment.png)
 
-Simply knowing that we should slow down isn't enough. Instead you need to deeply feel that slowing down is the right choice.
+_Time to do some important work._
 
-My business coach, [Ravi Raman](https://raviraman.com/), gave me this metaphor:
+But _even knowing this_, I bet you still struggle to slow down when the pressure's on. You are _choosing_ the tense environment.
+
+Our evolved instincts are strong!
+
+Simply knowing that we should slow down isn't enough. You need to deeply _feel_ that slowing down under pressure is the right choice.
+
+My business coach, [Ravi Raman][ravi-website], gave me this metaphor:
 
 > Let's say your daily drive to the office takes 10 minutes.
 > If I tell you about a new route that's 2 minutes faster, will you take it?
-> Probably not right away... your new route is ingrained in your head, and you only logically know the new one is faster.
+> Probably not right away... your current route is ingrained in your head, and you only know the new one is faster logically.
 > But one day you take it, and feel the speed.
 > Now you're never going back to your old route: you've *felt* the difference.
 
+To feel the power of "first, do nothing", try this exercise in your own life:
 
+1. The next time you're feeling urgency, write down the action that you want to take.
+1. Wait a day, doing nothing.
+1. Read what you wrote. How often are you _really_ glad you didn't do what you wrote?
 
-<!-- TODO link behavioural change guide -->
+If "wait a day" feels too hard because you _absolutely must_ react, instead pay attention to the regret you feel the next day. 
 
-### Identifying When To Slow Down
-To apply "first, do nothing" in your life, you must recognize when it's needed.
+Remember: if you made the right choice, you shouldn't feel any regret the very next day.
 
-Here are some of the warning signs I use as warnings that my fight-or-flight nervous system is activated and I need to first do nothing:
+Identifying When To Slow Down
+-----------------------------
+So now you understand the power of "first, do nothing". The next step is to recognize when to use it.
+
+I use these as warnings that my fight-or-flight nervous system is activated, and I need to first do nothing:
 
 - I'm feeling irritated, frustrated, defensive, or resentful
-- I'm feeling abandoned or isolated
-- I'm feeling pressured
+- I'm feeling rejected, isolated, or abandoned
+- I'm feeling stressed or anxious
 - I'm feeling jealous
 
-Alcoholics Anonymous has the ["HALT"](https://www.ascendantny.com/halt-acronym/) acronym: hungry, angry, lonely, or tired. I know if I'm feeling any of these, my decisionmaking is impaired.
+Alcoholics Anonymous has the ["HALT"](https://www.ascendantny.com/halt-acronym/) acronym: hungry, angry, lonely, or tired. I'm feeling any of those, I know my decisionmaking is impaired.
 
-However, my decisionmaking is _also_ compromised when I'm feeling exuberantly positive. 
+![](./halt.png)
 
-Have you ever rushed along on a tide of enthusiasm (and maybe some caffeine)? Remember how the situation didn't seem so exciting when the endorphins wore off and you soberly looked at the facts? It's that.
+These are negative activations of our fight-or-flight nervous system. However, my decisionmaking is _also_ compromised when I'm positively activated.
 
-These are some positive states that are also warning signs I need to first do nothing:
+Have you ever rushed along on a tide of enthusiasm (and maybe some caffeine)? Remember how the situation didn't seem so worthwhile when the endorphins wore off and you soberly looked at the facts? It's that.
 
+Here are some positive states that are also warning signs that I need to first do nothing:
+
+- Feeling so excited I can't sit still
+- Being caffeinated
 - Feeling giddy
-- Being so excited I can't sit still
-- Feeling an excited rush to do something _right now_
+- Feeling a "productivity pressure" to take action _right now_
+- Feeling like I need to act right now to not miss a great opportunity
 
+Retailers and con artists abuse these emotions constantly. They have "great opportunities" then apply time pressure to activate your fear-of-loss so you don't think before buying.
 
+You've seen it before: "Get 20% off while supplies last!"
 
+Only when you come down from the emotional high do you realize the problems you created for yourself. If only you'd first done nothing!
 
-### What To Do Instead
-Shane Parrish's [Clear Thinking](https://www.amazon.com.br/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112)
+What To Do Instead
+------------------
+Now you're noticing when you're activated and should do nothing. Great! What now?
 
-### When To Act
+Doing nothing isn't, "Lie on the floor and stare at the ceiling for a day." 
 
-### How To Practice This
-TODO noticing before vs after
+![](./doing-nothing-at-the-ceiling.png)
 
+_Mastering emotional resilience: become one with the floor._
 
-But you already know this.
+It means, "Don't change the state of the situation while you're activated. Give your fight-or-flight nervous system time to deactivate."
 
+[Ravi][ravi-website] has another metaphor:
 
-The point of "first, do nothing" is to create the calm environment for yourself.
+> When we're stressed, our mind is like a shaken snowglobe.
+> All the snow is whirling and it's hard to see.
+> To get back to clarity, just stop shaking the snowglobe.
+> The snow will settle and suddenly... we can see again.
 
+Here are things I do to help my snowglobe settle when I'm activated:
 
+- Lie on my bed and meditate for 10 minutes, either using a self-guided mindfulness meditation or a guided meditation from Youtube
+- Go for a walk around my neighborhood, focusing on keeping my walking speed at 50% of my normal speed
+- Put on [this calming playlist](https://open.spotify.com/playlist/30XMfauACKupUMTgcq0xeP?si=414a5aeed8bc45fc)
+- Swim some laps in my building's pool
+- Work out at the gym
+- Write in my pen-and-paper journal using the prompt, "How am I feeling right now?"
+    - I intentionally use pen-and-paper over journalling on the computer because pen-and-paper forces me to slow down which deactivates me, but I'll also use the computer if I don't have my paper journal available
 
+<!-- TODO link to a "deactivating your fight-or-flight nervous system" post! -->
 
-My [last post talked about negative leverage][negative-leverage]: little choices that create big problems for yourself in the future.
+When To Act
+-----------
+Of course, we can't do nothing forever. We must eventually act.
 
-This saying from NASA focuses specifically on negative leverage in stressful situations. [When you're in a hole, stop digging](https://en.wikipedia.org/wiki/Laws_of_holes).
+My test for whether it's time to act is, "Do I feel calm about this?"
 
+Shane Parrish's [Clear Thinking](https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/B0BVP84J94) suggests some other ways to judge if it's time to act:
 
+- Have you written down your decision, slept on it, woken up, and still felt like it was a good idea?
+- Can you communicate the pros and cons of various courses of action?
+- Are you seeking new perspectives on the situation (maybe through Google, ChatGPT, or friends), but aren't finding any new insights?
 
+When You Can't Do Nothing
+-------------------------
+Sometimes we can't do nothing.
 
+If someone breaks into your house, "May I please have some time to think?" might not go over well.
 
-When something's going wrong, [don't do things that create negative leverage for yourself][negative-leverage]!
+In these situations, we do our best with the information we have at the time. Then, we live with the consequences.
 
-This is the same thing as the famous saying, "when you're in a hole, first
+But these scenarios are quite rare. The tigers are in the zoos and the next tribe is a "Hello" away. We overestimate the threat.
 
+Yet _even in truly dangerous situations_, slowing down for a single breath can produce non-obvious, better solutions.
 
+### A Robbery
+A hairdresser in Brazil once told me how an armed man had come into her studio to rob it. Despite her terror, she welcomed him as if he were a customer and offered him an espresso. 
 
-So when you're stressed, first do nothing.
+Her kindness disarmed him, and he told her how he didn't want to rob her but he needed money to feed his family. She counselled him that if he wanted to see his kids grow up he should choose a life outside of crime, then gave him the cash in her pocket. She told me he left thoughtful, and remorseful.
 
+She slowed down, and made a choice to break the robber/victim script. 
 
-###
+Her deescalation meant nobody got hurt or killed, and she was only out the cash in her pocket rather than all the money in the cash register.
 
-When we take action from a stressed, reactive place,
+### Harassment
+While researching this post I came across [Antje Mattheus' story of getting harassed by a biker gang](https://wagingnonviolence.org/2013/07/how-i-fought-off-a-motorcycle-gang/).
 
+Rather than accept the predator/prey power dynamic, Antje recounts slowing down...
 
+> I take a breath, open my eyes wide and sink into deep calmness detached from the frenzy of bodies and hands.
 
+...recognizing the subtleties of the situation...
 
+> I ask in a loud, steady voice: “Who is the leader?”
+> I notice the small signals. The men’s bodies and eyes turn incrementally to a man who stands a few inches outside the tight circle, as if watching, allowing, guarding. He is a tall, blond-brown, bushy-bearded, wide-stanced man whose eyes smile with the joy of sex and power.
+> That is his weakness, I think. He loves power. And he wants people to know he has it. I want to make him prove his power to me. My thoughts are a millisecond quick, grounded in childhood play and the stories told by family members who survived two world wars.
 
+...and choosing a non-obvious path:
 
-TODO HALT
+> I need to be seen, be liked and not be an unknown sexual object. I look into his eyes, and my gaze remains locked despite the commotion. I see in him the internal conflict that power brings — joy and loneliness. I feel empathy for him, a joint longing for unreachable love and understanding. I speak loud without fear: “Please. Tell your men to get off us.”
+> My voice is dignified — no wavering, no provocation, a clear acknowledgement of his power to harm or help.
 
+This ultimately results in her release:
 
+> I am still. My eyes hold his and I am not afraid of who he is, what he has done. I accept. I feel we know each other. Surprise flits over his face. He blinks. His lips curl and I know he has chosen to help.
+> “Let them go.”
 
+If Antje had succumbed to her fear and fought or ran, she would have reinforced the predator-prey dynamic and likely resulted in a terrible outcome.
 
+Her choice to pursue the non-obvious, better path removed worlds of trouble from her future.
 
+_No mention of slowing down and choosing a better path can skip Martin Luther King Jr. Analyzing him would take an entire post and I don't have space here, but I plan to do so as soon as I finish reading his autobiography._
 
-
-
-
-
-How often have you said something from a reactive, stressed place and regretted it the minute you said it? How often has that
-
-As I've wr
-
-Stress tricks us into thinking that we _have_ to act right now. This is because our body's can't differentiate between "tiger chasing me in the jungle" and "
-
-Acting from a place of stressed-out urgency _feels_ necessary in the moment... but how many times have you regretted your hasty action right after you took it?
-
-Maybe regretted the message you sent, or the decision you took
-
-If you were negotiating for your life, which environment would you prefer? A pressure-filled, urgent one? Or a calm one, with plenty of time to think?
-
-Obviously the latter. So why do we make
-
-TODO
-
-When we're stressed we feel like we _need_ to react.
-
-TODO no situation you can't make worse
-
-
-
-TODO Ravi's "stop shaking the snowglobe"
-
-
-
-TODO link to anxiety & emotions
-
-TODO link to negative leverage
-
-TODO we have to _feel_ it to get this
-
-When do we take action?
------------------------
-TODO Ravi's "when you feel calm"
+<!-- TODO link to MLKJr post when it's ready -->
 
 Conclusion
 ----------
-TODO
+My friend decided to follow my advice. He went for a walk, journalled, and came back the next day.
+
+With the benefit of hindsight, he realized that it wasn't a big deal. If she didn't like him, there are many fish in the sea. If she did like him, she'd come back.
+
+First, do nothing.
 
 ### Further Reading
+You can find the first post on negative leverage [here][negative-leverage].
 
-TODO link to previous writing
+To see how I use "first, do nothing" and learn about the Un/Conditionally Okay mindsets, read [Anxiety, Emotions, & Freedom](https://mieubrisse.substack.com/p/anxiety-emotions-and-freedom).
 
-TODO SUBSCRIBE BUTTON COPY (use ChatGPT) + SUBSCRIBE BUTTON
+Or to learn about how America's quirkiest Founding Father mastered his emotions to make better choices, read [Building Ben Franklin](https://mieubrisse.substack.com/p/building-ben-franklin).
 
+**Want more mental upgrades like this?** Press the button to get one every week. TODO SUBSCRIBE BUTTON
 
 
 <!------------------------- ONLY LINKS BELOW HERE ----------------------------------->
 [negative-leverage]: https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage
-
+[ravi-website]: https://raviraman.com/
 
