@@ -2,6 +2,7 @@
 title: "First, Do Nothing"
 subtitle: "Avoiding negative leverage in stressful situations"
 ---
+
 <!----
 TAGLINE FOR IG POSTS:
 
@@ -113,11 +114,11 @@ Simply knowing that we should slow down isn't enough. You need to deeply _feel_ 
 
 My business coach, [Ravi Raman][ravi-website], gave me this metaphor:
 
-> Let's say your daily drive to the office takes 10 minutes.
-> If I tell you about a new route that's 2 minutes faster, will you take it?
-> Probably not right away... your current route is ingrained in your head, and you only know the new one is faster logically.
-> But one day you take it, and feel the speed.
-> Now you're never going back to your old route: you've *felt* the difference.
+> Let's say your daily drive to the office takes 10 minutes.  
+> If I tell you about a new route that's 2 minutes faster, will you take it?  
+> Probably not right away... your current route is ingrained in your head, and you only know the new one is faster logically.  
+> But one day you take it, and feel the speed.  
+> Now you're never going back to your old route: you've *felt* the difference.  
 
 To feel the power of "first, do nothing", try this exercise in your own life:
 
@@ -176,10 +177,10 @@ It means, "Don't change the state of the situation while you're activated. Give 
 
 [Ravi][ravi-website] has another metaphor:
 
-> When we're stressed, our mind is like a shaken snowglobe.
-> All the snow is whirling and it's hard to see.
-> To get back to clarity, just stop shaking the snowglobe.
-> The snow will settle and suddenly... we can see again.
+> When we're stressed, our mind is like a shaken snowglobe.  
+> All the snow is whirling and it's hard to see.  
+> To get back to clarity, just stop shaking the snowglobe.  
+> The snow will settle and suddenly... we can see again.  
 
 Here are things I do to help my snowglobe settle when I'm activated:
 
@@ -235,19 +236,19 @@ Rather than accept the predator/prey power dynamic, Antje recounts slowing down.
 
 ...recognizing the subtleties of the situation...
 
-> I ask in a loud, steady voice: “Who is the leader?”
-> I notice the small signals. The men’s bodies and eyes turn incrementally to a man who stands a few inches outside the tight circle, as if watching, allowing, guarding. He is a tall, blond-brown, bushy-bearded, wide-stanced man whose eyes smile with the joy of sex and power.
-> That is his weakness, I think. He loves power. And he wants people to know he has it. I want to make him prove his power to me. My thoughts are a millisecond quick, grounded in childhood play and the stories told by family members who survived two world wars.
+> I ask in a loud, steady voice: “Who is the leader?”  
+> I notice the small signals. The men’s bodies and eyes turn incrementally to a man who stands a few inches outside the tight circle, as if watching, allowing, guarding. He is a tall, blond-brown, bushy-bearded, wide-stanced man whose eyes smile with the joy of sex and power.  
+> That is his weakness, I think. He loves power. And he wants people to know he has it. I want to make him prove his power to me. My thoughts are a millisecond quick, grounded in childhood play and the stories told by family members who survived two world wars.  
 
 ...and choosing a non-obvious path:
 
-> I need to be seen, be liked and not be an unknown sexual object. I look into his eyes, and my gaze remains locked despite the commotion. I see in him the internal conflict that power brings — joy and loneliness. I feel empathy for him, a joint longing for unreachable love and understanding. I speak loud without fear: “Please. Tell your men to get off us.”
-> My voice is dignified — no wavering, no provocation, a clear acknowledgement of his power to harm or help.
+> I need to be seen, be liked and not be an unknown sexual object. I look into his eyes, and my gaze remains locked despite the commotion. I see in him the internal conflict that power brings — joy and loneliness. I feel empathy for him, a joint longing for unreachable love and understanding. I speak loud without fear: “Please. Tell your men to get off us.”  
+> My voice is dignified — no wavering, no provocation, a clear acknowledgement of his power to harm or help.  
 
 This ultimately results in her release:
 
-> I am still. My eyes hold his and I am not afraid of who he is, what he has done. I accept. I feel we know each other. Surprise flits over his face. He blinks. His lips curl and I know he has chosen to help.
-> “Let them go.”
+> I am still. My eyes hold his and I am not afraid of who he is, what he has done. I accept. I feel we know each other. Surprise flits over his face. He blinks. His lips curl and I know he has chosen to help.  
+> “Let them go.”  
 
 If Antje had succumbed to her fear and fought or ran, she would have reinforced the predator-prey dynamic and likely resulted in a terrible outcome.
 
@@ -278,4 +279,3 @@ Or to learn about how America's quirkiest Founding Father mastered his emotions 
 <!------------------------- ONLY LINKS BELOW HERE ----------------------------------->
 [negative-leverage]: https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage
 [ravi-website]: https://raviraman.com/
-
