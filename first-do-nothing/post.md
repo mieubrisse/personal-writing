@@ -221,16 +221,18 @@ Yet _even in truly dangerous situations_, slowing down for a single breath can p
 ### A Robbery
 A hairdresser in Brazil once told me how an armed man had come into her studio to rob it. Despite her terror, she welcomed him as if he were a customer and offered him an espresso. 
 
-Her kindness disarmed him, and he told her how he didn't want to rob her but he needed money to feed his family. She counselled him that if he wanted to see his kids grow up he should choose a life outside of crime, then gave him the cash in her pocket. She told me he left thoughtful, and remorseful.
+Her kindness disarmed him, and he told her how he didn't want to rob her but he needed money to feed his family. She gave him the cash in her pocket, and counselled him that if he wanted to see his kids grow up he should choose a life outside of crime.
 
-She slowed down, and made a choice to break the robber/victim script. 
+She recounted him leaving thoughtful, and remorseful.
 
-Her deescalation meant nobody got hurt or killed, and she was only out the cash in her pocket rather than all the money in the cash register.
+She had slowed down, and made a choice to break the robber/victim script. 
+
+Her deescalation meant nobody got hurt or killed, and she was only out her cash on hand rather than all the money in the cash register.
 
 ### Harassment
 While researching this post I came across [Antje Mattheus' story of getting harassed by a biker gang](https://wagingnonviolence.org/2013/07/how-i-fought-off-a-motorcycle-gang/).
 
-Rather than accept the predator/prey power dynamic, Antje recounts slowing down...
+Rather than accept the predator/prey power dynamic, Antje tells of slowing down...
 
 > I take a breath, open my eyes wide and sink into deep calmness detached from the frenzy of bodies and hands.
 
@@ -250,7 +252,7 @@ This ultimately results in her release:
 > I am still. My eyes hold his and I am not afraid of who he is, what he has done. I accept. I feel we know each other. Surprise flits over his face. He blinks. His lips curl and I know he has chosen to help.  
 > “Let them go.”  
 
-If Antje had succumbed to her fear and fought or ran, she would have reinforced the predator-prey dynamic and likely resulted in a terrible outcome.
+If Antje had succumbed to her fear and fought or ran, she would have reinforced the predator-prey dynamic and likely gotten a terrible outcome.
 
 Her choice to pursue the non-obvious, better path removed worlds of trouble from her future.
 
@@ -271,7 +273,7 @@ You can find the first post on negative leverage [here][negative-leverage].
 
 To see how I use "first, do nothing" and learn about the Un/Conditionally Okay mindsets, read [Anxiety, Emotions, & Freedom](https://mieubrisse.substack.com/p/anxiety-emotions-and-freedom).
 
-Or to learn about how America's quirkiest Founding Father mastered his emotions to make better choices, read [Building Ben Franklin](https://mieubrisse.substack.com/p/building-ben-franklin).
+Or to learn how America's quirkiest Founding Father mastered his emotions to make better choices, read [Building Ben Franklin](https://mieubrisse.substack.com/p/building-ben-franklin).
 
 _If this resonated, **tell me what’s hard for you right now in the comments**. I’ll write a post just for you and you’ll help others._
 
