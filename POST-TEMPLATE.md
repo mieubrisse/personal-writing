@@ -2,8 +2,13 @@
 title: "TODO"
 subtitle: "TODO"
 ---
-<!--------------- TAGLINE FOR IG POSTS ------------------->
-<!-- TODO use ChatGPT to help --->
+
+<!------------------ IG POST DESCRIPTION --------------------->
+<!--
+TODO
+
+👉 Read the full article (link in bio)
+-->
 
 ![](./image.png)
 

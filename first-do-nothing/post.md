@@ -1,37 +1,16 @@
 ---
 title: "First, Do Nothing"
-subtitle: "The secret art of improving your productivity by doing nothing"
+subtitle: "Improving your productivity by doing nothing"
 ---
 
-<!----
-TAGLINE FOR IG POSTS:
-
-TODO (use ChatGPT to help)
------>
-
+<!------------------ IG POST DESCRIPTION --------------------->
 <!--
---------------------- POSTING CHECKLIST ----------------------------
-Before posting:
-1. [ ] Decide on tagline that will go in IG post desccription
-1. [ ] Ensure I have "Share" or "Subscribe" CTAs in the post!
-1. [ ] Create a PR and merge into main
+You're ambitious and high-achieving. You want to get shit done.
 
-AFTER POSTING
--------------
-### Prep
-1. Download the shareable image that Substack generates for the post
-1. Post the shareable link that Substack generates to my self Whatsapp group (for using in Stories)
-1. Send raw cover image to myself on Whatsapp for stories
+What if I said you can become more effective... by doing nothing?
 
-### Sharing
-1. Post a feed post to gringowellness, ensuring to cut off the `mieubrisse.substack`
-1. Pin the new feed post
-1. Share the raw cover from Whatsapp as a story WITH LINK to gringowellness
-1. Share the raw cover from Whatsapp as a story WITH LINK to kevinjtoday
-1. Post the link to Twitter
-1. Send to all the friends that I've recorded as interested
--->
-
+👉 Read the full article (link in bio)
+--->
 
 ![](./image.png)
 
@@ -39,7 +18,7 @@ _This post is part of a series on leverage. The first part is [here][leveraged-j
 
 I have a favorite mantra: first, do nothing.
 
-The other day a friend was stressing about a girl he liked. She'd given a noncommittal response to his last text message, and many thoughts were swirling around his head. Did she still like him? Should he send a followup? Should he distance himself from her?
+The other day a friend was stressing about a girl he liked. She'd given a noncommittal response to his last text message, and thoughts were swirling around his head. Did she still like him? Should he send a followup? Should he distance himself from her?
 
 My advice: first, do nothing.
 
@@ -55,9 +34,13 @@ Instead, I suggested he...
 
 Stress & Negative Leverage
 --------------------------
-The "first, do nothing" advice often sounds bad the first time someone hears it. 
+The "first, do nothing" advice seems bad the first time someone hears it.
 
-They feel I'm not respecting the gravity of the situation. They forget that stress straps reality-distortion goggles to our minds.
+You want to be effective, move fast, get shit done!
+
+You don't have time for doing nothing!
+
+But stress straps reality-distortion goggles to our minds.
 
 ![](./brain-panicking-in-goggles.jpg)
 
@@ -65,23 +48,25 @@ When we feel stressed - angry, afraid, alone, etc. - we feel we _must_ take acti
 
 This urgency was useful in the simple ancient world. 
 
-Back then, stressors like "getting chased by a tiger", "getting expelled from the tribe", and "getting rejected by a romantic prospect" carried real risk of failing to pass on your genes. Sudden drastic action favored survival, else we wouldn't have these instincts.
+Back then, stressors like "getting chased by a tiger", "getting expelled from the tribe", and "getting rejected by a romantic prospect" carried real risk of failing to pass on your genes. 
 
-This is [Daniel Kahneman's System 1 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=brain%20forms%20thoughts%3A-,System%201,-%3A%20Fast%2C%20automatic).
+Sudden drastic action ([Kahneman's System 1 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=brain%20forms%20thoughts%3A-,System%201,-%3A%20Fast%2C%20automatic)) favored survival, else we wouldn't have these instincts.
 
 But urgent response to stress is frequently harmful in the complex modern world. 
 
-Today most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. Most perceived threats are not dangerous at all.
+Today most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. 
+
+Most perceived threats are not dangerous at all.
 
 Further, [the modern world is full of leverage][leveraged-judgment]. A hasty decision frequently misses non-obvious solutions that save dozens of hours of work.
 
 How many times have you...
 
-- Said something in the heat of the moment, then wished you could take it back?
-- Been confident you knew what was happening (e.g. confident about a person's motivations for doing something), only to find out later that you got it wrong?
+- Said something in the heat of the moment, then spent hours repairing the relationship?
+- Been confident you knew what was happening (e.g. confident about a person's reasons for acting), only to find out later that you got it wrong?
 - Burned time and energy fighting for something that _felt_ crucially important, then felt sheepish the next day when you realized it didn't matter?
 
-These are examples of [negative leverage][negative-leverage]: small choices that waste lots of your time. If you'd only slowed down and made a different choice - [engaged your System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=understand%20simple%20sentences-,System%202,-%3A%20Slow%2C%20effortful) - you could have saved hundreds of hours.
+These are examples of [negative leverage][negative-leverage]: small choices that waste tons of your time. If you'd only slowed down and made a different choice - [engaged your System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=understand%20simple%20sentences-,System%202,-%3A%20Slow%2C%20effortful) - you could have saved hundreds of hours.
 
 [Astronaut Chris Hadfield tells us about a saying at NASA](https://www.youtube.com/watch?v=Zo62S0ulqhA&ab_channel=TED):
 
@@ -124,11 +109,11 @@ To feel the power of "first, do nothing", try this exercise in your own life:
 
 1. The next time you're feeling urgency, write down the action that you want to take.
 1. Wait a day, doing nothing.
-1. Read what you wrote. How often are you _really_ glad you didn't do what you wrote?
+1. Read what you wrote. How often are you **really** glad you didn't do what you wrote?
 
-If "wait a day" feels too hard because you _absolutely must_ react, instead pay attention to the regret you feel the next day. 
+If "wait a day" feels too hard because you _absolutely must_ react, instead pay attention to the regret you feel afterwards. 
 
-Remember: if you made the right choice, you shouldn't feel any regret the very next day.
+Remember: if you made the right choice, you shouldn't feel any regret the next day.
 
 Identifying When To Slow Down
 -----------------------------
@@ -141,13 +126,19 @@ I use these as warnings that my fight-or-flight nervous system is activated, and
 - I'm feeling stressed or anxious
 - I'm feeling jealous
 
-Alcoholics Anonymous has the ["HALT"](https://www.ascendantny.com/halt-acronym/) acronym: hungry, angry, lonely, or tired. I'm feeling any of those, I know my decisionmaking is impaired.
+Alcoholics Anonymous has the ["HALT"](https://www.ascendantny.com/halt-acronym/) acronym: hungry, angry, lonely, or tired. 
+
+If I'm feeling any of those, I know my decisionmaking is impaired.
 
 ![](./halt.png)
 
 These are negative activations of our fight-or-flight nervous system. However, my decisionmaking is _also_ compromised when I'm positively activated.
 
-Have you ever rushed along on a tide of enthusiasm (and maybe some caffeine)? Remember how the situation didn't seem so worthwhile when the endorphins wore off and you soberly looked at the facts? It's that.
+Have you ever rushed along on a tide of enthusiasm (and maybe some caffeine)? 
+
+Remember how the situation didn't seem so worthwhile when the endorphins wore off and you soberly looked at the facts? 
+
+It's that.
 
 Here are some positive states that are also warning signs that I need to first do nothing:
 
@@ -161,7 +152,9 @@ Retailers and con artists abuse these emotions constantly. They have "great oppo
 
 You've seen it before: "Get 20% off while supplies last!"
 
-Only when you come down from the emotional high do you realize the problems you created for yourself. If only you'd first done nothing!
+Only when you come down from the emotional high do you realize the problems you created for yourself. 
+
+If only you'd first done nothing!
 
 What To Do Instead
 ------------------
@@ -180,16 +173,16 @@ It means, "Don't change the state of the situation while you're activated. Give 
 > When we're stressed, our mind is like a shaken snowglobe.  
 > All the snow is whirling and it's hard to see.  
 > To get back to clarity, just stop shaking the snowglobe.  
-> The snow will settle and suddenly... we can see again.  
+> The snow will settle... and suddenly, we can see again.  
 
 Here are things I do to help my snowglobe settle when I'm activated:
 
-- Lie on my bed and meditate for 10 minutes, either using a self-guided mindfulness meditation or a guided meditation from Youtube
+- Lie on my bed and meditate for 10 minutes, either guiding myself or using a guided meditation on Youtube
 - Go for a walk around my neighborhood, focusing on walking at 50% my normal speed
 - Put on [the lofi calming playlist I've built](https://open.spotify.com/playlist/30XMfauACKupUMTgcq0xeP?si=414a5aeed8bc45fc)
 - Write in my pen-and-paper journal using the prompt, "How am I feeling right now?"
-    - I intentionally use pen-and-paper over journalling on the computer because pen-and-paper forces me to slow down which deactivates me, but I'll also use the computer if I don't have my paper journal available
-- Swim some laps in the pool
+    - I intentionally journal using pen-and-paper instead of the computer because it slows me down which deactivates me, but I'll use the computer if I don't have pen-and-paper
+- Swim laps in the pool
 - Work out at the gym
 - Go for a run
 
@@ -201,7 +194,7 @@ Of course, we can't do nothing forever. We must eventually act.
 
 My test for whether it's time to act is, "Do I feel calm about this?"
 
-Shane Parrish's [Clear Thinking](https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/B0BVP84J94) suggests some other ways to judge if it's time to act:
+Shane Parrish's [Clear Thinking](https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/B0BVP84J94) suggests other ways to judge if it's time to act:
 
 - Have you written down your decision, slept on it, woken up, and still felt like it was a good idea?
 - Can you communicate the pros and cons of various courses of action?
@@ -213,7 +206,9 @@ Sometimes we can't do nothing.
 
 If someone breaks into your house, "May I please have some time to think?" might not go over well.
 
-In these situations, we do our best with the information we have at the time. Then, we live with the consequences.
+In these situations, we do our best with the information we have at the time. 
+
+Then, we live with the consequences.
 
 But these scenarios are quite rare. The tigers are in the zoos and the next tribe is a "Hello" away. We overestimate the threat.
 
@@ -222,13 +217,15 @@ Yet _even in truly dangerous situations_, slowing down for a single breath can p
 ### A Robbery
 A hairdresser in Brazil once told me how an armed man had come into her studio to rob it. Despite her terror, she welcomed him as if he were a customer and offered him an espresso. 
 
-Her kindness disarmed him, and he told her how he didn't want to rob her but he needed money to feed his family. She gave him the cash in her pocket, and counselled him that if he wanted to see his kids grow up he should choose a life outside of crime.
+Her kindness disarmed him, and he told her how he didn't want to rob her but he needed money to feed his family. 
 
-She recounted him leaving thoughtful, and remorseful.
+She gave him the cash in her pocket, and counselled him that if he wanted to see his kids grow up he should choose a life outside of crime.
+
+He left thoughtful, and remorseful.
 
 She had slowed down, and made a choice to break the robber/victim script. 
 
-Her deescalation meant nobody got hurt or killed, and she was only out her cash on hand rather than all the money in the cash register.
+Her deescalation meant nobody got hurt or killed, and she was only out the cash in her pocket rather than all the money in the studio.
 
 ### Harassment
 While researching this post I came across [Antje Mattheus' story of getting harassed by a biker gang](https://wagingnonviolence.org/2013/07/how-i-fought-off-a-motorcycle-gang/).
@@ -240,20 +237,24 @@ Rather than accept the predator/prey power dynamic, Antje tells of slowing down.
 ...recognizing the subtleties of the situation...
 
 > I ask in a loud, steady voice: “Who is the leader?”  
+
 > I notice the small signals. The men’s bodies and eyes turn incrementally to a man who stands a few inches outside the tight circle, as if watching, allowing, guarding. He is a tall, blond-brown, bushy-bearded, wide-stanced man whose eyes smile with the joy of sex and power.  
+
 > That is his weakness, I think. He loves power. And he wants people to know he has it. I want to make him prove his power to me. My thoughts are a millisecond quick, grounded in childhood play and the stories told by family members who survived two world wars.  
 
 ...and choosing a non-obvious path:
 
 > I need to be seen, be liked and not be an unknown sexual object. I look into his eyes, and my gaze remains locked despite the commotion. I see in him the internal conflict that power brings — joy and loneliness. I feel empathy for him, a joint longing for unreachable love and understanding. I speak loud without fear: “Please. Tell your men to get off us.”  
+
 > My voice is dignified — no wavering, no provocation, a clear acknowledgement of his power to harm or help.  
 
 This ultimately results in her release:
 
 > I am still. My eyes hold his and I am not afraid of who he is, what he has done. I accept. I feel we know each other. Surprise flits over his face. He blinks. His lips curl and I know he has chosen to help.  
+
 > “Let them go.”  
 
-If Antje had succumbed to her fear and fought or ran, she would have reinforced the predator-prey dynamic and likely gotten a terrible outcome.
+If Antje had succumbed to her fear and fought or ran, she would have reinforced the predator-prey dynamic and enabled a terrible outcome.
 
 Her choice to pursue the non-obvious, better path removed worlds of trouble from her future.
 
@@ -272,11 +273,11 @@ First, do nothing.
 ### Further Reading
 You can find the first post on negative leverage [here][negative-leverage].
 
-To see how I use "first, do nothing" and learn about the Un/Conditionally Okay mindsets, read [Anxiety, Emotions, & Freedom](https://mieubrisse.substack.com/p/anxiety-emotions-and-freedom).
+To see how I use "first, do nothing" and learn about Un/Conditionally Okay mindsets, read [Anxiety, Emotions, & Freedom](https://mieubrisse.substack.com/p/anxiety-emotions-and-freedom).
 
 Or to learn how America's quirkiest Founding Father mastered his emotions to make better choices, read [Building Ben Franklin](https://mieubrisse.substack.com/p/building-ben-franklin).
 
-_If this resonated, **tell me what’s hard for you right now in the comments**. I’ll write a post just for you and you’ll help others._
+_If this resonated, **tell me what’s hard for you in the comments**. I’ll write a post for you and others like you._
 
 TODO COMMENT BUTTON
 
