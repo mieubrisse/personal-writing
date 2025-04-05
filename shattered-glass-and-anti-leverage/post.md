@@ -12,6 +12,8 @@ This story might change how you think about distraction and procrastination.
 
 ![](./image.png)
 
+_This post is one of a series about leverage. To read the first post, [go here][leveraged-judgment]._
+
 I was distracted yesterday and knocked a glass cup off my table. Shards exploded everywhere.
 
 I was barefoot. I remembered my parents urging us to put on shoes before cleaning up broken glass. Sensible.
@@ -107,11 +109,13 @@ Small choices can balloon into big blockers to accomplishing our goals. One bett
 
 - To see better decisionmaking in action, [check out how this famous person employed leverage to become wildly successful](https://mieubrisse.substack.com/p/building-ben-franklin).
 - You can also [go here to see what a rap song can teach us about negative leverage](https://mieubrisse.substack.com/p/mr-magics-specious-thesis).
-- Or if you want to better understand leverage in the modern world, [read Naval Ravikant's take on leverage and decisionmaking](https://mieubrisse.substack.com/p/leveraged-judgment).
+- Or if you want to better understand leverage in the modern world, [read Naval Ravikant's take on leverage and decisionmaking][leveraged-judgmnet].
 
 _Big thanks to [Tarik Guney](https://www.forgingforward.co/p/charlie-mungers-dont-make-big-mistakes) and [Chris Meyer](https://themindcollection.com/via-negativa/) for their articles that expanded my thinking on negative leverage._
 
-**Enjoyed this?** Subscribe to get more mindset upgrades, once per week. TODO SUBSCRIBE BUTTON TODO
+_**Want more practical tools for maximizing your effectiveness?** Subscribe for an article per week._
+
+TODO SUBSCRIBE BUTTON TODO
 
 
 
@@ -151,3 +155,9 @@ My choice to go barefoot was anti-leverage. Making the small choice to wear shoe
 
 TODO Shane Parrish's "consequential vs inconsequential"
 -->
+
+
+
+
+<!---------------------- ONLY LINKS BELOW HERE ------------------------->
+[leveraged-judgment]: https://mieubrisse.substack.com/p/leveraged-judgment
