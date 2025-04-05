@@ -53,21 +53,21 @@ Consider what things in your life you can outsource or automate to get back more
 
 Invest in upgrading your decisionmaking:
 
-- Understand [negative leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage) and how to avoid it
+- Understand [negative leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage) and [how to avoid it](https://mieubrisse.substack.com/p/first-do-nothing)
 - Read the [Almanack Of Naval Ravikant](https://www.navalmanack.com/)
 - Subscribe to Shane Parrish's [Farnam Street newsletter][farnam-street]
-- Read "I Will Teach You To Be Rich" by Ramit Sethi
-- Read Nassim Taleb's "Fooled By Randomness" and "The Black Swan"
+- Read Ramit Sethi's [I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/)
+- Read Nassim Taleb's [Fooled By Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219) and [The Black Swan](https://www.amazon.com.br/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)
 - Understand [the map/territory distinction](https://www.lesswrong.com/posts/KJ9MFBPwXGwNpadf2/skill-the-map-is-not-the-territory)
 
 <!-- TODO link to first, do nothing -->
 <!-- TODO link to the article on using ChatGPT to leverage your thinking when it's ready -->
 
-_**Want more practical tools for maximizing your effectiveness?** Subscribe for an article per week._
+_**Want more practical tools for maximizing your effectiveness?** Subscribe for an upgrade per week._
 
 TODO SUBSCRIBE BUTTON
 
 <!--------------------- ONLY LINKS BELOW HERE ------------------------>
 
-[navalmanack]: 
+[navalmanack]: https://www.navalmanack.com/
 [farnam-street]: https://fs.blog/
