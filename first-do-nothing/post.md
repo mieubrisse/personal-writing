@@ -1,6 +1,6 @@
 ---
 title: "First, Do Nothing"
-subtitle: "How you can increase your productivity... simply by doing nothing"
+subtitle: "The secret art of improving your productivity by doing nothing"
 ---
 
 <!----
