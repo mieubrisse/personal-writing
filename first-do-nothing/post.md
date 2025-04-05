@@ -1,6 +1,6 @@
 ---
 title: "First, Do Nothing"
-subtitle: "Avoiding negative leverage in stressful situations"
+subtitle: "How you can increase your productivity... simply by doing nothing"
 ---
 
 <!----
@@ -35,7 +35,7 @@ AFTER POSTING
 
 ![](./image.png)
 
-_This post is part of a series on negative leverage. To read the first part, [go here][negative-leverage]._
+_This post is part of a series on leverage. The first part is [here][leveraged-judgment], and the second part [is here][negative-leverage]._
 
 I have a favorite mantra: first, do nothing.
 
@@ -73,7 +73,7 @@ But urgent response to stress is frequently harmful in the complex modern world.
 
 Today most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. Most perceived threats are not dangerous at all.
 
-Further, [the modern world is full of leverage](https://mieubrisse.substack.com/p/leveraged-judgment). A hasty decision frequently misses non-obvious solutions that save dozens of hours of work.
+Further, [the modern world is full of leverage][leveraged-judgment]. A hasty decision frequently misses non-obvious solutions that save dozens of hours of work.
 
 How many times have you...
 
@@ -185,12 +185,13 @@ It means, "Don't change the state of the situation while you're activated. Give 
 Here are things I do to help my snowglobe settle when I'm activated:
 
 - Lie on my bed and meditate for 10 minutes, either using a self-guided mindfulness meditation or a guided meditation from Youtube
-- Go for a walk around my neighborhood, focusing on keeping my walking speed at 50% of my normal speed
-- Put on [this calming playlist](https://open.spotify.com/playlist/30XMfauACKupUMTgcq0xeP?si=414a5aeed8bc45fc)
-- Swim some laps in my building's pool
-- Work out at the gym
+- Go for a walk around my neighborhood, focusing on walking at 50% my normal speed
+- Put on [the lofi calming playlist I've built](https://open.spotify.com/playlist/30XMfauACKupUMTgcq0xeP?si=414a5aeed8bc45fc)
 - Write in my pen-and-paper journal using the prompt, "How am I feeling right now?"
     - I intentionally use pen-and-paper over journalling on the computer because pen-and-paper forces me to slow down which deactivates me, but I'll also use the computer if I don't have my paper journal available
+- Swim some laps in the pool
+- Work out at the gym
+- Go for a run
 
 <!-- TODO link to a "deactivating your fight-or-flight nervous system" post! -->
 
@@ -281,5 +282,6 @@ TODO COMMENT BUTTON
 
 
 <!------------------------- ONLY LINKS BELOW HERE ----------------------------------->
+[leveraged-judgment]: https://mieubrisse.substack.com/p/leveraged-judgment
 [negative-leverage]: https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage
 [ravi-website]: https://raviraman.com/
