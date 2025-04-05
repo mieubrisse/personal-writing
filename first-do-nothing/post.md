@@ -67,6 +67,8 @@ This urgency was useful in the simple ancient world.
 
 Back then, stressors like "getting chased by a tiger", "getting expelled from the tribe", and "getting rejected by a romantic prospect" carried real risk of failing to pass on your genes. Sudden drastic action favored survival, else we wouldn't have these instincts.
 
+This is [Daniel Kahneman's System 1 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=brain%20forms%20thoughts%3A-,System%201,-%3A%20Fast%2C%20automatic).
+
 But urgent response to stress is frequently harmful in the complex modern world. 
 
 Today most tigers are in zoos, a new tribe is available in the next town over, and the internet delivers thousands of romantic options to your living room. Most perceived threats are not dangerous at all.
@@ -79,7 +81,7 @@ How many times have you...
 - Been confident you knew what was happening (e.g. confident about a person's motivations for doing something), only to find out later that you got it wrong?
 - Burned time and energy fighting for something that _felt_ crucially important, then felt sheepish the next day when you realized it didn't matter?
 
-These are examples of [negative leverage][negative-leverage]: small choices that waste lots of your time. If you'd only slowed down and made a different choice, you could have saved hundreds of hours.
+These are examples of [negative leverage][negative-leverage]: small choices that waste lots of your time. If you'd only slowed down and made a different choice - [engaged your System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=understand%20simple%20sentences-,System%202,-%3A%20Slow%2C%20effortful) - you could have saved hundreds of hours.
 
 [Astronaut Chris Hadfield tells us about a saying at NASA](https://www.youtube.com/watch?v=Zo62S0ulqhA&ab_channel=TED):
 
@@ -106,9 +108,7 @@ Obviously the calm one. You know that it gets better outcomes.
 
 _Time to do some important work._
 
-But _even knowing this_, I bet you still struggle to slow down when the pressure's on. You are _choosing_ the tense environment.
-
-Our evolved instincts are strong!
+But _even knowing this_, I bet you still struggle to slow down when the pressure's on. Our evolved instincts are strong!
 
 Simply knowing that we should slow down isn't enough. You need to deeply _feel_ that slowing down under pressure is the right choice.
 
@@ -273,7 +273,9 @@ To see how I use "first, do nothing" and learn about the Un/Conditionally Okay m
 
 Or to learn about how America's quirkiest Founding Father mastered his emotions to make better choices, read [Building Ben Franklin](https://mieubrisse.substack.com/p/building-ben-franklin).
 
-**Want more mental upgrades like this?** Press the button to get one every week. TODO SUBSCRIBE BUTTON
+_If this resonated, **tell me what’s hard for you right now in the comments**. I’ll write a post just for you and you’ll help others._
+
+TODO COMMENT BUTTON
 
 
 <!------------------------- ONLY LINKS BELOW HERE ----------------------------------->
