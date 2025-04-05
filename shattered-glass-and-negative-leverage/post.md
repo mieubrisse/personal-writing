@@ -109,11 +109,11 @@ Small choices can balloon into big blockers to accomplishing our goals. One bett
 
 - To see better decisionmaking in action, [check out how this famous person employed leverage to become wildly successful](https://mieubrisse.substack.com/p/building-ben-franklin).
 - You can also [go here to see what a rap song can teach us about negative leverage](https://mieubrisse.substack.com/p/mr-magics-specious-thesis).
-- Or if you want to better understand leverage in the modern world, [read Naval Ravikant's take on leverage and decisionmaking][leveraged-judgmnet].
+- Or if you want to better understand leverage in the modern world, [read Naval Ravikant's take on leverage and decisionmaking][leveraged-judgment].
 
 _Big thanks to [Tarik Guney](https://www.forgingforward.co/p/charlie-mungers-dont-make-big-mistakes) and [Chris Meyer](https://themindcollection.com/via-negativa/) for their articles that expanded my thinking on negative leverage._
 
-_**Want more practical tools for maximizing your effectiveness?** Subscribe for an article per week._
+_**Want more practical tools for maximizing your effectiveness?** Subscribe for an upgrade per week._
 
 TODO SUBSCRIBE BUTTON TODO
 
