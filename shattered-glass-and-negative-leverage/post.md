@@ -107,7 +107,7 @@ Small choices can balloon into big blockers to accomplishing our goals. One bett
 
 ### Further Reading
 
-- To innoculate yourself against creating negative leverage in stressful situations, [read this](https://mieubrisse.substack.com/p/first-do-nothing).
+- To guard yourself against creating negative leverage when stressed, [read this](https://mieubrisse.substack.com/p/first-do-nothing).
 - To see better decisionmaking in action, [check out how this famous person employed leverage to become wildly successful](https://mieubrisse.substack.com/p/building-ben-franklin).
 - You can also [go here to see what a rap song can teach us about negative leverage](https://mieubrisse.substack.com/p/mr-magics-specious-thesis).
 - Or if you want to better understand leverage in the modern world, [read Naval Ravikant's take on leverage and decisionmaking][leveraged-judgment].
