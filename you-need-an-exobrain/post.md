@@ -1,6 +1,6 @@
 ---
 title: "You Need An Exobrain"
-subtitle: "Just one brain is so yesteryear"
+subtitle: "You're going to be left in the Stone Age unless you get an exobrain now"
 ---
 
 <!------------------ IG POST DESCRIPTION --------------------->
@@ -16,56 +16,50 @@ _This post is part of a series on leverage. Here are parts [one][leveraged-judgm
 
 Deciding Monkeys
 ----------------
-I've [said it before][leveraged-judgment]: the modern world is Fucking Leveraged. Small decisions trigger huge consequences. 
+I've [said it before][leveraged-judgment]: the modern world is Fucking Leveraged. Small choices trigger huge consequences. 
+
+Made one right investment? Life-changing wealth.
+
+One piece of content goes viral? Thousands of followers and a global platform.
+
+One wrong strategy call for your business? Hundreds of hours of wasted work.
 
 Working smart dominates working hard. Decisions define outcomes.
 
-Make a shitty decision? Welcome to dozens of hours of work. If only you'd made the right decision that saves it.
-
-<!--
-"Wait, what about luck!" 
-
-Good decisions _factor in_ luck. Pro poker players know this.
-
-Naval:
-
-> In 1,000 parallel universes, you want to be wealthy in 999 of them. You don’t want to be wealthy in the 50 of them where you got lucky. We want to factor luck out of it.
--->
-
-Pity decisionmaking is to humans what air is to fish: real painful.
+Pity we all suck at decisionmaking.
 
 Default human thinking is lazy, emotional, and fast. [Kahneman's System 1 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=System%201%3A%20Fast%2C%20automatic%2C%20frequent%2C%20emotional%2C%20stereotypic%2C%20unconscious.).
 
-This made sense in caveman times, as I've [said before][first-do-nothing]. Quick reactions were great at dealing with tigers and angry tribesmen.
+This made sense in caveman times. Quick reactions were great at dealing with tigers and angry tribesmen.
 
-Not so today. 
+Not today.
 
-We overestimate urgency. We get reactive. We panic, and create more work for ourselves.
+We conflate [fear with danger](https://www.youtube.com/watch?v=CemHlHLyFNA&ab_channel=AdamContosCEO). We overestimate urgency. We get reactive. We panic, and create more work for ourselves.
 
-Oops... reacted without thinking and now my entire portfolio is Dogecoin.
+"Oops... reacted without thinking and now my entire portfolio is Dogecoin."
 
-We _can_ think clearly: ([Kahneman's System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=System%202%3A%20Slow%2C%20effortful%2C%20infrequent%2C%20logical%2C%20calculating%2C%20conscious)). 
+We _can_ think clearly. [Kahneman's System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=System%202%3A%20Slow%2C%20effortful%2C%20infrequent%2C%20logical%2C%20calculating%2C%20conscious). 
 
-But it's slow and hard.
-
-And really valuable.
+But it's slow and feels hard, so we often skip it... and suffer the consequences.
 
 Shane Parrish in [Clear Thinking](https://www.amazon.com.br/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/B0BVNQQ41V):
 
 > Good judgment is expensive... but poor judgment costs a fortune.
 
-If only I'd taken a moment to think: "Dogecoin... I don't even like dogs".
+"Invest my entire portfolio in Dogecoin? I don't even like dogs".
 
 Decisionmaking Systems
 ----------------------
-It's not that we don't know how to do good judgment.
+The problem isn't that we don't know how to do good judgment.
 
-It's that we get hijacked by the Four Horsemen of Bad Decisionmaking - what Clear Thinking calls the "defaults":
+It's that we're dumb monkeys. We get hijacked by the Four Horsemen of Bad Decisionmaking - what Clear Thinking calls the "defaults":
 
 - **The ego default:** Acting to feel right/important ("I always knew the stock market was going to crash")
 - **The emotion default:** Reacting to fear, anger, jealousy, etc. ("Fucking Linda from fucking finance is about to get a piece of my mind")
 - **The social default:** Acting to fit in with the crowd ("Everyone else is getting in on Beanie Babies... I can't miss this!")
 - **The inertia default:** Doing what's always been done ("I always eat ice cream with Netflix")
+
+We shoot ourselves in the foot.
 
 To save yourself from poor judgment, Clear Thinking advocates protective systems built when you're thinking clearly.
 
@@ -77,66 +71,87 @@ These can be rules:
 - "I don't make commitments on the phone" (guards against social default)
 - "I don't eat after 8pm" (guards against inertia and emotion defaults)
 
-Or they can be [Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact) that take the power out of your hands:
+Or they can be [Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact), to remove the option to make bad choices:
 
-- My friends take any drinks from me after 7pm (guards against emotional, social, and inertia defaults)
-- I use [an app to block distracting apps after 9pm](https://appblock.app/) (guards against emotional and inertia defaults)
-- I'm [forced to wait one second before I open Instagram](https://one-sec.app/) (guards against inertia default)
+- Your friends take drinks from you after 7pm (guards against emotional, social, and inertia defaults)
+- You [install an app that forces you to wait a second before opening Instagram](https://one-sec.app/) (guards against inertia default)
+- I use [a phone app to block distracting apps after 9pm](https://appblock.app/) (guards against emotional and inertia defaults)
+- I [have a modded version of Instagram on my phone that removes the dopamine-bait Feed and Search grid](https://www.distractionfreeapps.com/) (guards against emotional and inertia defaults)
+- I have [a laptop app that forces me to take eye breaks every 20 minutes](https://lookaway.app/) (guards against inertia default)
 
-These systems are guardrails, that keep you on track when the Four Horsemen of Bad Decisionmaking hit.
+Like a bumper car, you're out there getting knocked around by the world. The systems you build are guardrails that keep you on track even the Four Horsemen of Bad Decisionmaking crash into you.
+
+When Linda from finance comes with her bullshit, don't leave what happens up to chance. Protect yourself.
+
+Clear Thinking again:
 
 > [Good judgment] is about designing systems at your best, that work for you at your worst.
 
 The Exobrain
 ------------
-Sure, rules and Ulysses pacts. Great.
+You've had a gaping hole in your thinking ability since the day you were born. You've been bleeding bad outcomes your entire life.
 
-But we're not Ancient Greeks. This is the 21st century.
+You've tried to stop the bleeding by training your mind: self-awareness, meditation, mnemonics.
 
-Picture this: external brain that augments your thinking.
+"Take a deep breath before responding."
 
-Load it up with your thinking best practices.
+"When I'm worked up, go for a walk."
 
-Things like...
+"Remember to put my ego aside."
 
-- "I always want to consider [the steelman of the opposing point of view](https://medium.com/on-philosophy/steelmanning-1470f6027ea5)" (guard against ego default)
-- "I always want to consider points of view I'm not thinking of" (guard against confirmation bias)
-- "I always want to consult with other, more experienced people before making a decision" (proactively seek insight)
+These are valuable. But the hardware is fundamentally flawed. 
+
+You're trying to program a slippery, forgetful piece of meat with rules and systems as if it were a machine.
+
+Galaxy brain: what if you had an actual machine?
+
+Picture a programmable machine extension to your mind that double-checks all your thinking. Let's call it the **exobrain**.
+
+First, load it up with what's important to you: your values, longterm goals, and the way you want to think.
+
+Stuff like...
+
+- "I want to respond from a place of calm, rather than reactivity, anger, or fear." (guard against emotion default)
+- "I want to behave respectfully towards others" (promotes prosocial relationships, [which are very effective](https://altered.substack.com/p/charisma))
+- "I want to consider [the steelman of the opposing point of view](https://medium.com/on-philosophy/steelmanning-1470f6027ea5)" (guard against ego default)
+- "I want to see blind spots - things I might not be thinking of" (guard against confirmation bias)
+- "I want to hear the points of view of advisors and mentors before making a decision" (proactively seek insight)
 - "I want to know when I'm emotional without noticing" (guard against the emotion default)
 - "I want to know when I'm complacent in my thinking" (guard against inertia default)
 
-Then let it think for you.
+Then, think through the exobrain and let it upgrade your thinking.
 
-Fucking Linda from finances with her bullshit again?
+Linda from finance again?
 
-Don't respond. Think through the brain. What's the best move?
+Don't respond. Think through the exobrain.
 
-Suddenly your worst thinking days look like your best.
+It slows you down, identifies where you're not thinking clearly, sharpens your thinking. Identifies non-obvious better solutions.
 
-You've had a gaping hole in your thinking ability since the day you were born. 
+Guardrails. Suddenly your worst thinking days look like your best. 
 
-It's been bleeding bad outcomes, and you've scrfamble
+No more bleeding bad outcomes because your monkey mind reacted to the Four Horsemen of Bad Decisionmaking.
 
-You fix a gaping hole in your thinking ability that's been bleeding bad outcomes since the day you crawled out of momma's womb. 
+If this sounds too good to be true, it used to be. Exobrains didn't exist.
 
-You'd drastically increase your outcomes.
+**With the LLM revolution, exobrains are a reality.**
 
-Better still, this brain could improve itself. "I want to consider ways of thinking I'm not considering, and incorporate them."
+I said it before: the world is Fucking Leveraged. Working smart dominates working hard. 
 
-This is the power of the **exobrain** - the external brain. With AI, it's now possible.
+**We're about to see a gap explode between those who use exobrains and those who don't.**
 
-I'll show you how in the next post.
+It gets crazier: exobrains can upgrade themselves. Just think through it, "What should be in my exobrain that isn't yet?"
 
-Further Reading
----------------
+Exobrain users won't just avoid bad choices and identify non-obvious good ones.
 
-Read posts [one][leveraged-judgment], [two][negative-leverage], and [three][first-do-nothing] in the leverage series if you haven't already.
+They'll use this decisionmaking power to further improve their decisionmaking power to further improve their decisionmaking power...
 
-You might also like [my comprehensive sleep guide](https://mieubrisse.substack.com/p/the-sleep-guide) for maximizing your effectiveness with sleep.
+Exobrain non-users are about to get left in the dust.
 
-_TODO SUBSCRIBE BUTTON CTA (use ChatgGPT)_
+So how do you build an exobrain? Tune in next week to find out.
 
 TODO SUBSCRIBE BUTTON
+
+_Credit to Tedi Mitiku and Yannik Zimmerman for helping me shape my thinking on this._
 
 
 
