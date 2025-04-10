@@ -22,13 +22,13 @@ Made one right investment? Life-changing wealth.
 
 One piece of content goes viral? Thousands of followers and a global platform.
 
-One wrong strategy call for your business? Hundreds of hours of wasted work.
+One bad strategy call in business? Hundreds of hours of wasted work.
 
 Working smart dominates working hard. Decisions define outcomes.
 
 Pity we all suck at decisionmaking.
 
-Default human thinking is lazy, emotional, and fast. [Kahneman's System 1 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=System%201%3A%20Fast%2C%20automatic%2C%20frequent%2C%20emotional%2C%20stereotypic%2C%20unconscious.).
+Default human thinking is lazy, emotional, and fast ([Kahneman's System 1 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=System%201%3A%20Fast%2C%20automatic%2C%20frequent%2C%20emotional%2C%20stereotypic%2C%20unconscious.)).
 
 This made sense in caveman times. Quick reactions were great at dealing with tigers and angry tribesmen.
 
@@ -36,9 +36,9 @@ Not today.
 
 We conflate [fear with danger](https://www.youtube.com/watch?v=CemHlHLyFNA&ab_channel=AdamContosCEO). We overestimate urgency. We get reactive. We panic, and create more work for ourselves.
 
-"Oops... reacted without thinking and now my entire portfolio is Dogecoin."
+"Oops... reacted without thinking and my entire portfolio is now Dogecoin."
 
-We _can_ think clearly. [Kahneman's System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=System%202%3A%20Slow%2C%20effortful%2C%20infrequent%2C%20logical%2C%20calculating%2C%20conscious). 
+We _can_ think clearly ([Kahneman's System 2 thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#:~:text=System%202%3A%20Slow%2C%20effortful%2C%20infrequent%2C%20logical%2C%20calculating%2C%20conscious)). 
 
 But it's slow and feels hard, so we often skip it... and suffer the consequences.
 
@@ -50,9 +50,9 @@ Shane Parrish in [Clear Thinking](https://www.amazon.com.br/Clear-Thinking-Turni
 
 Decisionmaking Systems
 ----------------------
-The problem isn't that we don't know how to do good judgment.
+We know we should slow down and make good decisions.
 
-It's that we're dumb monkeys. We get hijacked by the Four Horsemen of Bad Decisionmaking - what Clear Thinking calls the "defaults":
+But we're dumb monkeys. We get hijacked by the Four Horsemen of Bad Decisionmaking - what Clear Thinking calls the "defaults":
 
 - **The ego default:** Acting to feel right/important ("I always knew the stock market was going to crash")
 - **The emotion default:** Reacting to fear, anger, jealousy, etc. ("Fucking Linda from fucking finance is about to get a piece of my mind")
@@ -61,14 +61,14 @@ It's that we're dumb monkeys. We get hijacked by the Four Horsemen of Bad Decisi
 
 We shoot ourselves in the foot.
 
-To save yourself from poor judgment, Clear Thinking advocates protective systems built when you're thinking clearly.
+To save yourself from poor judgment, build protective systems when you're thinking clearly.
 
 These can be rules:
 
-- "I don't make decisions on the day I get big news" (guards against emotion default)
-- "I don't respond when I'm feeling worked up" (guards against ego and emotion defaults)
+- "I don't make decisions the day I get big news" (guards against emotion default)
+- "I don't respond when I'm feeling stressed" (guards against ego and emotion defaults)
 - "I diversify my portfolio regardless of what the market is doing" (guards against emotion and social defaults)
-- "I don't make commitments on the phone" (guards against social default)
+- "I don't make commitments on the phone" (guards against social pressure default)
 - "I don't eat after 8pm" (guards against inertia and emotion defaults)
 
 Or they can be [Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact), to remove the option to make bad choices:
@@ -81,7 +81,7 @@ Or they can be [Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact), to r
 
 Like a bumper car, you're out there getting knocked around by the world. The systems you build are guardrails that keep you on track even the Four Horsemen of Bad Decisionmaking crash into you.
 
-When Linda from finance comes with her bullshit, don't leave what happens up to chance. Protect yourself.
+When Linda from finance comes with her bullshit, don't leave what happens up to your mood. Protect yourself.
 
 Clear Thinking again:
 
@@ -99,15 +99,15 @@ You've tried to stop the bleeding by training your mind: self-awareness, meditat
 
 "Remember to put my ego aside."
 
-These are valuable. But the hardware is fundamentally flawed. 
+These are valuable; not to be ignored. But they take forever because the hardware is fundamentally flawed. 
 
 You're trying to program a slippery, forgetful piece of meat with rules and systems as if it were a machine.
 
-Galaxy brain: what if you had an actual machine?
+Galaxy brain: what if you used an actual machine?
 
 Picture a programmable machine extension to your mind that double-checks all your thinking. Let's call it the **exobrain**.
 
-First, load it up with what's important to you: your values, longterm goals, and the way you want to think.
+First, load it up with what's important to you: your values, longterm goals, and the ideal ways to think.
 
 Stuff like...
 
@@ -125,7 +125,7 @@ Linda from finance again?
 
 Don't respond. Think through the exobrain.
 
-It slows you down, identifies where you're not thinking clearly, sharpens your thinking. Identifies non-obvious better solutions.
+It slows you down, identifies where you're not thinking clearly, and sharpens your thinking to find non-obvious better solutions.
 
 Guardrails. Suddenly your worst thinking days look like your best. 
 
@@ -137,15 +137,15 @@ If this sounds too good to be true, it used to be. Exobrains didn't exist.
 
 I said it before: the world is Fucking Leveraged. Working smart dominates working hard. 
 
-**We're about to see a gap explode between those who use exobrains and those who don't.**
+**We're about to see a gap explode between exobrain users and non-users.**
 
 It gets crazier: exobrains can upgrade themselves. Just think through it, "What should be in my exobrain that isn't yet?"
 
 Exobrain users won't just avoid bad choices and identify non-obvious good ones.
 
-They'll use this decisionmaking power to further improve their decisionmaking power to further improve their decisionmaking power...
+They'll use the decisionmaking power to improve their decisionmaking power to further improve their decisionmaking power...
 
-Exobrain non-users are about to get left in the dust.
+Exponential explosion. If you don't use an exobrain, you're about to get left in the Stone Age.
 
 So how do you build an exobrain? Tune in next week to find out.
 
