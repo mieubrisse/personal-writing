@@ -1,17 +1,19 @@
 ---
 title: "Decisionmaking Systems"
-subtitle: "Leveraging systems to improve your decisionmaking power"
+subtitle: "How systems can save us from the Four Horsemen of Bad Decisionmaking"
 ---
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
-We're jungle monkeys in clothes.
+Your worst decisions aren't random. They're predictable.
 
-We give in to short-term thinking all the time.
+We all fall prey to the Four Horsemen of Bad Decisionmaking: ego, emotion, social pressure, and inertia.
 
-
+This post breaks down how decision systems protect you when you’re weakest... by designing them when you’re calm.
 
 👉 Read the full article (link in bio)
+
+#decisionmaking #mentalclarity #productivitysystems #selfmastery #leverage #exobrain #mindsetdesign
 -->
 
 ![](./image.png)
@@ -19,8 +21,6 @@ We give in to short-term thinking all the time.
 _This post is part of a series on leverage. Here are parts [one][leveraged-judgment], [two][negative-leverage], and [three][first-do-nothing]._
 
 I've [said it before][leveraged-judgment]: the modern world is is Fucking Leveraged. Small choices trigger huge consequences. 
-
-Made one right investment? Life-changing wealth.
 
 One piece of content goes viral? Thousands of followers and a global platform.
 
@@ -34,7 +34,7 @@ Today we define what throws us off course, and how to use systems to keep us on 
 
 The Four Horsemen
 -----------------
-Like all of us, you are a dumb monkey with a bunch of evolved behaviours.
+You, like all of us, are a dumb monkey with a bunch of evolved behaviours.
 
 These behaviours were helpful in the ancient environment. They're harmful today because they create false urgency and [negative leverage][negative-leverage].
 
@@ -55,31 +55,33 @@ These techniques are foundational; you need to work on them.
 
 But they take decades to master because they're _hard_. 
 
-You're fighting evolution, so each situation requires effort. You have to burn cycles recognizing what's happening, slowing down, and figuring out how to avoid the Four Horsemen pitfalls.
+You're fighting evolution, so each situation requires effort. You must burn cycles recognizing what's happening, slowing down, and figuring out how to avoid the Four Horsemen pitfalls.
 
 Decisionmaking Systems
 ----------------------
-Fortunately, we can make it easier on ourselves with systems.
-
-Clear Thinking again:
+We can do better. Clear Thinking again:
 
 > [Good judgment] is about designing systems at your best, that work for you at your worst.
 
-These can be rules:
+If we can create a system when calm that works when we're in the chaos, **we can make our worst decisionmaking days look like our best**.
+
+Present calm gets leveraged to future moments.
+
+This can be done through rules - commitments made now that are fulfilled in the future:
 
 - "I don't respond when I'm feeling stressed" (guards against ego and emotion defaults)
 - "I diversify my portfolio regardless of what the market is doing" (guards against emotion and social defaults)
 - "I don't make commitments on the phone" (guards against social pressure default)
 - "I don't eat after 8pm" (guards against inertia and emotion defaults)
 
-Or they can be [Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact), removing the option to make bad choices:
+Or through [Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact), removing your option to make bad choices:
 
 - Your friends take drinks from you after 7pm (guards against emotional, social, and inertia defaults)
 - I use [a phone app to block distracting apps after 9pm](https://appblock.app/) (guards against emotional and inertia defaults)
 - I [have a modded version of Instagram on my phone that removes the dopamine-bait Feed and Search grid](https://www.distractionfreeapps.com/) (guards against emotional and inertia defaults)
 - I have [a laptop app that forces me to take eye breaks every 20 minutes](https://lookaway.app/) (guards against inertia default)
 
-Like a bumper car, you're getting knocked around by the world. The systems you build are guardrails to keep you on track even when the Four Horsemen crash into you.
+You're a bumper car, getting knocked around by the world. The systems you build are guardrails to keep you on track even when the Four Horsemen crash into you.
 
 When Linda from finance comes with her bullshit, you have more than just your awareness that you should slow down. You have a system.
 
@@ -89,15 +91,15 @@ Clear Thinking:
 
 Conclusion
 ----------
-Take a moment to consider applying decisionmaking systems for yourself:
+Take a moment to consider decisionmaking systems for yourself:
 
 Where are you trying to go with your life?
 
-Are there areas where you're falling prey to the Four Horsemen of Bad Decisionmaking?
+Where are you falling prey to the Four Horsemen of Bad Decisionmaking?
 
 What rules or Ulysses pacts can you use to keep you on course?
 
-Next post we're taking this farther: I'll introduce the idea of an exobrain, and why it's imperative you build one.
+Next post we're taking decisionmaking systems much farther: I'll introduce the **exobrain**, and why it's imperative you get one.
 
 TODO SUBSCRIBE BUTTON
 
