@@ -16,7 +16,7 @@ Write all the things here
 
 Conclusion
 ----------
-TODO
+TODO Challenge/questions to the reader
 
 ### Further Reading
 
