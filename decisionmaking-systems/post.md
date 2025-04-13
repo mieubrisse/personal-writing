@@ -30,7 +30,7 @@ Working smart dominates working hard. Decisions define outcomes.
 
 My ["first, do nothing" mantra][first-do-nothing] is a mental strategy for better decisionmaking.
 
-Today we define what throws us off course, and how to use systems to keep us on track.
+This post defines what throws us off course, and how to use systems to keep us on track.
 
 The Four Horsemen
 -----------------
@@ -38,7 +38,9 @@ You, like all of us, are a dumb monkey with a bunch of evolved behaviours.
 
 These behaviours were helpful in the ancient environment. They're harmful today because they create false urgency and [negative leverage][negative-leverage].
 
-"Oops... reacted without thinking and my entire portfolio is now Dogecoin."
+![](./oops.png)
+
+_Oops... reacted without thinking and now my entire portfolio is Dogecoin._
 
 [Clear Thinking](https://www.amazon.com.br/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112) defines these harmful tendencies as our "defaults":
 
@@ -67,14 +69,14 @@ If we can create a system when calm that works when we're in the chaos, **we can
 
 Present calm gets leveraged to future moments.
 
-This can be done through rules - commitments made now that are fulfilled in the future:
+This can be done through **rules**, commitments made now that are fulfilled in the future:
 
 - "I don't respond when I'm feeling stressed" (guards against ego and emotion defaults)
 - "I diversify my portfolio regardless of what the market is doing" (guards against emotion and social defaults)
 - "I don't make commitments on the phone" (guards against social pressure default)
 - "I don't eat after 8pm" (guards against inertia and emotion defaults)
 
-Or through [Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact), removing your option to make bad choices:
+Or through **[Ulysses pacts](https://en.wikipedia.org/wiki/Ulysses_pact)**, removing your option to make bad choices:
 
 - Your friends take drinks from you after 7pm (guards against emotional, social, and inertia defaults)
 - I use [a phone app to block distracting apps after 9pm](https://appblock.app/) (guards against emotional and inertia defaults)
