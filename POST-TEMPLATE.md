@@ -3,12 +3,9 @@ title: "TODO"
 subtitle: "TODO"
 ---
 
-<!------------------ IG POST DESCRIPTION --------------------->
-<!--
-TODO
-
-👉 Read the full article (link in bio)
--->
+<!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
+[TODO]: some-link
+<!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
 ![](./image.png)
 
@@ -26,7 +23,14 @@ _TODO SUBSCRIBE BUTTON CTA (use ChatgGPT)_
 
 TODO SUBSCRIBE BUTTON
 
+<!------------------ IG POST DESCRIPTION --------------------->
+<!--
+TODO
 
+👉 Read the full article (link in bio)
+-->
 
-<!------------------------- ONLY LINKS BELOW HERE ----------------------------------->
-[TODO]: some-link
+<!-------------------- IG STORY TEXT ------------------------->
+<!--
+TODO
+-->
