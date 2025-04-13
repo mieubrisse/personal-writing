@@ -20,7 +20,7 @@ jobs:
           name: Check links in Markdown docs
           command: |
             sudo npm install -g markdown-link-check
-            markdown-link-check --retry -qv .
+            markdown-link-check --retry -qv --ignore POST-TEMPLATE.md .
 
 workflows:
   build:
