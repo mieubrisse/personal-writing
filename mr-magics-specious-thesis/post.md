@@ -65,7 +65,7 @@ Not because of Moral Accountant Buddha in the sky, tallying on one side every ti
 
 But rather, as a physical property of the universe (though maybe Moral Accountant Buddha exists too).
 
-![He's having a little too much fun](midtext2.png)
+![He's having a little too much fun](midtext2.jpg)
 
 Imagine if every time you come home you bring in flowers, or a beautiful piece of art. In a few weeks.. wow, so hygge. You'll feel good by virtue of surrounding yourself with nice things.
 
