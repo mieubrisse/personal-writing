@@ -1,6 +1,6 @@
 ---
 title: "You Need An Exobrain"
-subtitle: "Iron Man suits for your mind are now possible. Are you ready?"
+subtitle: "Ready for an Iron Man suit for your mind?"
 ---
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
