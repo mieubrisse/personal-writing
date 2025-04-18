@@ -1,6 +1,6 @@
 ---
 title: "You Need An Exobrain"
-subtitle: "Get an exobrain or be left in the Stone Age"
+subtitle: "Iron Man suits for your mind are now possible. Are you ready?"
 ---
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
@@ -11,27 +11,27 @@ subtitle: "Get an exobrain or be left in the Stone Age"
 
 ![](./image.png)
 
-Last week [I talked about Clear Thinking's Four Horsemen of Bad Decisionmaking, and how systems can guard us](https://mieubrisse.substack.com/p/decisionmaking-systems).
+Last week [I talked about Clear Thinking's Four Horsemen of Bad Decisionmaking, and the systems it proposes to guard us](https://mieubrisse.substack.com/p/decisionmaking-systems).
 
 Today we're driving decisionmaking systems much, much farther. We'll talk about the idea of an exobrain, and why it's imperative you get one.
 
 The Exobrain
 ------------
-The systems laid out in [Clear Thinking](https://www.amazon.com.br/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112) are useful, but have limitations:
+The systems laid out last week are useful, but have limitations:
 
 1. **Which rules?:** You must do the work to translate your values and goals into the right rules and pacts.
 1. **Unforeseen circumstances:** You can only guard against what you can foresee. I may have a Ulysses pact with my friends to take my drinks after 7pm, but what about a cigarette? Marijuana? If I didn't plan for the eventuality beforehand, my system doesn't help me. 
-1. **Prevents harm, but doesn't promote well-being:** When you're being tossed around by your defaults, you've lost sight of your long-term vision. Rules and Ulysses pacts help you from making the situation worse (Taleb's _via negativa_), but they don't reconnect you to why you created them in the first place.
+1. **Prevents harm, but doesn't promote well-being:** When you're being tossed around by the Four Horsemen, you've lost sight of your long-term vision. Rules and Ulysses pacts help you from making the situation worse (Taleb's _via negativa_), but they don't reconnect you to why you created them in the first place.
 
 Enter the **exobrain**: a configurable extension to your mind that double-checks your thinking. 
 
-Think of it like the best friend/coach/therapist that ever existed. It knows everything about you, and exists only to help you accomplish your goals.
+Think of it like the best therapist/coach/friend that ever existed. It knows everything about you, and exists only to help you accomplish your goals.
 
 First, load it up with what's important to you. Your values, goals, and the ways of thinking that you believe are best.
 
 Stuff like...
 
-- "I want to see blind spots - things I might not be thinking of" (guard against confirmation bias)
+- "I want to see things I might not be thinking of - blind spots" (guard against confirmation bias)
 - "I want to consider the [steelman](https://medium.com/on-philosophy/steelmanning-1470f6027ea5) of opposing points of view" (guard against ego default)
 - "I want to hear the points of view of advisors and mentors before making a decision" (proactively seek insight)
 - "I want to know when I'm emotional without noticing" (guard against the emotion default)
@@ -63,8 +63,8 @@ Now, I think through it:
 
 - I tell it about my day, and what's happening in my life. I've asked it to identify patterns and surface perspectives I might not be seeing.
 - When I'm considering blog posts, I talk to it and have me give feedback. I ask it to consider points of view I didn't think of. 
-- When I have decisions to make, I ask for its help in considering tradeoffs in various scenarios.
-- And when an event has happened, I ask for its help in reflecting and extracting key lessons.
+- When I have decisions to make, I ask for its help considering various scenarios and tradeoffs.
+- And when an event has happened, I ask for help reflecting and extracting key lessons.
 
 This high-level processing was constrained before LLMs. 
 
@@ -72,7 +72,7 @@ Either you were a) journalling and constrained by your singular viewpoint, or b)
 
 Now your thinking is limited merely by your ability to direct the exobrain towards what's needed. (Or, to direct the exobrain to direct the exobrain towards what's needed..!)
 
-To feel how big a deal this is, how much would you have to pay a friend to spend 8 hours perspective-taking in various scenarios to prepare you for a negotiation? How useful would they be by hour 3?
+To feel how big a deal this is, how much would you need to pay a friend to spend 8 hours perspective-taking in various scenarios to prepare you for a negotiation? How useful would they be by hour 3?
 
 ![](./brainstorm.png)
 
@@ -82,7 +82,7 @@ An exobrain is the infinite friend, infinite coach, infinite therapist (what [Si
 
 It's the perspective of every human the internet knows about, alive or dead.[^1]
 
-Better still, their goals are your goals.[^2] The LLM doesn't need anything from you like a real human does, so it pushes you in the direction you tell it you want to go.
+Better still, their goals are your goals.[^2] The LLM doesn't need anything from you like a human does, so it pushes you in the direction you tell it you want to go.
 
 _**Like what you're reading?** Get more effectiveness upgrades to your inbox every week._
 
@@ -105,19 +105,21 @@ This is foundational. You’re building trust with yourself and with your future
 “You’re doing the foundational work most people skip. If it feels good and it compounds, you’re probably on the right path—even if it looks slow.”
 ```
 
-This seems small, but it's big: it used my own value system to measure my actions.
+Seems small, but it's big: it used my own value system to measure my actions.
 
 ### Thinking partner in negotiation
-I've been in a complex negotiation for several weeks (which is where the example above came from). While I can't give details here, I've been using my exobrain to think through the situation. I've used it for:
+I've been in a complex negotiation for several weeks (where the example above came from). While I can't give details here, I've been using my exobrain to think through the situation. 
+
+I've used it for:
 
 - Assembling order from the unstructured situation
-- Helping me step into the perspective of the other parties in various hypotheticals
+- Helping me step into the perspectives of the other parties in various hypotheticals
 - Showing me my blind spots
 - Ensuring my choices align with my values
 
 It sparked numerous "Wow, I hadn't thought of that" moments, and forced my thinking far beyond if I'd been thinking alone.
 
-I estimate I used ChatGPT for some 8-10 hours straight. Unlike paying a friend, there was zero exhaustion.
+The first session, I used ChatGPT for ~8 hours straight. Unlike paying a friend, there was no exhaustion.
 
 ### Pulling me out of the weeds
 I've started dating someone I feel good about. There is, however, a risk I lose sight of things that are important to me in the new relationship energy.
@@ -208,8 +210,8 @@ This produces a still-more-complex world, further loading exobrain non-users' al
 
 To feel this by example, think about the load your friends, coaches, and therapists sustain helping you work through dating problems... 
 
-1. In the 1950's, when your romantic prospects were limited to people you met in person or over the phone
-2. Today, when your romantic prospects are everything that existed in the 1950's plus internet communities, dating apps, and social media
+1. In the 1950s, when your romantic prospects are limited to people you meet in person or over the phone
+2. Today, when your romantic prospects are everything that existed in the 1950s plus internet communities, dating apps, and social media
 
 It's that problem.
 
@@ -230,7 +232,7 @@ Will you stay in the Stone Age?
 
 Or will you jump on the rocket ship?
 
-For the rocketeers, tune in next week as we cover building your exobrain.
+For the rocketeers, tune in next week as we dive in to building your exobrain. 🚀
 
 TODO SUBSCRIBE BUTTON
 
@@ -243,12 +245,20 @@ _Thank you to Tedi Mitiku, Yannik Zimmerman, Morgan Lefebvre, John Therrien, and
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
-TODO
+We used to have two ways to upgrade our thinking:
+
+1. Process alone (journalling)
+2. Process with other humans with have their own agendas, biases, and energy levels
+
+Now there's a third way.
+
+Enter the exobrain: a second mind trained on your values, goals, and blind spots.
+
+It’s like a tireless coach, friend, and therapist that constantly guides you back towards what's important to you.
+
+This post explains why exobrains are such a big deal, and why you're falling behind if you don't use one.
+
+If care about maximizing your leverage... you’ll want to read this.
 
 👉 Read the full article (link in bio)
--->
-
-<!-------------------- IG STORY TEXT ------------------------->
-<!--
-TODO
 -->
