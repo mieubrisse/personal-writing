@@ -261,4 +261,6 @@ This post explains why exobrains are such a big deal, and why you're falling beh
 If care about maximizing your leverage... you’ll want to read this.
 
 👉 Read the full article (link in bio)
+
+#exobrain #mentalperformance #decisionmaking #selfoptimization #aiassistant #thinkingtools #leverage #clarityofmind #futureofthinking
 -->
