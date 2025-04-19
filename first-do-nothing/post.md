@@ -271,7 +271,7 @@ With the benefit of hindsight, he realized that it wasn't a big deal. If she did
 First, do nothing.
 
 ### Further Reading
-You can find the first post on negative leverage [here][negative-leverage].
+Next, you can read about how [systems can be used to avoid negative leverage](https://mieubrisse.substack.com/p/decisionmaking-systems).
 
 To see how I use "first, do nothing" and learn about Un/Conditionally Okay mindsets, read [Anxiety, Emotions, & Freedom](https://mieubrisse.substack.com/p/anxiety-emotions-and-freedom).
 

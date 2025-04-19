@@ -101,7 +101,7 @@ Where are you falling prey to the Four Horsemen of Bad Decisionmaking?
 
 What rules or Ulysses pacts can you use to keep you on course?
 
-Next post we're taking decisionmaking systems much farther: I'll introduce the **exobrain**, and why it's imperative you get one.
+[Next post](https://mieubrisse.substack.com/p/you-need-an-exobrain) we're taking decisionmaking systems much farther: I'll introduce the **exobrain**, and why it's imperative you get one.
 
 TODO SUBSCRIBE BUTTON
 
