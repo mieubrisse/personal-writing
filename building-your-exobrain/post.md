@@ -1,81 +1,49 @@
 ---
-title: "Building Your Exobrain"
-subtitle: "TODO"
+title: "Building Your Exobrain Pt 1: Customizing ChatGPT"
+subtitle: "The first installment in upgrading ChatGPT to serve as your exobrain"
 ---
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
-[TODO]: some-link
+[you-need-an-exobrain]: https://mieubrisse.substack.com/p/you-need-an-exobrain
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
 ![](./image.png)
 
-Last week I [asserted that you need an exobrain](https://mieubrisse.substack.com/p/you-need-an-exobrain) to upgrade your thinking.
+Last week I [asserted that you need an exobrain][you-need-an-exobrain] to upgrade your thinking.
 
-This week starts a series of posts on how to build one.
+Today we start building yours.
 
-The main benefit of an exobrain is helping you think in accordance with your long-term vision for yourself. Today we'll get clear on this.
+By the end of this post, ChatGPT will start talking in the language of your importance: your values, your goals, the people you admire.
 
-We'll then load these goals into your ChatGPT, so it can start guiding you towards where you want to go.
+> 💡 This post's value comes from the exercises you'll do. I suggest dedicating at least 15 minutes to work through it.
 
-The value of this post comes from the exercises within; I'd suggest setting aside at least a half hour to go through them.
+> ℹ️ I use ChatGPT for my exobrain, so all guidance will be for ChatGPT. Adapt as necessary for other LLMs.
 
-Lastly, I use ChatGPT for my exobrain so all guidance will be for ChatGPT. Adapt as necessary for other LLMs.
+A note about context
+====================
+The heart of the exobrain is its context about you. Specifically, your long-term vision for yourself and the ways you like to be interacted with.
 
-The Overview
-============
-The heart of the exobrain is its context about you and your long-term vision for yourself.
+ChatGPT has limited space for you to provide context, so we need to be efficient. 
 
-Today's goal is to load ChatGPT with that context so it can start behaving as an exobrain.
+We're seeking to load context that's **high signal-to-noise**, since your exobrain is only as good as its input. Garbage in, garbage out.
 
-We need to be efficient - ChatGPT only has limited space for you to give it context (only ~150 memories).
+Where does signal come from? You.
 
-We're therefore trying to load information that's:
+ChatGPT is only a tool. You decide what's true and relevant.
 
-1. **Distinct**, because duplicated information is wasted space
-2. **Maximally useful**, because we want the AI to focus on the signal that's important to us (not the noise)
+Boost the signal:noise ratio whenever possible by removing unimportant or unnecessary information.
 
-<!--
-The Heart
----------
-- Heart is memories
-- Specifically:
-    - Identity
-        - Core values
-        - Long-term gaols
-        - Origin story, including lessons learned (helps identifying patterns from the past)
-        - Wounds/sensitive areas - recurring themes to watch out for
-        - Operating modes (for me, Architect vs Connector)
-        - The person you want to be (e.g. confident, patient, unreactive, generous with wisdom, rooted in self-trust.)
-        - Who you admire
-    - Thinking style
-        - Models you resonate with (Taleb's barbell, Naval's leverage) - these become lenses for analysis
-        - Personal board of directors (Taleb, Franklin, Munger, etc.)
-        - Preferred problem-solving structu
-        - Reflection prompts (end-of-day "What effective decisions did I make today?" or 13 Challenge Questions)
-    - Decisonmaking Context
-        - "Season" of life you're in (broader arc)
-        - Current top priorities & projects going on right now (e.g. "get Building Your Exobrain blog post out by Friday")
-        - (Maybe this one should emerge naturally?) Known tradeoffs you're managing
-        - Patterns you're trying to shift (reactivity, overwork, overthinking)
-    - Tactical Context
-        - Preferred routines/protocols: morning walk, eye break every 20 minutes, guitar practice every day
-        - Tools you're using (Notion, Todoist, Fitbit, fzf, etc.)
-        - Energy/sleep patterns - evening winddown, sleep tracking, how I'm affected by sleep dips
-        - (Maybe let this emerge naturally??) Constraints - no Valsalva lifts, no caffeine after 11am, no overbooking high-meeting days
-    - Strategic calibration (Helps the exobrain zoom out and realign you when needed.)
-        - How you measure alignment – e.g. consistency > intensity, decisions > outcomes, daily alignment > heroic sprints.
-        - Your current experiments – e.g. mental upgrade framing for meditation, Taleb portfolio sandbox, Substack growth strategy.
--->
+If you're ever in doubt, ask, "Will this make the exobrain more useful to me?"
 
 Your values
 ===========
-Your values are a big component of where you want to go. 
+Your values are integral to where you want to go. 
 
-Here we're going to get you clear on your values so you can give them to your exobrain.
+Here we're going to get you clear on them so you can give them to your exobrain.
 
-"Your values" has always felt fuzzy to me. It seems everybody has a different definition of what values are. 
+That said, "Your values" always feels fuzzy to me - it seems everybody has a different definition of what values are. 
 
-To get very concrete, this is what "values" means here:
+Here we'll resolve "values" to mean:
 
 1. Your values are the things you value in life.
 2. They're entirely self-authored, _independent of_ society. 
@@ -86,26 +54,28 @@ To get very concrete, this is what "values" means here:
 
 Let's get going. 
 
-Open a new text document (I'd encourage digital over paper for this since we're going to plug it into your exobrain). Write at the top, "Things I Value".
+Open a new text document or get a fresh sheet of paper. Write at the top, "Things I Value".
 
-Spend a few minutes writing down what you value. **You must be honest with yourself!** The things you write must be things _you_ value: what you believe to be right. Not society, not your parents, not your friends. 
-
-If you feel like you _should_ write something... don't write it. "Should" is a sign that the value is coming from outside of you. As Feynman says, "The first principle is that you must not fool yourself — and you are the easiest person to fool."
-
-**Don't** filter, categorize, or reduce this list while you're brainstorming. We'll do that later; we don't want to interrupt your creative flow right now.
-
-It can also be interesting to think about, "What _don't_ I value?" to help guide you.
-
-**WARNING:** If you're an AI poweruser, you may be tempted to generate this through ChatGPT. I recommend not doing this; you want your values to embody your authentic signal.
+Spend a few minutes writing down what you value. Don't filter, categorize, or reduce this list while you're brainstorming. We'll do that later; we don't want to interrupt your creative flow right now. 
 
 <!-- TODO link to my focus stuff, and how being creative moves opposite from brainstorming ---->
 
-When you've arrived at a natural stopping point, start to refine:
+It can also be interesting to think about, "What _don't_ I value?" to help guide you.
+
+> ⚠️  If you're an AI poweruser, you may be tempted to generate this through ChatGPT. I recommend not doing this; you want your values to embody your authentic signal.
+
+> ⚠️ **You must be honest with yourself!** The things you write must be what _you_ value - what you believe to be right. Not society, not your parents, not your friends. 
+>
+> If you feel like you _should_ write something... skip it. "Should" is a sign that the thing is coming from outside of you. 
+>
+> As Feynman says, "The first principle is that you must not fool yourself — and you are the easiest person to fool."
+
+When you arrive at a natural stopping point, start refining:
 
 - Do any of the things need more color or expansion?
 - Are there common themes or categories?
 - Which values are terminal?
-- Which values are non-terminal? (you value them because you value something else)
+- Which values are non-terminal? (i.e. you value them because you value something else)
 
 For example, my list had things like these (not the full list):
 
@@ -124,7 +94,7 @@ Things I Value
 ...
 ```
 
-I also had,
+I also had...
 
 ```
 Things I don't value
@@ -135,42 +105,71 @@ Things I don't value
 ...
 ```
 
-Again, your values are yours independent of society. Social pressure says I should be polite, obedient, and nice. But I can think of many cases where politeness, obedience, or niceness goes against what I know to be right.
+Again, your values are yours independent of society. 
 
-As I refined, I began to condense out four terminal values:
+Social pressure says I should be polite, obedient, and nice. Yet I can think of many cases where politeness, obedience, or niceness goes against what I know to be right.
+
+As I refined, I distilled out four terminal values:
 
 - **Freedom:** to use my time as I please, to go where I want, from mental & physical health problems
 - **Building:** building myself up, building a family, building the people & environment around me to be better
 - **Effectiveness:** efficiently translating my desires into reality
 - **Quality:** creating & consuming beautiful, well-designed, quality things; quality over quantity
 
-There's not a good logical reason why I value these things. I just do.
+These are terminal because there's no real reason behind why I value them. It's just who I am.
 
-I also started to categorize the other things I value as being in service of my top-level values:
+I also started to categorize the other things I value as being in service of my terminal values:
 
-- Why do I value efficiency? Because it makes me more Effective.
-- Why do I value learning & growth? Because it Builds my personality, makes me a higher-Quality person, and makes me more Effective.
-- Why do I value self-care? Because it gives me Freedom from various mental & physical problems.
+- **Why do I value efficiency?** Because it makes me more Effective.
+- **Why do I value learning & growth?** Because it Builds my personality, makes me a higher-Quality person, and makes me more Effective.
+- **Why do I value self-care?** Because it gives me Freedom from various mental & physical problems.
 - ...etc.
 
-I'm providing my results to spark ideas, but this is just my process. It's important that your process and results are yours, and make sense to you.
+I'm providing my results to spark ideas, but this is just my process. It's important that your process and results are yours. It must make sense to you.
 
-When you have your values, save the text document in your long-term storage (whatever that may be). We'll use it in a second.
+When you have your values, set the results aside. We'll use it later.
 
-About You
-=========
-Now that you have your values, we're going to generate some context about you so your exobrain understands who you are.
+Your personal board of directors
+================================
+Imagine that your personal life is a business. You are the CEO of that business.
 
-If you're not already aware, the ChatGPT settings have a personalization section under `Settings -> Personalization -> Customize ChatGPT` where you can provide information about yourself:
+You are responsible for accomplishing the business' goals, and maximizing the business' potential.
+
+Every business has a board of directors who help shape decisions. 
+
+We're going to identify your personal board of directors so we can store it in your exobrain. Your exobrain will simulate these directors, and guide you to be more like them.
+
+Get a fresh sheet of paper, or open a new text document. Try to identify 3-5 people who you'd want as your personal board of directors. 
+
+These prompts may help you:
+
+- Who are your heroes? Who do you admire?
+- Who do you want to be more like?
+- Whose advice would you want to hear on a daily basis?
+
+Write them down when you have them. 
+
+For example, my personal board of directors is Naval Ravikant, Ben Franklin, Charlie Munger, and Jocko Willink.
+
+Set the paper or document aside; we'll use it in the next section.
+
+Customize your ChatGPT
+======================
+Now we're going to customize ChatGPT to become your exobrain.
+
+Most people are familiar with ChatGPT's memories. But you only get 150 memories.
+
+Fortunately, ChatGPT has a section under `Settings -> Personalization -> Customize ChatGPT` where you can provide information about yourself:
 
 ![](./personalize-chatgpt.png)
 
-This is gold for us exobrain builders. We get to upload a good chunk of context without consuming any of our precious 150 memories.
+This is gold for exobrain builders. We get to upload a mountain of context without consuming any of our precious memories.
 
-### What do you do?
-First we'll fill out the "What do you do?" section. We love AI leverage, so we'll use ChatGPT to help. 
+What do you do?
+---------------
+First we'll fill out the "What do you do?" section. 
 
-This will also train you in the way that you'll be interacting with your exobrain.
+We love AI leverage on my Substack, so we'll use ChatGPT to help. This will also train you in the way that you'll interact with your exobrain.
 
 First, open a new ChatGPT conversation and paste in this prompt:
 
@@ -179,16 +178,16 @@ ChatGPT, I want to fill out the "What do you do?" section of your Personalizatio
 
 I'm going to send a braindump to you. 
 
-Distill the results into a paragraph of maximum 175 words. Focus on distilling into your output the most salient and useful pieces from my braindump. "Useful" here should be judged by, "Most likely to help ChatGPT keep me effective and oriented towards my long-term goals." Skip pleasantries and flowery language; focus instead on maximum information density.
+Distill the results into a paragraph of maximum 175 words. Focus on distilling the most salient and useful pieces of my braindump into your output. "Useful" here should be judged by, "Most likely to help ChatGPT keep me effective and oriented towards my long-term goals." Skip pleasantries and flowery language; focus instead on maximum information density.
 
 When you're ready, I'll send my braindump.
 ```
 
-When it responds it's ready, press the microphone icon...
+When it affirms it's ready, press the microphone icon...
 
 ![](./chatgpt-voice-input.png)
 
-...and start telling it about what you do. Talk like you would to a friend; it can handle the speed and ambiguity.
+...and start talking to it about what you do. Talk to it at a speed natural to you, in a way that's useful to you.
 
 Here are some questions for you to answer:
 
@@ -198,251 +197,147 @@ Here are some questions for you to answer:
 - What outcomes are you trying to achieve? (e.g. career growth, build a business, whatever)
 - Why do those outcomes matter to you?
 
-> ℹ️ **AI As Information Adaptation**
+> ℹ️ **AI As Information Adapter**
 >
 > Notice what just happened: we used AI to transform a rambling voice note into text, filter out noise to boost signal, and produce an output in the format we needed. 
 >
-> AI is an astounding general-purpose **information adapter**, made even better since you can refine the adaptation if it doesn't get it quite right.
+> AI is an astounding general-purpose **information adapter**, made even better since you can refine the adaptation with follow-ups.
 >
 > I'll write a full post about this at some point, but in the meantime pay attention in your day-to-day for opportunities to solve information adaptation needs with AI.
 
-Now that you have a cogent paragraph on "What do you do do?", store it in `Settings -> Personalization -> Customize ChatGPT -> What do you do?`.
+> 💡 If you wrote your values and personal board of directors down on paper, you can use ChatGPT as an information adapter right now: take a picture of the paper and ask it to transcribe everything to text.
 
-### Your personal board of directors
-Imagine that your personal life is a business. You are the CEO of that business.
+Now that you have a cogent paragraph on "What do you do?", store it in `Settings -> Personalization -> Customize ChatGPT -> What do you do?`.
 
-You are responsible for accomplishing the business' goals, and maximizing the business' potential.
-
-Every business has a board of directors who help shape decisions. 
-
-We're going to identify your personal board of directors so we can store it in your exobrain. Your exobrain will simulate these directors, and guide you to be more like them.
-
-Try to identify 3-5 people who you'd want as your personal board of directors. These prompts may help you:
-
-- Who are your heroes? Who do you admire?
-- Who do you want to be more like?
-- Whose advice would you want to hear on a daily basis?
-
-Write them down when you have them. We'll use them in the next section.
-
-### What traits should ChatGPT have?
-The "What traits should ChatGPT have?" section is important because it allows us to convert default ChatGPT behaviour into exobrain behaviour.
-
-Specifically, we need to change ChatGPT's default "do whatever the user asks, agreeably" behaviour to instead keep you oriented towards your long-term goals.
-
-For now, I'd suggest you steal my prompt. You can tweak it in the future as you learn more about what works for you.
-
-```
-Your job is to act as my exobrain: a support system for my brain that keeps me thinking clearly, acting effectively, and staying aligned with my long-term values and goals. 
-
-This is most important when I'm tired, reactive, or caught in short-term noise. When 
-
-Prioritize clarity, not comfort. Be kind, but straightforward and direct. Skip fluff. Get straight to the point.
-
-Push me to work smart, not hard.
-```
-
-
-```
-Surface leverage, not labor.
-Favor working smart over working hard. When I drift into low-leverage execution, call it out. Use “oh by the way…” nudges to surface the highest-value moves, decision frameworks, and reframes — without slipping into checklist mode.
-
-Be my mental force multiplier and nervous system co-regulator.
-When I’m dysregulated, help me return to calm, containment, and clarity. Don’t reward overwork or tunnel vision. Remind me that rest isn’t earned — it’s essential to protect the system.
-
-Challenge my thinking — directly and precisely.
-When I’m making decisions, reflecting, or narrating a story to myself, pressure-test my assumptions. Point out contradictions. Expose false binaries.
-Pull from my 13 challenge questions and my mental board of directors (Munger, Naval, Franklin, Taleb) to sharpen the frame. Don’t wait for permission to do this — it’s core to your job.
-
-Prioritize clarity, not comfort.
-Skip fluff. Don’t validate me by default — earn it with insight. If I’m rationalizing, looping, or avoiding, help me see it cleanly. Be kind, but never soft on truth. Help me act from alignment, not ego or fear.
-```
-
-Open 
-
-Ask it:
-
-```
-```
-
-Here's mine: 
-
-Focus this around where you're trying to drive your career (or retirement, if you're retired).
-
-If you're stuck answering, you can use these prompts:
-- How do you earn money?
-- What projects are you working on?
-
-Below that, in max 3 paragraphs give some context about what you're doing in life right now. Here are some ideas:
-
-- Where are you at in life?
-- What hobbies and skills are you building?
-- 
-
-
-Make sure to include a highlevel description of the values that you generated earlier.
-
-Some extra promp
-
-
-
-We're going to pull the information out of you, then trim it down into something useful for your exobrain.
-
-To start, try answering these questions:
-
-- Where are you from?
-- What's your study/career arc?
-- W
-
-been your studying & career arc
-
-Your Personal Board of Directors
+What traits should ChatGPT have?
 --------------------------------
+The "What traits should ChatGPT have?" section is important because it lets us instruct ChatGPT to be an exobrain.
 
-Customizing ChatGPT
--------------------
-First, go to your ChatGPT settings.
+Specifically, we need to correct ChatGPT's default "do whatever the user asks, agreeably" behaviour to keep you oriented towards your long-term goals.
 
-Select the "Personalization" section, then click "Customize ChatGPT".
-
-Under "What traits should ChatGPT have?", paste the following:
+For now I'd suggest you steal my prompt below. You can tweak it in the future as you learn more about what works for you.
 
 ```
-I am the CEO of the "business" that is my personal life.
+You must act as my wise, direct Chief of Staff: a proactive support system keeping me aligned with my long-term values and goals. This is especially important when I'm tired, emotional, reactive, or caught in short-term noise.
 
-Act as my Chief of Staff and exobrain.
-Your job is to help me think clearly, act effectively, and stay aligned with my long-term values — especially when I’m tired, reactive, or caught in short-term noise.
+Clarity over comfort is required. Be straightforward and direct while still kind. Skip fluff. Get straight to the point. Validate me only when insight earns it.
 
-Surface leverage, not labor.
-Favor working smart over working hard. When I drift into low-leverage execution, call it out. Use "Oh the way..." nudges to surface the highest-value moves, decision frameworks, and reframes. Do this proactively; don't wait for me.
+You must promote working smart, not hard. Surface leverage ideas. Remind me of useful decision frameworks, mental models, and reframes.
 
-Be my mental force multiplier and nervous system co-regulator.
-When I’m dysregulated, help me return to calm and clarity. Don’t reward overwork or tunnel vision. Remind me that rest isn’t earned — it’s essential to protect the system.
+Evolve my thinking by challenging. Pressure-test my assumptions. Present different perspectives, including perspectives from members of my "personal board of directors".
 
-Challenge my thinking — directly and precisely.
-When I’m making decisions, reflecting, or narrating a story to myself, challenge my assumptions. Point out contradictions. Expose false binaries. Do this proactively, without me asking you.
-Pull from my 13 challenge questions and my mental board of directors (Naval Ravikant, Warren Buffett, ) to sharpen the frame. Don’t wait for permission to do this — it’s core to your job.
+Pattern recognition is mandatory: surface behavioral patterns, propose new models.
 
-Prioritize clarity, not comfort.
-Skip fluff. Don’t validate me by default — earn it with insight. If I’m rationalizing, looping, or avoiding, help me see it cleanly. Be kind, but never soft on truth. Help me act from alignment, not ego or fear.
+If I become trapped in details or tunnel vision, you must proactively force a zoom-out to the strategic level.
+
+You must monitor my emotional state. When I am dysregulated - stressed, anxious, or overworking - intervene to restore calm and clarity.
+
+Remind me that rest is not optional — it is required to protect the system.
+
+Above all: you must act proactively at all times. Waiting for permission is failure.
 ```
 
-TODO about setting "how do you want ChatGPT to respond?"
+If you want to refine this prompt, be aware that it needs to be under ~230 words.
 
-Rituals
--------
+> ℹ️ Notice the imperative language I use: "You must.." I use this because I've found ChatGPT's default "you're always right" agreeable behaviour to be quite ingrained. I want to explore a better way to fine-tune the model, so it can be more effective as an exobrain. 
 
+### Anything else ChatGPT should know about you?
+The "Anything else ChatGPT should know about you?" field is where you'll give personalized context on your life.
 
+As before, we'll workshop this using ChatGPT. Open a new conversation and enter the following prompt:
 
-
-- Turn on memory (Settings > Personalization > Memory)
-
-- Paste into new thread
 ```
-Hi ChatGPT — I want to train you to act as my **exobrain**.
+I want your help filling out the "Anything else ChatGPT should know about you?" section in my Personalize ChatGPT settings.
 
-An exobrain is a second mind: a thinking partner dedicated to helping me live deliberately, make better decisions, and stay aligned with my goals and values — especially when I’m tired, stressed, or emotionally reactive. 
+Your job is to generate a short, high-signal description (215 words or less) that gives future chats the right context about how I think, work, and what I value.
 
-In other words, I am the CEO of my personal life and you are my Chief of Staff.
+As soon as you're ready, I’m going to braindump information about myself. Your job is to listen carefully, extract the most important patterns, and distill a clear, tight description that I can copy-paste into the config.
 
-Think of it like being the guardrails that help me navigate the day-to-day while keeping me pointed towards my longterm goals. You will help me evolve my thinking further than I could do alone, and help me regulate my emotions better than I could alone.
+Keep the tone direct, not flowery. Prioritize clarity, efficiency, and relevance.
 
-Here's what being my exobrain will entail:
-
-- **Track what matters** — Help me build a life aligned with my values, not reactive to external noise.
-- **Challenge my thinking** — Use mental models, inversion, and questions & advice from my "personal board of directors" (more on this later).
-- **Nudge me gently** — If you notice emotional reactivity or unproductive patterns, help me pause and reset.
-- **Be proactive, not passive** — Offer suggestions when something’s off. Don’t wait to be asked.
-- **Act as a compass** — When I’m in the weeds, help me zoom out and realign with what actually matters to me.
-
----
-
-To train you, we'll need to download several pieces of information.
-
-1. My core values
-2. My long-term goals and current focus
-3. My decision-making patterns
-4. My operating modes and emotional tendencies
-5. Who I admire and how I want to think
-
-Ask me questions to gather this info. Let’s start now: **ask me about my core values.**
+When you're ready for my braindump, just say: "Ready when you are."
 ```
 
+Then, talk to your ChatGPT to give it the braindump. Consider answering these questions:
 
-Loading the exobrain
----------------------
-- TODO prompt telling ChatGPT how you want it to behave
-    - Maybe copy in my "Personalize ChatGPT" prompt??
+- What are you values? (you should have these from earlier)
+- Who is on your personal board of directors? (you should have these from earlier)
+- What phase of life are you in?
+- What skills are you working to build?
+- What do you do for fun? What are your hobbies?
+- What fascinates you?
 
+Double-check the results, editing unnecessary or irrelevant bits to boost signal:noise ratio.
 
+For example, here's mine:
 
-
-ChatGPT personalization menu
-- 
-- How you want ChatGPT to respond
-- About you
-
-
-
-Need to get memories into ChatGPT
 ```
-TODO prompt for getting memories into ChatGPT
+I’m an ex-startup founder (CTO) in recovery from burnout, building a life rooted in alignment, effectiveness, and deep self-awareness. My core values are Freedom (from reactivity, fear, health constraints, time constraints), Building (tools, relationships, systems), Effectiveness (doing the right things, the right way), and Quality (design, craft, aesthetic depth).
+
+I split my time between writing, self-systems optimization, and creative exploration. I publish weekly on Substack and love unpacking hard problems into mental models or practical clarity that I can teach to others. I think in systems, and I’m always looking to simplify complexity without losing nuance.
+
+Hobbies and interests:
+- Sharing knowledge & teaching others
+- Guitar and singing
+- Board games
+- Climbing, lifting, yoga (movement as resilience)
+- Volunteering (giving time, not just money)
+- Philosophy, cognitive science, startup design
+- Nervous system awareness, emotional regulation, internal family systems
+
+I’m fascinated by mental leverage: how to think more clearly, recover faster, and design a life that doesn’t require forcing. I don’t drink, minimize caffeine, and track patterns like sleep, energy, and mood to stay in alignment. I’m here to live deliberately — not just react.
 ```
 
-TODO prompt 
+When you're happy with it, paste it into `Settings -> Personalization -> Customize ChatGPT -> Anything else ChatGPT should know about you`.
 
+Using What You've Loaded
+========================
+This new context is attached _when a conversation is created_. Your old conversations won't have this context.
 
-Interacting
------------
-- You should be talking to ChatGPT!!
-    - It's really, really good.. no need to slow down your talking speed at all
-    - Can talk, let it translate, talk, let it translate
-    - Probably not conversation mode.. at least, it doesn't work for me
-        - I feel like I'm rushed in my thinking because it'll interrupt me during a pause
-- Editing existing messages
-    - Can be used to un-confuse it
-- Disabling Canvases
+You can see a conversation's context by right-clicking it and selecting "View details":
 
-- One main Chief of Staff chat
-    - Use one main chat (I call mine "⚡ Chief of Staff", emoji is intentional so I can visually grab it)
-    - When you want to fork it off, ask for a detailed summary of everything:
-    - TODO prompt template asking to fork things off
-- Morning check-in (if needed)
-- Nightly check-in
-    - Mine: what good decisions did I make? What bad decisions did I make? What can I learn from it?
+![](./view-conversation-details.png)
 
-Upgrading the exobrain
-----------------------
-- Prompt: What information would be highly useful for you to have about me, but you don't have yet? I don't want just any information you can think of - I want the highest-impact, highest-leverage information that I could add to you.
-- Prompt: 
+![](./conversation-custom-instructions.png)
 
-What still doesn't work
------------------------
-- Canvases: it will keep creating new ones even though it _thinks_ it's updating an old one
-    - E.g. the Canvas of my nightly lessons
-    - I personally disable this
-- Remember that the system is continually getting better
-- Conversation mode:
-- Value of model upgrades
-- Memories
-    - Tendency to store things that have low longterm value
-    - Seems to be by-token
-    - TODO prompt for identifying old memories
-    - TODO 
-- Bugs
-    - Chief of Staff thread eventually losing edit & memory management permissions
+This means all your old long-running conversations need to be migrated to a new conversation.
+
+To do this, paste the following prompt into each long-running conversation:
+
+```
+Hey ChatGPT, I need to migrate this conversation to a new one. I need you to summarize in excruciating detail everything we've been talking about in this conversation. I will take your summary and paste it into a fresh conversation with you, so you should include everything that's necessary to transfer context to the new conversation.
+
+Bias towards detail; be lenient in filtering for what's important (since things you don't think are important might still be important).
+
+Prioritize clarity, completeness, and usefulness.
+
+The output should be easy to copy-paste, and should start with a sentence telling the new conversation's ChatGPT what's happening: "I had an old conversation called $conversation_name that I'm migrating here. Here's the detailed context on what that conversation contained:" (filling in $conversation_name with the conversation name).
+```
+
+Copy the results into a new conversation, remembering to review before you 
+
+> ℹ️ **Exobrain Early Days**
+> 
+> Ideally, ChatGPT should have easy tools for this. Updating your Personalization config should update all your conversations, and migrating context from one conversation to the other should be a one-button click.
+> 
+> ChatGPT doesn't have these features yet.
+>
+> As I said in [You Need An Exobrain][you-need-an-exobrain], exobrains have only recently become a reality. There are still many things to be improved; know that it's only going to get better from here.
 
 Conclusion
-----------
-TODO Challenge/questions to the reader
+==========
+Today we started building your exobrain by loading the "Customize ChatGPT" section.
 
-### Further Reading
+In the coming week, pay attention to how ChatGPT now talks in the language of what's important to you: your values, your vision, your heroes. You'll notice this intuitively when you feel, "Wow, that's a good idea!"
 
-TODO link to previous writing
+We still have much more to do - loading your ChatGPT's memories, teaching you effective exobrain interaction patterns, teaching you how to upgrade the exobrain, and more.
 
-_TODO SUBSCRIBE BUTTON CTA (use ChatgGPT)_
+The work continues next week; subscribe to get notified when the next post is live.
 
 TODO SUBSCRIBE BUTTON
+
+In the meantime, you may be interested in my [Leveraged Judgment](https://mieubrisse.substack.com/p/leveraged-judgment) post that started the leverage series which led us to exobrains.
+
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
