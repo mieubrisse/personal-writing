@@ -21,11 +21,7 @@ By the end of this post, ChatGPT will start talking in the language of your impo
 
 A note about context
 ====================
-The heart of the exobrain is its context about you. Specifically, your long-term vision for yourself and the ways you like to be interacted with.
-
-ChatGPT has limited space for you to provide context, so we need to be efficient. 
-
-We're seeking to load context that's **high signal-to-noise**, since your exobrain is only as good as its input. Garbage in, garbage out.
+Your exobrain is only as good as its context, and context is only as good as its signal:noise ratio.
 
 Where does signal come from? You.
 
@@ -125,7 +121,7 @@ I also started to categorize the other things I value as being in service of my 
 - **Why do I value self-care?** Because it gives me Freedom from various mental & physical problems.
 - ...etc.
 
-I'm providing my results to spark ideas, but this is just my process. It's important that your process and results are yours. It must make sense to you.
+I'm providing my results to spark ideas, but it's important that your process and results are yours. It must make sense to you.
 
 When you have your values, set the results aside. We'll use it later.
 
@@ -164,6 +160,8 @@ Fortunately, ChatGPT has a section under `Settings -> Personalization -> Customi
 ![](./personalize-chatgpt.png)
 
 This is gold for exobrain builders. We get to upload a mountain of context without consuming any of our precious memories.
+
+We'll fill out the three key fields now.
 
 What do you do?
 ---------------
@@ -215,7 +213,7 @@ The "What traits should ChatGPT have?" section is important because it lets us i
 
 Specifically, we need to correct ChatGPT's default "do whatever the user asks, agreeably" behaviour to keep you oriented towards your long-term goals.
 
-For now I'd suggest you steal my prompt below. You can tweak it in the future as you learn more about what works for you.
+Steal my prompt below for now. You can tweak it later as you learn about what works for you.
 
 ```
 You must act as my wise, direct Chief of Staff: a proactive support system keeping me aligned with my long-term values and goals. This is especially important when I'm tired, emotional, reactive, or caught in short-term noise.
@@ -314,7 +312,7 @@ Prioritize clarity, completeness, and usefulness.
 The output should be easy to copy-paste, and should start with a sentence telling the new conversation's ChatGPT what's happening: "I had an old conversation called $conversation_name that I'm migrating here. Here's the detailed context on what that conversation contained:" (filling in $conversation_name with the conversation name).
 ```
 
-Copy the results into a new conversation, remembering to review before you 
+Copy the results, remembering to review and boost signal:noise before you paste into a new conversation.
 
 > ℹ️ **Exobrain Early Days**
 > 
