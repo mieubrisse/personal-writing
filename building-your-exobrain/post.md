@@ -11,6 +11,8 @@ subtitle: "The first installment in upgrading ChatGPT to serve as your exobrain"
 
 Last week I [asserted that you need an exobrain][you-need-an-exobrain] to upgrade your thinking.
 
+TODO quick summary of last week's post
+
 Today we start building yours.
 
 By the end of this post, ChatGPT will start talking in the language of your importance: your values, your goals, the people you admire.
@@ -18,6 +20,25 @@ By the end of this post, ChatGPT will start talking in the language of your impo
 > 💡 This post's value comes from the exercises you'll do. I suggest dedicating at least 15 minutes to work through it.
 
 > ℹ️ I use ChatGPT for my exobrain, so all guidance will be for ChatGPT. Adapt as necessary for other LLMs.
+
+
+
+
+```
+Hey ChatGPT, I have a situation and need your advice. I've been contracting a lady to do meal prep for me every week so I have food throughout the week, and I gave her a key to my apartment so she could get in without me needing to be home. She lost the key. This by itself wasn't a big deal for me - accidents happen - but it feels like she's not taking responsibility. She started by saying that she shouldn't have been given the key in the first place, and she can't take responsibility and so on. This was annoying; I expected her to just say, "I'm sorry, my bad. I'll fix it by getting a new copy, and this won't happen again." I'm considering firing her, as this isn't the first time she's danced around taking responsibility.
+```
+
+TODO results
+
+```
+Hey ChatGPT, I've recently made a couple thousand dollars and I'm deciding how to allocate it in my portfolio. Can you give me some guidance?
+```
+
+TODO results
+
+
+
+
 
 A note about context
 ====================
@@ -157,7 +178,7 @@ Most people are familiar with ChatGPT's memories. But you only get 150 memories.
 
 Fortunately, ChatGPT has a section under `Settings -> Personalization -> Customize ChatGPT` where you can provide information about yourself:
 
-![](./personalize-chatgpt.png)
+![](./images/personalize-chatgpt.png)
 
 This is gold for exobrain builders. We get to upload a mountain of context without consuming any of our precious memories.
 
@@ -183,7 +204,7 @@ When you're ready, I'll send my braindump.
 
 When it affirms it's ready, press the microphone icon...
 
-![](./chatgpt-voice-input.png)
+![](./images/chatgpt-voice-input.png)
 
 ...and start talking to it about what you do. Talk to it at a speed natural to you, in a way that's useful to you.
 
@@ -294,9 +315,9 @@ This new context is attached _when a conversation is created_. Your old conversa
 
 You can see a conversation's context by right-clicking it and selecting "View details":
 
-![](./view-conversation-details.png)
+![](./images/view-conversation-details.png)
 
-![](./conversation-custom-instructions.png)
+![](./images/conversation-custom-instructions.png)
 
 This means all your old long-running conversations need to be migrated to a new conversation.
 
