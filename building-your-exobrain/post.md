@@ -5,13 +5,14 @@ subtitle: "The first installment in building your own exobrain"
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
 [you-need-an-exobrain]: https://mieubrisse.substack.com/p/you-need-an-exobrain
+[leveraged-judgment]: https://mieubrisse.substack.com/p/leveraged-judgment
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-![](./image.png)
+![](./images/cover.png)
 
 Last week I [asserted that you need an exobrain][you-need-an-exobrain] to upgrade your thinking. Brief summary:
 
-- [Today's world is insanely leveraged, so smart decisions outcompete hard work](https://mieubrisse.substack.com/p/leveraged-judgment)
+- [Today's world is insanely leveraged, so smart decisions outcompete hard work][leveraged-judgment]
 - Before the LLM revolution, we had limited tools to upgrade our decisions: clumsy systems and conversations with other humans who have limited time and energy
 - The LLM revolution has allowed for a new tool, the **exobrain** - constantly-available guardrails to orient your decisionmaking towards your longterm values and goals
 - Exobrain users will use the exobrain skip bad choices, pulling ahead by removing [negative leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage) from their future
@@ -19,9 +20,9 @@ Last week I [asserted that you need an exobrain][you-need-an-exobrain] to upgrad
 
 Today we start construction on your exobrain.
 
-By the end of this post, you'll have ChatGPT acting as a basic exobrain: talking in your values, your goals, and the people you admire.
+By the end of this post you'll have ChatGPT acting as a basic exobrain: talking in your values, your goals, and the people you admire.
 
-I'll also share results of pitting my exobrain-trained ChatGPT vs untrained ChatGPT.
+Afterwards I'll also share results, pitting my exobrain-trained ChatGPT vs untrained ChatGPT.
 
 > 💡 This post's value comes from the exercises you'll do. I suggest dedicating at least 15 minutes to work through it.
 
@@ -42,7 +43,7 @@ If you're ever in doubt, ask, "Will this make the exobrain more useful to me?"
 
 ![](./images/signal-vs-noise.png)
 
-_I'm trying to understand you ma'am, but all I hear is 'Total Eclipse of the Heart' in the background_
+_I'm trying to understand you ma'am, but all I hear is 'Never Gonna Give You Up' in the background_
 
 Your Values
 ===========
@@ -56,7 +57,7 @@ Here we'll resolve "values" to mean:
 
 1. Values = the things you value in life.
 2. They're entirely self-authored, _independent of_ society. 
-    - You are even free to choose things like, "I value stealing as much money as possible." Just be aware that you have a value conflict if you also value staying out of prison.
+    - You're even free to choose things like, "I value stealing as much money as possible." Just be aware that you have a value conflict if you also value staying out of prison.
 3. There are two types of values, **terminal** and **non-terminal**:
     - Terminal values don't have a "why"; you value them just because you do.
     - Non-terminal values have a "why"; you value them because of something else they give you.
@@ -108,7 +109,7 @@ We're going to identify your personal board of directors so we can store it in y
 
 _All I'm saying is, it never hurts to be prepared_
 
-Get a fresh sheet of paper, or open a new text document. Try to identify 3-5 people who you'd want as your personal board of directors. 
+Get a fresh sheet of paper, or open a new text document. Try to identify 3-5 people you'd want on your personal board of directors. 
 
 These prompts may help you:
 
@@ -122,13 +123,17 @@ For example, my personal board of directors is Naval Ravikant, Ben Franklin, Cha
 
 Set the paper or document aside; we'll use it in the next section.
 
+_**Like the post so far?** Subscribe to get more like it every week._
+
+TODO SUBSCRIBE BUTTON
+
 Customize Your ChatGPT
 ======================
 Now we're going to customize ChatGPT to become your exobrain.
 
 Most people are familiar with ChatGPT's memories. But you only get 150 memories.
 
-Fortunately, ChatGPT has a section under `Settings -> Personalization -> Customize ChatGPT` where you can provide information about yourself:
+Fortunately, ChatGPT has a section under `Settings → Personalization → Customize ChatGPT` where you can provide information about yourself:
 
 - What do you do?
 - What traits should ChatGPT have?
@@ -140,11 +145,11 @@ We'll fill out the three key fields now.
 
 What do you do?
 ---------------
+First we'll fill out the "What do you do?" section. 
+
 ![](./images/idea-guy.png)
 
 _So you're the "idea guy"?_
-
-First we'll fill out the "What do you do?" section. 
 
 We love AI leverage on my Substack, so we'll use ChatGPT to help. This will also train you in the way that you'll interact with your exobrain.
 
@@ -184,7 +189,7 @@ Here are some questions for you to answer:
 
 > 💡 If you wrote your values and personal board of directors down on paper, you can use ChatGPT as an information adapter right now: take a picture of the paper and ask it to transcribe everything to text.
 
-Now that you have a cogent paragraph on "What do you do?", store it in `Settings -> Personalization -> Customize ChatGPT -> What do you do?`.
+Now that you have a cogent paragraph on "What do you do?", store it in `Settings → Personalization → Customize ChatGPT → What do you do?`.
 
 
 What traits should ChatGPT have?
@@ -224,7 +229,7 @@ Anything else ChatGPT should know about you?
 
 ![](./images/norman-island.png)
 
-_Norman island? Never heard of it, sir._
+_Norman Island? Never heard of it, sir._
 
 The "Anything else ChatGPT should know about you?" field is where you'll give personalized context on your life.
 
@@ -272,7 +277,7 @@ Hobbies and interests:
 I’m fascinated by mental leverage: how to think more clearly, recover faster, and design a life that doesn’t require forcing. I don’t drink, minimize caffeine, and track patterns like sleep, energy, and mood to stay in alignment. I’m here to live deliberately — not just react.
 ```
 
-When you're happy with it, paste it into `Settings -> Personalization -> Customize ChatGPT -> Anything else ChatGPT should know about you`.
+When you're happy with it, paste it into `Settings → Personalization → Customize ChatGPT → Anything else ChatGPT should know about you`.
 
 Using What You've Loaded
 ========================
@@ -306,10 +311,34 @@ Copy the results, remembering to review and boost signal:noise before you paste 
 >
 > As I said in [You Need An Exobrain][you-need-an-exobrain], exobrains have only recently become a reality. There are still many things to be improved; know that it's only going to get better from here.
 
-Untrained ChatGPT vs Exobrain Face-off
-======================================
-I've thrown a lot at you. Why bother listen?
+Conclusion
+==========
+Today we started building your exobrain by loading the "Customize ChatGPT" section.
 
+In the coming week, pay attention to how ChatGPT talks. It will start to use language of what's important to you: your values, your vision, your personal board of directors. You'll notice this intuitively when you feel, "Wow, that's a good idea!"
+
+But we still have a ways to go. In coming weeks you'll learn...
+
+- Loading your ChatGPT's memories
+- Effective interaction patterns
+- Upgrading your exobrain so it evolves with you
+- ...and more
+
+As a teaser of what's possible, I've included results of untrained ChatGPT vs my exobrain down below.
+
+We continue next week. Subscribe to get notified when the next post is live. 🚀
+
+TODO SUBSCRIBE BUTTON
+
+### Further Reading
+You may be interested in my [Leveraged Judgment][leveraged-judgment] post that started the series leading us to exobrains. 
+
+Or if you want another guide, check out [The Sleep Guide](https://mieubrisse.substack.com/p/the-sleep-guide) for a ground-up manual on curing insomnia.
+
+_Thank you to Yannik Zimmermann, Tedi Mitiku, Morgan Lefebvre, Dan Park, and Raj Krishnan for your thoughtful feedback on drafts of this post._
+
+Addendum 1: Untrained ChatGPT vs Exobrain Face-off
+==================================================
 Here's a head-to-head: untrained ChatGPT vs my exobrain, on three situations I hit in my own life.
 
 ![](./images/faceoff.png)
@@ -413,7 +442,7 @@ But this message is teeming with relevance to me:
 - It highlights zooming out, which comes from "What traits should ChatGPT have?": `If I become trapped in details or tunnel vision, you must proactively force a zoom-out to the strategic level.`
 - It talks in the language of leverage and effectiveness, which I've communicated are important to me
 - It suggests Positivity Journalling, showering, stretching, and audiobooks are remedies; all of these come from information I've given it about what's effective for me
-- It references DMN/TPN, which comes from research I did through it on the Default Mode Network and Task-Positive Network
+- It references DMN/TPN, which comes from research I did through the exobrain on the Default Mode Network and Task-Positive Network
 - It simulates my directors Charlie Munger and Nassim Taleb to emphasize why I would do this
 
 The untrained version inspires a mediocre reaction in me: "Oh yeah good idea; maybe I'll do that."
@@ -430,46 +459,22 @@ Here are some numbers that feel realistic for me:
 - I have a 75% chance to follow the exobrain's guidance, get a good night's sleep, and break the cycle
 - If 5 days elapse from the evening of first realizing I'm in a cycle, I break the cycle on my own because I'm so annoyed I'm caught up
 
-I used [this code](https://gist.github.com/mieubrisse/692813ea5c611a5fe71f56382bdb474b) to 10 million simulations of "advice from untrained ChatGPT" to 10 million simulations of "advice from ChatGPT trained as exobrain". 
+I used [this code](https://gist.github.com/mieubrisse/692813ea5c611a5fe71f56382bdb474b) to compare 10 million simulations of "advice from untrained ChatGPT" to 10 million simulations of "advice from ChatGPT trained as exobrain". 
 
-Here are the average additional days spent in a sleep deprivation cycle:
+Here are the results: extra days caught in a sleep deprivation cycle comparing untrained ChatGPT advice to exobrain ChatGPT advice:
 
-- **Untrained:** 1.94 extra days on average
+- **Untrained ChatGPT:** 1.94 extra days on average
 - **Exobrain:** 0.33 extra days on average
 
-Meaning, the better exobrain advice rescues me from 1.6 days of zombie mode.
+Meaning, the more relevant exobrain advice would rescue me from 1.6 days of zombie mode on average.
 
 Those extra 1.6 productive days also compound, as I have the energy to invest in my health, reading, learning, and working.
 
-And these are savings for but one exobrain usecase. Imagine a year of exobrain guidance.
+And these are savings for just one exobrain usecase. Imagine a year of exobrain guidance.
 
-Conclusion
-==========
-Today we started building your exobrain by loading the "Customize ChatGPT" section.
-
-In the coming week, pay attention to how ChatGPT talks. It will start to use language of what's important to you: your values, your vision, your personal board of directors. You'll notice this intuitively when you feel, "Wow, that's a good idea!"
-
-But we still have a ways to go. In coming weeks you'll learn...
-
-- Loading your ChatGPT's memories
-- Effective interaction patterns
-- Upgrading your exobrain so it evolves with you
-- ...and more
-
-We continue next week. Subscribe to get notified when the next post is live. 🚀
-
-TODO SUBSCRIBE BUTTON
-
-### Further Reading
-You may be interested in my [Leveraged Judgment](https://mieubrisse.substack.com/p/leveraged-judgment) post that started the series leading us to exobrains. 
-
-Or if you want another guide, check out [The Sleep Guide](https://mieubrisse.substack.com/p/the-sleep-guide) for a ground-up manual on curing insomnia.
-
-_Thank you to Yannik Zimmermann, Tedi Mitiku, Morgan Lefebvre, Dan Park, and Raj Krishnan for your thoughtful feedback on drafts of this post._
-
-Coda: My Values
-===============
-As promised, here are some of the results of my own value brainstorming. They're provided for ideas' sake only. Your values must make sense to you!
+Addendum 2: My Values
+=====================
+As promised, here are some results from my own value brainstorming. They're provided for ideas' sake only. Your values must make sense to you!
 
 ```
 Things I Value
@@ -515,15 +520,22 @@ I also started to categorize the other things I value as being in service of my 
 - **Why do I value self-care?** Because it gives me Freedom from various mental & physical problems.
 - ...etc.
 
+TODO SUBSCRIBE BUTTON
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
-TODO
+I've talked a lot about the necessity of an exobrain.
+
+Here's the first part of a multi-part series on constructing yours.
 
 👉 Read the full article (link in bio)
 -->
 
 <!-------------------- IG STORY TEXT ------------------------->
 <!--
-TODO
+Ready to build a super suit for your brain?
+
+First guide on constructing your exobrain now available
+
+LINK
 -->
