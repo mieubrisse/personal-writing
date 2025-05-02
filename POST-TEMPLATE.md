@@ -23,6 +23,8 @@ _TODO SUBSCRIBE BUTTON CTA (use ChatgGPT)_
 
 TODO SUBSCRIBE BUTTON
 
+_Thank you to TODO TODO TODO for reviewing drafts of this post._
+
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
 TODO
