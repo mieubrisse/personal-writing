@@ -524,11 +524,13 @@ TODO SUBSCRIBE BUTTON
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
-I've talked a lot about the necessity of an exobrain.
+I've talked at length about the necessity of an exobrain.
 
-Here's the first part of a multi-part series on constructing yours.
+Here's the first in a multi-part series on constructing yours.
 
 👉 Read the full article (link in bio)
+
+#chatgpt #decisionmaking #productivity #exobrain #secondbrain #selfoptimization #foundermindset #worksmartnothard
 -->
 
 <!-------------------- IG STORY TEXT ------------------------->

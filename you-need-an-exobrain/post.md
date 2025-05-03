@@ -236,6 +236,8 @@ For the rocketeers, tune in next week as we dive in to building your exobrain. ð
 
 TODO SUBSCRIBE BUTTON
 
+EDIT: next post now available [here](https://mieubrisse.substack.com/p/building-your-exobrain-1-customizing).
+
 _Thank you to Tedi Mitiku, Yannik Zimmerman, Morgan Lefebvre, John Therrien, and Mike Zhao for reviewing drafts of this._
 
 [^1]: Or at least, the simulated version of them. This isn't a problem though. You can decide for yourself if the simulated person is accurate enough to be useful. And the advice the simulation gives might be useful even if they're not simulated perfectly. This has been my experience with ChatGPT's simulation of [my hero Ben Franklin](https://mieubrisse.substack.com/p/building-ben-franklin). Ben Franklin didn't know anything about software engineering, and I'm thankful ChatGPT simulates him as if he did.
