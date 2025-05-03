@@ -236,7 +236,7 @@ For the rocketeers, tune in next week as we dive in to building your exobrain. ð
 
 TODO SUBSCRIBE BUTTON
 
-EDIT: next post now available [here](https://mieubrisse.substack.com/p/building-your-exobrain-1-customizing).
+**EDIT: next post now available [here](https://mieubrisse.substack.com/p/building-your-exobrain-1-customizing)!**
 
 _Thank you to Tedi Mitiku, Yannik Zimmerman, Morgan Lefebvre, John Therrien, and Mike Zhao for reviewing drafts of this._
 
