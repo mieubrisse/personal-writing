@@ -1,6 +1,6 @@
 ---
 title: "Little Leverage"
-subtitle: "Little things you can do right now to gain leverage"
+subtitle: "Small things you can do right now to gain leverage"
 ---
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
@@ -10,7 +10,7 @@ subtitle: "Little things you can do right now to gain leverage"
 
 ![](./images/cover.png)
 
-_The next part of [the exobrain series
+_What's this - an off-cycle post? Yep! The next post in [the exobrain series](https://mieubrisse.substack.com/p/the-exobrain-series) is still coming this week, but I just had to launch this because there's so much good stuff in it._
 
 A while back I wrote a post called [Leveraged Judgment][leveraged-judgment] that kicked off a series 
 
