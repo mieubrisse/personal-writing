@@ -13,6 +13,7 @@ This page indexes my post series about exobrains:
 1. **[You Need An Exobrain](https://mieubrisse.substack.com/p/you-need-an-exobrain)**
 2. **[Building Your Exobrain 1: Customizing ChatGPT](https://mieubrisse.substack.com/p/building-your-exobrain-1-customizing)**
 3. **[The ChatGPT Exobrain Problem](https://mieubrisse.substack.com/p/the-chatgpt-exobrain-problem)**
+4. **Building Your Exobrain 2: Memories** (Coming Soon)
 
 _**Want to get notified when new posts get added?** You know the drill._
 
