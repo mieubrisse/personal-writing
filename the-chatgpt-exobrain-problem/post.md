@@ -7,7 +7,7 @@ subtitle: "Why I'm losing faith in ChatGPT for exobrains"
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-![](./image.png)
+![](./images/image.png)
 
 Several weeks ago I published [Building Your Exobrain 1: Customizing ChatGPT](https://mieubrisse.substack.com/p/building-your-exobrain-1-customizing). I promised to deliver the next part a week later. I still haven't done that.
 
