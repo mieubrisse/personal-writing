@@ -7,7 +7,7 @@ subtitle: "TODO"
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-![](./image.png)
+![](./images/image.png)
 
 Write all the things here
 
