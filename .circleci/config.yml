@@ -19,7 +19,8 @@ jobs:
       - run:
           name: Check links in Markdown docs
           command: |
-            sudo npm install -g markdown-link-check
+            # We have to install version 3.12.2 because 3.13 is broken: https://github.com/tcort/markdown-link-check/issues/457
+            sudo npm install -g markdown-link-check@3.12.2
             markdown-link-check --retry -qv --ignore POST-TEMPLATE.md .
 
 workflows:
