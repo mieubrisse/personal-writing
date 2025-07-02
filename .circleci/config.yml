@@ -3,8 +3,9 @@ version: 2.1
 jobs:
   validate:
     docker:
-      # Needed for `npm install` down below
-      - image: cimg/node:22.3.0
+      # We have to install version 3.12.1 because 3.12.2 has a regression where dead links don't return a failing exit code
+      # See: https://github.com/tcort/markdown-link-check/issues/457 and https://github.com/tcort/markdown-link-check/pull/452
+      - image: ghcr.io/tcort/markdown-link-check:3.12.1
     resource_class: small
     steps:
       - checkout
@@ -19,9 +20,7 @@ jobs:
       - run:
           name: Check links in Markdown docs
           command: |
-            # We have to install version 3.12.2 because 3.13 is broken: https://github.com/tcort/markdown-link-check/issues/457
-            sudo npm install -g markdown-link-check@3.12.2
-            markdown-link-check --retry -qv --ignore POST-TEMPLATE.md .
+            markdown-link-check --config markdown-link-check-config.json --retry -v $(find . -iname '*.md' | grep -v 'TEMPLATE/')
 
 workflows:
   build:

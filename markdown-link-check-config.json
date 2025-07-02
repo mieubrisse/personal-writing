@@ -1,0 +1,10 @@
+{
+    "ignorePatterns":[
+        {"pattern":"^https://journals.sagepub.com", "//": "They seem to return 403s to crawlers"},
+        {"pattern":"^https://www.distractionfreeapps.com/", "//": "The site's connection is flaky; lots of socket timeouts"},
+        {"pattern":"^https://www.elilusionista.mx/", "//": "Expired cert"},
+        {"pattern":"^https://.*openai.com/", "//": "Returns 403s, presumably because they don't want bots crawling their site"},
+        {"pattern":"^https://x.com", "//": "Returns 400s, presumably to block bots"},
+        {"pattern":"^https://nordvpn.com", "//": "Returns 403s, presumably to block bots"}
+    ]
+}

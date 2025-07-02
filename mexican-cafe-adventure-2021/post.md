@@ -86,7 +86,3 @@ My first cafe, and the one this article was started in.
     * Pleasant and functional, but nothing extraordinary
 
 **Verdict:** Definitely pleasant to post up for a while; food is the biggest weakness while coffee is the biggest strength. Would definitely come back.
-
----
-
-[Back to index](../index.md)
