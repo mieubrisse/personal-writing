@@ -15,15 +15,15 @@ Within the community is a group that takes every chance to belittle AI.
 
 They emphasize where the coding agents fall short, laughing at its clumsy follies.
 
-I only hear the nervousness of a priesthood in decline.
+This strikes me as the nervousness of a dying priesthood.
 
-The reality is that computer system development used to be gate-kept by we select few who warped our brains enough to speak to the machine in its native tongue.
+The reality is that computer system development used to be gatekept by we select few who warped our brains enough to speak to the machine in its native tongue.
 
 That used to be a rare skill. Society rewarded it handsomely.
 
 But now computers learned to speak human. 
 
-Anyone can build basic product today provided they're proficient at describing what they want, no programming required. And the AI is only getting better.
+Anyone can build basic product today, provided they're proficient at describing what they want - no programming required. And the AI is only getting better.
 
 But that's a _great_ thing.
 
@@ -35,7 +35,7 @@ Of course not. The abstraction has freed up time to focus on more important thin
 
 So too with AI.
 
-Building has been democratized like never before. Imagine the world when anyone can build out a side project - not in weeks, but a day!
+Building has been democratized like never before. Imagine the world when anyone can build out a side project, not in weeks but in a day!
 
 And isn't that why we got into coding in the first place?
 
