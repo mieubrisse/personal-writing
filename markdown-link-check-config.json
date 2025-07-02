@@ -1,4 +1,5 @@
 {
+    "retryOn429": true,
     "ignorePatterns":[
         {"pattern":"^https://journals.sagepub.com", "//": "They seem to return 403s to crawlers"},
         {"pattern":"^https://www.distractionfreeapps.com/", "//": "The site's connection is flaky; lots of socket timeouts"},

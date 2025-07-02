@@ -55,6 +55,10 @@ Each leap in abstraction torches a priesthood and opens the temple doors a littl
 
 Let programming burn... and watch what we build when the smoke clears.
 
+_**Liked this post?** Subscribe for more like it._
+
+TODO SUBSCRIBE BUTTON
+
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
 TODO
