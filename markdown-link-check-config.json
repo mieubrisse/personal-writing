@@ -7,6 +7,6 @@
         {"pattern":"^https://.*openai.com/", "//": "Returns 403s, presumably because they don't want bots crawling their site"},
         {"pattern":"^https://x.com", "//": "Returns 400s, presumably to block bots"},
         {"pattern":"^https://nordvpn.com", "//": "Returns 403s, presumably to block bots"},
-        {"pattern":"^https://amazon.com", "//": "Returns unpredictable 500s (as of 2025-07-02)"}
+        {"pattern":"^https://.*.amazon.com", "//": "Returns unpredictable 500s (as of 2025-07-02)"}
     ]
 }
