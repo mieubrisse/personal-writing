@@ -39,4 +39,4 @@ Topics I'm passionate about, but haven't done for work:
 - Music (specifically guitar, singing, and drums)
 - Board games
 
-You can find more about my experience [on my website](kevintoday.com) or [my Linkedin](https://www.linkedin.com/in/kevintoday/).
+You can find more about my experience [on my website](https://kevintoday.com) or [my Linkedin](https://www.linkedin.com/in/kevintoday/).

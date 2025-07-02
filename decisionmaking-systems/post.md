@@ -42,7 +42,7 @@ These behaviours were helpful in the ancient environment. They're harmful today 
 
 _Oops... reacted without thinking and now my entire portfolio is Dogecoin._
 
-[Clear Thinking](https://www.amazon.com.br/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112) defines these harmful tendencies as our "defaults":
+[Clear Thinking](https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary/dp/0593086112) defines these harmful tendencies as our "defaults":
 
 - **The ego default:** Acting to feel right/important ("I always knew the stock market was going to crash")
 - **The emotion default:** Reacting to fear, anger, jealousy, etc. ("Fucking Linda from fucking finance is about to get a piece of my mind")

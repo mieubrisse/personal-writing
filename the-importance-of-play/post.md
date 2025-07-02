@@ -28,7 +28,3 @@ So here I am. I decided I would rather draw the house than try to learn Sketchup
 * A structured approach to reflection is very useful for shocking me out of my normal pattern of dealing with negative emotions
 * It might be necessary to repeat the unhealthy pattern of dealing with negative emotions several times before I get fed up and try a more constructive approach; this is okay
 * Asking "What do I actually want to do?" can help connect me with my unstructured, playful side
-
----
-
-[Back to index](../index.md)

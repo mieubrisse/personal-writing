@@ -1,3 +1,3 @@
 Kevin Today's Personal Writing
 ==============================
-Index is contained in `index.md`
+A repo containing all my personal writing, [published on Substack](https://mieubrisse.substack.com/).

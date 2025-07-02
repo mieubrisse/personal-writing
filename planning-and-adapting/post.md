@@ -51,7 +51,3 @@ For an Adapter, this means dedicating some time to thinking about & preparing fo
 * Spend 10 minutes brainstorming emergencies that could happen to your family (e.g. fire, break-in, kidnapping, frozen bank account, etc.), and then make a plan to guard against them
 
 Notice any discomfort as you do these exercises. Where does it come from? Can you accept it and relax into it as a natural part of the learning process?
-
----
-
-[Back to index](../index.md)

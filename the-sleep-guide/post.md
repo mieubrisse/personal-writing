@@ -608,7 +608,7 @@ Instead, contemplate doing some journalling, meditation, or listening to an audi
 
 So how do you pay back that loan? You've got to get sleep, and a lot of it. 
 
-If you're sleep-deprived during the week from work, [it's not enough to just get two days of 8 hours of sleep on the weekend](https://pmc.ncbi.nlm.nih.gov/articles/PMC10108639/0) (assuming you actually use the weekends for recovery and not staying up late). Think about a week or more of 10+ hours of sleep.
+If you're sleep-deprived during the week from work, [it's not enough to just get two days of 8 hours of sleep on the weekend](https://pmc.ncbi.nlm.nih.gov/articles/PMC10108639) (assuming you actually use the weekends for recovery and not staying up late). Think about a week or more of 10+ hours of sleep.
 
 I know that sounds like a lot, but you've likely been depriving yourself of sleep for years. You're going to need more than a couple days to recover.
 
