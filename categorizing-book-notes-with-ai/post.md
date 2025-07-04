@@ -64,7 +64,7 @@ I quickly started losing the n8n tab amidst all my Chrome tabs, so I used the co
 
 The workflow itself isn't very complicated:
 
-![](./pipeline.png)
+![](./images/pipeline.png)
 
 It:
 
