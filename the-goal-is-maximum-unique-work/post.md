@@ -33,7 +33,7 @@ For a while this was the best I could do. But then LLMs arrived.
 
 Now I don't have to Google or code or debug myself. I can [speak to the machine](https://getharker.com/) and it's done for me.
 
-I **love** this. It's why I wrote [Let Programming Burn](TODO).
+I **love** this. It's why I wrote [Let Programming Burn](https://mieubrisse.substack.com/p/let-programming-burn).
 
 It was never about pushing characters into an editor; it was about thought leaping from my mind into reality.
 
@@ -41,11 +41,15 @@ Yesterday's [post about categorizing book notes with AI was a step in that direc
 
 But it's not enough.
 
-I still have to babysit Cursor through small steps. I still write every blog post character by hand. I still clean my email, book flights, schedule doctor's appointments, and order things on Amazon myself.
+I still have to babysit Cursor through small steps. 
+
+I still write every blog post character by hand. 
+
+I still clean my email, book flights, schedule doctor's appointments, and order things on Amazon myself.
 
 I want a fluid stream of idea into constructed output.
 
-I want [Ensō](https://enso.sonnet.io/) where reality sculpts itself to the flow.
+I want [Ensō](https://enso.sonnet.io/) where reality reshapes itself to my flow.
 
 I want to speak an idea over morning coffee and have it ready by the time I've finished bacon.
 
@@ -59,23 +63,23 @@ But what are they doing? What's the essence of the thing?
 
 The goal, I think, is to remove all non-unique work.
 
-Naval Ravikant says that money is earned by providing society with something it doesn't know how to get.
+Naval Ravikant says that money is earned by providing society with something it doesn't already know how to get.
 
 Society already knows how to switch between windows, book a dentist appointment, check in for a flight, or push words to an editor (be they code or blog post).
 
-But society doesn't know how to get more of you.
+But society doesn't know how to get another you.
 
-Everyone knows how to place a block in Minecraft. But until it comes from you, nobody knows which particular blocks in which particular combination summons the idea in your mind.
+Everyone knows how to place a block in Minecraft. But until it comes from you, nobody knows which particular blocks in which combination summon the idea in your mind.
 
 It's no accident the Substack-iverse is exploding with [posts about the importance of taste](https://substack.com/home/post/p-161399572) in the wake of the LLM revolution. "Taste" is you, personified.
 
 Rick Rubin isn't a musician, and that's good because society already knows how to play instruments.
 
-Steve Jobs wasn't a coder, and that was great because he got to focus on bringing the unique essence of Jobs into reality.
+Steve Jobs wasn't a coder, and that was great because he got to focus on expressing the unique essence of Jobs.
 
-**So why are spending all our time doing things society already knows how to do?**
+So why are spending all our time doing things society already knows how to do?
 
-Why are we still placing the blocks?
+Why are we still placing blocks?
 
 TODO SUBSCRIBE BUTTON
 
