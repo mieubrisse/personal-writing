@@ -1,6 +1,6 @@
 ---
 title: "The Goal Is Unique Work"
-subtitle: "Giving society what it can't get: more of you"
+subtitle: "Giving society what it can't already get: more of you"
 ---
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
@@ -15,7 +15,7 @@ _Why_ is technology so fascinating?
 
 My conclusion: technology is the embodiment of efficiency. Less input = more output. 
 
-Meaning, my thoughts more clearly transform into reality.
+Meaning, technology makes thoughts more clearly transform into reality.
 
 I used to stockpile videogame ideas as a kid. I wanted to touch them, so I learned to code.
 
@@ -24,8 +24,8 @@ But coding is a long, laborious process. It involves heaps of note-taking and pl
 As a professional engineer this frustrated me. So I invested in personal efficiency:
 
 - I got really good at Vim
-- I invested in Vimium and custom search engines in Chrome, Raycast and Karabiner and keyboard shortcuts all so I could drive my Mac without a mouse
-- I built [cmdk](https://github.com/mieubrisse/cmdk) for the terminal to replicate the "open anything, anywhere" ⌘-K of Slack, Notion, etc.
+- I invested in Vimium and custom search engines in Chrome, Raycast and Karabiner and keyboard shortcuts, all so I could drive my Mac without a mouse
+- I built [cmdk](https://github.com/mieubrisse/cmdk) for the terminal to replicate the "open anything, anywhere" ⌘-K shortcut of Slack, Notion, etc.
 - I built [a terminal-based Markdown notetaking app](https://github.com/mieubrisse/cli-journal) so I could write and retrieve at the speed of thought
 - I created a ton of really cool conveniences in [my Bash dotfiles](https://github.com/mieubrisse/dotfiles/blob/master/bash/bash_aliases)
 
@@ -35,7 +35,7 @@ Now I don't have to Google or code or debug myself. I can [speak to the machine]
 
 I **love** this. It's why I wrote [Let Programming Burn](https://mieubrisse.substack.com/p/let-programming-burn).
 
-It was never about pushing characters into an editor; it was about thought leaping from my mind into reality.
+It was never about pushing characters into an editor; it was about thought leaping from mind into reality.
 
 Yesterday's [post about categorizing book notes with AI was a step in that direction](https://mieubrisse.substack.com/p/categorizing-book-notes-with-ai).
 
@@ -43,7 +43,7 @@ But it's not enough.
 
 I still have to babysit Cursor through small steps. 
 
-I still write every blog post character by hand. 
+I still write every character of these posts by hand. 
 
 I still clean my email, book flights, schedule doctor's appointments, and order things on Amazon myself.
 
@@ -59,9 +59,9 @@ The ultimate flow state.
 
 Sandbox games like Minecraft have thought hard about this problem, and we [see it in the real world occasionally](https://www.youtube.com/watch?v=PUv66718DII).
 
-But what are they doing? What's the essence of the thing?
+But what exactly is "it"? What's the essence of the thing?
 
-The goal, I think, is to remove all non-unique work.
+I think "it" is removing all non-unique work.
 
 Naval Ravikant says that money is earned by providing society with something it doesn't already know how to get.
 
