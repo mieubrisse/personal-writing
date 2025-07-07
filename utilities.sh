@@ -3,14 +3,15 @@
 # You'll likely want to add an alias for this in your .bashrc
 find_post() {
     if [ -z "${#}" ]; then
-        echo "Usage: jump_post /your/blog/post/repo" >&2
+        echo "Usage: jump_post /your/blog/post/repo " >&2
         return 1
     fi
-    blog_repo="${1}"
+    blog_repo="${1}"; shift
     if ! [ -d "${blog_repo}" ]; then
         echo "Error: given blog post repo '${blog_repo}' isn't a directory" >&2
         return 1
     fi
+    query="${1}"
     
     # Use associative arrays to store our data to get O(1) lookup times
     declare -A seen_dirs
@@ -43,7 +44,7 @@ find_post() {
     done
 
     # Launch fzf
-    selection=$(printf '%s\n' "${entries[@]}" | fzf)
+    selection=$(printf '%s\n' "${entries[@]}" | fzf --query="${*}") # Note that we intentionally don't use $@ so that we get a single string with space separator
     
     [ -z "$selection" ] && return
 
