@@ -24,6 +24,7 @@ I was a bit upset: how could I
 - Toyota production system
 - Maalvika - system builders
 - My failings with Youtube 
+- Creating a ChatGPT project for my blog post image generation, wiht custom instructions, because i kept finding myself needing to reinforce "square aspect ratio... don't include text"
 
 
 
