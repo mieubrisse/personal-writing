@@ -25,10 +25,10 @@ jump_post() {
             branch_mapping["$dir"]="main"
             seen_dirs["$dir"]=1
         fi
-    done < <(git -C "$BLOG_REPO" ls-tree -r --name-only main | grep '/post\.md$')
+    done < <(git -C "$blog_repo" ls-tree -r --name-only main | grep '/post\.md$')
 
     # Get all branches at once and process them
-    branches=($(git -C "$BLOG_REPO" branch --format='%(refname:short)' --no-merged main))
+    branches=($(git -C "$blog_repo" branch --format='%(refname:short)' --no-merged main))
     
     # Process all branches using git show instead of ls-tree
     for branch in "${branches[@]}"; do
@@ -39,7 +39,7 @@ jump_post() {
                 branch_mapping["$dir"]="$branch"
                 seen_dirs["$dir"]=1
             fi
-        done < <(git -C "$BLOG_REPO" show --name-only --pretty=format: "refs/heads/$branch" | grep '/post\.md$')
+        done < <(git -C "$blog_repo" show --name-only --pretty=format: "refs/heads/$branch" | grep '/post\.md$')
     done
 
     # Launch fzf
@@ -55,12 +55,12 @@ jump_post() {
         return 1
     fi
 
-    if ! git -C "$BLOG_REPO" switch "$branch" >/dev/null; then
+    if ! git -C "$blog_repo" switch "$branch" >/dev/null; then
         echo "Error: Couldn't change repo to branch: ${branch}" >&2
         return 1
     fi
 
-    cd "$BLOG_REPO/$selection" && vim post.md
+    cd "$blog_repo/$selection" && vim post.md
 }
 
 # Quick helper to summon up a new post inside this repo
