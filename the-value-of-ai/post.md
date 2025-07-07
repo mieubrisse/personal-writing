@@ -45,9 +45,11 @@ I have to:
 1. Translate my query into search engine-ese ("American revolution founder age")
 1. Identify candidates that look promising among results ranked by someone else
 1. Hope that the result - written in a way that made sense to the author, not me - is useful for my purposes
-1. If I don't find what I want, debug why I didn't get what I want (was my search engine-ese not good enough? do the results just not exist) and repeat the process from the top
+1. If I don't find what I want, debug why(was my search engine-ese not good enough? do the results just not exist) and repeat the process from the top
 
-LLMs let me query in my natural language, and if I need more info I can ask the LLM to explain as many times as I need in ways that make the most sense to me ("explain it like I'm five", "use examples", "use examples from my own life").
+LLMs let me query in my natural language. 
+
+If I need more info I can ask the LLM to explain as many times as I need in ways that make the most sense to me ("explain it like I'm five", "use examples", "use examples from my own life").
 
 No wonder Google is scared.
 
