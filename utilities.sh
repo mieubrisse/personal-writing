@@ -2,7 +2,7 @@
 # Expects the first argument to be the post repo
 # You'll likely want to add an alias for this in your .bashrc
 jump_post() {
-    if [ "${#}" -ne 1 ]; then
+    if [ -z "${#}" ]; then
         echo "Usage: jump_post /your/blog/post/repo" >&2
         return 1
     fi
@@ -62,3 +62,42 @@ jump_post() {
 
     cd "$BLOG_REPO/$selection" && vim post.md
 }
+
+# Quick helper to summon up a new post inside this repo
+# Expects the first argument to be the post repo, and the second argument to be the name of the post branch
+# You'll likely want to add an alias for this in your .bashrc
+function new_post() {
+    if [ "${#}" -eq 0 ]; then
+        echo "Usage: jump_post /your/blog/post/repo post-directory-name" >&2
+        return 1
+    fi
+
+    blog_repo="${1}"
+    if ! [ -d "${blog_repo}" ]; then
+        echo "Error: given blog post repo '${blog_repo}' isn't a directory" >&2
+        return 1
+    fi
+
+    post_name="${2}"
+    if [[ "${post_anme}" == *" "* ]]; then
+        echo "New post name cannot have spaces" >&2
+        return 1
+    fi
+
+
+    cd "${code_dirpath}/personal-writing"
+    if [ -d "${post_name}" ]; then
+        echo "Directory '${post_name}' already exists" >&2
+        return 1
+    fi
+    if git rev-parse --verify "${post_name}" &> /dev/null; then
+        echo "Git branch '${post_name}' already exists" >&2
+        return 1
+    fi
+
+    cp -R TEMPLATE "${post_name}"
+    gco -b "${post_name}"
+    cd "${post_name}"
+    vim "post.md"
+}
+
