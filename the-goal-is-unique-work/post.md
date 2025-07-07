@@ -71,7 +71,7 @@ But society doesn't know how to get another you.
 
 Everyone knows how to place a block in Minecraft. But until it comes from you, nobody knows which particular blocks in which combination summon the idea in your mind.
 
-It's no accident the Substack-iverse is exploding with [posts about the importance of taste](https://substack.com/home/post/p-161399572) in the wake of the LLM revolution. "Taste" is you, personified.
+It's no accident the Substack-iverse is exploding with [posts about](https://substack.com/home/post/p-161399572) the [importance of taste](https://signull.substack.com/p/wear-the-hat) in the wake of the LLM revolution. "Taste" is you, personified.
 
 Rick Rubin isn't a musician, and that's good because society already knows how to play instruments.
 
