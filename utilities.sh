@@ -1,7 +1,7 @@
 # Opens in Vim a post inside the given blog post repo
 # Expects the first argument to be the post repo
 # You'll likely want to add an alias for this in your .bashrc
-jump_post() {
+find_post() {
     if [ -z "${#}" ]; then
         echo "Usage: jump_post /your/blog/post/repo" >&2
         return 1
