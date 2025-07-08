@@ -115,8 +115,10 @@ function new_post() {
     fi
 
     cp -R TEMPLATE "${post_name}"
-    gco -b "${post_name}"
+    git checkout -b "${post_name}"
     cd "${post_name}"
+    git add .
+    git commit -m "Initial commit for ${post_name}"
     vim "post.md"
 }
 
