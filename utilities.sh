@@ -43,8 +43,18 @@ find_post() {
         done < <(git -C "$blog_repo" show --name-only --pretty=format: "refs/heads/$branch" | grep '/post\.md$')
     done
 
-    # Launch fzf
-    selection=$(printf '%s\n' "${entries[@]}" | fzf --query="${*}") # Note that we intentionally don't use $@ so that we get a single string with space separator
+    # Sort entries by last commit date (most recent first)
+    declare -a sorted_entries
+    while IFS= read -r dir; do
+        sorted_entries+=("$dir")
+    done < <(printf '%s\n' "${entries[@]}" | while read -r dir; do
+        branch="${branch_mapping[$dir]}"
+        last_commit=$(git -C "$blog_repo" log -1 --format="%ct" "$branch" -- "$dir" 2>/dev/null || echo "0")
+        echo "$last_commit $dir"
+    done | sort -rn | cut -d' ' -f2-)
+
+    # Launch fzf with sorted entries
+    selection=$(printf '%s\n' "${sorted_entries[@]}" | fzf --query="${*}") # Note that we intentionally don't use $@ so that we get a single string with space separator
     
     [ -z "$selection" ] && return
 
