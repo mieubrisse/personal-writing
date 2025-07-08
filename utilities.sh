@@ -82,18 +82,23 @@ find_post() {
 # You'll likely want to add an alias for this in your .bashrc
 function new_post() {
     if [ "${#}" -eq 0 ]; then
-        echo "Usage: jump_post /your/blog/post/repo post-directory-name" >&2
+        echo "Usage: jump_post /your/blog/post/repo post" >&2
         return 1
     fi
 
-    blog_repo="${1}"
+    blog_repo="${1}"; shift
     if ! [ -d "${blog_repo}" ]; then
         echo "Error: given blog post repo '${blog_repo}' isn't a directory" >&2
         return 1
     fi
 
-    post_name="${2}"
-    if [[ "${post_anme}" == *" "* ]]; then
+    post_name_spaces="${*}"
+    post_name="${post_name_spaces// /-}"
+    if [ -z "${post_name}" ]; then
+        echo "Error: post name cannot be empty" >&2
+        return 1
+    fi
+    if [[ "${post_name}" == *" "* ]]; then
         echo "New post name cannot have spaces" >&2
         return 1
     fi
