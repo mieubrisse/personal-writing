@@ -1,5 +1,5 @@
-An Efficient Writing System
-===========================
+An Overpowered Writing System
+=============================
 Steal my system and feel like you're flying
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
