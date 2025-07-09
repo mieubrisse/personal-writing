@@ -114,11 +114,12 @@ function new_post() {
         return 1
     fi
 
-    cp -R TEMPLATE "${post_name}"
-    git checkout -b "${post_name}"
-    cd "${post_name}"
-    git add .
-    git commit -m "Initial commit for ${post_name}"
-    vim "post.md"
+    git checkout main || return 1
+    cp -R TEMPLATE "${post_name}" || return 1
+    git checkout -b "${post_name}" || return 1
+    cd "${post_name}" || return 1
+    git add . || return 1
+    git commit -m "Initial commit for ${post_name}" || return 1
+    vim "post.md" || return 1
 }
 
