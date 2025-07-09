@@ -91,11 +91,9 @@ TODO SUBSCRIBE BUTTON
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
-TODO
+There's only one you. Why are you wasting your time doing things anyone can do?
 
-👉 Read the full article (link in bio)
-
-#hashtag1 #hashtag2 #hashtag3
+Full article at link in bio.
 -->
 
 <!-------------------- IG STORY TEXT ------------------------->
