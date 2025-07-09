@@ -29,9 +29,7 @@ _Thank you to TODO TODO TODO for reviewing drafts of this post._
 <!--
 TODO
 
-👉 Read the full article (link in bio)
-
-#hashtag1 #hashtag2 #hashtag3
+🐒 Full article at link in bio.
 -->
 
 <!-------------------- IG STORY TEXT ------------------------->
