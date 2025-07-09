@@ -28,4 +28,4 @@ workflows:
       - validate:
           filters:
             branches:
-              ignore: master
+              ignore: main

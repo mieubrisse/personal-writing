@@ -1,5 +1,5 @@
 ---
-title: "An Efficient Technical Writing System"
+title: "An Efficient Writing System"
 subtitle: "Steal my system and feel like you're flying"
 ---
 
@@ -25,7 +25,7 @@ To support this I've developed a writing system.
 
 Steal what you like from it.
 
-> ⚠️  I heavily use the terminal and automation. If you're not comfortable with this... you need to be, because it gives you insane efficiency. 😜
+> ⚠️  I heavily use tech. If you're not comfortable with this... you need to be, because it gives you insane efficiency. 😜
 
 The repo
 --------
@@ -33,7 +33,7 @@ To write like you're painting, you need to [feel confident you can roll back err
 
 You also need to own your painting.
 
-This is a solved problem, so the source of truth for my writing is a [Git](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/) repository (not Substack).
+This is a solved problem, so my writing source-of-truth is a [Git](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/) repository on Github (I don't trust Substack to not disappear with my writing).
 
 Each post that's not yet published is on its own branch.
 

@@ -18,8 +18,6 @@ TODO Challenge/questions to the reader
 
 TODO link to previous writing
 
-_TODO SUBSCRIBE BUTTON CTA (use ChatgGPT)_
-
 TODO SUBSCRIBE BUTTON
 
 _Thank you to TODO TODO TODO for reviewing drafts of this post._
