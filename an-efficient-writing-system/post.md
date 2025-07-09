@@ -205,6 +205,10 @@ I have [Karabiner](https://karabiner-elements.pqrs.org/) rebind the `Fn` key on 
 
 I also have Raycast bind `hyper-t` to my terminal ([iTerm](https://iterm2.com/)), so I can get to it with one keypress.
 
+Often I rename the post in the course of writing, meaning the Git branch no longer matches the post name. 
+
+This is fine; I just change the `title:` in the post and `git mv` to rename the directory. My `pf` tool searches based on directory name (not Git branch name) so it doesn't matter.
+
 TODO SUBSCRIBE BUTTON
 
 Publishing
@@ -362,6 +366,8 @@ This system has me feel like I'm flying, and I can get short posts out 1-2 hours
 - CI checks run even on branches that don't yet have a PR open for them. It's not a big deal, but it pollutes my email if the CI fails so I want to modify the CI config to only run CI checks on branches being merged into `main`.
 - I have to manually edit the publishing checklist Markdown file in Vim. I want a little terminal app that lets me scroll up and down lines and tick them off with a keystroke. I've taken a stab at this previously with [montu](https://github.com/mieubrisse/montu), but it needs a rewrite.
 - I'd like to train an AI on my writing to lay down the first rough brush strokes for me to refine.
+
+Also on my TODO list is to detail for you readers how I drive my Mac (including browsing) without a mouse.
 
 Conclusion
 ----------
