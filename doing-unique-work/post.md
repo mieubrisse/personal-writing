@@ -1,6 +1,6 @@
 ---
-title: "TODO"
-subtitle: "TODO"
+title: "Death To Non-Unique Work"
+subtitle: "Tactical suggestions for maximizing unique work"
 ---
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
@@ -9,7 +9,24 @@ subtitle: "TODO"
 
 ![](./images/image.png)
 
-Write all the things here
+I asserted this week that [the goal is unique work](https://mieubrisse.substack.com/p/the-goal-is-unique-work).
+
+TODO
+
+Here's a list of tactical suggestions for doing unique work _that I already do_:
+
+- Hire someone to buy 
+- Hire someone to clean for you
+- Hire someone to cook the food you want each week 
+- TODO booking flights
+- TODO cleaning email
+- TODO categorizing book notes
+- TODO 
+- **Groceries:** Hire someone. Order online.
+- **Cleaning:** Hire someone.
+- **Cooking:** Hire someone.
+- **Video editing:** Hire someone. 
+- **Social medi**
 
 Conclusion
 ----------
