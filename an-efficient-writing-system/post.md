@@ -1,7 +1,6 @@
----
-title: "An Efficient Writing System"
-subtitle: "Steal my system and feel like you're flying"
----
+An Efficient Writing System
+===========================
+Steal my system and feel like you're flying
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
 [goal-is-unique-work]: https://mieubrisse.substack.com/p/the-goal-is-unique-work
@@ -10,6 +9,8 @@ subtitle: "Steal my system and feel like you're flying"
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
 ![](./images/image.png)
+
+_This post is part of [a series on leverage](https://mieubrisse.substack.com/p/the-leverage-series)._
 
 I write like I'm painting.
 
