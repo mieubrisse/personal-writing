@@ -23,11 +23,11 @@ But coding is a long, laborious process. It involves heaps of note-taking and pl
 
 As a professional engineer this frustrated me. So I invested in personal efficiency:
 
-- I got really good at Vim
+- I got really good at text-editing (Vim)
 - I invested in Vimium and custom search engines in Chrome, Raycast and Karabiner and keyboard shortcuts, all so I could drive my Mac without a mouse
-- I built [cmdk](https://github.com/mieubrisse/cmdk) for the terminal to replicate the "open anything, anywhere" ⌘-K shortcut of Slack, Notion, etc.
+- I built a terminal replica of the "open anything, anywhere" ⌘-K shortcut of Slack, Notion, and Discord ([cmdk](https://github.com/mieubrisse/cmdk))
 - I built [a terminal-based Markdown notetaking app](https://github.com/mieubrisse/cli-journal) so I could write and retrieve at the speed of thought
-- I created a ton of really cool conveniences in [my Bash dotfiles](https://github.com/mieubrisse/dotfiles/blob/master/bash/bash_aliases)
+- I heavily customized my terminal experience ([my Bash dotfiles](https://github.com/mieubrisse/dotfiles/blob/master/bash/bash_aliases))
 
 For a while this was the best I could do. But then LLMs arrived.
 
@@ -35,7 +35,9 @@ Now I don't have to Google or code or debug myself. I can [speak to the machine]
 
 I **love** this. It's why I wrote [Let Programming Burn](https://mieubrisse.substack.com/p/let-programming-burn).
 
-It was never about pushing characters into an editor; it was about thought leaping from mind into reality.
+It was never about pushing characters into an editor.
+
+It was about thought leaping from mind into reality.
 
 Yesterday's [post about categorizing book notes with AI was a step in that direction](https://mieubrisse.substack.com/p/categorizing-book-notes-with-ai).
 
@@ -61,7 +63,9 @@ Sandbox games like Minecraft have thought hard about this problem, and we [see i
 
 But what exactly is "it"? What's the essence of the thing?
 
-I think "it" is removing all non-unique work.
+"It" is removing all non-unique work.
+
+“It” is cutting out everything that’s not you.
 
 Naval Ravikant says that money is earned by providing society with something it doesn't already know how to get.
 
@@ -71,13 +75,15 @@ But society doesn't know how to get another you.
 
 Everyone knows how to place a block in Minecraft. But until it comes from you, nobody knows which particular blocks in which combination summon the idea in your mind.
 
-It's no accident the Substack-iverse is exploding with [posts about](https://substack.com/home/post/p-161399572) the [importance of taste](https://signull.substack.com/p/wear-the-hat) in the wake of the LLM revolution. "Taste" is you, personified.
+It's no accident the Substack-iverse is exploding with [posts about](https://substack.com/home/post/p-161399572) the [importance of taste](https://signull.substack.com/p/wear-the-hat) in the wake of the LLM revolution.
+
+"Taste" is you, personified.
 
 Rick Rubin isn't a musician, and that's good because society already knows how to play instruments.
 
-Steve Jobs wasn't a coder, and that was great because he got to focus on expressing the unique essence of Jobs.
+Steve Jobs wasn't a coder, and that's great because he got to focus on expressing the unique essence of Jobs.
 
-So why are spending all our time doing things society already knows how to do?
+So why are we spending all our time doing things society already knows how to do?
 
 Why are we still placing blocks?
 
@@ -85,11 +91,9 @@ TODO SUBSCRIBE BUTTON
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
-TODO
+There's only one you. Why are you wasting your time doing things anyone can do?
 
-👉 Read the full article (link in bio)
-
-#hashtag1 #hashtag2 #hashtag3
+Full article at link in bio.
 -->
 
 <!-------------------- IG STORY TEXT ------------------------->

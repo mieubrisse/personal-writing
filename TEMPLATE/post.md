@@ -1,7 +1,6 @@
----
-title: "TODO"
-subtitle: "TODO"
----
+TODO TITLE TEXT
+===============
+TODO SUBTITLE TEXT
 
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
 [TODO]: some-link
@@ -19,8 +18,6 @@ TODO Challenge/questions to the reader
 
 TODO link to previous writing
 
-_TODO SUBSCRIBE BUTTON CTA (use ChatgGPT)_
-
 TODO SUBSCRIBE BUTTON
 
 _Thank you to TODO TODO TODO for reviewing drafts of this post._
@@ -29,9 +26,7 @@ _Thank you to TODO TODO TODO for reviewing drafts of this post._
 <!--
 TODO
 
-👉 Read the full article (link in bio)
-
-#hashtag1 #hashtag2 #hashtag3
+🐒 Full article at link in bio.
 -->
 
 <!-------------------- IG STORY TEXT ------------------------->
