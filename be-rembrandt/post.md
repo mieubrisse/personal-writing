@@ -37,11 +37,13 @@ Want to build an app? Talk to the LLM and it'll place the rough symbols for you,
 
 Want to write a post? Dictate to the machine and polish to your taste.
 
-_Want to build a studio for turning your ideas into output?_ The internet is overflowing with people sharing ideas on how to do the same.
+_Want to build a studio for turning your ideas into output?_ The internet is overflowing with people sharing knowledge on how to do the same.
 
-The metaskill here - the skill of the 21st century - is description.
+The metaskills here - the skills of the 21st century - are delegation and description.
 
-If you can form your ideas into words, you can transform them into reality.
+If you can form what you want into words others can consume, your thoughts get summoned into reality while you sleep.
+
+Master this, and the world shapes itself to reflect your will.
 
 Every CEO knows this. Rembrandt knew it.
 
