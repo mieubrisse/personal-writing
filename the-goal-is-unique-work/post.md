@@ -9,6 +9,8 @@ subtitle: "Giving society what it can't already get: more of you"
 
 ![](./images/image.png)
 
+_This post is part of [a series on leverage](https://mieubrisse.substack.com/p/the-leverage-series)_
+
 I've been contemplating:
 
 _Why_ is technology so fascinating?
