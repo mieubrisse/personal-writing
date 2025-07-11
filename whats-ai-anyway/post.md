@@ -8,4 +8,6 @@ An index for my posts explaining the AI fuss in plain English for non-technical 
 
 ![](./images/image.png)
 
+Posts:
+
 - [Part 1](https://mieubrisse.substack.com/p/whats-ai-anyway-part-1) 
