@@ -4,9 +4,8 @@
 
 What's 'AI' Anyways?
 ====================
+An index for my posts explaining the AI fuss in plain English for non-technical folks
 
 ![](./images/image.png)
-
-This series is for the normal person, explaining in plain English what all the AI fuss is about.
 
 - [Part 1](https://mieubrisse.substack.com/p/whats-ai-anyway-part-1) 
