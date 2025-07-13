@@ -82,14 +82,11 @@ The act of building the statistics database by crunching documents is called "tr
 
 To be continued...
 ------------------
-Today we ran through a quick history of how computers came about, brought up the idea of talking to computers, and covered how differently humans and computers communicate.
+Today we discussed the first attempts to talk to computers, and Google Translate's innovative statistical language approach.
 
-Tomorrow we'll cover the first attempts to talk to computers; stay tuned.
+Tomorrow we'll talk about the shortcomings of this approach, and a breakthrough. Stay tuned!
 
 TODO SUBSCRIBE
-
-
-
 
 
 
