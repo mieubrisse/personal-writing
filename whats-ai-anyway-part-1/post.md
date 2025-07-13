@@ -115,6 +115,8 @@ Tomorrow we'll cover the first attempts to talk to computers; stay tuned.
 
 TODO SUBSCRIBE
 
+EDIT: [Part 2 is up here](https://mieubrisse.substack.com/p/whats-ai-anyway-part-2)
+
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
 TODO

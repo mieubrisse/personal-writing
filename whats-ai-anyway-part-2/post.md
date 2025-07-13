@@ -2,8 +2,8 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-"What's 'AI' Anyway? (Part 2)?"
-===============================
+What's 'AI' Anyway? (Part 2)
+============================
 Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
