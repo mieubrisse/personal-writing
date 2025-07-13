@@ -8,9 +8,9 @@ Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 
-_This post 
+[Yesterday](https://mieubrisse.substack.com/p/whats-ai-anyway-part-1) we talked about the birth of computers, and the start of humanity's quest to talk to them.
 
-Yester
+Today we continue the AI journey with why talking to computers is hard, and our first steps at doing so.
 
 (Not) passing the Turing test
 -----------------------------
@@ -26,11 +26,11 @@ But unless the human is a demented farmer, the human is going to choose "I'm tal
 
 And so began decades of research into language, to see if we could encode the precise concepts of language into a computer program that could fool the human.
 
-If you ever used any "AI" in the 90s, 2000s, or 2010s, you know how well that went. It _kinda_ worked, but was pretty crappy. 
+If you ever used "AI" in the 90s, 2000s, or 2010s, you know how well that went. It _kinda_ worked, but was pretty crappy. 
 
 Artificial intelligence was a bit of meme: it was _definitely_ artificial, but intelligent it was not.
 
-And it makes sense why. Language is vast enough to represent the infinity of reality, including reality that doesn't exist.
+And it makes sense. Language is vast enough to represent the infinity of reality, including reality that doesn't exist.
 
 Just imagine trying to write a program that can handle _whatever_ made-up bullshit I throw at it.
 
@@ -42,19 +42,19 @@ But throw that at a pre-2020 computer program and watch it quail in terror.
 
 Language is a hard problem, man.
 
-Google Translate
-----------------
+A wild idea appears
+-------------------
 But something was bubbling in the background.
 
 In 2006 a little company called Google launched a little program called Google Translate, with the goal of translating anything in any language into any other language.
 
-The infinity of language (including the fact that I can just make up whatever bullshit I want) meant it was impossible for Google Translate to use rules to anticipate any sentence that users would ever throw at it.
+The infinity of language (including the fact that I can make up whatever bullshit I want) meant it was impossible for Google Translate to use rules to anticipate any text that users would ever throw at it.
 
 So the Google Translate team took a different approach. Rather than trying to create precise rules for translating input text to output, Google Translate used statistics.
 
 The theory went like this: while I'm in the middle of a sentence, there are some words that are more likely than others to come next. 
 
-If I start a sentence with "I need to go to the...", then the next word is very likely to be "bathroom" and very unlikely to be "toothpaste".
+If I start a sentence with "I need to go to the...", the next word is very likely to be "bathroom" and very unlikely to be "toothpaste".
 
 The Google Translate team then:
 
@@ -62,7 +62,7 @@ The Google Translate team then:
 1. Fed them into a computer
 1. Had the computer build a statistics database of the likelihood of any word to come next based on the words it had already seen
 
-When doing translation, the Google Translate program would use the user's input text, the statistics database, and whatever translation the program had already produced in a loop: making guess after guess at what the next word is until the program had determined that the likely next "word" was "No word at all; end translation".
+When doing translation, the Google Translate program would do a loop: it would use the user's input text, the statistics database, and whatever translation the program had already to make guess after guess at what the next word is. It continued until the program determined that the likely next "word" was "No word at all; end translation".
 
 For example, let's say I want to translate "I want an apple" into Portuguese.
 
@@ -79,6 +79,12 @@ This loops, over and over, until the translation of "Eu quero uma maçã" is com
 This thing - a program that takes input text and predicts the next word using a statistics database - is called a "language model".
 
 The act of building the statistics database by crunching documents is called "training the model".
+
+To be continued...
+------------------
+Today we ran through a quick history of how computers came about, brought up the idea of talking to computers, and covered how differently humans and computers communicate.
+
+Tomorrow we'll cover the first attempts to talk to computers; stay tuned.
 
 TODO SUBSCRIBE
 
