@@ -1,10 +1,10 @@
----title: "What's 'AI' Anyway? (Part 1)?"
-subtitle: "Explaining in plain English what all the AI hubbub is about"
----
-
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
+
+"What's 'AI' Anyway? (Part 1)"
+==============================
+Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 

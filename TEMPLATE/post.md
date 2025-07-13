@@ -1,10 +1,10 @@
-TODO TITLE TEXT
-===============
-TODO SUBTITLE TEXT
-
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
+
+TODO TITLE TEXT
+===============
+TODO SUBTITLE TEXT
 
 ![](./images/image.png)
 
