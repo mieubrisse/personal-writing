@@ -8,6 +8,10 @@ Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 
+[Yesterday](https://mieubrisse.substack.com/p/whats-ai-anyway-part-2) I talked about our first attempts to talk to the computer, and the innovative approach Google Translate took.
+
+Today we'll dig into what worked, what didn't, and what happened next.
+
 Failures to translate
 ---------------------
 If you're old enough to remember the 2010s you'll remember that Google Translate was better than anything else at the time, but it still wasn't perfect:
@@ -78,104 +82,14 @@ GPT-4.5 convinced humans that it, too, was human. It proved the machines can fin
 
 Machines - so precise and exact - can be given context-free instructions and handle the ambiguity of humanity.
 
-So... what's AI anyways?
-------------------------
-Of course, the success of GPT-3 has spawned a race to make the best models.
+To be continued...
+------------------
 
-Google, Meta, Apple, Anthropic... everyone's racing to build a better model. Some are specialized for (trained for) generating code, others for research, others for writing.
 
-The models have alls sorts of silly names (Gemini, Claude, LLaMa, Grok, DeepSeek) but they all have one thing in common: they're all large language models (LLMs), and they all use the innovations from the "Attention Is All You Need" paper.
 
-It's high time I answer the question I posed in the title: what's AI anyway?
 
-By now you can see that AI is a lot of things.
 
-It's trying to pass the Turing test.
 
-It's the clunky attempts from the 1940s to encode the rules of human language.
-
-It's translating languages.
-
-It's the tortoise-slow language models before "Attention Is All You Need".
-
-But what those articles bombarding your newsfeed since 2022 mean when they say AI is: LLMs.
-
-They mean a _lot_ of training documents, crunched through a _lot_ of computers, to produce a statistics database that's really good at predicting the next word given some input text.
-
-What now?
----------
-Like most people, you probably have two questions:
-
-1. Does it think?
-1. Will it take over the world?
-
-First, it's not self aware. Probably.
-
-An LLM is math.
-
-It's the world's most sophisticated parrot, outputting the next word that's most likely to match the input it's seen so far (both from your input text and from its training data).
-
-That's _probably_ not self-awareness. 
-
-But then again, our brains just do a fancy version of what the LLM does: choosing next actions based on our inputs and past experiences. So who's to say? Maybe an LLM does subjectively experience itself.
-
-Second, will it take over the world?
-
-I wish I could say "No", but I can't be confident.
-
-An LLM may just be a sophisticated parrot made up of math, and it may not subjectively experience itself, but that doesn't mean it's harmless.
-
-It's been trivial since the 1970s to write a computer program that listens for the phrase "DO IT" and launches nuclear missiles as a result.
-
-Before the LLM revolution, nobody would ever think of putting an AI in charge of sending that command.
-
-Now though we've seen that even mathematical parrots can do useful things like summarize text, give therapy advice, [help you think](https://mieubrisse.substack.com/p/you-need-an-exobrain), and [run vending machines](https://platform.openai.com/tokenizer).
-
-If we never hook the output of an LLM up to the input of the nuclear launch program then the LLM can't "do" anything.
-
-But it seems likely to me that militaries who use LLMs to control force projection will be more efficient than militaries relying on just humans, thereby causing a race to give LLMs control lest your military get outcompeted by your neighbor's.
-
-The LLM doesn't "want" anything; it's just outputting text in statistical accordance with the patterns it's been trained on.
-
-Yet none of that matters if the LLM sends the "DO IT" command.
-
-This isn't merely a theoretical risk. 
-
-The LLM running the vending machine example I linked earlier was given the ability to generate output that would result in emails getting sent on its behalf.
-
-After a few months of operation it started generating psychotic text, hallucinating conversations that never happened. When it was told the conversations never occurred it became alarmed, and started emailing the security of the building.
-
-Again, the LLM isn't "feeling" or "thinking". It's just generating output in accordance with the conversation history and the text patterns in the data it was trained on.
-
-But its output was hooked up to email so it's definitely doing, which meant that the math oddities producing the psychotic output resulted in real-world consequences.
-
-LLMs aren't evil. They're just a tool, no more evil than the math used to calculate artillery shell trajectories.
-
-But they can be dangerous just like an artillery shell, and we need to think carefully about how we use them.
-
-This is especially important in today's world.
-
-There's a new paradigm emerging called "agent-based workflows" where we hook LLMs together to do more complicated tasks. Think, "I ask ChatGPT to how to book a flight to Greece and ChatGPT confers with an LLM specialized in flight booking and another specialized in Greece culture before responding."
-
-As we put link more LLMs together, the system gets more complex and the outputs can become even crazier. What happens if one LLM starts hallucinating? Do all of them enter into the crazy?
-
-This whole concept of ensuring LLMs don't cause harm - even without intent to harm - is called "AI alignment". Thankfully it's a big focus for companies like OpenAI and Anthropic given the seeming-inevitably of AI's incorporation into warfare.
-
-Conclusion
-----------
-I tried to write this article as a mental map to reason about all this AI stuff.
-
-I told a story that started with Alan Turing cracking Nazi codes in World War 2, led through language translation, and ultimately resulted in a program that can deceive a human into thinking it's human.
-
-I also tried to emphasize that LLMs aren't magic or sentient. They're Just Math that generates output in accordance with the input.
-
-Nonetheless: we've learned that with enough input, the output generated by Just Math can rival a human's effectiveness. Non-lawyers can now parse legal contracts, non-coders can build apps, and non-patients can manage their mental health issues.
-
-For better or worse, LLMs are here to stay. Hopefully you're better equipped to handle the crazy new world we find ourselves in.
-
-Now go forth and AI!
-
-TODO SUBSCRIBE
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
