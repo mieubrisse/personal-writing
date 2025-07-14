@@ -1,10 +1,10 @@
----title: "What's 'AI' Anyway? (Part 1)?"
-subtitle: "Explaining in plain English what all the AI hubbub is about"
----
-
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
+
+"What's 'AI' Anyway? (Part 1)"
+==============================
+Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 
@@ -112,6 +112,8 @@ To be continued...
 Today we ran through a quick history of how computers came about, brought up the idea of talking to computers, and covered how differently humans and computers communicate.
 
 Tomorrow we'll cover the first attempts to talk to computers; stay tuned.
+
+EDIT: [Part 2 is up here](https://mieubrisse.substack.com/p/whats-ai-anyway-part-2)
 
 TODO SUBSCRIBE
 
