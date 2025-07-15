@@ -2,7 +2,7 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-"What's 'AI' Anyway? (Part 3)?"
+What's 'AI' Anyway? (Part 3)?
 ===============================
 Explaining in plain English what all the AI hubbub is about
 
