@@ -84,7 +84,7 @@ And you've already heard about what came next: GPT-3, trained on 570 GB of text,
 
 It was released in chatbot form as ChatGPT in 2022, and took the world by storm by how shockingly good it results were.
 
-Turns out, language models had just needed more training data.
+Turns out, language models just needed more training data.
 
 GPT-4 and GPT-4.5 soon followed, and for the first time ever... [a machine beat the Turing test](https://arxiv.org/abs/2503.23674).
 
@@ -94,7 +94,7 @@ It proved the machines can finally talk back.
 
 To be continued...
 ------------------
-Today we covered the landmark "Attention Is All You Need" paper and showed how it paved the way for large language models like GPT-3 to finally pass the Turing test.
+Today we covered the landmark "Attention Is All You Need" paper, how it paved the way for large language models like GPT-4.5 to finally pass the Turing test.
 
 Tomorrow we'll dive deeper into LLMs, and answer the question I posed in the title: what's AI anyway?
 
