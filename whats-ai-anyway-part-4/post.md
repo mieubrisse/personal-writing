@@ -1,12 +1,18 @@
-TODO TITLE TEXT
-===============
-TODO SUBTITLE TEXT
-
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
+What's 'AI' Anyway? (Part 4)
+===========================
+Explaining in plain English what all the AI hubbub is about
+
 ![](./images/image.png)
+
+LLMs
+----
+TODO something about what's actually happening when you use chatbots
+
+TODO maybe something about how LLMs aren't just for generating text??
 
 So... what's AI anyways?
 ------------------------
