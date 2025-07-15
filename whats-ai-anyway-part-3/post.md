@@ -54,8 +54,8 @@ Meaning, we could train on bigger sets of documents not by waiting longer, but b
 
 TODO SUBSCRIBE BUTTON
 
-OpenAI
-------
+Go big or go home
+-----------------
 A certain company called OpenAI was watching these developments closely. 
 
 If the "Attention Is All You Need" approach allowed bigger training datasets simply with more computers, why not get a bunch of training data, buy a bunch of computers, and see what happens?
