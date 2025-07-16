@@ -2,13 +2,13 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-A Factory Tour
-==============
-A brief tour of my personal automation factory, in case you want to build your own
+Building The Factory
+====================
+The start of my personal automation factory, in case you want to build your own
 
 ![](./images/image.png)
 
-Today I was showing a friend my workflow engine that I use to automate my personal life.
+Today I was showing a friend my workflow engine that I'm using to automate my personal life.
 
 He insisted I need to write it up as a post, so here it is.
 
@@ -38,11 +38,11 @@ Workflow engines are the platforms that orchestrate workflows.
 
 Tools like Zapier and IFTTT are well-known in the space.
 
-Yet, I always felt a bit hesitant to use these tools. Nothing concrete; just like I didn't trust their cloud to work and stay around.
+Yet, I always felt hesitant to use these tools. Nothing concrete; just like I didn't trust their cloud to work and stay around.
 
-[n8n](https://n8n.io/) started showing up in my news feeds recently. It was open-source, so I gave it a try.
+[n8n](https://n8n.io/) recently started showing up in my newsfeeds. It was open-source, so I gave it a try.
 
-Turns out it's a lovely little product. Very intuitive and user-friendly.
+Turns out it's a lovely product. Very intuitive and user-friendly.
 
 So n8n is what I use for my workflow engine.
 
