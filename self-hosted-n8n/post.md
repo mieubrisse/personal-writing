@@ -2,9 +2,9 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-My Personal Automation Factory
-==============================
-A quick rundown of my personal automation setup should you want to build your own
+A Factory Tour
+==============
+A brief tour of my personal automation factory, in case you want to build your own
 
 ![](./images/image.png)
 
@@ -12,19 +12,21 @@ Today I was showing a friend my workflow engine that I use to automate my person
 
 He insisted I need to write it up as a post, so here it is.
 
-> ⚠️  I'm going to assume you're moderately technical, given the subject matter.
+> ⚠️  I'm going to assume you're moderately technical. If you're not, you might still find this interesting - you'll just need to do more Googling.
 
 ### Workflow Engine
 What even _is_ a workflow engine?
 
-I recently wrote a post about how [we should aim to spend our time on things only we can do](https://mieubrisse.substack.com/p/the-goal-is-unique-work).
+I recently wrote a post about how [we should spend our time on things only we can do](https://mieubrisse.substack.com/p/the-goal-is-unique-work).
 
-As I reflected on my life, I'm doing a _ton_ that's not unique to me and should be done by automation. For example:
+Reflecting on my life, I'm doing a _ton_ that's not unique to me and should be done by automation. For example:
 
 - Cleaning through junk emails
-- Drafting certain emails that require no brainpower ("Sounds great!")
 - Transferring notes about people to my personal CRM in Notion
 - Categorizing my book notes into the appropriate page in my book notes Notion database
+- Finding & booking flights
+- Checking in for flights
+- The parts after writing a post to publish it on Substack
 
 I also want to to pull and aggregate data on myself (sleep, screentime, outdoors time) to debug some health problems I'm having.
 
@@ -32,24 +34,24 @@ I also want to to pull and aggregate data on myself (sleep, screentime, outdoors
 
 All these require running "workflows": chunks of automation done upon certain triggers.
 
-Workflow engines are the platforms that orchestrate the workflows.
+Workflow engines are the platforms that orchestrate workflows.
 
 Tools like Zapier and IFTTT are well-known in the space.
 
-Yet, something always felt a bit weird to me about these tools (no good reason).
+Yet, I always felt a bit hesitant to use these tools. Nothing concrete; just like I didn't trust their cloud to work and stay around.
 
-[n8n](https://n8n.io/) started showing up in my news feeds recently and it was open-source, so I gave it a try.
+[n8n](https://n8n.io/) started showing up in my news feeds recently. It was open-source, so I gave it a try.
 
-Turns out, it's a great little product: very intuitive and user-friendly.
+Turns out it's a lovely little product. Very intuitive and user-friendly.
 
 So n8n is what I use for my workflow engine.
 
 ### Hosting
 n8n has [their own cloud-hosted plan](https://n8n.io/pricing/), at $25/month.
 
-I found that price high when getting started because I didn't know if I'd like n8n and I wouldn't even own my data.
+I found that price high when getting started because I didn't know if I'd like n8n, and I wouldn't even own my data.
 
-I instead opted for [Railway](railway site).
+I instead opted for [Railway](https://railway.com/).
 
 I chose it because I'd played with and liked Railway in the past, there's [an n8n template available](https://railway.com/deploy/n8n), and I'd own my data.
 
@@ -63,18 +65,20 @@ It turns out that I'm using above the $5 (I'm projected to use $10 this month), 
 
 I'm fine with this though: it's much cheaper than n8n's $25, I've been using a lot of compute as I develop on my workflows, and the cost should go down when my workflows stabilize.
 
-> If this post inspires you to try Railway, I'd be thankful if you use my Railway referral code (`kevinjtoday`) or [referral link](https://railway.com?referralCode=kevinjtoday) because then Railway makes my server costs cheaper. I have no affiliation with Railway; just a happy user.
+> 💡 If this post inspires you to try Railway, I'd be thankful if you use my Railway referral code (`kevinjtoday`) or [referral link](https://railway.com?referralCode=kevinjtoday) because it makes my Railway server costs cheaper. I have no affiliation with Railway; just a happy user.
 
 ### App
 You access n8n through the URL that Railway makes publicly available.
 
-The first time I opened it I generated an admin username and password, stored them in [1Password](1password), and was off to the races.
+The first time I opened it I was prompted to generate an admin username and password, which I stored [1Password](1password).
 
-But I knew I'd be doing a lot of n8n work, and didn't want to keep re-finding the n8n tab in Chrome.
+I knew I'd be doing a lot of n8n work, and didn't want to keep re-finding the n8n tab in Chrome.
 
-So I used Chrome's coolest, least-known feature and installed the n8n page as a Mac app by doing `…` → `Cast, Save, and Share` → `Install page as app`.
+So I used the coolest Chrome feature nobody knows about and installed the n8n page as a Mac app (`…` → `Cast, Save, and Share` → `Install page as app`).
 
-Now I have n8n on my Dock like any other app, and don't have to dig through Chrome tabs.
+Now I have n8n on my Dock like any other app, and don't have to dig through Chrome tabs:
+
+![](./images/n8n-as-app.png)
 
 ### Creating Workflows
 Creating a workflow in n8n is pretty self-explanatory.
@@ -130,7 +134,7 @@ Here are the workflows I currently have in my n8n:
 - **🖥️ Capture Mac Screentime Data:** receives screentime data pushed from my Mac and stores it in the quantified life Postgres. This workflow is neat because it's push-based: n8n lets me define a webhook, and a script on my Mac pushes screentime data to it. <!-- TODO link to the repo with my script push data -->
 - **🌱 Check Data Freshness:** verifies the quantified life Postgres tables have recent data to ensure the data pipelines are flowing.
 
-Here's a neat thing: workflows can call other workflows. For those familiar with programming, workflows are basically functions.
+A neat thing: workflows can call other workflows. Workflows are basically programming functions.
 
 So I also have two more "helper" workflows:
 
@@ -139,7 +143,7 @@ So I also have two more "helper" workflows:
 
 Annoyingly, n8n doesn't force each workflow to have an error workflow. 
 
-So there's the possibility for a workflow to silently fail because I forgot to set an error workflow for it.
+So there's the possibility for a workflow to fail silently because I forgot to set an error workflow for it.
 
 This seems bad to me, so I created another workflow that helps keep my own n8n in order: **💂 Find Active Workflows Without Error Workflow**.
 
@@ -183,20 +187,32 @@ Railway allows environment variable "references".
 
 Meaning, the value of an environment variable on one service can be filled from the value of the environment variable on another service.
 
-So I have a `QUANTIFIED_LIFE_POSTGRES_URL` environment variable that consumes the value of the 
+So I have a `QUANTIFIED_LIFE_POSTGRES_URL` environment variable on my n8n server that consumes the value of my quantified life Postgres' domain name.
 
-> 💡 Just remember that both the main n8n instance and the n8n worker node need the environment variable. 
+> ⚠️  Railway has a weird quirk (bug?) where the Postgres server's `RAILWAY_PRIVATE_DOMAIN` variable couldn't be consumed directly by n8n. I had to create a new `DATABASE_URL` variable on the Postgres server that references its own `RAILWAY_PRIVATE_DOMAIN`, and then consume the Postgres' `DATABASE_URL` on the n8n server.
 
-> 
+> ⚠️  If you do this yourself, remember that both the main n8n instance and the n8n worker node need the environment variable. 
 
 ### Conclusion
 And there you have it: my personal automation factory.
 
 I've been very happy with the Railway + n8n combo, and plan to continue building it out. It feels like Minecraft, only with results in the real world.
 
-_As always, if these articles make your life better then please consider subscribing or sharing with friends who'd get value from them!_
+Here's how I'm planning to continue expanding my factory:
+
+- More quantified life data pipelines (Android screentime, light levels, heartbeat)
+- Consuming dumps of my [Fitnotes](https://www.fitnotesapp.com/) backups in Google Drive to store them in the quantified life Postgres
+- Slotting notes taken in Todoist about people into my personal CRM in Notion
+- A pipeline that Google Flights and AI to find flights for me using my preferences
+
+As always, if these articles make your life better then please consider subscribing or sharing with friends who'd get value from them!
 
 TODO SUBSCRIBE BUTTON
+
+And if you liked this post, you might be interested in these ones:
+
+- [Categorizing Book Notes With AI](https://mieubrisse.substack.com/p/categorizing-book-notes-with-ai)
+- [Leveraged Judgment](https://mieubrisse.substack.com/p/leveraged-judgment)
 
 ### Appendix: Sane Workflow Tips
 **Make your workflows idempotent if at all possible**
