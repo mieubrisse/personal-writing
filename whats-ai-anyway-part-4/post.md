@@ -26,13 +26,15 @@ For example, here's Claude Haiku 3's system prompt:
 
 > The assistant is Claude, created by Anthropic. The current date is {{currentDateTime}}. Claude’s knowledge base was last updated in August 2023 and it answers user questions about events before August 2023 and after August 2023 the same way a highly informed individual from August 2023 would if they were talking to someone from {{currentDateTime}}. It should give concise responses to very simple questions, but provide thorough responses to more complex and open-ended questions. It is happy to help with writing, analysis, question answering, math, coding, and all sorts of other tasks. It uses markdown for coding. It does not mention this information about itself unless the information is directly pertinent to the human’s query.
 
+Each AI provider - Google, OpenAI, Anthropic, whatever - include their own flavor of system prompt.
+
 You as the user also send your text. Maybe something like:
 
 > Hey Claude, tell me who invented the portable toilet.
 
 This is known as the **user prompt**.
 
-These get combined to make a "story" for the LLM to operate from. In this example:
+The system prompt and user prompt get combined to make a "story" for the LLM to operate from. In this example, it would be:
 
 ```
 The assistant is Claude, created by Anthropic. The current date... blah blah blah ... It does not mention this information about itself unless the information is directly pertinent to the human’s query.
@@ -51,11 +53,11 @@ The amount of story that the LLM can take in to generate the next word is called
 
 > 💭 Again, we're providing "context" to the LLM because human languages are contextual.
 
-If you used GPT-3, remember how after a while it'd forget what you said a while ago?
+If you used GPT-3, remember how it would forget things you'd said a while ago?
 
-That's because GPT-3's context window - only around 1,500 words - couldn't fit the older parts of your conversation.
+That's because GPT-3's context window - only around 1,500 words - couldn't fit long conversations.
 
-Modern LLMs have much bigger context windows - around 150,000 words - so this is less of a problem, but it still exists.
+Modern LLMs have much bigger context windows - around 150,000 words (around 300 pages) - so this is less of a problem, but you'll still hit it throwing enormous documents at the AI.
 
 > 💭 You know how ChatGPT has memories, and can reference stuff you said in other conversations? I don't exactly know how this works, but I think it just stuffs your memories and summaries of your other conversations into the "story" of your current conversation before it does next-word prediction.
 
@@ -65,7 +67,7 @@ TODO SUBSCRIBE BUTTON
 
 I lied to you
 -------------
-But it was a white lie! You weren't yet prepared to handle the truth.
+But it was for a reason! You weren't yet prepared to handle the truth.
 
 Now that you're an Ultra AI Understandor, you're ready: large language models don't actually take in or predict words.
 
@@ -73,13 +75,13 @@ If they did, they wouldn't be able to read or output non-word stuff like `"` or 
 
 Instead, they take in and predict things called **tokens**.
 
-A token is a little chunk of text. It might be a full word, it might be a part of a word, it might be a symbol.
+A token is a little chunk of text. It might be a full word, it might be part of a word, it might be a symbol.
 
 For example, our phrase:
 
 > Hey Claude, tell me who invented the portable toilet.
 
-gets broken into these tokens by [the OpenAI tokenizer](https://platform.openai.com/tokenizer):
+gets broken into 11 tokens by [the OpenAI tokenizer](https://platform.openai.com/tokenizer):
 
 `Hey`
 ` Claude`
@@ -97,9 +99,9 @@ Generally there are about 33% more tokens than words (or equivalently, 0.75 word
 
 I said that the large language model is just a statistics database, using a bunch of math to do prediction.
 
-But `Claude` and `invented` are text.
+But we passed in text. How does that work?
 
-So the LLM turns the tokens into a bunch of numbers, and does all the math on the sequence of tokens-turned-into-numbers.
+The LLM turns the tokens into a bunch of numbers, and does all the math on the sequence of tokens-turned-into-numbers.
 
 Its output is likewise a bunch numbers, which get turned back into text tokens.
 
@@ -107,15 +109,17 @@ But here's where it gets crazy:
 
 LLMs take in text tokens and spit out text tokens because they're large **language** models.
 
-But if each text token gets turned into a number anyways, who says we have to stick with text?
+But if each text token gets turned into a number anyways... who says we have to stick with text?
 
 This is exactly how all those AI-generated photos and videos came to be.
 
 ![](./images/funny-porta-potty.png)
 
+_I didn’t plan for this post’s meme to be portable toilets… but sometimes you just gotta roll with what the universe gives you._
+
 OpenAI's DALL-E is a large model, meaning it uses the same "Attention Is All You Need" innovation and was trained with a fuckton of computers. 
 
-But it's not a language model because it doesn't produce text tokens.
+But it's not a _language_ model because it doesn't produce text tokens.
 
 Instead, DALL-E takes in text tokens... and produces image tokens. It's a large text-to-image model.
 
@@ -163,9 +167,7 @@ TODO SUBSCRIBE BUTTON
 
 Conclusion
 ----------
-This is the end of the series.
-
-Hopefully you're walking away with a better understanding of what all this AI fuss is.
+This is the end of the series. Hopefully you're walking away with a better understanding of what all this AI fuss is.
 
 But wait!
 
