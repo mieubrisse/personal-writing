@@ -96,7 +96,7 @@ To be continued...
 ------------------
 Today we covered the landmark "Attention Is All You Need" paper, how it paved the way for large language models like GPT-4.5 to finally pass the Turing test.
 
-Tomorrow we'll dive deeper into LLMs, and answer the question I posed in the title: what's AI anyway?
+Tomorrow we'll dive deeper into LLMs, uncover a lie, and answer the question I posed in the title: what's AI anyway?
 
 See you tomorrow.
 
