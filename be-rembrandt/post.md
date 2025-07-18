@@ -1,5 +1,5 @@
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
-[TODO]: some-link
+[goal-is-unique-work]: https://mieubrisse.substack.com/p/the-goal-is-unique-work
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
 Be Rembrandt
@@ -27,7 +27,7 @@ Want to paint an orange? Laying down the base circle doesn't need him.
 
 Rembrandt let his pupils handle the fundamentals so that he could devote his hours to the _je ne sais quoi_ - the little details that added all the value.
 
-In [The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work) I asserted that time spent doing stuff society already knows how to do is time wasted.
+In [The Goal Is Unique Work][goal-is-unique-work] I asserted that time spent doing stuff society already knows how to do is time wasted.
 
 We want to be Rembrandt, delegating the stuff that anyone can do, so we can focus on expressing the unique essence of us.
 
@@ -50,6 +50,14 @@ Every CEO knows this. Rembrandt knew it.
 Be Rembrandt.
 
 TODO SUBSCRIBE BUTTON
+
+-------------------------
+
+If you liked this post, you might like some of my other posts:
+
+- [The Goal Is Unique Work][goal-is-unique-work]
+- [Leveraged Judgment](https://mieubrisse.substack.com/p/leveraged-judgment)
+- [You Need An Exobrain](https://mieubrisse.substack.com/p/you-need-an-exobrain)
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
