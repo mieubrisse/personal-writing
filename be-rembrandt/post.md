@@ -4,6 +4,7 @@
 
 Be Rembrandt
 ============
+Lessons from a master of his craft
 
 ![](./images/image.png)
 
@@ -25,7 +26,7 @@ Need a black background? Any apprentice can cover the canvas.
 
 Want to paint an orange? Laying down the base circle doesn't need him.
 
-Rembrandt let his pupils handle the fundamentals so that he could devote his hours to the _je ne sais quoi_ - the little details only he could do that added all the value.
+Rembrandt let his pupils handle the fundamentals so that he could devote his hours to the _je ne sais quoi_ - the little details only he could do that made all the difference.
 
 In [The Goal Is Unique Work][goal-is-unique-work] I asserted that we're wasting time doing things society already knows how to do.
 
