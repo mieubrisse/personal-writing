@@ -15,7 +15,7 @@ Rembrandt was a prolific painter, with hundreds of works to his name.
 
 Only, he didn't paint them all.
 
-The Rembrandt Research Project was launched in 1968 to discover which paintings were actually done by the great man. It ended up chopping in half the list of works that Rembrandt himself painted.
+The Rembrandt Research Project was launched in 1968 to discover which paintings were actually done by the great man. The result: the number of works Rembrandt himself painted? Chopped in half.
 
 See, Rembrandt ran a studio where he trained apprentices in his painting technique. He had so many that his pupil list has [its own Wikipedia page](https://en.wikipedia.org/wiki/List_of_Rembrandt_pupils).
 
