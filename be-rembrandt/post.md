@@ -25,13 +25,13 @@ Need a black background? Any apprentice can cover the canvas.
 
 Want to paint an orange? Laying down the base circle doesn't need him.
 
-Rembrandt let his pupils handle the fundamentals so that he could devote his hours to the _je ne sais quoi_ - the little details that added all the value.
+Rembrandt let his pupils handle the fundamentals so that he could devote his hours to the _je ne sais quoi_ - the little details only he could do that added all the value.
 
-In [The Goal Is Unique Work][goal-is-unique-work] I asserted that time spent doing stuff society already knows how to do is time wasted.
+In [The Goal Is Unique Work][goal-is-unique-work] I asserted that we're wasting time doing things society already knows how to do.
 
 We want to be Rembrandt, delegating the stuff that anyone can do, so we can focus on expressing the unique essence of us.
 
-And now, modern tech gives us all the opportunity to have our own studio.
+Today, modern tech gives us all the opportunity to have our own studio.
 
 Want to build an app? Talk to the LLM and it'll place the rough symbols for you, to refine as you please.
 
