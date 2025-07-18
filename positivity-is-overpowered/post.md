@@ -2,13 +2,17 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-TODO TITLE TEXT
-===============
+Positivity Is Overpowered
+=========================
 TODO SUBTITLE TEXT
 
 ![](./images/image.png)
 
-Write all the things here
+Believing in others spreads positive energy
+
+Everybody needs someone to believe in them
+
+Link to Mr Magic's thesis
 
 Conclusion
 ----------
