@@ -18,6 +18,12 @@ If linking to a previous post, a quick review
 
 Write all the things here
 
+- Custom site searches on Chrome
+    - E.g. `mp` for maps search
+    - E.g. `mgh` for my Github
+    - `gh` for all github
+    - `e2p` and `p2e`
+
 Conclusion
 ----------
 TODO Challenge/questions to the reader
