@@ -2,13 +2,23 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-TODO TITLE TEXT
-===============
-TODO SUBTITLE TEXT
+A File Variable Naming Convention
+=================================
+My system for working with file variables
 
 ![](./images/image.png)
 
-Write all the things here
+I used to hit problems with naming file variables due to ambiguity of what the variable contained.
+
+For example:
+
+`myFile = "foo.sh"`
+
+Clear enough, right?
+
+But what happens if you try to access it outside the directory it's in?
+
+Well, what happens when we start
 
 Conclusion
 ----------
