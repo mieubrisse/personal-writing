@@ -8,6 +8,8 @@ Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 
+_This post is part of a series: [What's AI Anyway?](https://mieubrisse.substack.com/p/whats-ai-anyway)_
+
 [Yesterday](https://mieubrisse.substack.com/p/whats-ai-anyway-part-3) we talked about the problems with Google Translate's original approach, the paper that changed everything, and the rise of OpenAI.
 
 Today we'll dive deeper into what's happening when you use LLMs today, reveal a lie I told you, and answer the question of the series: what's AI anyway?

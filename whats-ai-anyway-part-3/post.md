@@ -8,6 +8,8 @@ Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 
+_This post is part of a series: [What's AI Anyway?](https://mieubrisse.substack.com/p/whats-ai-anyway)_
+
 [Yesterday](https://mieubrisse.substack.com/p/whats-ai-anyway-part-2) I talked about our first attempts to talk to the computer, and the innovative approach Google Translate took.
 
 Today we'll dig into what worked, what didn't, and what happened next.
@@ -101,6 +103,8 @@ Tomorrow we'll dive deeper into LLMs, uncover a lie, and answer the question I p
 See you tomorrow.
 
 TODO SUBSCRIBE
+
+EDIT: [Part 4 is up](https://mieubrisse.substack.com/p/whats-ai-anyway-finale)
 
 > 💡 If you're curious, the actual innovation of the "Attention Is All You Need" paper is called the [transformer architecture](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)).
 
