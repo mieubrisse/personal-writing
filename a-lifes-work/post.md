@@ -75,3 +75,13 @@ I suspect it is far easier, and far more gratifying, to instead shape myself int
 If that's not a task worthy of being called my magnum opus, I don't know what is.
 
 _"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." - Rumi_
+
+TODO SUBSCRIBE BUTTON
+
+------
+
+If you liked this post, you might like some of my others:
+
+- [Anxiety, Emotions, and Freedom](https://mieubrisse.substack.com/p/anxiety-emotions-and-freedom)
+- [Mr. Magic's Specious Thesis](https://mieubrisse.substack.com/p/mr-magics-specious-thesis)
+- [Shattered Glass And Negative Leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage)
