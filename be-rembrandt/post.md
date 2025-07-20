@@ -4,7 +4,7 @@
 
 Be Rembrandt
 ============
-Lessons from a master of his craft
+What an old master can teach us about modern life
 
 ![](./images/image.png)
 
@@ -54,7 +54,7 @@ TODO SUBSCRIBE BUTTON
 
 -------------------------
 
-If you liked this post, you might like some of my other posts:
+If you liked this post, you might like some of my others:
 
 - [The Goal Is Unique Work][goal-is-unique-work]
 - [Leveraged Judgment](https://mieubrisse.substack.com/p/leveraged-judgment)
