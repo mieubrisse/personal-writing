@@ -12,3 +12,9 @@ An index for my posts explaining the AI fuss in plain English for non-technical 
 - [Part 2](https://mieubrisse.substack.com/p/whats-ai-anyway-part-2) - The first attempts to talk to computers, and Google Translate's role in the drama
 - [Part 3](https://mieubrisse.substack.com/p/whats-ai-anyway-part-3) - Failures to translate, and the things that changed everything
 - [Finale](https://mieubrisse.substack.com/p/whats-ai-anyway-finale) - Nitty gritty details on LLMs, a lie, and what _is_ AI anyway
+
+TODO SUBSCRIBE BUTTON
+
+----------
+
+If you enjoyed this series, you might also enjoy [The Leverage Series](https://mieubrisse.substack.com/p/the-leverage-series).
