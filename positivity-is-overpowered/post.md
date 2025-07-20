@@ -8,6 +8,8 @@ TODO SUBTITLE TEXT
 
 ![](./images/image.png)
 
+Last year I got fired from my own startup.
+
 Believing in others spreads positive energy
 
 Everybody needs someone to believe in them
