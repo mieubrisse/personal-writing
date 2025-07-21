@@ -8,7 +8,11 @@ TODO SUBTITLE TEXT
 
 ![](./images/image.png)
 
-Write all the things here
+Organizing Todoist projects yb importance
+
+My "Today's Work" tasks
+
+How I allocate the `@today` label
 
 Conclusion
 ----------
