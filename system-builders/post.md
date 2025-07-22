@@ -14,6 +14,8 @@ TODO protecting ourself from nags (whatever shouts loudest becomes important)
 - E.g. Amazon wants you to review, Uber wants you to rate the driver, Vivo wants me to fill out a survey
 - Eisenhower urgency-importance matrix
 
+TODO using technology for defenses
+
 Conclusion
 ----------
 TODO Challenge/questions to the reader
