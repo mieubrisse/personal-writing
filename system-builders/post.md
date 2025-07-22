@@ -8,7 +8,11 @@ TODO SUBTITLE TEXT
 
 ![](./images/image.png)
 
-Write all the things here
+TODO note about wallet
+
+TODO protecting ourself from nags (whatever shouts loudest becomes important)
+- E.g. Amazon wants you to review, Uber wants you to rate the driver, Vivo wants me to fill out a survey
+- Eisenhower urgency-importance matrix
 
 Conclusion
 ----------
