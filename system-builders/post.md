@@ -18,7 +18,11 @@ TODO using technology for defenses
 
 TODO need to protect your attention
 - Social media
-- Feeds are the devil: Linkedin, Instagram. It _might_ be useful... but it's someone else controlling your attention and not you
+- Feeds are the devil: Linkedin, Instagram, Youtube. It _might_ be useful... but it's someone else controlling your attention and not you
+
+TODO recommendations are the devil (e.g. Substack, Youtube)
+
+TODO newsfeeds (e.g. HN), and 
 
 Conclusion
 ----------
