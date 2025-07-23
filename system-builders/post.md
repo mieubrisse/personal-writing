@@ -16,6 +16,10 @@ TODO protecting ourself from nags (whatever shouts loudest becomes important)
 
 TODO using technology for defenses
 
+TODO need to protect your attention
+- Social media
+- Feeds are the devil: Linkedin, Instagram. It _might_ be useful... but it's someone else controlling your attention and not you
+
 Conclusion
 ----------
 TODO Challenge/questions to the reader
