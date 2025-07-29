@@ -16,11 +16,11 @@ I was a bit upset: how could I
 
 - Losing wallet
     - Beating myself up
-- The "code factory" post
+- The "code factory" post: https://www.john-rush.com/posts/ai-20250701.html
     - Updating my Cursor rules so that Markdown uses "======" rather than "#"
 - How can I have a general-purpose AI assistant?
     - Inputs to the training
-- NASA
+- NASA "it's not a personal failure; it's a systems failure"
 - Toyota production system
 - Maalvika - system builders
 - My failings with Youtube 
