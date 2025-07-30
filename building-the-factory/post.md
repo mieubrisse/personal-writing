@@ -70,6 +70,8 @@ I'm fine with this though: it's much cheaper than n8n's $25, I've been using a l
 
 > 💡 If this post inspires you to try Railway, I'd be thankful if you use my Railway referral code (`kevinjtoday`) or [referral link](https://railway.com?referralCode=kevinjtoday) because it makes my Railway server costs cheaper. I have no affiliation with Railway; just a happy user.
 
+TODO SUBSCRIBE BUTTON
+
 App
 ---
 You access n8n through the URL that Railway makes publicly available.
@@ -142,7 +144,7 @@ Here are the workflows I currently have in my n8n:
 - **📚 Categorize Book Notes:** uses AI to transfer book notes (as Todoist tasks) into Notion pages for the book (more details in [the post I wrote up the other day][categorizing-book-notes-with-ai]).
 - **😴 Pull Sleep Data:** every day, pulls my sleep data from the Fitbit API and stores it in a Postgres database (also running in Railway) housing quantified life data.
 - **🖥️ Capture Mac Screentime Data:** receives screentime data pushed from my Mac and stores it in the quantified life Postgres. This workflow is neat because it's push-based: n8n lets me define a webhook, and a script on my Mac pushes screentime data to it. <!-- TODO link to the repo with my script push data -->
-- **🌱 Check Data Freshness:** verifies the quantified life Postgres tables have recent data to ensure the data pipelines are flowing.
+- **🌱 Check Data Freshness:** verifies the quantified life Postgres tables have recent data to ensure the data pipelines are flowing (and you can [install this on your own n8n here](https://n8n.io/workflows/6190-postgres-data-freshness-monitoring-with-email-alerts/)).
 
 A neat thing: workflows can call other workflows. Workflows are basically programming functions.
 
@@ -160,6 +162,8 @@ This seems bad to me, so I created another workflow that helps keep my own n8n i
 This workflow queries my own n8n's API (n8n can query itself!), finds workflows that don't have the error workflow, and calls **❗Send Alert** to let me know that a workflow is missing an error workflow.
 
 This feels really cool. I'm using n8n to make my own n8n usage better.
+
+TODO SUBSCRIBE BUTTON
 
 Alerting
 --------
@@ -268,6 +272,8 @@ I can fix this by doing "Append text to Notion page" before doing "Mark task as 
 I'll get a duplicate in the Notion page, but that's way better than losing a book note completely.
 
 Design your workflows with this in mind.
+
+TODO SUBSCRIBE BUTTON
 
 
 <!------------------ IG POST DESCRIPTION --------------------->
