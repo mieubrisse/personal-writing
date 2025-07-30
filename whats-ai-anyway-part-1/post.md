@@ -8,6 +8,8 @@ Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 
+_This post is part of a series: [What's AI Anyway?](https://mieubrisse.substack.com/p/whats-ai-anyway)_
+
 Unless you live under a rock, your last few years have been a nonstop barrage of "AI this, AI that".
 
 But what _is_ this "AI" thing everybody's talking about? And why's it a big deal now?
@@ -113,9 +115,9 @@ Today we ran through a quick history of how computers came about, brought up the
 
 Tomorrow we'll cover the first attempts to talk to computers; stay tuned.
 
-EDIT: [Part 2 is up here](https://mieubrisse.substack.com/p/whats-ai-anyway-part-2)
-
 TODO SUBSCRIBE
+
+EDIT: [Part 2 is up](https://mieubrisse.substack.com/p/whats-ai-anyway-part-2)
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--

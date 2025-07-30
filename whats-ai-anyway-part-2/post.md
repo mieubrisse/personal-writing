@@ -8,6 +8,8 @@ Explaining in plain English what all the AI hubbub is about
 
 ![](./images/image.png)
 
+_This post is part of a series: [What's AI Anyway?](https://mieubrisse.substack.com/p/whats-ai-anyway)_
+
 [Yesterday](https://mieubrisse.substack.com/p/whats-ai-anyway-part-1) we talked about the birth of computers, and the start of humanity's quest to talk to them.
 
 Today we continue the AI journey with why talking to computers is hard, and our first steps at doing so.
@@ -88,73 +90,7 @@ Tomorrow we'll talk about the shortcomings of this approach, and a breakthrough.
 
 TODO SUBSCRIBE
 
-
-
-
-
-
-
-
-
-<!--
-LLMs in your day-to-day
------------------------
-I've been light on specifics to keep this explanation comprehensible. Now I'll paint in just a bit of detail, because it will help you think about your interactions with modern LLMs.
-
-### Context
-First, remember how the first Google Translate language models took in the user's input text to translate?
-
-This text is called the "context" (remember how human language is contextual?). Context provides the LLM a basis to start generating output words from.
-
-In ChatGPT, this context starts with the text that you enter at the beginning of a conversation.
-
-But here's the magic: when ChatGPT replies to you, its response _also_ gets included in the context next time you send a message.
-
-In other words, each time you send a message ChatGPT is getting the history of the conversation.
-
-This is how it seems so clever, and attentive. It's running the "Attention Is All There Is" algorithm over the entire chat history at superspeed, picking out what to pay attention to, and generating a response based on the whole conversation you've had.
-
-But not only that. If you've used ChatGPT's "Memories" feature, the context that gets sent to ChatGPT on each generation _also_ includes your memories. This allows ChatGPT to reference them if it's relevant to the conversation.
-
-Only OpenAI know what this actually looks like, but we can guess that a conversation like this...
-
-```
-Me: Hey ChatGPT, what's the capital of France?
-
-GPT: Hi Kevin! The capital of France is Paris.
-
-Me: Can I go climbing there?
-```
-
-...actually gets sent to the GPT model as something like this:
-
-```
-INSTRUCTIONS:
-You are a helpful, friendly AI assistant. Your job is assist the user without causing harm to them. You must refuse to assist the user in anything that would cause damage to their own life or the lives of others.
-
-You know certain things about the user, which are included under a section labelled "MEMORIES". You have had a conversation with the user, which is included under "CONVERSATION".
-
-MEMORIES:
-- The user's name is Kevin
-- The user values short, direct responses
-- The user enjoys rock climbing
-
-CONVERSATION:
-User: Hey ChatGPT, what's the capital of France?
-
-You: Hi Kevin! The capital of France is Paris.
-
-User: Can I go climbing there?
-```
-
-Then, based on that full context, the GPT model generates makes it prediction at the next word, then another, then another until it deems it likely no more words are needed.
-
-The size of the context that an LLM can receive is called its "context window", and it has limits.
-
-GPT-3 had a very small context window - about 1,500 words - which is why you'd see it start to forget things in longer conversations.
-
-The latest LLMs have much bigger context windows. Claude-4 can handle up to 150,000 words, which is about 500 pages of text!
--->
+EDIT: [Part 3 is up](https://mieubrisse.substack.com/p/whats-ai-anyway-part-3)
 
 <!------------------ IG POST DESCRIPTION --------------------->
 <!--
