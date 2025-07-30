@@ -1,5 +1,6 @@
 <!------------------------- REFERENCE LINKS BLOCK ----------------------------------->
-[TODO]: some-link
+[goal-is-unique-work]: https://mieubrisse.substack.com/p/the-goal-is-unique-work
+[categorizing-book-notes-with-ai]: https://mieubrisse.substack.com/p/categorizing-book-notes-with-ai
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
 Building The Factory
@@ -14,10 +15,11 @@ He insisted I write it up as a post, so here it is.
 
 > ⚠️  I'm going to assume you're moderately technical. If you're not, you might still find this interesting - you'll just need to do more Googling.
 
-### Workflow Engine
+Workflow Engine
+---------------
 What even _is_ a workflow engine?
 
-I recently wrote a post about how [we should spend our time on things only we can do](https://mieubrisse.substack.com/p/the-goal-is-unique-work).
+I recently wrote a post about how [we should spend our time on things only we can do][goal-is-unique-work].
 
 Reflecting on my life, I'm doing a _ton_ that's not unique to me and should be done by automation. For example:
 
@@ -46,7 +48,8 @@ Turns out it's a lovely product. Very intuitive and user-friendly.
 
 So n8n is what I use for my workflow engine.
 
-### Hosting
+Hosting
+-------
 n8n has [their own cloud-hosted plan](https://n8n.io/pricing/), at $25/month.
 
 I found that price high when getting started because I didn't know if I'd like n8n, and I wouldn't even own my data.
@@ -67,7 +70,8 @@ I'm fine with this though: it's much cheaper than n8n's $25, I've been using a l
 
 > 💡 If this post inspires you to try Railway, I'd be thankful if you use my Railway referral code (`kevinjtoday`) or [referral link](https://railway.com?referralCode=kevinjtoday) because it makes my Railway server costs cheaper. I have no affiliation with Railway; just a happy user.
 
-### App
+App
+---
 You access n8n through the URL that Railway makes publicly available.
 
 The first time I opened it I was prompted to generate an admin username and password, which I stored [1Password](1password).
@@ -80,7 +84,8 @@ Now I have n8n on my Dock like any other app, and don't have to dig through Chro
 
 ![](./images/n8n-as-app.png)
 
-### Creating Workflows
+Creating Workflows
+------------------
 Creating a workflow in n8n is pretty self-explanatory.
 
 You press the big "Create Workflow" button, and start dragging nodes onto the graph that do stuff.
@@ -95,17 +100,21 @@ It's dumb easy, and feels like playing a factory videogame.
 
 What're the nodes?
 
-Here, n8n doesn't have great discoverability. I often knew what I wanted to do and assumed there was a node for it, but didn't know what the node was called or where to find it.
+Anything you can dream of.
+
+![](./images/add-n8n-node.png)
+
+Unfortunately, n8n doesn't have great discoverability here. I often knew what I wanted to do and assumed there was a node for it, but didn't know what the node was called or where to find it.
 
 Luckily ChatGPT has a strong grasp of n8n, so I just described what I want and ChatGPT gave me options. 
 
-> 💡 The [value of AI is as an ambiguity adapter](https://mieubrisse.substack.com/p/the-value-of-ai)!
+> 💡 An example of using [AI is as an ambiguity adapter](https://mieubrisse.substack.com/p/the-value-of-ai)!
 
 The nodes themselves are shockingly easy to configure.
 
 Most options are intuitive, and the ones that aren't have a little "?" giving explanations. Every node has a link to its docs.
 
-![](./images/example-n8n-node)
+![](./images/example-n8n-node.png)
 
 ### Auth
 The only rough part (that isn't n8n's fault) is OAuth credentials.
@@ -126,10 +135,11 @@ It's a tedious chore that's easy to misconfigure, especially if you're not famil
 
 Luckily n8n provides good docs, and you only have to do it once per provider you want to pull data from.
 
-### My Workflows
+My Workflows
+------------
 Here are the workflows I currently have in my n8n:
 
-- **📚 Categorize Book Notes:** uses AI to transfer book notes (as Todoist tasks) into Notion pages for the book (more details in [the post I wrote up the other day](categorize book notes)).
+- **📚 Categorize Book Notes:** uses AI to transfer book notes (as Todoist tasks) into Notion pages for the book (more details in [the post I wrote up the other day][categorizing-book-notes-with-ai]).
 - **😴 Pull Sleep Data:** every day, pulls my sleep data from the Fitbit API and stores it in a Postgres database (also running in Railway) housing quantified life data.
 - **🖥️ Capture Mac Screentime Data:** receives screentime data pushed from my Mac and stores it in the quantified life Postgres. This workflow is neat because it's push-based: n8n lets me define a webhook, and a script on my Mac pushes screentime data to it. <!-- TODO link to the repo with my script push data -->
 - **🌱 Check Data Freshness:** verifies the quantified life Postgres tables have recent data to ensure the data pipelines are flowing.
@@ -138,8 +148,8 @@ A neat thing: workflows can call other workflows. Workflows are basically progra
 
 So I also have two more "helper" workflows:
 
-- **❗Send Email Alert:** sends an email alert (called when any quantified life tables are stale).
-- **⚠️  Error:** n8n lets you give a workflow an "error workflow", which is called any time the workflow fails. Mine here is a generic error workflow that calls **❗ Send Email Alert** to alert me of any workflow failures.
+- **❗Send Alert:** sends an email alert, and a Slack alert as backup (called when any quantified life tables are stale).
+- **⚠️  Error:** n8n lets you give a workflow an "error workflow", which is called any time the workflow fails. Mine here is a generic error workflow that calls **❗ Send Alert** to alert me of any workflow failures.
 
 Annoyingly, n8n doesn't force each workflow to have an error workflow. 
 
@@ -147,53 +157,60 @@ So there's the possibility for a workflow to fail silently because I forgot to s
 
 This seems bad to me, so I created another workflow that helps keep my own n8n in order: **💂 Find Active Workflows Without Error Workflow**.
 
-This workflow queries my own n8n's API (n8n can query itself!), finds workflows that don't have the error workflow, and calls **❗Send Email Alert** to let me know that a workflow is missing an error workflow.
+This workflow queries my own n8n's API (n8n can query itself!), finds workflows that don't have the error workflow, and calls **❗Send Alert** to let me know that a workflow is missing an error workflow.
 
 This feels really cool. I'm using n8n to make my own n8n usage better.
 
-### Alerting
+Alerting
+--------
 I mentioned I'm using emails to alert me of problems.
 
 Unfortunately, my email is a swamp and the alerts are likely to get lost amongst people trying to sell me shit I don't want.
 
-To make the n8n alerts pop to the top of my inbox, I have the **❗Send Email Alert** workflow prefix "❗n8n Alert:" to the subject of every email it sends.
+To make the n8n alerts pop to the top of my inbox, I have the **❗Send Alert** workflow prefix "❗n8n Alert:" to the subject of every email it sends.
 
 I then set up a Gmail rule to star all mail that comes in with that subject.
 
 Then, I created a priority inbox with starred messages at the top:
 
-![](./images/priority-inbox)
+![](./images/priority-inbox.png)
 
 This makes n8n alerts pop to the top as highest priority.
 
-![](./images/gmail-alert-inbox)
+![](./images/gmail-alert-inbox.png)
 
 > ⚠️  I first tried having the Gmail rule "Mark as important", but for some reason the rule refused to do it for my n8n emails. ChatGPT suggested that Google won't mark any email sent by a bot as important. Starring bypassed this problem.
 
-### Railway Environment Variables & DRY
+Railway Environment Variables & DRY
+-----------------------------------
 I have several workflows writing data to my quantified life data Postgres.
 
-I _could_ hardcode the Postgres URL inside of n8n.
+I _could_ hardcode all the Postgres data - hostname, username, password, etc. - inside of n8n.
 
-But if I ever moved my Postgres, I'd need to hunt down all instances of the URL in n8n and change them.
+But if I ever moved my Postgres, I'd need to hunt down all the Postgres data in n8n and change it.
 
 n8n allows me to use environment variables on the n8n instance itself inside of my workflows.
 
-So instead, I use `{{ $env.QUANTIFIED_LIFE_POSTGRES_URL }}` in my n8n workflows when I need to talk to the Postgres.
+So instead, I use `{{ $env.QUANTIFIED_LIFE_POSTGRES_XXXXXX }}` variables in my n8n workflows when I need to talk to the Postgres.
 
-Where does `QUANTIFIED_LIFE_POSTGRES_URL` come from?
+![](./images/quantified-life-postgres-credentials.png)
+
+Where do these variables come from?
 
 Railway allows environment variable "references".
 
 Meaning, the value of an environment variable on one service can be filled from the value of the environment variable on another service.
 
-So I have a `QUANTIFIED_LIFE_POSTGRES_URL` environment variable on my n8n server that consumes the value of my quantified life Postgres' domain name.
+So I've defined environment variables on my n8n server & worker node that consume the values of my quantified life Postgres.
 
-> ⚠️  Railway has a weird quirk (bug?) where the Postgres server's `RAILWAY_PRIVATE_DOMAIN` variable couldn't be consumed directly by n8n. I had to create a new `DATABASE_URL` variable on the Postgres server that references its own `RAILWAY_PRIVATE_DOMAIN`, and then consume the Postgres' `DATABASE_URL` on the n8n server.
+![](./images/n8n-consuming-quantified-life-envvars.png)
 
-> ⚠️  If you do this yourself, remember that both the main n8n instance and the n8n worker node need the environment variable. 
+> ℹ️  Railway has a weird quirk (bug?) where the Postgres server's `RAILWAY_PRIVATE_DOMAIN` variable couldn't be consumed directly by n8n. I had to create a new `DATABASE_HOST` variable on the Postgres server that references its own `RAILWAY_PRIVATE_DOMAIN`, and then consume the Postgres' `DATABASE_HOST` on the n8n server.
 
-### Conclusion
+> ⚠️  If you do this yourself, remember that both the main n8n instance and the n8n worker node need the environment variable!
+
+Conclusion
+----------
 And there you have it: my personal automation factory.
 
 I've been very happy with the Railway + n8n combo, and plan to continue building it out. It feels like Minecraft, only with results in the real world.
@@ -202,21 +219,26 @@ Here's how I'm planning to continue expanding my factory:
 
 - More quantified life data pipelines (Android screentime, light levels, heartbeat)
 - Consuming dumps of my [Fitnotes](https://www.fitnotesapp.com/) backups in Google Drive to store them in the quantified life Postgres
-- Slotting notes taken in Todoist about people into my personal CRM in Notion
+- Slotting notes taken in Todoist about people I meet into my personal CRM in Notion
 - A pipeline that Google Flights and AI to find flights for me using my preferences
 
 As always, if these articles make your life better then please consider subscribing or sharing with friends who'd get value from them!
 
 TODO SUBSCRIBE BUTTON
 
-And if you liked this post, you might be interested in these ones:
+----
 
-- [Categorizing Book Notes With AI](https://mieubrisse.substack.com/p/categorizing-book-notes-with-ai)
+If you liked this post, you'll probably like some of my others:
+
+- [The Goal Is Unique Work][goal-is-unique-work]
+- [Categorizing Book Notes With AI][categorizing-book-notes-with-ai]
 - [Leveraged Judgment](https://mieubrisse.substack.com/p/leveraged-judgment)
 
-### Appendix: Sane Workflow Tips
-**Make your workflows idempotent if at all possible**
-[Idempotency](https://en.wikipedia.org/wiki/Idempotence), if you need a refresher.
+Appendix: Sane Workflow Tips
+----------------------------
+### Make your workflows idempotent if possible
+
+[The idempotency wiki](https://en.wikipedia.org/wiki/Idempotence), if you need a refresher.
 
 A workflow that just appends rows to a table isn't idempotent: if it runs again with the same data, it will insert duplicates each time it runs.
 
@@ -228,7 +250,7 @@ You won't have to think, "Oh crap, I've gotta be careful not to run this again b
 
 Much better to press the button as much as you want with the confidence that you'll arrive at the same end state.
 
-**Consider that partial completion could happen at any step, and plan accordingly**
+### Consider that partial completion could happen at any step, and plan accordingly
 Partial workflow completions can happen for any number of reasons.
 
 Maybe you misconfigured a node, or there's a transient failure in one of the later nodes.
