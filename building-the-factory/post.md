@@ -10,7 +10,7 @@ The start of my personal automation factory, in case you want to build your own
 
 Today I was showing a friend my workflow engine that I'm using to automate my personal life.
 
-He insisted I need to write it up as a post, so here it is.
+He insisted I write it up as a post, so here it is.
 
 > ⚠️  I'm going to assume you're moderately technical. If you're not, you might still find this interesting - you'll just need to do more Googling.
 
