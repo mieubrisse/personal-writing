@@ -74,7 +74,7 @@ App
 ---
 You access n8n through the URL that Railway makes publicly available.
 
-The first time I opened it I was prompted to generate an admin username and password, which I stored [1Password](1password).
+The first time I opened it I was prompted to generate an admin username and password, which I stored in [1Password](https://1password.com/) in accordance with my [Cybersecurity 101](https://mieubrisse.substack.com/p/cybersecurity-101) guidance.
 
 I knew I'd be doing a lot of n8n work, and didn't want to keep re-finding the n8n tab in Chrome.
 
