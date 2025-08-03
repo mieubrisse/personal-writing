@@ -19,6 +19,10 @@ TODO
 2. Tools 
 3. TODO
 
+
+
+TODO incorporate this: https://www.gurwinder.blog/p/how-social-media-shortens-your-life
+
 Why this guide?
 --------------
 The internet is wonderful. It's democratized knowledge, enabled global communities, and birthed fantastic innovations.
