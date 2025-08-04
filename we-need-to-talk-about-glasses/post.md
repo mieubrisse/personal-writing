@@ -159,6 +159,10 @@ TODO
 
 
 
+
+TODO https://ophysics.com/l16.html
+
+
 Now, I see crescent-shaped flashes in my center vision when I look to the sides, and I slight trails behind fast-moving objects.
 
 
