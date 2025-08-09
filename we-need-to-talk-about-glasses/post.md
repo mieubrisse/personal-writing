@@ -28,7 +28,7 @@ If glasses use is genetic, are all the people with the good eyeball genes going 
 
 No.
 
-Turns out, the "glasses are just genetic" thing is plain wrong.
+Turns out, "glasses are just genetic" is plain wrong.
 
 The latest eye research isn't confused: certain behaviours will make your eyes worse.
 
