@@ -8,7 +8,9 @@ SUBTITLE TEXT
 
 ![](./images/image.png)
 
-TODO
+- Freeform with Apple pencil
+- Syncs from iPad to MacOS
+- Copy from MacOS freeform app, transcribe with ChatGPT as desired
 
 Conclusion
 ----------
