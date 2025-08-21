@@ -124,6 +124,8 @@ However, I've found
 
 
 
+TODO link to CogSec: https://cogsec.blog/posts/2025-01-14-understanding-cognitive-security/
+
 
 
 
