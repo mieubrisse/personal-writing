@@ -18,7 +18,7 @@ This post breaks down how decision systems protect you when you’re weakest... 
 
 ![](./image.png)
 
-_This post is part of a series on leverage. Here are parts [one][leveraged-judgment], [two][negative-leverage], and [three][first-do-nothing]._
+_This post is part of [a series on leverage](https://mieubrisse.substack.com/p/the-leverage-series)._
 
 I've [said it before][leveraged-judgment]: the modern world is is Fucking Leveraged. Small choices trigger huge consequences. 
 
