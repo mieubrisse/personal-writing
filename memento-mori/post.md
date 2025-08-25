@@ -2,11 +2,16 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-TITLE TEXT
-===============
-SUBTITLE TEXT
+Memento Mori
+============
+Remember that I will die
 
 ![](./images/image.png)
+
+- TODO find the post that inspired this
+- How I search for terminal stories
+- How this reminds me of the preciousness and fragility of life
+    - TODO link into the "positivity is overpowered"
 
 TODO
 
