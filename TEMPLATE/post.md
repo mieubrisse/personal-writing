@@ -30,5 +30,5 @@ _Thank you to TODO TODO TODO for reviewing drafts of this post._
 <!--
 TODO
 
-🐒 Full article at link in bio.
+Full article on the link in my bio 🐒
 -->
