@@ -56,6 +56,7 @@ Invest in upgrading your decisionmaking:
 - Understand [negative leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage) and [how to avoid it](https://mieubrisse.substack.com/p/first-do-nothing)
 - Read the [Almanack Of Naval Ravikant](https://www.navalmanack.com/)
 - Subscribe to Shane Parrish's [Farnam Street newsletter][farnam-street]
+- [Invest in an exobrain](https://mieubrisse.substack.com/p/you-need-an-exobrain)
 - Read Ramit Sethi's [I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/)
 - Read Nassim Taleb's [Fooled By Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219) and [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)
 - Understand [the map/territory distinction](https://www.lesswrong.com/posts/KJ9MFBPwXGwNpadf2/skill-the-map-is-not-the-territory)

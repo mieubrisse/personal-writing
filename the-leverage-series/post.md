@@ -15,6 +15,7 @@ This page indexes my post series about leverage & decisionmaking:
 1. **[First, Do Nothing](https://mieubrisse.substack.com/p/first-do-nothing)**
 1. **[Decisionmaking Systems](https://mieubrisse.substack.com/p/decisionmaking-systems)**
 1. **[The Exobrain Series](https://mieubrisse.substack.com/p/the-exobrain-series)** (technically its own series, but started within the leverage/decisionmaking series)
+1. **[The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work)**
 
 _**Want to get notified when new posts get added?** You know the drill._
 
