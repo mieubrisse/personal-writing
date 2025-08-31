@@ -9,7 +9,7 @@ subtitle: "TODO"
 
 ![](./images/image.png)
 
-I lost my wallet the other week. It had both my Brazilian and American ID cards inside, as well as a credit card.
+I lost my wallet the other week. It had my Brazilian and American ID cards inside, as well as a credit card.
 
 It was tempting to berate myself.
 
@@ -19,7 +19,7 @@ But I'd just read a post [about writing code with AI](https://www.john-rush.com/
 
 The author suggests that we ought to treat AI code generation as a factory.
 
-When the factory produces the wrong product - the wrong product - it's tempting to try and fix that product.
+When the factory produces the wrong output, it's tempting to try and fix that product.
 
 Correct the AI, tell it what it got wrong, refine.
 
@@ -69,7 +69,7 @@ So when I noticed I was beating myself up for losing my wallet, I pivoted: "This
 
 First, I needed to identify where the system had failed.
 
-I reached for a technique we used at Palantir called a ["Five Whys"](TODO). It's simple: you build a tree of "why?" questions, with their response. Once you get to five levels deep, you're looking at the real root of the problem:
+I reached for a technique we used at Palantir called a ["Five Whys"](TODO). It's simple: you build a tree of "why?" questions, with their response. Once you get to five levels deep, you're looking at real roots of the problem:
 
 ```
 - Q: Why did I lose my wallet?
@@ -105,9 +105,9 @@ I reached for a technique we used at Palantir called a ["Five Whys"](TODO). It's
                         - Q: Why aren't the security cameras where I go viable?
                             - A: Who knows if there even will be security cameras, and I discovered that I have to open a court case in order to get access to the cameras
                         - Q: Why don't I have a security camera in my house?
-                            - A: In part, I don't want to make my housekeeps uncomfortable
-                                - Q: Why do I think it will make my housekeepers uncomfortable?
-                                    - A: Really, because I haven't asked them (I'm just assuming)
+                            - A: In part, I don't want to make my cleaning lady uncomfortable
+                                - Q: Why do I think it will make my cleaning lady uncomfortable?
+                                    - A: Really, because I haven't asked her (I'm just assuming)
                             - A: I haven't done any research to see which one I'd like
     - A: I mostly leave home with my wallet, but sometimes I leave without it which hurts my ability to say "I don't feel my wallet = problem"
         - Q: Why do I sometimes leave home without my wallet?
@@ -120,12 +120,12 @@ I reached for a technique we used at Palantir called a ["Five Whys"](TODO). It's
                     - A: Because I love my apartment, my neighborhood, my friends, and the fun activity opportunities offered in the city.
                         - Q: Why don't I find a place 
             - A: It's one less thing to lose
+                - Q: Why am I afraid of losing it?
+                    - A: See answers above about robbery, and not having a tracker
 - Q: Why was this such a big deal?
     - A: I had my American driver's license, my Brazilian ID card, and my 
         - Q: Why did I have my American driver's license in Brazil?
 ```
-
-_Note how sometimes I deviate from the strict "Why?" format if I think there will be a more productive question_
 
 Along the way I tracked action items to follow up on:
 
@@ -134,7 +134,38 @@ Along the way I tracked action items to follow up on:
 - Research with ChatGPT or the internet exactly what I have to do to get my metro card
 - Research Airtags or tiles in order to figure out if I could put one in my wallet, what its battery profile would be, and whether it would drain my phone battery
 - Look into protective phone cases that also have credit card & money slots
-- Check with housekeepers if a security camera would make them uncomfortable
+- Check with my cleaning lady if a security camera would make them uncomfortable
+
+_These_ move towards real solutions.
+
+They address the causes for the bad output, and build the system stronger to minimize the chance the bad output happens again.
+
+Fix inputs, not outputs.
+
+Conclusion
+----------
+A high-performing person like you can handle a lot.
+
+When you drop the ball, it's tempting to beat yourself up: "I just wasn't good enough; I need to be better."
+
+But we're only human.
+
+We get tired, distracted, and low on battery.
+
+The highest performers encode their lessons into systems that let their worst days look like their best.
+
+The next time you don't get the output you want, can you identify the bad inputs and fix those so your system is stronger?
+
+TODO SUBSCRIBE BUTTON
+
+---
+
+If you liked this article
+
+
+
+
+
 
 
 
