@@ -92,7 +92,7 @@ _Thank you to my therapist, [Geoff Newton](http://www.psychotherapist.com.br/), 
 
 -----------
 
-If you liked this post, you might enjoy my other writing:
+If you liked this post, you might enjoy my other writing on emotion and conflict management:
 
 - [Anxiety, Emotions, & Freedom](https://mieubrisse.substack.com/p/anxiety-emotions-and-freedom)
 - [Decisionmaking Systems](https://mieubrisse.substack.com/p/decisionmaking-systems)
