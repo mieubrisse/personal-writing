@@ -43,20 +43,21 @@ For example with coding:
 
 This makes _so much sense_.
 
-After all, if your data pipeline doesn't transform your data _quite_ the way it ought to, you don't hand-correct each output...
+After all... if your data pipeline doesn't transform your data _quite_ the way it ought to, you don't hand-correct each output...
 
 You fix the data pipeline.
 
 I was reminded of [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) and the DevOps movement, which push the same idea:
 
-Don't spend time doing bespoke releases & deployments.
+Don't spend time on bespoke releases & deployments.
 
 Instead, build the system (factory) that does it for you.
 
-When you wake up to this idea, you notice it's everywhere:
+When you wake up to this idea, you notice it everywhere:
 
-- When a failure occurs at NASA, it's treated as a _system failure_ rather than an individual failure. Lessons get rolled back into the system in the form of SOPs.
 - The incredible safety records of surgery and commercial air travel are the result of checklists encoding lessons learned over the decades.
+- Modern surgery is so high-success for the same reasons (see [The Checklist Manifest](https://atulgawande.com/book/the-checklist-manifesto/)).
+- When a failure occurs at NASA, it's treated as a _system failure_ rather than an individual failure. Lessons get rolled back into the system in the form of SOPs.
 - The Toyota Production System (which arguably started this all) had the famous [andon cord](https://en.wikipedia.org/wiki/Andon_(manufacturing)) that stopped the entire production line, surfacing issues immediately for later incorporation into the system.
 
 It's all about "fix the input, not the output".
@@ -65,7 +66,7 @@ So when I noticed I was beating myself up for losing my wallet, I pivoted: "This
 
 First, I needed to identify where the system had failed.
 
-I reached for a technique we used at Palantir (also from Toyota Production System) called a [Five Whys](https://en.wikipedia.org/wiki/Five_whys). It's simple: you build a tree of "why?" questions, with their response. Once you get to five levels deep, you're looking at real roots of the problem:
+I reached for a technique we used at Palantir (also from Toyota Production System) called [Five Whys](https://en.wikipedia.org/wiki/Five_whys). It's simple: you build a tree of "why?" questions, with their response. Once you get to five levels deep, you're looking at real roots of the problem:
 
 ```
 - Q: Why did I lose my wallet?
@@ -133,14 +134,14 @@ Along the way I tracked action items to follow up on:
 
 - Research how I can get the Brazilian digital ID card app on my phone in another way
 - Some sort of system (maybe AI? maybe a checklist?) to remind me to pack my driver's license when I'm planning to rent a car
-- Research with ChatGPT or the internet exactly what I have to do to get my metro card
+- Research with ChatGPT or the internet exactly what I must do to get my metro card
 - Research Airtags or tiles in order to figure out if I could put one in my wallet, what its battery profile would be, and whether it would drain my phone battery
 - Research a way to secure my wallet to my shorts/pants
 - Look into protective phone cases that also have credit card & money slots
-- Check with my cleaning lady if a security camera would make them uncomfortable, and research ones if so
+- Check with my cleaning lady if a security camera would make them uncomfortable, and if not then research security cameras
 - Put contact information inside my wallet
 
-_These_ are steps towards real solutions.
+_These_ are actions towards real solutions.
 
 They address the causes for the bad output, and build the system stronger to minimize the chance the bad output happens again.
 
@@ -162,7 +163,7 @@ The next time you don't get the result you want, can you identify the bad inputs
 
 TODO SUBSCRIBE BUTTON
 
-_And my wallet? Contrary to every Brazilian's expectations, it was found and turned into a metro station. When I retrieved it, not even the cash had been touched. Miracles do happen._
+_And my wallet? Contrary to every Brazilian's expectations, it was found and turned in to a metro station. When I retrieved it, not even the cash had been touched. Miracles do happen._
 
 ---
 
