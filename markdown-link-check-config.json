@@ -9,6 +9,7 @@
         {"pattern":"^https://nordvpn.com", "//": "Returns 403s, presumably to block bots"},
         {"pattern":"^https://.*.amazon.com", "//": "Returns unpredictable 500s (as of 2025-07-02)"},
         {"pattern":"^https://.*.researchgate.net", "//": "Returns 403s, presumably to block bots"},
-        {"pattern":"^https://.*.reddit.com", "//": "Returns 403s, presumably to block bots"}
+        {"pattern":"^https://.*.reddit.com", "//": "Returns 403s, presumably to block bots"},
+        {"pattern":"^https://.*.lesswrong.com", "//": "Returns consistent 429s (as of 2025-10-08)"}
     ]
 }
