@@ -8,7 +8,18 @@ SUBTITLE TEXT
 
 ![](./images/image.png)
 
-TODO
+https://www.youtube.com/watch?v=zuJyJP517Uw
+
+- Work factory
+    - Agents communicating
+- Videogame-like (link to other post)
+    - Constant work-juggling
+    - Caring about verification
+    - Queue for human input
+- Gastown
+- **You can recraft your tools in an instant now**
+    - What do you do if you can craft whatever tool you need in an instant?
+
 
 Conclusion
 ----------
