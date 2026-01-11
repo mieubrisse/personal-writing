@@ -23,6 +23,8 @@ TODO
 
 TODO incorporate this: https://www.gurwinder.blog/p/how-social-media-shortens-your-life
 
+TODO put Naval quote about "the modern struggle" - using superhuman willpower against armies of...
+
 Why this guide?
 --------------
 The internet is wonderful. It's democratized knowledge, enabled global communities, and birthed fantastic innovations.
@@ -121,6 +123,9 @@ I propose the same: **no solo entertainment**.
 The ideal would be if you can 
 
 However, I've found 
+
+
+TODO you need to defend yoursel from tech that never gets tired with your own tech that never gets tired
 
 
 
