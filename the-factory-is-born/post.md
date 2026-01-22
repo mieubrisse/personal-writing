@@ -2,8 +2,8 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-TITLE TEXT
-===============
+The Factory Is Born
+===================
 SUBTITLE TEXT
 
 ![](./images/image.png)
