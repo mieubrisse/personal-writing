@@ -8,7 +8,12 @@ SUBTITLE TEXT
 
 ![](./images/image.png)
 
-TODO
+
+- Need a way to roll lessons back into the factory (inputs, not outputs)
+    - Means, need a way to update prompts
+        - Means, you need a prompt engineer
+    - Means, you need Git
+
 
 Conclusion
 ----------
