@@ -19,6 +19,7 @@ write a post about tmux being the sixth gear. Here are the things that I am disc
 
 add extra stuff, like how I've been programming for 15 years now, and it feels like I've just discovered a new Super Saiyan level or a 6th gear. Plus, it's crazy that tmux can be used to connect to remote servers! Then I can version control my tmux file just like everything else.
 
+inputs, not outputs
 
 
 Conclusion
