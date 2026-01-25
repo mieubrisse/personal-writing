@@ -43,7 +43,7 @@ Now it behaves like any other app, complete with `⌘-tab` switching.
 
 Example: these three aren't actually desktop apps:
 
-![](./chrome-installed-apps.png)
+![](./images/chrome-installed-apps.png)
 
 The only minor limitation I've hit is Mac's Downtime feature can't "Always Allow" apps installed this way.
 
@@ -114,7 +114,7 @@ Bookmark This Tab...     ⌘-b
 
 And here are a bunch of other hotkeys I use, to drive mouseless Chrome:
 
-![](./chrome-hotkeys.png)
+![](./images/chrome-hotkeys.png)
 
 Conclusion
 ----------

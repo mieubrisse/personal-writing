@@ -136,7 +136,7 @@ Notes:
 - The "IG POST DESCRIPTION" and "IG STORY TEXT" are more reminders to think about social; I often find that it's better to write the actual copy in Instagram because I can better feel how the text fits
 - h1 and h2 headers use the `=======` and `------` style rather than `#` and `##` because they're easier to visually distinguish
 
-I edit in Vim using [this config](https://github.com/mieubrisse/dotfiles/blob/master/vim/vimrc).
+I edit in Vim using [this config](https://github.com/mieubrisse/dotfiles/tree/master/nvim).
 
 Some fancy features of my Vim config:
 
