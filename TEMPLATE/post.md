@@ -18,17 +18,10 @@ TODO SUBSCRIBE BUTTON
 
 -----------
 
-If you liked this post, you might enjoy my other writing:
+If this post was useful to you, here's more of my writing:
 
 - POST1
 - POST2
 - POST3
 
 _Thank you to TODO TODO TODO for reviewing drafts of this post._
-
-<!------------------ IG POST DESCRIPTION --------------------->
-<!--
-TODO
-
-Full article on the link in my bio 🐒
--->
