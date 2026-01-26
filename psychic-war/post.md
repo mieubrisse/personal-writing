@@ -38,8 +38,6 @@ But do you think about the fallout after you've shut the app?
 
 The celebrity gossip, the ragebait, the politics you can't do anything about... all spewed across your cerebrum like dopaminergic radiation, occupying your thinking and crowding out the good stuff that drives your life forward?
 
-<!-- Our brains think "I'm feeling emotions about this... it must be important!" Great algorithm in the ancient environment, terrible in the 21st century. -->
-
 I began to notice this in myself when observing how a "quick" funny Instagram reel affects me.
 
 Maybe I was having deep, useful thoughts about work. One damn reel reroutes my entire brain.
