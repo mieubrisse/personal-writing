@@ -21,15 +21,3 @@ TODO link to previous writing
 TODO SUBSCRIBE BUTTON
 
 _Thank you to TODO TODO TODO for reviewing drafts of this post._
-
-<!------------------ IG POST DESCRIPTION --------------------->
-<!--
-TODO
-
-🐒 Full article at link in bio.
--->
-
-<!-------------------- IG STORY TEXT ------------------------->
-<!--
-TODO
--->
