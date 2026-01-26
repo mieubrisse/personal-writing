@@ -4,49 +4,63 @@
 
 The Psychic War
 ===============
-TODO SUBTITLE TEX
+Fight for control of your mind
 
 ![](./images/image.png)
 
-Reading The Almanack of Naval Ravikant last year taught me that **your mind is the ultimate leverage point**.
+Professor X is rigid in his chair, gaze locked on his opponent.
 
-Upgrade a belief to create habits that generate more energy and success for you to invest in upgrading more beliefs.
+Eyes squint. Veins on temples bulge. The silence booms.
 
-Learn a better way to do something, save some time, and use the time saved to learn even more things to save even more time.
+Maybe it's just Hollywood.
 
-Show someone how their actions don't align with their beliefs and remove hours of nagging.
+Or maybe, that's us every day.
 
-If you can work smart, you remove hours of toil (negative leverage), thereby creating more time to invest in working smarter, thereby freeing up _more_ time.
+---
+
+The Almanack of Naval Ravikant taught me that **your mind is the ultimate leverage point**.
+
+Upgrade a belief → create habits liberating more energy and success → invest in upgrading more beliefs.
+
+Learn a better way to do something → use the time saved to learn even more things → save even more time.
+
+Build guardrails for your thinking → think better → use the improved thinking to build better guardrails.
+
+Working smart instead of hard generates time to invest in working smarter, and off the exponentiation rocket blasts.
 
 ...assuming, you're investing that time in working smarter.
 
-In practice, most of us spend our free time on brain junkfood: TV, social media, memes, low-value entertainment. 
+In practice, we spend so much free time on brain junkfood: TV, social media, memes, low-value entertainment. 
 
-It's not just a waste of time during consumption.
+You know this is a waste of time.
 
-Your brain is getting loaded with emotionally-charged crap that yanks you off track: celebrity gossip, clickbait, politics that make you angry but can't do anything about. 
+But do you think about the fallout after you've shut the app?
+
+The celebrity gossip, the ragebait, the politics you can't do anything about... all spewed across your cerebrum like dopaminergic radiation, occupying your thinking and crowding out the good stuff that drives your life forward?
 
 <!-- Our brains think "I'm feeling emotions about this... it must be important!" Great algorithm in the ancient environment, terrible in the 21st century. -->
 
-I started to notice this in myself when observing how a "quick" funny Instagram reel affects me.
+I began to notice this in myself when observing how a "quick" funny Instagram reel affects me.
 
-Maybe I was having deep, useful thoughts about work and AI. That one damn reel completely reroutes my thinking towards useless nonsense.
+Maybe I was having deep, useful thoughts about work. One damn reel reroutes my entire brain.
 
-Maybe it's a reel of two Brazilian politicians arguing. In a blink I'm twenty minutes deep in a rabbithole about the politics of Brazil. In the worst cases, I'm sucked into a black hole of triviality for hours, the previous deep work completely lost.
+Say it's a video of two Brazilian politicians arguing. In a blink I'm twenty minutes deep down a rabbithole on the political history of Brazil. In the worst cases I'm sucked into a black hole of triviality for hours, the previous deep stuff just gone until I rediscover it days later like some lost archaeological treasure.
 
-When this happens, we say "I need to be more disciplined".
+We say "I need to be more disciplined"
 
-...which is what companies like Facebook and Netflix and Google want you to think.
+Which is really convenient for companies like Facebook and Netflix and Google.
 
 If the problem is discipline, it's a you problem. A personal failure.
 
 Yet these companies spend hundreds of millions on psychologists and engineers to construct tech that never sleeps, hunting your attention everywhere you're online.
 
-And it's not just social media. Amazon's reminding me to review a product, Linkedin's trying to shove feeds into my inbox, and everywhere sites "forget" that I unsubscribed from their marketing newsletter.
+This isn't a personal failure.
 
-It's not a personal failure. It's a systems failure, and we are outmatched. They have a powerful weapon, and we think we just need to work harder.
+It's a systems failure on a battlefield you're not even aware you're on. And you are outmatched.
 
-They've gotten inside our minds.
+You are facing an overwhelmingly powerful weapon, and you think you just need to work harder.
+
+They've gotten inside your mind.
 
 > The modern struggle:  
 >  
@@ -56,99 +70,14 @@ They've gotten inside our minds.
 >  
 > _— Almanack of Naval Ravikant_
 
-Conclusion
-----------
-In the next week or two I'll write up how I've built my own defense system.
+The next post will detail what I do to keep my mind safe online. Unsurprisingly, systems are involved.
 
 TODO SUBSCRIBE BUTTON
 
+-----------
 
+If this post was useful to you, here's more of my writing:
 
-<!------------------ IG POST DESCRIPTION --------------------->
-<!--
-TODO
-
-🐒 Full article at link in bio.
--->
-
-<!-------------------- IG STORY TEXT ------------------------->
-<!--
-TODO
--->
-
-
-
-But it doesn't have to be this way. The enemy's using tech, and we can too. If they've built offensive systems, we need defensive ones.
-
-### Defense Systems
-Unfortunately, it's not as simple as blanket blocking social media or Youtube or Reddit.
-
-I've tried, and life just gets harder. How do you preview a restaurant with no Instagram? How do you watch that insightful video your friend sent you with no Youtube?
-
-Which, of course, is also intentional. Draw you in with good, useful stuff and keep you on the platform with addicting emotional stuff.
-
-Insight: build a defense system that strips the bad while keeping the good.
-
-Examples:
-- Adblockers WHILE paying for content I like, because you should never teach yourself to consume without giving value back)
-- A Chrome extension & Android app to block the Instagram feed
-- A Chrome extension to block Youtube's addicting features (autoplay, sidebar, end-of-video related content)
-- 
-
-
-
-
-> TODO Naval quote
-
-
-
-
-For me, this looks like:
-
-- Adblockers 
-- Chrome 
-- 
-
-
-
-
-
-
-Meaning, you should be investing 
-
-With AI, we can finally program this. If I had shoddy thinking pre-2023, the best I could do was hire a coach available an hour per week for $100/hour. Or more.
-
-Now, I can create agents to check my thinking, expand my ideas, and help me find those non-obvious better moves.
-
-Those better moves lead to less waste ([negative leverage]), which we can invest in more reading, more systems, more improvements.
-
-That bitch is exponential.
-
-I captured the creed of 
-
-
-
-
-
-The most leveraged investment is our mind.
-
-Upgrade a belief, and you upgrade actions. 
-
-This shit gets exponential.
-
-
-TODO note about wallet
-
-TODO protecting ourself from nags (whatever shouts loudest becomes important)
-- E.g. Amazon wants you to review, Uber wants you to rate the driver, Vivo wants me to fill out a survey
-- Eisenhower urgency-importance matrix
-
-TODO using technology for defenses
-
-TODO need to protect your attention
-- Social media
-- Feeds are the devil: Linkedin, Instagram, Youtube. It _might_ be useful... but it's someone else controlling your attention and not you
-
-TODO recommendations are the devil (e.g. Substack, Youtube)
-
-TODO newsfeeds (e.g. HN), and 
+- [Inputs, Not Outputs](https://mieubrisse.substack.com/p/inputs-not-outputs)
+- [The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work)
+- [Shattered Glass And Negative Leverage](https://mieubrisse.substack.com/p/shattered-glass-and-negative-leverage)

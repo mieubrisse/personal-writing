@@ -18,7 +18,7 @@ TODO SUBSCRIBE BUTTON
 
 -----------
 
-If you liked this post, you might enjoy my other writing:
+If this post was useful to you, here's more of my writing:
 
 - POST1
 - POST2
