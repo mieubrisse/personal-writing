@@ -2,8 +2,8 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-The Psychic War
-===============
+Psychic War
+===========
 Fight for control of your mind
 
 ![](./images/image.png)
