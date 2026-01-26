@@ -2,7 +2,7 @@
 title: "Cybersecurity 101"
 ---
 
-_Written on 2021-11-14_
+![](./images/image.jpg)
 
 _Updated on 2023-04-03_
 

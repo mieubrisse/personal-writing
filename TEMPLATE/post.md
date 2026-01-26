@@ -2,22 +2,26 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-TODO TITLE TEXT
+TITLE TEXT
 ===============
-TODO SUBTITLE TEXT
+SUBTITLE TEXT
 
 ![](./images/image.png)
 
-Write all the things here
+TODO
 
 Conclusion
 ----------
 TODO Challenge/questions to the reader
 
-### Further Reading
-
-TODO link to previous writing
-
 TODO SUBSCRIBE BUTTON
+
+-----------
+
+If you liked this post, you might enjoy my other writing:
+
+- POST1
+- POST2
+- POST3
 
 _Thank you to TODO TODO TODO for reviewing drafts of this post._

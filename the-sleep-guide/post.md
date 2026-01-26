@@ -738,7 +738,7 @@ Sources
 
 
 <!---------------------- ONLY LINKS BELOW HERE ---------------------------------->
-[military-sleep-method]: https://sleepdoctor.com/how-sleep-works/military-sleep-method
+[military-sleep-method]: https://sleepdoctor.com/pages/health/military-sleep-method
 [earplugs]: https://www.amazon.com/dp/B0051U7W32
 [alarm-clock-app]: https://play.google.com/store/apps/details?id=com.urbandroid.sleep
 [blocksite-chrome-extension]: https://chromewebstore.google.com/detail/web-site-blocker/aoabjfoanlljmgnohepbkimcekolejjn
