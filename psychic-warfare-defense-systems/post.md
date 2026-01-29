@@ -37,7 +37,8 @@ These apps draw you in with genuinely valuable stuff, then keep you with addicti
 
 So we must eliminate that bad while keeping the good.
 
-CRUCIAL INSIGHT 
+CRUCIAL INSIGHT 4: **The internet is the problem**
+Take away the internet and your phone/computer are WAY more boring.
 
 CRUCIAL INSIGHT 4: **Fall in the right direction.**
 
@@ -46,15 +47,6 @@ If you're relying on discipline, you need to be perfect.
 You can do it right 99 out of 100 days, but one imperfect day can lead to a doomscrolling late night that tires you for the next day which makes you more likely to doomscroll the next day. Doing the right is hard, and doing the wrong thing is easy.
 
 Conversely, if you set up a bunch of systems you have to disable to doomscroll, it becomes hard to do the wrong thing and easy to do the right one.
-
-Streaming Services
-------------------
-I don't subscribe to Netflix or any other streaming service. This removes the option to watch, which forces me to figure out other ways to spend my time.
-
-Taking away the option is a marvelous way to keep control of your brain.
-
-App Blockers
-------------
 
 Site Blockers
 -------------
@@ -88,20 +80,78 @@ I then configure it with an exception so that my Instagram profile page and my X
 ### Passwords
 Both site blockers are secured with a password.
 
-That password is randomly generated, 30 characters long, and written down on a piece of paper in my apartment (not digital).
+That password is randomly generated, 30 characters long, and written down on a piece of paper in my apartment (not digital, so I can't copy-paste).
 
-If I want to make changes, this forces me to be at home and type in a long-ass password by hand.
+If I want to make changes, this forces me to be at home and type a long-ass password by hand.
+
+App Blockers
+------------
+I've determined that I want 8 hours of sleep.
+
+Meaning, I need to be in bed for 9 hours.
+
+Working backwards gives me a bedtime of 22:00.
+
+My [sleep guide](https://mieubrisse.substack.com/p/the-sleep-guide) taught me I need about 1.5h of downtime before bed to fall asleep easily.
+
+So I've configured my laptop and phone to block apps with a high risk of addiction after 20:30.
+
+On my Macbook, I use [Mac's Downtime feature](https://support.apple.com/guide/mac-help/manage-downtime-in-screen-time-mchl69510069/mac) to block everything except specific allowed apps which aren't going to wind me up.
+
+Some example whitelisted apps:
+- Terminal
+- Spotify
+- Claude
+- 1Password
+- Todoist
+- Notion
+
+Everything else gets blocked, including:
+- Chrome
+- Gmail
+- Whatsapp
+- iMessages
+
+On my Pixel, I do the equivalent using [AppBlock](https://appblock.app/). These apps get blocked after 20:30:
+- Instagram
+- Chrome
+- Whatsapp
+- Discord
+- Gmail
+
+I've also configured it so that Instagram only unblocks at 07:30 and Discord at 09:00, so there's no risk of me waking up and immediately going to them.
 
 Instagram
 ---------
-
-For me, the Feed and the Search page were the two biggest black holes.
+On Instagram itself, the Feed and the Search page were the two biggest Instagram black holes for me.
 
 On my Macbook, I've installed [Antigram](https://chromewebstore.google.com/detail/antigram-explore-reels-bl/igbheapdmolhhmmklmkfjjjncmhihfjh) to block both.
 
+On my phone I've installed [Distraction Free Instagram](https://www.distractionfreeapps.com/), and configured it to remove the Search grid and Feed as well.
+
+CAVEAT: Distraction Free Instagram is _amazing_, but it seems to be a side project by a dev out of Australia. You might need a VPN to get to the site, Instagram obviously doesn't like this, and the guy releases updates very rarely.
+
 Reddit
 ------
+In addition to being blocked after 20:30, I've installed [Old Reddit redirect](https://chromewebstore.google.com/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje) to make Reddit less dopaminergic.
 
+CAVEAT: Photos which users uploaded to Reddit's own photo-hosting service won't work with this. I consider it an acceptable tradeoff.
+
+Youtube
+-------
+Youtube is the biggest risk for me, so I've invested heavily in controlling it (beyond blocking it after 20:30).
+
+
+
+Tiktok
+------
+I don't use or have Tiktok, so this is easy.
+
+Streaming Services
+------------------
+I don't subscribe to Netflix or any other streaming service. This removes the option to watch, which forces me to figure out other ways to spend my time.
+
+Taking away the option is a marvelous way to keep control of your brain.
 
 
 
