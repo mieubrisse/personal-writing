@@ -8,24 +8,8 @@ Behind the zeitgeist, but catching up
 
 ![](./images/image.png)
 
-### The AI Work Factory
-Last year I published [The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work) and [Be Rembrandt](https://mieubrisse.substack.com/p/be-rembrandt).
-
-The writing process made me realize how inefficient my own writing, and general life TODO management was.
-
-It got me thinking: I should have an "AI work factory" that does the gruntwork of transforming my unique thoughts into actuality.
-
-I started it [here](https://mieubrisse.substack.com/p/building-the-factory), then wrote about tuning it [here](https://mieubrisse.substack.com/p/inputs-not-outputs)...
-
-...then did nothing else.
-
-Meanwhile, the world progressed.
-
-On January 1st, Steve Yegge [launched Gastown](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04).
-
-"Oh shit," realizes I, "AI work factories are becoming real!"
-
-### Background
+Catching Waves
+--------------
 In 2011 my girlfriend told me that her cousin's boyfriend was into this thing called "Bitcoin mining" and suggested I check it out.
 
 I Google'd it on my custom-built gaming PC with turbocharged GFX card running on college dorm-provided electricity... and thought "Mm seems complex; I don't get it." I dropped it.
@@ -40,7 +24,28 @@ We were so, so late and I was so, so wrong.
 
 Again.
 
-### The Wave
+So I started watching the surf reports.
+
+The Factory
+-----------
+Last year I published [The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work) and [Be Rembrandt](https://mieubrisse.substack.com/p/be-rembrandt).
+
+The writing process made me realize how inefficient my own writing, and general life TODO management was.
+
+It got me thinking: I should have an "AI work factory" that does the gruntwork of transforming my unique thoughts into actuality.
+
+I started it [here](https://mieubrisse.substack.com/p/building-the-factory), then wrote about tuning it [here](https://mieubrisse.substack.com/p/inputs-not-outputs)...
+
+...then did nothing else.
+
+Meanwhile, the world progressed.
+
+On January 1st, Steve Yegge [launched Gastown](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04). Surfer Steve, as I'd come to think of him — the man sees the waves before anyone else.
+
+"Oh shit," realizes I, "AI work factories are becoming real!"
+
+The Wave
+--------
 So when Yegge launched Gastown, I thought "This is my wave! I'm trained in programming, financially comfortable, have loads of free time, and I've been thinking about AI work factories!"
 
 Only, I thought Gastown was overly complex.
@@ -73,7 +78,8 @@ Enterprise-y things like permissioning, formal roles, a knowledge base, a work-t
 
 I think this is what [Yegge's hinting at with his Gas City teases](https://medium.com/@steve-yegge/steveys-birthday-blog-34f437139cb5).
 
-### Now What?
+The Death of the Lone Inventor
+------------------------------
 My temptation now: "Build and launch NOW, before anyone else gets there!"
 
 After all, a couple days is an eternity in this crazy modern world where you can get dozens of coding agents for a couple hundred bucks.
@@ -98,10 +104,12 @@ But if you take your novel idea and then quickly secret it away to build, you'll
 
 Therein lies the nettle for the ego: hiveminds are _powerful_.
 
-### Hiveminds
 The more people you have, the more Adjacent Possible you can traverse to stumble upon good ideas.
 
 And if your community members are themselves driving teams of Claudes exploring idea-space... Cambrian explosion.
+
+![](./images/TODO-inline-image.png)
+_TODO: image caption_
 
 If your ego leads you to secret yourself away to try and be The Guy, you're too slow.
 
@@ -115,7 +123,8 @@ Unsurprisingly...
 - Anthropic launched Claude `/insights` last week, filling some of the agent-training stuff I wanted AgenC to do.
 - Anthropic launched agent teams last Thursday, filling part of the agent orchestration gap that both AgenC and Gastown are attempting to fill
 
-### Ego Death
+Ego Death
+---------
 Where does all this leave me?
 
 I won't lie, I'm working through some stuff.
@@ -124,11 +133,15 @@ My ego wants me to be this grand famous entrepreneur at the head of a successful
 
 This desire led me to take my own path, over and over. Each time I end up too slow: building things that have already been done, thinking thoughts that have already been thought.
 
-I'm realizing I must surrender to the hive.
+When Yegge launched Gastown, I didn't install it. I read the blog post, thought "too complex," and went off to build my own thing.
 
-Give up being The Guy. Share the idea freely. Focus on relationship-building over product-building. Publish the code open-source.
+And the "agent enterprise" idea? Until now, I've been keeping it close to the chest because maybe _this_ would be the insight that would make me that desired successful entrepreneur.
 
-Especially in this modern world where each human is leveraged by dozens of Claudes (or more, when the agent orchestration finally gets solved)... 
+But I'm realizing I have to surrender to the hive.
+
+Give up being The Guy, focus on relationship-building over product-building... and publish this post.
+
+Especially in this modern world where each human is leveraged by dozens of Claudes (or more, when the agent orchestration finally gets solved)...
 
 It's the only way.
 
