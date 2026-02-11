@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "substack-api": {
+      "command": "npx",
+      "args": ["-y", "substack-mcp@latest"],
+      "env": {
+        "SUBSTACK_PUBLICATION_URL": "<YOUR_PUBLICATION_URL>",
+        "SUBSTACK_SESSION_TOKEN": "<YOUR_SESSION_TOKEN>",
+        "SUBSTACK_USER_ID": "<YOUR_USER_ID>"
+      }
+    }
+  }
+}
