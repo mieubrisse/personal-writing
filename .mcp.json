@@ -4,9 +4,9 @@
       "command": "npx",
       "args": ["-y", "substack-mcp@latest"],
       "env": {
-        "SUBSTACK_PUBLICATION_URL": "<YOUR_PUBLICATION_URL>",
-        "SUBSTACK_SESSION_TOKEN": "<YOUR_SESSION_TOKEN>",
-        "SUBSTACK_USER_ID": "<YOUR_USER_ID>"
+        "SUBSTACK_PUBLICATION_URL": "https://mieubrisse.substack.com/",
+        "SUBSTACK_SESSION_TOKEN": "$SUBSTACK_SESSION_TOKEN",
+        "SUBSTACK_USER_ID": "$SUBSTACK_USER_ID"
       }
     }
   }
