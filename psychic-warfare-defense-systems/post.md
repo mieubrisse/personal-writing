@@ -141,6 +141,25 @@ Youtube
 -------
 Youtube is the biggest risk for me, so I've invested heavily in controlling it (beyond blocking it after 20:30).
 
+Chrome Extensions:
+- Blocktube to shut down high-risk channels (Warcraft, Starcraft, Minecraft, Mr Beast, Daily Dose of Internet, etc.)
+- Clickbait Remover for Youtube: replaces thumbnails and text with non-clickbaity versions
+- Improve Youtube: TODO don't know
+- DF Youtube: dunno, but I suspect it removes side banner, suggested videos at the end
+
+Cookies
+-------
+- I still don't care about cookies
+- 
+
+General News Sites
+--------
+JustRead - remove all the dopaminergic crap designed to grab your attention
+- Warning: isn't perfect
+
+Linkedin
+--------
+LinkOff
 
 
 Tiktok
@@ -159,7 +178,9 @@ Taking away the option is a marvelous way to keep control of your brain.
 
 Emotional Component
 -------------------
-
+- My therapist: "Addictions always have an emotional component"
+- When I find myself wanting Youtube, internet entertainment, I try to journal
+    - 100% correlation
 
 
 
