@@ -182,6 +182,7 @@ The key word is _silently_. BlockTube doesn't show you a "this was blocked" plac
 
 **[Improve Youtube](https://chromewebstore.google.com/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd)** strips out the engagement machinery Youtube wraps around every video. I've configured it to:
 
+- Set the Youtube home page to empty - no video previews at all
 - Hide Shorts everywhere (home page, search results, sidebar)
 - Hide sponsored videos on the homepage
 - Hide the pause overlay that suggests more videos when you pause
