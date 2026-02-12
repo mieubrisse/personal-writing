@@ -8,6 +8,14 @@
         "SUBSTACK_SESSION_TOKEN": "$SUBSTACK_SESSION_TOKEN",
         "SUBSTACK_USER_ID": "$SUBSTACK_USER_ID"
       }
+    },
+    "substack-mcp-plus": {
+      "command": "npx",
+      "args": ["substack-mcp-plus"],
+      "env": {
+        "SUBSTACK_PUBLICATION_URL": "https://mieubrisse.substack.com",
+        "COOKIES_STRING": "$SUBSTACK_COOKIES_STRING"
+      }
     }
   }
 }
