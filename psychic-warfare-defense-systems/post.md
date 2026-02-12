@@ -242,6 +242,40 @@ This sounds extreme, but it's actually the easiest defense on this list. You can
 
 I still watch things - movies with friends, a show someone specifically recommends. I just don't have an infinite content buffet sitting in my living room whispering "just one more episode" at 11 PM.
 
+Phone
+-----
+Your phone is the most intimate computer you own. It's in your pocket all day, on your nightstand all night, and it's the first thing most people reach for when they wake up. It deserves its own section.
+
+### Charging location
+Whenever I don't need an alarm the next morning, I charge my phone outside the bedroom. This removes the "wake up and immediately scroll" reflex entirely - by the time I've gotten out of bed and walked to my phone, my brain is already online and making better decisions.
+
+When I _do_ need an alarm, I at least put the phone across the room. Same principle as the 30-character password: add friction between you and the bad decision.
+
+I'm planning to take this further by getting a dedicated old phone that does nothing but run my alarm app (I use a gentle wave wakeup). That way the phone can stay out of the bedroom permanently.
+
+### Notifications
+I've turned off all buzzing and sounds for my phone notifications, because my focus is intentional: _I_ choose where to set my attention, not some app.
+
+The only sounds I allow are:
+- Calendar event reminders, so I don't miss meetings
+- Ringing for incoming Whatsapp and phone calls
+
+Everything else is silent. No buzz for Instagram likes. No chime for new emails. No ding for Slack messages.
+
+Beyond sounds, I use the Pixel's notification settings to block notifications entirely from apps that have no business interrupting me. The Substack app, for example, should _never_ send me a push notification - I get those through email, on my own schedule. For apps that do need notifications but are prone to spamming (food delivery apps are terrible about this), I disable everything except the essential ones - like when my food is actually arriving.
+
+I also have no push notifications for Whatsapp, Instagram, or any messaging app. This is deliberate. I want to be _poll-based_, not _push-based_: I make the decision "I need to check this" rather than the app deciding "you need to check this right now."
+
+> 💡 I think of it as the **principle of least urgency**. It's _really_ not essential that I know about a new Substack post the instant it drops. Email is fine. So my urgency tiers look like this:
+>
+> Email → push notification without sound (I see it when I check) → push notification with sound → phone actually rings
+>
+> Very few things in life belong in that last tier.
+
+In the Pixel phone app I've also turned on "block spam calls," and it works great. One less source of interruption.
+
+This is all in line with my [Inputs, Not Outputs](./inputs-not-outputs) principle. If your personal factory is generating a lot of distraction and reducing your focus, you have to tune the settings on your factory to enable what you actually want - i.e. focus.
+
 The Emotional Component
 -----------------------
 All the systems above are necessary. But they're not sufficient.
@@ -287,5 +321,3 @@ If this post was useful to you, here's more of my writing:
 - [Psychic War](https://mieubrisse.substack.com/p/psychic-war) - the predecessor to this post, on the battle for your attention
 - [The Sleep Guide](https://mieubrisse.substack.com/p/the-sleep-guide) - the comprehensive guide to fixing your sleep
 - [The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work) - why you should stop spending time on things society already knows how to do
-
-_Thank you to [AUTHOR: names of draft reviewers] for reviewing drafts of this post._
