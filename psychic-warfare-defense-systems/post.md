@@ -3,26 +3,28 @@
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
 Psychic Warfare Defense Systems
-===============
+===============================
 Keeping your mind safe
 
 ![](./images/image.png)
 
-Last August I was lying on my couch at 3 AM, thumb scrolling through Facebook Shorts like a lab rat pressing the pellet lever.
+_This is a continuation of my previous post, [Psychic War](https://mieubrisse.substack.com/p/psychic-war)._
 
-I don't even _use_ Facebook.
+Last August I was lying on my couch at 3 AM, mindlessly scrolling through Facebook shorts.
 
-I'd opened the app to check one thing - a message from a friend - and sixty seconds later I was watching a man in rural India fry an egg on a shovel. Then a street fight in Philadelphia. Then a golden retriever that could "sing." Three hours gone. Not in a flow state. Not learning anything. Just... gone.
+I don't even use Facebook. But I'd sat down to check something quickly (I forget what) and got grabbed the algorithm. Hours later, there I was: flicking past 15-second videos of cute cats and lemurs who knows what else. I knew this was _wrong_... but I couldn't help myself.
 
-The next morning I felt so dumb. The familiar self-talk started: _You're weak. You know better. Just have more discipline._
+I was kicking myself the next morning. My Critical Voice booted up: _You know better. You fucked up AGAIN. Are you going to do this forever?_
 
-But then something clicked. I'd just written [a post about psychic warfare](https://mieubrisse.substack.com/p/psychic-war) - about how billion-dollar companies deploy armies of engineers and psychologists to capture your attention, and how framing it as a discipline problem is _exactly_ what those companies want you to think.
+But a lightbulb popped on this time: I remembered how NASA treats failures as system failures rather than personal failures.
 
-And here I was, doing it to myself.
+My doomscrolling wasn't a personal failure.
 
-This wasn't a personal failure. It was a systems failure. I had no defenses, so the robots got in.
+No, it was a systems failure. Facebook's hired teams of engineers and psychologists to build robots ready to pounce whenever I'm depleted (as I was then).
 
-That morning I started building the defense systems I'm going to share with you today.
+I had no defenses, and the robots got in. Which Facebook would just _love_ me to think is a personal failure.
+
+That next morning I started researching how to protect myself. Here's my system.
 
 Philosophy
 ----------
@@ -58,7 +60,7 @@ So we have to eliminate the bad while keeping the good. Surgical strikes, not ca
 
 This is a mindset shift, and it's the foundation for everything below. The internet is a _tool_ - for work, communication, learning, creating. It is not a leisure activity.
 
-Take away the internet and your phone is a camera, a calculator, and a flashlight. Remarkably boring. Most of what makes your devices addictive is the internet connection, and the robots on the other end of it.
+Take away the internet and your phone is a camera, a calculator, and a flashlight. Most of what makes your devices addictive is the internet connection.
 
 Once you internalize "the internet is not for entertainment," the defenses below stop feeling like deprivation and start feeling obvious. You're not blocking fun. You're removing something that was never supposed to be there.
 
@@ -101,7 +103,7 @@ The second are sites that are useful during the day but have a high risk of addi
 
 For these I use [Web Site Blocker](https://chromewebstore.google.com/detail/web-site-blocker/aoabjfoanlljmgnohepbkimcekolejjn) with time rules so that the above sites are blocked between 20:30 and 07:15.
 
-I then configure it with an exception so that my Instagram profile page and my X.com profile page are always allowed, thereby allowing me to produce content but not consume it.
+I then configure it with an exception so that my Instagram and X profile pages are always allowed, allowing me to produce content but not consume it.
 
 ### Passwords
 Both site blockers are secured with a password.
@@ -147,7 +149,7 @@ On my Pixel, I do the equivalent using [AppBlock](https://appblock.app/). These 
 
 I've also configured it so that Instagram only unblocks at 07:30 and Discord at 09:00, so there's no risk of me waking up and immediately going to them.
 
-> ⚠️ The gap between "app blocked" and "bedtime" is intentional. 20:30 to 22:00 gives me 90 minutes to wind down with music, reading, journaling, or just sitting around. This buffer is _critical_. If your apps are available right up to bedtime, you'll be doom-scrolling at 21:59 and wondering why you can't fall asleep.
+> ℹ️ The gap between "app blocked" and "bedtime" is intentional. 20:30 to 22:00 gives me 90 minutes to wind down with music, reading, journalling, or playing guitar. This buffer is critical. If your apps are available right up to bedtime, you'll be doomscrolling at 21:59 and wondering why you can't fall asleep.
 
 Per-App Defenses
 ----------------
@@ -156,11 +158,11 @@ Blocking apps on a schedule covers the most dangerous hours, but some apps need 
 ### Instagram
 The Feed and the Search page were the two biggest Instagram black holes for me.
 
-On my Macbook, I've installed [Antigram](https://chromewebstore.google.com/detail/antigram-explore-reels-bl/igbheapdmolhhmmklmkfjjjncmhihfjh) to block both.
+On my Macbook I've installed [Antigram](https://chromewebstore.google.com/detail/antigram-explore-reels-bl/igbheapdmolhhmmklmkfjjjncmhihfjh) to block both.
 
 On my phone I've installed [Distraction Free Instagram](https://www.distractionfreeapps.com/), and configured it to remove the Search grid and Feed as well. Instagram becomes just a messaging and posting tool - the useful parts, minus the black hole.
 
-> ⚠️ Distraction Free Instagram is _amazing_, but it seems to be a side project by a dev out of Australia. You might need a VPN to access the site, Instagram obviously doesn't like these tools existing, and the guy releases updates rarely. Worth it despite the jank.
+> ⚠️ Distraction Free Instagram is _amazing_, but it seems to be a side project by a dev out of Australia. You might need a VPN to access the site, Instagram obviously doesn't like these tools existing, and the guy releases updates rarely. But it's worth the trouble.
 
 ### Reddit
 In addition to being blocked after 20:30, I've installed [Old Reddit Redirect](https://chromewebstore.google.com/detail/old-reddit-redirect/dneaehbmnbhcippjikoajpoabadpodje) to force the old Reddit design. New Reddit is a dopamine slot machine. Old Reddit looks like it was designed by someone who thinks "user engagement" is a dirty word. Perfect.
@@ -168,7 +170,7 @@ In addition to being blocked after 20:30, I've installed [Old Reddit Redirect](h
 > ℹ️ Photos uploaded directly to Reddit's own image-hosting service won't load with Old Reddit. I consider it an acceptable tradeoff - less content to get sucked into.
 
 ### Youtube
-Youtube is the biggest risk for me, so I've invested heavily in controlling it (beyond blocking it after 20:30). I have _four_ Chrome extensions working together to defang it.
+Youtube is the biggest risk for me, so I've invested heavily in controlling it (beyond blocking it after 20:30). I have three Chrome extensions working together to defang it.
 
 **[BlockTube](https://chromewebstore.google.com/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai)** silently removes content that's likely to distract me. I've configured it to:
 
@@ -178,7 +180,7 @@ Youtube is the biggest risk for me, so I've invested heavily in controlling it (
 - Block Youtube's auto-generated playlists
 - Block specific channels by name and ID that are my kryptonite (MrBeast, Daily Dose of Internet, etc.)
 
-The key word is _silently_. BlockTube doesn't show you a "this was blocked" placeholder - it just removes the result like it never existed. You don't get tempted by the thing you can't see.
+Helpfully, BlockTube doesn't show you a "this was blocked" placeholder - it just removes the result like it never existed. You don't get tempted by what you can't see.
 
 **[Improve Youtube](https://chromewebstore.google.com/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd)** strips out the engagement machinery Youtube wraps around every video. I've configured it to:
 
@@ -186,17 +188,15 @@ The key word is _silently_. BlockTube doesn't show you a "this was blocked" plac
 - Hide Shorts everywhere (home page, search results, sidebar)
 - Hide sponsored videos on the homepage
 - Hide the pause overlay that suggests more videos when you pause
-- Hide animated thumbnails that auto-play to grab your eye
+- Hide thumbnail autoplay
 - Disable video playback on hover
-- Prevent short videos from auto-looping
-- Turn off Shorts "up next" autoplay
-- Force autoplay off globally
+- Block end-of-video autoplay
 - Hide the sidebar
 - Disable trailer autoplay on channel pages
 
-**[Clickbait Remover for Youtube](https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)** replaces thumbnails with an actual frame from the start of the video and normalizes titles to regular capitalization. Turns out videos are _way_ less tempting when the thumbnail isn't a guy making an exaggerated shocked face next to a red circle.
+**[Clickbait Remover for Youtube](https://chromewebstore.google.com/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip)** replaces thumbnails with an actual frame from the start of the video and normalizes titles to regular capitalization.
 
-**The combined effect is dramatic.** Here's what my Youtube looks like:
+Combined, these extensions work great. Here's what my Youtube looks like:
 
 My home page - no videos pushed to me at all:
 
@@ -210,69 +210,65 @@ Playing a video - no sidebar recommendations, no popup suggestions:
 
 ![_Just the video. That's it. That's all I came for._](images/youtube-video-playing.png)
 
-Youtube went from my biggest time sink to a search engine for specific videos I intentionally want to watch. The internet is not for entertainment - and now my Youtube reflects that.
+Youtube went from my biggest time sink to a search engine for specific videos I intentionally want to watch. The internet is not for entertainment, and now my Youtube reflects that.
 
 ### LinkedIn
-I've installed [LinkOff](https://chromewebstore.google.com/detail/linkoff-disconnect-from-l/liagghebhiciplbhejpnmcfbfadgnkpa) to remove the LinkedIn feed. LinkedIn is like if a motivational poster and a car salesman had a baby, and that baby learned to make content. I use it to manage my profile and respond to messages, not to read "thought leadership."
+I've installed [LinkOff](https://chromewebstore.google.com/detail/linkoff-disconnect-from-l/liagghebhiciplbhejpnmcfbfadgnkpa) to remove the LinkedIn feed. I can still navigate profiles, but don't get pushed anything.
 
 ### General news sites
-Most news sites are festooned with clickbait sidebars, autoplay videos, and "YOU MIGHT ALSO LIKE" sections engineered to keep you scrolling. I use [JustRead](https://chromewebstore.google.com/detail/justread-for-web-articles/dgmanlpmmkibanfdgjocnabmcaclkmod) to strip all of that away and present just the article text.
+Most news sites are covered with clickbait sidebars, autoplay videos, and "YOU MIGHT ALSO LIKE" sections engineered to keep you scrolling. I use [JustRead](https://chromewebstore.google.com/detail/justread-for-web-articles/dgmanlpmmkibanfdgjocnabmcaclkmod) to strip it all away and present just the article text.
 
-> ⚠️ JustRead isn't perfect - some sites break it. But most of the time it turns a dopamine minefield into a clean reading experience.
+> ⚠️ JustRead isn't perfect and it breaks with some sites. But it sure cuts down on the garbage.
 
 ### Surgical element removal
-Some sites are mostly fine but have one or two elements that act as rabbit hole on-ramps. For these I use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) to surgically remove specific page elements.
+Some sites are mostly fine but have one or two elements that act as rabbithole on-ramps. For these I use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) to surgically remove specific page elements.
 
-For example, Stack Overflow's "Related Questions" sidebar sounds helpful in theory. In practice, I'd click one tangentially-related question, then another, then another, and twenty minutes later I'm reading about a niche JavaScript edge case that has nothing to do with my original problem. So I used uBlock to remove it. The actual answer I came for is still there. The rabbit hole isn't.
-
-This is the "take the best, leave the rest" philosophy in its purest form - you're not blocking the site, you're just removing the specific piece that grabs you.
+For example, Stack Overflow's "Related Questions" sidebar was great at sending me down distracting tangents. I blocked it, and am calmer for it.
 
 ### Cookies
-Every website now asks if you accept cookies, with a giant green "ACCEPT ALL" button and a tiny grey "manage preferences" link that leads to seventeen submenus. [I Still Don't Care About Cookies](https://chromewebstore.google.com/detail/i-still-dont-care-about-c/edibdbjcniaddombaafbhiccbalhmcng) auto-dismisses all of these.
+Cookie popup spam is a significant source of distraction. To control this I use:
 
-This isn't directly a psychic defense, but every one of those popups is a decision that costs you a tiny sliver of attention. Death by a thousand paper cuts.
+[I Still Don't Care About Cookies](https://chromewebstore.google.com/detail/i-still-dont-care-about-c/edibdbjcniaddombaafbhiccbalhmcng) which accepts these for you, paired with Cookie AutoDelete to default clear website cookies for any site not on my whitelist.
+
+> ⚠️ Cookie AutoDelete isn't available on the Chrome extension store since Chrome's Manifest V3 change that took out huge swathes of the app store. I'm using a manually-installed version from [here](https://github.com/median-dxz/Cookie-AutoDelete-MV3/releases).
 
 ### Tiktok
-I don't use or have Tiktok, so this is easy. If you _do_ use it... I'd suggest starting with not using it.
+I don't use or have Tiktok because I think it's bad for me, so this is easy.
 
 ### Streaming services
-I don't subscribe to Netflix or any other streaming service.
-
-This sounds extreme, but it's actually the easiest defense on this list. You can't binge what you can't access. Taking away the option is a remarkably effective way to keep control of your brain, because there's nothing to resist.
-
-I still watch things - movies with friends, a show someone specifically recommends. I just don't have an infinite content buffet sitting in my living room whispering "just one more episode" at 11 PM.
+I don't subscribe to Netflix or any other streaming service. This is the same idea as "diet starts at the grocery store": what you allow in your house is what you'll consume. I don't want to spend my time binging shows, so I ensure not to have it available.
 
 Phone
 -----
-Your phone is the most intimate computer you own. It's in your pocket all day, on your nightstand all night, and it's the first thing most people reach for when they wake up. It deserves its own section.
-
 ### Charging location
-Whenever I don't need an alarm the next morning, I charge my phone outside the bedroom. This removes the "wake up and immediately scroll" reflex entirely - by the time I've gotten out of bed and walked to my phone, my brain is already online and making better decisions.
+Whenever I don't need an alarm the next morning, I charge my phone outside the bedroom. This removes the "wake up and immediately scroll" reflex entirely.
 
-When I _do_ need an alarm, I at least put the phone across the room. Same principle as the 30-character password: add friction between you and the bad decision.
+When I do need an alarm, I try to put the phone across the room. Same principle as the 30-character password: add friction between you and the bad decision.
 
-I'm planning to take this further by getting a dedicated old phone that does nothing but run my alarm app (I use a gentle wave wakeup). That way the phone can stay out of the bedroom permanently.
+I'm planning to take this further by getting a dedicated old phone that does nothing but run my alarm app (I use a gentle wave wakeup). That way my phone can stay out of the bedroom permanently.
 
 ### Notifications
-I've turned off all buzzing and sounds for my phone notifications, because my focus is intentional: _I_ choose where to set my attention, not some app.
+I've turned off all buzzing and sounds for my phone notifications, because my focus is intentional: _I_ choose where my attention goes, not some app.
 
 The only sounds I allow are:
 - Calendar event reminders, so I don't miss meetings
 - Ringing for incoming Whatsapp and phone calls
 
-Everything else is silent. No buzz for Instagram likes. No chime for new emails. No ding for Slack messages.
+Everything else is silent.
 
-Beyond sounds, I use the Pixel's notification settings to block notifications entirely from apps that have no business interrupting me. The Substack app, for example, should _never_ send me a push notification - I get those through email, on my own schedule. For apps that do need notifications but are prone to spamming (food delivery apps are terrible about this), I disable everything except the essential ones - like when my food is actually arriving.
+Beyond sounds, I use the Pixel's notification settings to block notifications entirely from apps that have no business interrupting me. The Substack app, for example, should never send me a push notification - I get those through email, on my own schedule.
+
+For apps that do need notifications but are prone to spamming (food delivery apps are terrible about this), I disable everything except the essential ones like when my food is actually arriving.
 
 I also have no push notifications for Whatsapp, Instagram, or any messaging app. This is deliberate. I want to be _poll-based_, not _push-based_: I make the decision "I need to check this" rather than the app deciding "you need to check this right now."
 
-> 💡 I think of it as the **principle of least urgency**. It's _really_ not essential that I know about a new Substack post the instant it drops. Email is fine. So my urgency tiers look like this:
+> 💡 I think of it as the **principle of least urgency**: apps should be configured to deliver notifications via the least urgent channel possible. It's really not essential that I know about a new Substack post the instant it drops. Email is fine. So my urgency tiers look like this:
 >
 > Email → push notification without sound (I see it when I check) → push notification with sound → phone actually rings
 >
 > Very few things in life belong in that last tier.
 
-In the Pixel phone app I've also turned on "block spam calls," and it works great. One less source of interruption.
+In the Pixel phone app I've also turned on "block spam calls," and it works great.
 
 This is all in line with my [Inputs, Not Outputs](./inputs-not-outputs) principle. If your personal factory is generating a lot of distraction and reducing your focus, you have to tune the settings on your factory to enable what you actually want - i.e. focus.
 
@@ -280,29 +276,30 @@ The Emotional Component
 -----------------------
 All the systems above are necessary. But they're not sufficient.
 
-My therapist told me something that changed how I think about this: "Addictions always have an emotional component."
+My therapist specializes in addiction, and once told me: "Addictions always have an emotional component."
 
-When I find myself with a strong desire to use the internet for "relaxation" - especially at night - I've started journaling about it instead. And I've found something startling.
+When I find myself with a strong desire to use the internet for "relaxation" - especially at night - I've started journaling instead.
 
-There is a 100% correlation.
+Turns out, I'm at a 100% correlation between "wanting to use the internet for entertainment" and "there's some negative something swimming in my semi-conscious, perhaps not even noticed."
 
-Every single time I've wanted to doomscroll, there's been something bubbling underneath the surface. Something I haven't fully acknowledged. Loneliness. Frustration. Feelings of inferiority. General stress and anxiety. Sometimes it's not even something I can name right away - just a vague sense of _not okay_ that I'm trying to numb.
+Loneliness. Frustration. Feelings of inferiority. General stress and anxiety.
+
+Sometimes it's not even something I can name right away - just a vague sense of _not okay_ that I'm trying to numb.
 
 The internet isn't the problem in those moments. It's the anesthetic.
 
-And like any anesthetic, it doesn't fix the underlying issue. It just delays your reckoning with it while adding a hangover on top.
+And like any anesthetic, it doesn't fix the underlying issue. It just delays the reckoning while adding a hangover on top.
 
-So now, when I feel that pull - that itch to open Youtube or scroll through something, _anything_ - I try to pause and ask: what am I actually feeling right now? The answer is always something worth paying attention to.
+So now, when I feel that pull - that itch to open Youtube or scroll through something, _anything_ - I try to pause and ask: what's actually going on right now? Naming and addressing that has been insightful.
 
-> 🤔 The defense systems in this post handle the robots. But the emotional component is about handling _yourself_. No amount of Chrome extensions will fix loneliness. The systems buy you time and space to notice what's actually going on, so you can address _that_ instead of numbing it.
+> 🤔 The defense systems in this post handle the robots. But the emotional component is about handling yourself. No amount of Chrome extensions will fix loneliness. The systems buy you time and space to notice what's actually going on, so you can address _that_ instead of numbing it.
 
-[AUTHOR: If you have a specific story about a time the journaling revealed something surprising underneath, it would be powerful here. E.g., "Last month I was desperate to watch Youtube and when I journaled about it I realized I was actually terrified about X."]
 
 Conclusion
 ----------
 The modern internet is a psychic battlefield, and most of us are walking around without armor.
 
-The defenses I've described aren't complicated. They're Chrome extensions, app blockers, and a piece of paper with a long password. None of this is rocket science. But it _is_ a system - and systems beat willpower every single time.
+The defenses I've described aren't complicated. They're Chrome extensions, app blockers, and a piece of paper with a long password. None of this is rocket science. But it _is_ a system - and systems beat willpower every single time. Consistency over intensity.
 
 A few questions to sit with:
 
@@ -319,5 +316,6 @@ TODO SUBSCRIBE BUTTON
 If this post was useful to you, here's more of my writing:
 
 - [Psychic War](https://mieubrisse.substack.com/p/psychic-war) - the predecessor to this post, on the battle for your attention
+- [Inputs, Not Outputs](https://mieubrisse.substack.com/p/inputs-not-outputs) - on concentrating your effort where it counts
 - [The Sleep Guide](https://mieubrisse.substack.com/p/the-sleep-guide) - the comprehensive guide to fixing your sleep
 - [The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work) - why you should stop spending time on things society already knows how to do
