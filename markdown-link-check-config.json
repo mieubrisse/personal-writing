@@ -12,6 +12,7 @@
         {"pattern":"^https://.*.reddit.com", "//": "Returns 403s, presumably to block bots"},
         {"pattern":"^https://.*.lesswrong.com", "//": "Returns consistent 429s (as of 2025-10-08)"},
         {"pattern":"^https://.*phishlabs.com/", "//": "Returns 403s, presumably because they don't want bots crawling their site"},
-        {"pattern":"^https://.*medium.com/", "//": "Returns 403s, presumably because they don't want bots crawling their site"}
+        {"pattern":"^https://.*medium.com/", "//": "Returns 403s, presumably because they don't want bots crawling their site"},
+        {"pattern":"^https://.*forbes.com/", "//": "Returns 403s, presumably because they don't want bots crawling their site"}
     ]
 }
