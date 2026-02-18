@@ -16,7 +16,7 @@ I don't even use Facebook. But I'd sat down to check something quickly (I forget
 
 I was kicking myself the next morning. My Critical Voice booted up: _You know better. You fucked up AGAIN. Are you going to do this forever?_
 
-But a lightbulb popped on this time: I remembered how NASA treats failures as system failures rather than personal failures.
+But this time a lightbulb popped on: I remembered how NASA treats failures as system failures rather than personal failures.
 
 My doomscrolling wasn't a personal failure.
 
