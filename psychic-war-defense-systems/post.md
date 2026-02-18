@@ -319,3 +319,5 @@ If this post was useful to you, here's more of my writing:
 - [Inputs, Not Outputs](https://mieubrisse.substack.com/p/inputs-not-outputs) - on concentrating your effort where it counts
 - [The Sleep Guide](https://mieubrisse.substack.com/p/the-sleep-guide) - the comprehensive guide to fixing your sleep
 - [The Goal Is Unique Work](https://mieubrisse.substack.com/p/the-goal-is-unique-work) - why you should stop spending time on things society already knows how to do
+
+<!-- CREATED WITH AI -->

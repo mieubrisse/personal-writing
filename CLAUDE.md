@@ -5,6 +5,23 @@ This repository contains all posts for [Kevin Today's Substack](https://mieubris
 
 ---
 
+AI Watermark — MANDATORY
+------------------------
+
+**When Claude writes or substantially contributes to any post, it MUST add the following HTML comment as the absolute last line of the file:**
+
+```
+<!-- CREATED WITH AI -->
+```
+
+This is not optional and must not be skipped. Place it after all other content — after the conclusion, after subscribe buttons, after IG post/story comment blocks, after everything. It is the final line.
+
+**Why this matters:** This watermark tracks which posts had meaningful AI contribution, so the author can audit where AI voice may have crept in and maintain the integrity of his own writing voice over time.
+
+Failure to add this watermark when applicable is a critical error.
+
+---
+
 The AI Work Factory
 -------------------
 
