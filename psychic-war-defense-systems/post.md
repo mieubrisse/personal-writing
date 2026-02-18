@@ -4,7 +4,7 @@
 
 Psychic War Defense Systems
 ===========================
-When robots are hunting your mind, you need machines of your own
+My defense systems to protect my mind from tech
 
 ![](./images/image.png)
 
