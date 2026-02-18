@@ -74,9 +74,60 @@ I heavily leverage automation to work with the repo. I can:
 - Dip into an existing post from anywhere on my machine with `pf query term` (`pf` = `post find`) from my [writing tools][writing-tools] to:
     1. Fuzzy-search for post directories containing `query term` across all branches, with the option to interactively refine the query
     1. Upon selection, switch to the branch containing the post and open `post.md` in Vim
-- Switch between branches using fuzzy queries with my [special `git checkout` alias](https://github.com/mieubrisse/dotfiles/blob/8039ceeeb868e74a3a52e7c4898a858edb9e23a2/bash/bash_aliases#L322-L371)
+- Switch between branches using fuzzy queries with my special `gco` alias:
+  ```bash
+  function gco {
+      if [ "${#}" -ne 0 ]; then
+          git checkout "${@}"
+          return "${?}"
+      fi
+
+      # Use fzf to select branches sorted by most recently committed
+      tmpfile=$(mktemp)
+      tmpfile_all="${tmpfile}.all"
+      tmpfile_sorted="${tmpfile}.sorted"
+      tmpfile_deduped="$(mktemp)"
+
+      # Generate triples of (full_branch_name,short_branch_name,timestamp) for local & remote branches
+      {
+          git for-each-ref --format='%(refname:short),%(refname:short),%(committerdate:unix)' refs/heads/
+
+          git for-each-ref --format='%(refname:short),%(committerdate:unix)' refs/remotes/ | \
+              awk -F',' '{
+                  full = $1;
+                  gsub(/^origin\//, "", $1);
+                  print full "," $1 "," $2
+              }'
+      } > "${tmpfile_all}"
+
+      sort -t',' -k2,2 -k3,3nr "${tmpfile_all}" > "${tmpfile_sorted}"
+
+      # Dedupe by short_name, preferring local branch over remote
+      awk -F',' '
+      {
+          full = $1; short = $2; ts = $3
+          is_remote = (full ~ /^origin\//)
+          if (!(short in seen) || (!is_remote && source[short] == "remote")) {
+              seen[short] = full "," short "," ts
+              source[short] = is_remote ? "remote" : "local"
+          }
+      }
+      END {
+          for (s in seen) print seen[s]
+      }
+  ' "${tmpfile_sorted}" > "${tmpfile_deduped}"
+
+      rm "${tmpfile_all}" "${tmpfile_sorted}"
+      sort -t',' -k3,3nr "${tmpfile_deduped}" | cut -d',' -f1 | fzf --bind='enter:become(git checkout {})'
+      rm "${tmpfile_deduped}"
+  }
+  ```
 - Switch between directories and posts using my [fuzzy open-anything ⌘-K for the terminal](https://github.com/mieubrisse/cmdk)
-- Commit without writing unnecessary characters using [my `gg` and `gcmm` Git commit conveniences](https://github.com/mieubrisse/dotfiles/blob/8039ceeeb868e74a3a52e7c4898a858edb9e23a2/bash/bash_aliases#L403-L404)
+- Commit without writing unnecessary characters using my `gg` and `gcm` Git commit conveniences:
+  ```bash
+  alias gcm="git commit -m"
+  alias gg="git commit -am"
+  ```
 
 The goal is painting, not surgery, and these tools let me drop into splashing ideas around within a second.
 
@@ -136,9 +187,7 @@ Notes:
 - The "IG POST DESCRIPTION" and "IG STORY TEXT" are more reminders to think about social; I often find that it's better to write the actual copy in Instagram because I can better feel how the text fits
 - h1 and h2 headers use the `=======` and `------` style rather than `#` and `##` because they're easier to visually distinguish
 
-I edit in Vim using [this config](https://github.com/mieubrisse/dotfiles/tree/master/nvim).
-
-Some fancy features of my Vim config:
+I edit in Vim. Some fancy features of my Vim config:
 
 - `\h=` will h1-ize lines, so calling it on:
   ```
@@ -149,7 +198,9 @@ Some fancy features of my Vim config:
   My h1 header
   ============
   ```
-  [.vimrc code here](https://github.com/mieubrisse/dotfiles/blob/8039ceeeb868e74a3a52e7c4898a858edb9e23a2/vim/vimrc#L402)
+  ```vim
+  nnoremap <Leader>h= "hyy"hpVr=
+  ```
 - `\h-` will h1-ize lines, so calling it on:
   ```
   My h2 header
@@ -159,7 +210,9 @@ Some fancy features of my Vim config:
   My h2 header
   ------------
   ```
-  [.vimrc code here](https://github.com/mieubrisse/dotfiles/blob/8039ceeeb868e74a3a52e7c4898a858edb9e23a2/vim/vimrc#L403)
+  ```vim
+  nnoremap <Leader>h- "hyy"hpVr-
+  ```
 - `\c` will open the Markdown in Chrome (more on that later)
 
 I try to let thoughts flow, resisting the urge to edit (though I often can't help myself).
@@ -257,8 +310,14 @@ I then preview what the file will look like in the browser using [this Chrome ex
 
 To open the file, I use either:
 
-- `\c` inside Vim ([.vimrc code](https://github.com/mieubrisse/dotfiles/blob/8039ceeeb868e74a3a52e7c4898a858edb9e23a2/vim/vimrc#L392-L395))
-- `chrome post.md` from the terminal ([.bashrc code](https://github.com/mieubrisse/dotfiles/blob/8039ceeeb868e74a3a52e7c4898a858edb9e23a2/bash/bash_aliases#L90-L112))
+- `\c` inside Vim:
+  ```vim
+  nnoremap <Leader>c :! open -a 'Google Chrome' "%"<CR><CR>
+  ```
+- `chrome post.md` from the terminal:
+  ```bash
+  alias chrome="open -a 'Google Chrome'"
+  ```
 
 I'll then edit and review until I'm happy with it.
 

@@ -29,7 +29,12 @@ As a professional engineer this frustrated me. So I invested in personal efficie
 - I invested in Vimium and custom search engines in Chrome, Raycast and Karabiner and keyboard shortcuts, all so I could drive my Mac without a mouse
 - I built a terminal replica of the "open anything, anywhere" ⌘-K shortcut of Slack, Notion, and Discord ([cmdk](https://github.com/mieubrisse/cmdk))
 - I built [a terminal-based Markdown notetaking app](https://github.com/mieubrisse/cli-journal) so I could write and retrieve at the speed of thought
-- I heavily customized my terminal experience ([my Bash dotfiles](https://github.com/mieubrisse/dotfiles/blob/master/bash/bash_aliases))
+- I heavily customized my terminal experience — for example:
+  ```bash
+  alias chrome="open -a 'Google Chrome'"
+  alias gcm="git commit -m"
+  alias gg="git commit -am"
+  ```
 
 For a while this was the best I could do. But then LLMs arrived.
 

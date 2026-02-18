@@ -270,7 +270,7 @@ I also have no push notifications for Whatsapp, Instagram, or any messaging app.
 
 In the Pixel phone app I've also turned on "block spam calls," and it works great.
 
-This is all in line with my [Inputs, Not Outputs](./inputs-not-outputs) principle. If your personal factory is generating a lot of distraction and reducing your focus, you have to tune the settings on your factory to enable what you actually want - i.e. focus.
+This is all in line with my [Inputs, Not Outputs](https://mieubrisse.substack.com/p/inputs-not-outputs) principle. If your personal factory is generating a lot of distraction and reducing your focus, you have to tune the settings on your factory to enable what you actually want - i.e. focus.
 
 The Emotional Component
 -----------------------
