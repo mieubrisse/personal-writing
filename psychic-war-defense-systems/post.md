@@ -182,7 +182,7 @@ Youtube is the biggest risk for me, so I've invested heavily in controlling it (
 
 Helpfully, BlockTube doesn't show you a "this was blocked" placeholder - it just removes the result like it never existed. You don't get tempted by what you can't see.
 
-**[Improve Youtube](https://chromewebstore.google.com/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd)** strips out the engagement machinery Youtube wraps around every video. I've configured it to:
+**[Improve Youtube](https://improvedtube.com/)** strips out the engagement machinery Youtube wraps around every video. I've configured it to:
 
 - Set the Youtube home page to empty - no video previews at all
 - Hide Shorts everywhere (home page, search results, sidebar)
