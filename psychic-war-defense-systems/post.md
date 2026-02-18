@@ -2,9 +2,9 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-Psychic Warfare Defense Systems
-===============================
-Keeping your mind safe
+Psychic War Defense Systems
+===========================
+When robots are hunting your mind, you need machines of your own
 
 ![](./images/image.png)
 
