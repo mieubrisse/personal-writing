@@ -4,6 +4,7 @@
 
 Life Is A Spiral
 ===============
+Life is not hurdles
 
 ![](./images/image.png)
 
