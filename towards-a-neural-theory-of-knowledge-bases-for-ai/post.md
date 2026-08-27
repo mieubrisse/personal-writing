@@ -2,13 +2,16 @@
 [TODO]: some-link
 <!----------------------- END REFERENCE LINKS BLOCK --------------------------------->
 
-TITLE TEXT
-===============
+Towards A Neural Theory Of Knowledge Bases For AI
+=================================================
 SUBTITLE TEXT
 
 ![](./images/image.png)
 
-TODO
+
+
+
+
 
 Conclusion
 ----------
